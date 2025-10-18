@@ -1,0 +1,7 @@
+{
+  "text": "",
+  "status": "error",
+  "error": "Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.",
+  "processing_time": 465.45781779289246,
+  "image": "27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001.png"
+}

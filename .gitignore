@@ -7,11 +7,15 @@ openrouter_api_key.txt
 **/config/*_key.txt
 **/config/api_*.txt
 
-# OCR Output Directories
+# OCR Output Directories (preprocessed images)
 ocr_ready/
-ocr_results/
 work/
 work_extract/
+
+# OCR Test Results (exclude test runs, keep production results)
+ocr_results/test_*/
+ocr_results/gemini_test/
+# Include: ocr_results/gemini_full/ (production OCR results)
 
 # Image Files (original scans - too large for git)
 *.png

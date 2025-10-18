@@ -1,0 +1,401 @@
+port_name,original_count,normalized_count,cleaned_count,total_occurrences,first_appears,notes
+A,3,3,0,3,original,removed as artifact
+A LARGE STOCK KEPT,1,1,1,1,original,
+ABERDEEN,124,0,0,124,original,removed as artifact
+ABERYSTWITH,25,0,0,25,original,removed as artifact
+ALBANY,27,0,0,27,original,removed as artifact
+ALBERT DOCKS,2,2,2,2,original,
+ALLOA,438,0,0,438,original,removed as artifact
+AND VIENNA,1,1,1,1,original,
+ANTWERP,12,0,0,12,original,removed as artifact
+ARBROATH,14,0,0,14,original,removed as artifact
+ARDROSSAN,20,0,0,20,original,removed as artifact
+ARRIVALS IN DUNDEE,3,3,3,3,original,
+AT AVONMOUTH,2,2,2,2,original,
+AT AVONMOUTH DOCKS,1,1,1,1,original,
+AT NEW ORLEANS,11,0,0,11,original,removed as artifact
+AVONMOUTH DOCK,3,3,3,3,original,
+AYR,49,0,0,49,original,removed as artifact
+Aberdeen,0,124,124,124,normalized,consolidated to parent city
+Aberystwith,0,25,25,25,normalized,consolidated to parent city
+Albany,0,27,28,28,"normalized, cleaned",consolidated to parent city
+Alloa,0,438,438,438,normalized,consolidated to parent city
+Antwerp,0,12,15,15,"normalized, cleaned",consolidated to parent city
+Arbroath,0,14,14,14,normalized,consolidated to parent city
+Ardrossan,0,20,20,20,normalized,consolidated to parent city
+Ayr,0,49,49,49,normalized,consolidated to parent city
+B.,0,0,1,1,cleaned,consolidated to parent city
+B. AND F. S. WHARF,1,1,0,1,original,removed as artifact
+BANFF,27,0,0,27,original,removed as artifact
+BARK MERCHANTS,1,1,1,1,original,
+BARKING CREEK,1,1,1,1,original,
+BARNARD'S,0,0,2,2,cleaned,consolidated to parent city
+BARNARD'S WHARF,2,2,0,2,original,removed as artifact
+BARNSTAPLE,13,0,0,13,original,removed as artifact
+BARROW,49,0,0,49,original,removed as artifact
+BARROWSTOUNESS,3,0,0,3,original,removed as artifact
+BEAUMARIS,23,0,0,23,original,removed as artifact
+BELFAST,265,265,265,265,original,
+BELL,0,0,2,2,cleaned,consolidated to parent city
+BELL WHARF,2,2,0,2,original,removed as artifact
+BERWICK,20,0,0,20,original,removed as artifact
+BIDEFORD,1,0,0,1,original,removed as artifact
+BILLS OF SALE,1,1,0,1,original,removed as artifact
+BO'NESS,287,287,294,294,"original, cleaned",consolidated to parent city
+BONESS,5,5,5,5,original,
+BORROWSTONESS,16,0,0,16,original,removed as artifact
+BORROWSTOUNESS,17,0,0,17,original,removed as artifact
+BORROWSTOUNNESS,594,0,0,594,original,removed as artifact
+BORROWSTOWNESS,1,0,0,1,original,removed as artifact
+BORROWSTOWNNESS,2,0,0,2,original,removed as artifact
+BOSTON,52,0,0,52,original,removed as artifact
+BREWER'S QUAY,6,6,6,6,original,
+BRIDGEWATER,1,0,0,1,original,removed as artifact
+BRIDGWATER,46,0,0,46,original,removed as artifact
+BRISTOL,595,0,0,595,original,removed as artifact
+BURT'S,0,0,22,22,cleaned,consolidated to parent city
+BURT'S WHARF,22,22,0,22,original,removed as artifact
+BUTLER'S,0,0,1,1,cleaned,consolidated to parent city
+BUTLER'S WHARF,1,1,0,1,original,removed as artifact
+BY COMMERCIAL DOCKS,1,1,1,1,original,
+BY ROYAL ALBERT DOCK,1,1,1,1,original,
+BY SURREY COMMERCIAL DOCKS,4,4,4,4,original,
+BY VICTORIA DOCKS,1,1,1,1,original,
+Banff,0,27,27,27,normalized,consolidated to parent city
+Barnstaple,0,13,13,13,normalized,consolidated to parent city
+Barrow,0,49,49,49,normalized,consolidated to parent city
+Beaumaris,0,23,23,23,normalized,consolidated to parent city
+Berwick,0,20,20,20,normalized,consolidated to parent city
+Borrowstounness,0,633,634,634,"normalized, cleaned",consolidated to parent city
+Boston,0,52,52,52,normalized,consolidated to parent city
+Bridgwater,0,47,47,47,normalized,consolidated to parent city
+Bristol,0,595,629,629,"normalized, cleaned",consolidated to parent city
+CAERNARVON,3,0,0,3,original,removed as artifact
+CARDIFF,1606,0,0,1606,original,removed as artifact
+CARDIGAN,7,0,0,7,original,removed as artifact
+CARLISLE,2,0,0,2,original,removed as artifact
+CARNARVON,23,0,0,23,original,removed as artifact
+CASTLETOWN,3,0,0,3,original,removed as artifact
+CHARLESTOWN,133,0,0,133,original,removed as artifact
+CHARLTON,0,0,3,3,cleaned,consolidated to parent city
+CHARLTON BUOYS,3,3,0,3,original,removed as artifact
+CHESTER,54,0,0,54,original,removed as artifact
+CHICAGO,1,1,1,1,original,
+CHURCH HOLE,1,1,1,1,original,
+CLIFF'S CREEK,2,2,2,2,original,
+CLIFFE CREEK,5,5,5,5,original,
+COLCHESTER,23,0,0,23,original,removed as artifact
+COLERAINE,4,4,4,4,original,
+COMMERCIAL DOCKS,44,44,46,46,"original, cleaned",consolidated to parent city
+CORK,55,55,55,55,original,
+COTTON'S,0,0,5,5,cleaned,consolidated to parent city
+COTTON'S WHARF,5,5,0,5,original,removed as artifact
+COWES,11,0,0,11,original,removed as artifact
+CUSTOM HOUSE,1,1,1,1,original,
+Cardiff,0,1606,1638,1638,"normalized, cleaned",consolidated to parent city
+Cardigan,0,7,7,7,normalized,consolidated to parent city
+Carlisle,0,2,2,2,normalized,consolidated to parent city
+Carnavon,0,26,26,26,normalized,consolidated to parent city
+Castletown,0,3,3,3,normalized,consolidated to parent city
+Charleston,0,133,133,133,normalized,consolidated to parent city
+Chester,0,54,54,54,normalized,consolidated to parent city
+Colchester,0,23,23,23,normalized,consolidated to parent city
+Cowes,0,11,11,11,normalized,consolidated to parent city
+DARTMOUTH,8,8,8,8,original,
+DEADMAN,0,0,1,1,cleaned,consolidated to parent city
+DEADMAN DOCK BUOYS,1,1,0,1,original,removed as artifact
+DEADMAN'S,0,0,4,4,cleaned,consolidated to parent city
+DEADMAN'S BUOYS,2,2,0,2,original,removed as artifact
+DEADMAN'S DOCK,2,2,2,2,original,
+DEADMAN'S DOCK BUOYS,2,2,0,2,original,removed as artifact
+DEADMAN'S DOCKS BROKERAGE,1,1,1,1,original,
+DEAL,2,0,0,2,original,removed as artifact
+DEPTFORD,34,34,38,38,"original, cleaned",consolidated to parent city
+DEPTFORD BUOYS,4,4,0,4,original,removed as artifact
+DIVIDENDS,1,1,0,1,original,removed as artifact
+DOUGLAS,13,0,0,13,original,removed as artifact
+DOUGLAS (ISLE OF MAN),4,4,4,4,original,
+DOVER,32,0,0,32,original,removed as artifact
+DROGHEDA,5,5,5,5,original,
+DUBLIN,122,122,125,125,"original, cleaned",consolidated to parent city
+DUNBAR,4,4,4,4,original,
+DUNDALK,40,40,44,44,"original, cleaned",consolidated to parent city
+DUNDEE,1017,0,0,1017,original,removed as artifact
+Dal,0,2,2,2,normalized,consolidated to parent city
+Douglas,0,13,13,13,normalized,consolidated to parent city
+Dover,0,32,32,32,normalized,consolidated to parent city
+Dundee,0,1017,1036,1036,"normalized, cleaned",consolidated to parent city
+EAST INDIA DOCKS,3,3,3,3,original,
+ENGLAND AND WALES,15,15,15,15,original,
+ERITH,1,1,1,1,original,
+ERRATA,20,20,0,20,original,removed as artifact
+ERRATUM,4,4,4,4,original,
+EXETER,24,0,0,24,original,removed as artifact
+Exeter,0,24,24,24,normalized,consolidated to parent city
+FAILURES AND ARRANGEMENTS,8,8,0,8,original,removed as artifact
+FALMOUTH,16,0,0,16,original,removed as artifact
+FAVERSHAM,28,0,0,28,original,removed as artifact
+FISHEROW,1,1,1,1,original,
+FISHERROWS,4,4,4,4,original,
+FLEETWOOD,56,0,0,56,original,removed as artifact
+FLETCHER'S,0,0,1,1,cleaned,consolidated to parent city
+FLETCHER'S BUOYS,1,1,0,1,original,removed as artifact
+FOLKESTONE,18,0,0,18,original,removed as artifact
+FORT GLASGOW,1,1,1,1,original,
+FOWEY,30,0,0,30,original,removed as artifact
+FRASERBURGH,46,0,0,46,original,removed as artifact
+FREIGHT AND SHORT DELIVERY,1,1,1,1,original,
+FREIGHTS,15,15,0,15,original,removed as artifact
+FRESH,0,0,2,2,cleaned,consolidated to parent city
+FRESH WHARF,2,2,0,2,original,removed as artifact
+Falmouth,0,16,16,16,normalized,consolidated to parent city
+Faversham,0,28,28,28,normalized,consolidated to parent city
+Fleetwood,0,56,56,56,normalized,consolidated to parent city
+Folkestone,0,18,18,18,normalized,consolidated to parent city
+Fowey,0,30,30,30,normalized,consolidated to parent city
+Fraserburgh,0,46,46,46,normalized,consolidated to parent city
+GALLEON'S,0,0,1,1,cleaned,consolidated to parent city
+GALLEON'S BUOYS,1,1,0,1,original,removed as artifact
+GALWAY,15,15,15,15,original,
+GLASGOW,662,0,0,662,original,removed as artifact
+GLOUCESTER,324,0,0,324,original,removed as artifact
+GOOLE,132,0,0,132,original,removed as artifact
+GOVERNMENT,0,0,1,1,cleaned,consolidated to parent city
+GOVERNMENT DOCK BUOYS,1,1,0,1,original,removed as artifact
+GRANGE MOUTH,1,0,0,1,original,removed as artifact
+GRANGEMOUTH,989,0,0,989,original,removed as artifact
+GRANTON,379,0,0,379,original,removed as artifact
+GRANVILLE DOCKS,1,1,1,1,original,
+GRAVESEND,7,7,7,7,original,
+GRAYS,8,8,8,8,original,
+GREAT YARMOUTH,99,99,117,117,"original, cleaned",consolidated to parent city
+GREENHITHE,13,13,13,13,original,
+GREENOCK,264,0,0,264,original,removed as artifact
+GREENWICH,1,1,1,1,original,
+GRENOCK,3,0,0,3,original,removed as artifact
+GRIMSBY,886,0,0,886,original,removed as artifact
+Glasglow,0,662,671,671,"normalized, cleaned",consolidated to parent city
+Gloucester,0,324,364,364,"normalized, cleaned",consolidated to parent city
+Goole,0,132,132,132,normalized,consolidated to parent city
+Grangemouth,0,990,1009,1009,"normalized, cleaned",consolidated to parent city
+Granton,0,379,380,380,"normalized, cleaned",consolidated to parent city
+Greenock,0,267,269,269,"normalized, cleaned",consolidated to parent city
+Grimsby,0,886,889,889,"normalized, cleaned",consolidated to parent city
+HANOVER HOLE,11,11,11,11,original,
+HARTLEPOOL,4,4,4,4,original,
+HARTLEPOOL (WEST),1013,0,0,1013,original,removed as artifact
+HARWICH,57,0,0,57,original,removed as artifact
+HAVRE,2,0,0,2,original,removed as artifact
+HAYLE,1,1,1,1,original,
+HORS LEYDOWN,1,1,1,1,original,
+HORSELYDOWN,1,1,1,1,original,
+HORSLEYDOWN,1,1,1,1,original,
+HULL,2526,0,0,2526,original,removed as artifact
+Hartlepool (West),0,1014,1017,1017,"normalized, cleaned",consolidated to parent city
+Harwich,0,57,59,59,"normalized, cleaned",consolidated to parent city
+Havre,0,2,2,2,normalized,consolidated to parent city
+Hull,0,2526,2547,2547,"normalized, cleaned",consolidated to parent city
+IMPORTS,3,3,0,3,original,removed as artifact
+INVERKEITHING,32,32,32,32,original,
+INVERNESS,41,0,0,41,original,removed as artifact
+IPSWICH,39,0,0,39,original,removed as artifact
+Idefjord,0,1,1,1,normalized,consolidated to parent city
+Inverness,0,41,41,41,normalized,consolidated to parent city
+Ipswich,0,39,39,39,normalized,consolidated to parent city
+JOSEPH GARDNER & SONS,2,2,2,2,original,
+KATHARINE'S DOCK,1,1,1,1,original,
+KING'S LYNN,52,52,52,52,original,
+KIRKCALDY,93,0,0,93,original,removed as artifact
+KIRKWALL,16,16,16,16,original,
+Kirkcaldy,0,93,93,93,normalized,consolidated to parent city
+LANCASTER,26,0,0,26,original,removed as artifact
+LEITH,948,0,0,948,original,removed as artifact
+LERWICK,25,0,0,25,original,removed as artifact
+LIMERICK,41,41,41,41,original,
+LIQUIDATIONS,11,11,0,11,original,removed as artifact
+LITTLEHAMPTON,34,0,0,34,original,removed as artifact
+LIVERPOOL,3463,0,0,3463,original,removed as artifact
+LLANELLY,108,0,0,108,original,removed as artifact
+LONDON,3336,0,0,3336,original,removed as artifact
+LONDON DOCK DELIVERIES,3,3,3,3,original,
+LONDON SALES,1,1,1,1,original,
+LONDONDERRY,31,31,31,31,original,
+LONG REACH,1,1,1,1,original,
+LOWER HOPE,1,1,1,1,original,
+LOWESTOFT,60,0,0,60,original,removed as artifact
+LYNN,193,0,0,193,original,removed as artifact
+Lancaster,0,26,26,26,normalized,consolidated to parent city
+Leith,0,948,957,957,"normalized, cleaned",consolidated to parent city
+Lerwick,0,25,25,25,normalized,consolidated to parent city
+Littlehampton,0,34,34,34,normalized,consolidated to parent city
+Liverpool,0,3463,3505,3505,"normalized, cleaned",consolidated to parent city
+Llanelly,0,108,109,109,"normalized, cleaned",consolidated to parent city
+London,0,3336,3368,3368,"normalized, cleaned",consolidated to parent city
+Lowestoft,0,60,60,60,normalized,consolidated to parent city
+Lynn,0,193,193,193,normalized,consolidated to parent city
+MALDON,14,14,14,14,original,
+MANCHESTER,6,6,6,6,original,
+MARK,0,0,1,1,cleaned,consolidated to parent city
+MARK BROWN'S WHARF,1,1,0,1,original,removed as artifact
+MARYPORT,32,0,0,32,original,removed as artifact
+MIDDLESBRO',5,5,5,5,original,
+MIDDLESBROUGH,215,0,0,215,original,removed as artifact
+MILFORD,22,0,0,22,original,removed as artifact
+MILL HOLE,6,6,6,6,original,
+MILLWALL,18,18,19,19,"original, cleaned",consolidated to parent city
+MILLWALL DOCKS,466,466,471,471,"original, cleaned",consolidated to parent city
+MILLWALL STAIRS,1,1,0,1,original,removed as artifact
+MILWALL,2,2,2,2,original,
+MONTROSE,91,0,0,91,original,removed as artifact
+MORRISONSHAVEN,18,18,18,18,original,
+Maryport,0,32,32,32,normalized,consolidated to parent city
+Middlesbrough,0,215,215,215,normalized,consolidated to parent city
+Milford,0,22,22,22,normalized,consolidated to parent city
+Montrose,0,91,91,91,normalized,consolidated to parent city
+NEWCASTLE,26,0,0,26,original,removed as artifact
+NEWHAVEN,103,0,0,103,original,removed as artifact
+NEWPORT,678,0,0,678,original,removed as artifact
+NEWPORT (MON.),105,105,105,105,original,
+NEWRY,25,25,25,25,original,
+NORTH ALLOA,1,1,1,1,original,
+NORTHFLEET,24,24,24,24,original,
+New Orleans,0,11,11,11,normalized,consolidated to parent city
+Newcastle,0,26,30,30,"normalized, cleaned",consolidated to parent city
+Newhaven,0,103,103,103,normalized,consolidated to parent city
+Newport,0,678,691,691,"normalized, cleaned",consolidated to parent city
+OPENING OF A NEW TIMBER YARD,1,1,1,1,original,
+OTHER,0,0,1,1,cleaned,consolidated to parent city
+OTHER DOCKS,3,3,3,3,original,
+OTHER DOCKS AND WHARFS,1,1,0,1,original,removed as artifact
+OTHER DOCKS AND WHARVES,117,117,117,117,original,
+PADSTOW,3,3,3,3,original,
+PEART'S BLUE OR TIMBER MARKING INK,1,1,1,1,original,
+PENZANCE,19,0,0,19,original,removed as artifact
+PERTH,17,0,0,17,original,removed as artifact
+PETERHEAD,60,0,0,60,original,removed as artifact
+PITWOOD,350,350,0,350,original,removed as artifact
+PLYMOUTH,240,0,0,240,original,removed as artifact
+POOL (WEST),29,29,29,29,original,
+POOLE,236,0,0,236,original,removed as artifact
+PORT GLASGOW,34,34,34,34,original,
+PORTSMOUTH,69,0,0,69,original,removed as artifact
+PRINCE,0,0,8,8,cleaned,consolidated to parent city
+PRINCE REGENT'S CANAL DOCKS,1,1,1,1,original,
+PRINCE REGENT'S WHARF,8,8,0,8,original,removed as artifact
+PRINCE'S,0,0,1,1,cleaned,consolidated to parent city
+PRINCE'S WHARF,1,1,0,1,original,removed as artifact
+Penzance,0,19,19,19,normalized,consolidated to parent city
+Perth,0,17,17,17,normalized,consolidated to parent city
+Peterhead,0,60,60,60,normalized,consolidated to parent city
+Plymouth,0,240,240,240,normalized,consolidated to parent city
+Poole,0,236,257,257,"normalized, cleaned",consolidated to parent city
+Portsmouth,0,69,69,69,normalized,consolidated to parent city
+QUEBEC,4,0,0,4,original,removed as artifact
+QUEBEC DOCKS,1,1,1,1,original,
+QUEENBORO',1,1,1,1,original,
+QUEENBOROUGH,15,0,0,15,original,removed as artifact
+QUEENBOROUGH PIER,3,3,3,3,original,
+Quebec,0,4,12,12,"normalized, cleaned",consolidated to parent city
+Queenborough,0,15,15,15,normalized,consolidated to parent city
+R. M,3,3,3,3,original,
+RAMSEY,11,0,0,11,original,removed as artifact
+RAMSEY (ISLE OF MAN),2,2,2,2,original,
+RAMSGATE,20,0,0,20,original,removed as artifact
+READING,8,8,10,10,"original, cleaned",consolidated to parent city
+REGENT'S,0,0,2,2,cleaned,consolidated to parent city
+REGENT'S CANAL,1,1,1,1,original,
+REGENT'S CANAL DOCK,30,30,30,30,original,
+REGENT'S CANAL DOCKS,99,99,99,99,original,
+REGENT'S WHARF,2,2,0,2,original,removed as artifact
+ROCHESTER,100,0,0,100,original,removed as artifact
+ROTHERHITHE,4,4,4,4,original,
+ROYAL ALBERT DOCK,8,8,8,8,original,
+ROYAL ALBERT DOCKS,46,46,46,46,original,
+ROYAL VICTORIA DOCKS,8,8,8,8,original,
+RTLEPOOL (WEST),1,0,0,1,original,removed as artifact
+RUNCORN,1,1,1,1,original,
+RYE,4,4,4,4,original,
+Ramsey,0,11,11,11,normalized,consolidated to parent city
+Ramsgate,0,20,20,20,normalized,consolidated to parent city
+Rochester,0,100,100,100,normalized,consolidated to parent city
+SCARBOROUGH,19,0,0,19,original,removed as artifact
+SCOTLAND,3,3,3,3,original,
+SHEERNESS,2,2,2,2,original,
+SHEERNESS DOCKYARD,1,1,1,1,original,
+SHOREHAM,67,0,0,67,original,removed as artifact
+SILVERTOWN,5,5,7,7,"original, cleaned",consolidated to parent city
+SILVERTOWN WHARF,2,2,0,2,original,removed as artifact
+SKIBBEREEN,5,5,5,5,original,
+SLIGO,14,14,14,14,original,
+SOUTH ALLOA,43,43,48,48,"original, cleaned",consolidated to parent city
+SOUTH QUEENSFERRY,6,6,6,6,original,
+SOUTHAMPTON,315,0,0,315,original,removed as artifact
+ST.,0,0,1,1,cleaned,consolidated to parent city
+ST. DAVID'S,1,1,1,1,original,
+ST. KATHARINE'S DOCK,4,4,4,4,original,
+ST. KATHARINE'S DOCKS,4,4,4,4,original,
+ST. KATHARINE'S WHARF,1,1,0,1,original,removed as artifact
+STOCKTON,59,0,0,59,original,removed as artifact
+STONE,0,0,2,2,cleaned,consolidated to parent city
+STONE STAIRS,2,2,0,2,original,removed as artifact
+STORNOWAY,11,0,0,11,original,removed as artifact
+STRANRAER,4,4,4,4,original,
+SUNDERLAND,2605,0,0,2605,original,removed as artifact
+SURREY COMMERCIAL DOCKS,2001,2001,2020,2020,"original, cleaned",consolidated to parent city
+SURREY DOCKS,8,8,8,8,original,
+SWANSEA,629,0,0,629,original,removed as artifact
+SWANWICH,14,14,14,14,original,
+Scarborough,0,19,19,19,normalized,consolidated to parent city
+Shoreham,0,67,67,67,normalized,consolidated to parent city
+Southampton,0,315,325,325,"normalized, cleaned",consolidated to parent city
+Stockton,0,59,59,59,normalized,consolidated to parent city
+Stornoway,0,11,11,11,normalized,consolidated to parent city
+Sunderland,0,2605,2622,2622,"normalized, cleaned",consolidated to parent city
+Swansea,0,629,660,660,"normalized, cleaned",consolidated to parent city
+TEIGNMOUTH,22,0,0,22,original,removed as artifact
+THE MISSISSIPPI VALLEY,9,9,9,9,original,
+THE SAGINAW VALLEY,1,1,1,1,original,
+THE TIMBER TRADES JOURNAL,210,210,0,210,original,removed as artifact
+THE TYNE,270,270,275,275,"original, cleaned",consolidated to parent city
+THOMAS ROEBUCK & COMPANY (LIMITED),2,2,2,2,original,
+TILBURY,2,2,2,2,original,
+TILBURY DOCK,1,1,1,1,original,
+TILBURY DOCKS,17,17,17,17,original,
+TRADE ITEMS,3,3,0,3,original,removed as artifact
+TRALEE,10,10,10,10,original,
+TROON,24,0,0,24,original,removed as artifact
+TRURO,40,0,0,40,original,removed as artifact
+TUNNEL PIER,1,1,1,1,original,
+TYNE,1423,0,0,1423,original,removed as artifact
+Teignmouth,0,22,22,22,normalized,consolidated to parent city
+Troon,0,24,24,24,normalized,consolidated to parent city
+Truro,0,40,40,40,normalized,consolidated to parent city
+Tyne,0,1423,1437,1437,"normalized, cleaned",consolidated to parent city
+VICTORIA DOCK,6,6,6,6,original,
+VICTORIA DOCKS,141,141,141,141,original,
+WATERFORD,29,29,29,29,original,
+WEST HARTLEPOOL,1266,1266,1276,1276,"original, cleaned",consolidated to parent city
+WEST INDIA DOCKS,22,22,22,22,original,
+WESTPORT,3,3,3,3,original,
+WEXFORD,10,10,10,10,original,
+WEYMOUTH,11,0,0,11,original,removed as artifact
+WHITBY,12,0,0,12,original,removed as artifact
+WHITEHAVEN,39,0,0,39,original,removed as artifact
+WICK,68,0,0,68,original,removed as artifact
+WIGTOWN,1,1,1,1,original,
+WISBEACH,1,0,0,1,original,removed as artifact
+WISBECH,193,0,0,193,original,removed as artifact
+WISPECH,1,0,0,1,original,removed as artifact
+WOODBRIDGE,2,2,2,2,original,
+WOOLWICH,11,11,11,11,original,
+WORKINGTON,1,0,0,1,original,removed as artifact
+Weymouth,0,11,11,11,normalized,consolidated to parent city
+Whitby,0,12,12,12,normalized,consolidated to parent city
+Whitehaven,0,39,39,39,normalized,consolidated to parent city
+Wick,0,68,68,68,normalized,consolidated to parent city
+Wisbech,0,195,195,195,normalized,consolidated to parent city
+Workington,0,1,1,1,normalized,consolidated to parent city
+Y COMMERCIAL DOCKS,2,2,2,2,original,
+YARMOUTH,200,0,0,200,original,removed as artifact
+YOUGHAL,2,2,2,2,original,
+Yarmouth,0,200,221,221,"normalized, cleaned",consolidated to parent city

@@ -1,0 +1,288 @@
+port_type,original_port,ship_count,best_match_canonical,similarity_score,normalization_tier,year_range,action,map_to_port,notes,web_search_query
+=== INSTRUCTIONS ===,Fill in ACTION column,,Options:,ACCEPT = accept as-is,MAP = map to canonical,ERROR = mark as error,<-- Fill this,"<-- If MAP, specify port here",Optional notes,Copy this to browser
+origin,Oresund,1409,Porsgrund,0.750,fuzzy_low,1885-1885,ACCEPT,,Øresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
+origin,Memel,713,,,unmapped,1874-1888,MAP,Klaipeda,Auto-mapped (known variant),Memel timber port 1880s
+origin,Gefle,662,,,unmapped,1874-1888,,,,Gefle timber port 1880s
+origin,Archangel,558,Arkhangelsk,0.800,fuzzy_low,1874-1887,MAP,Arkhangelsk,Auto-mapped (known variant),Archangel timber port 1880s
+origin,Dram,228,Durham,0.800,fuzzy_low,1874-1887,MAP,Drammen,Auto-mapped (known variant),Dram timber port 1880s
+origin,Redon,188,,,unmapped,1877-1887,,,,Redon timber port 1880s
+origin,Hennebont,156,,,unmapped,1877-1887,,,,Hennebont timber port 1880s
+origin,Auray,107,,,unmapped,1877-1888,,,,Auray timber port 1880s
+origin,Drontheim,106,Trondheim,0.778,fuzzy_low,1874-1888,MAP,Trondheim,Auto-mapped (known variant),Drontheim timber port 1880s
+origin,Vannes,96,,,unmapped,1877-1887,,,,Vannes timber port 1880s
+origin,Pierreville and Quebec,86,,,unmapped,1885-1885,,,,Pierreville and Quebec timber port 1880s
+origin,Richibucto,84,Richibouctou,0.909,fuzzy_medium,1874-1887,MAP,Richibouctou,Auto-mapped (known variant),Richibucto timber port 1880s
+origin,Neder Kalix,83,,,unmapped,1877-1887,,,,Neder Kalix timber port 1880s
+origin,Calmar,82,Kalmar,0.833,fuzzy_low,1874-1887,MAP,Kalmar,Auto-mapped (known variant),Calmar timber port 1880s
+origin,Falkenburg,79,Falkenberg,0.900,fuzzy_medium,1875-1885,MAP,Falkenberg,Auto-mapped (known variant),Falkenburg timber port 1880s
+origin,l'Orient,72,,,unmapped,1879-1881,,,,l'Orient timber port 1880s
+origin,Mandal,70,Arendal,0.769,fuzzy_low,1874-1887,,,,Mandal timber port 1880s
+origin,Shediac,69,,,unmapped,1874-1887,,,,Shediac timber port 1880s
+origin,Lorient,65,Kyloren,0.714,fuzzy_low,1877-1887,,,,Lorient timber port 1880s
+origin,Blaye,61,,,unmapped,1885-1887,,,,Blaye timber port 1880s
+origin,Warberg,61,Marieberg,0.750,fuzzy_low,1881-1887,,,,Warberg timber port 1880s
+origin,Sandefjord,60,,,unmapped,1875-1887,,,,Sandefjord timber port 1880s
+origin,Three Rivers,58,,,unmapped,1874-1887,,,,Three Rivers timber port 1880s
+origin,Monsteras,58,Montreal,0.706,fuzzy_low,1875-1887,,,,Monsteras timber port 1880s
+origin,St. Brieux,54,,,unmapped,1879-1886,,,,St. Brieux timber port 1880s
+origin,Corunna,52,Brunna,0.769,fuzzy_low,1879-1888,,,,Corunna timber port 1880s
+origin,Nyvik,51,Dyrvik,0.727,fuzzy_low,1874-1879,,,,Nyvik timber port 1880s
+origin,Xiania,48,,,unmapped,1879-1881,,,,Xiania timber port 1880s
+origin,Tonsberg,46,Konigsberg,0.778,fuzzy_low,1875-1887,,,,Tonsberg timber port 1880s
+origin,Bay Verte,45,Bay de Verde,0.762,fuzzy_low,1879-1887,,,,Bay Verte timber port 1880s
+origin,Quimper,44,,,unmapped,1877-1887,,,,Quimper timber port 1880s
+origin,Wifstawarf,43,,,unmapped,1874-1887,,,,Wifstawarf timber port 1880s
+origin,Westervik,42,Vastervik,0.778,fuzzy_low,1881-1887,,,,Westervik timber port 1880s
+origin,Roche Bernard,41,,,unmapped,1877-1887,,,,Roche Bernard timber port 1880s
+origin,La Rochelle,40,,,unmapped,1877-1888,,,,La Rochelle timber port 1880s
+origin,Langesund,39,Bangsund,0.824,fuzzy_low,1877-1887,,,,Langesund timber port 1880s
+origin,Villagarcia,38,,,unmapped,1881-1888,,,,Villagarcia timber port 1880s
+origin,Morlaix,35,,,unmapped,1881-1888,,,,Morlaix timber port 1880s
+origin,Fiume,34,,,unmapped,1881-1887,,,,Fiume timber port 1880s
+origin,Havre,33,Le Havre,0.769,fuzzy_low,1874-1888,MAP,Le Havre,Auto-mapped (known variant),Havre timber port 1880s
+origin,Constantinople,31,,,unmapped,1874-1881,,,,Constantinople timber port 1880s
+origin,"Chatham, N.B.",31,,,unmapped,1879-1887,MAP,Chatham,Auto-mapped (known variant),"Chatham, N.B. timber port 1880s"
+origin,Ahlafors,30,,,unmapped,1874-1887,,,,Ahlafors timber port 1880s
+origin,Mesane,28,Mesana,0.833,fuzzy_low,1875-1887,,,,Mesane timber port 1880s
+origin,Charleston,28,Charlottetown,0.783,fuzzy_low,1875-1887,,,,Charleston timber port 1880s
+origin,Buctouche,27,,,unmapped,1874-1887,,,,Buctouche timber port 1880s
+origin,Arcachon,27,,,unmapped,1879-1887,,,,Arcachon timber port 1880s
+origin,Dordrecht,27,Dordt,0.714,fuzzy_low,1881-1887,,,,Dordrecht timber port 1880s
+origin,Port Launay,26,Portland,0.737,fuzzy_low,1879-1887,,,,Port Launay timber port 1880s
+origin,Figeholm,25,,,unmapped,1877-1887,,,,Figeholm timber port 1880s
+origin,Ferrol,24,,,unmapped,1881-1887,,,,Ferrol timber port 1880s
+origin,Bollsta,24,Bollstabruk,0.778,fuzzy_low,1875-1887,,,,Bollsta timber port 1880s
+origin,"Norfolk, Va.",23,Norfolk,0.737,fuzzy_low,1879-1887,MAP,Norfolk,Auto-mapped (known variant),"Norfolk, Va. timber port 1880s"
+origin,Waterford,23,,,unmapped,1877-1881,,,,Waterford timber port 1880s
+origin,Mem,23,,,unmapped,1874-1887,,,,Mem timber port 1880s
+origin,Vefsen,22,Vefsn,0.909,fuzzy_medium,1874-1881,MAP,Vefsn,Auto-mapped (known variant),Vefsen timber port 1880s
+origin,Pont l'Abbe,21,,,unmapped,1881-1888,,,,Pont l'Abbe timber port 1880s
+origin,Colberg,21,,,unmapped,1881-1887,,,,Colberg timber port 1880s
+origin,Mediterranean,21,,,unmapped,1875-1881,,,,Mediterranean timber port 1880s
+origin,Parrsboro',21,,,unmapped,1885-1887,,,,Parrsboro' timber port 1880s
+origin,Neder Calix,21,,,unmapped,1877-1885,,,,Neder Calix timber port 1880s
+origin,Drobak,21,,,unmapped,1877-1887,,,,Drobak timber port 1880s
+origin,Slite,19,,,unmapped,1874-1887,,,,Slite timber port 1880s
+origin,St. Malo,19,,,unmapped,1879-1888,,,,St. Malo timber port 1880s
+origin,Stocka,18,,,unmapped,1874-1887,,,,Stocka timber port 1880s
+origin,Stockasag,18,,,unmapped,1877-1885,,,,Stockasag timber port 1880s
+origin,Carril,18,,,unmapped,1881-1887,,,,Carril timber port 1880s
+origin,P'burg,18,,,unmapped,1879-1879,MAP,Porsgrund,Auto-mapped (known variant),P'burg timber port 1880s
+origin,Dieppe,16,,,unmapped,1880-1888,,,,Dieppe timber port 1880s
+origin,Westerwik,16,,,unmapped,1879-1888,,,,Westerwik timber port 1880s
+origin,Bangor,15,Langror,0.769,fuzzy_low,1874-1887,,,,Bangor timber port 1880s
+origin,Puebla,15,,,unmapped,1885-1887,,,,Puebla timber port 1880s
+origin,Timmernabben,15,,,unmapped,1877-1887,,,,Timmernabben timber port 1880s
+origin,Carlskrona,14,Karlskrona,0.900,fuzzy_medium,1881-1887,,,,Carlskrona timber port 1880s
+origin,Sandefiord,14,,,unmapped,1875-1879,,,,Sandefiord timber port 1880s
+origin,Fredrikshamn,14,Frederikshavn,0.880,fuzzy_medium,1874-1887,,,,Fredrikshamn timber port 1880s
+origin,Frederikstadt,14,Fredrikstad,0.917,fuzzy_medium,1875-1881,,,,Frederikstadt timber port 1880s
+origin,Hernosaud,14,Harnosand,0.778,fuzzy_low,1879-1887,,,,Hernosaud timber port 1880s
+origin,Gottenburg,14,Gothenburg,0.900,fuzzy_medium,1875-1881,,,,Gottenburg timber port 1880s
+origin,Arno,13,Arnon,0.889,fuzzy_medium,1879-1885,,,,Arno timber port 1880s
+origin,Pernau,13,Pärnu,0.727,fuzzy_low,1875-1887,,,,Pernau timber port 1880s
+origin,Rugenwalde,13,,,unmapped,1885-1887,,,,Rugenwalde timber port 1880s
+origin,Sheet Harbour,13,,,unmapped,1874-1888,,,,Sheet Harbour timber port 1880s
+origin,Hambro',12,Hamburg,0.714,fuzzy_low,1881-1887,,,,Hambro' timber port 1880s
+origin,Musquash,12,,,unmapped,1874-1881,,,,Musquash timber port 1880s
+origin,Quebec and Montreal,12,,,unmapped,1877-1887,,,,Quebec and Montreal timber port 1880s
+origin,Norway,11,,,unmapped,1875-1887,,,,Norway timber port 1880s
+origin,Fredrickstadt,11,Fredrikstad,0.917,fuzzy_medium,1875-1885,,,,Fredrickstadt timber port 1880s
+origin,Hernossand,11,Harnosand,0.842,fuzzy_low,1879-1887,,,,Hernossand timber port 1880s
+origin,Risor,11,Risoer,0.909,fuzzy_medium,1885-1887,,,,Risor timber port 1880s
+origin,Rivadeo,11,,,unmapped,1881-1887,,,,Rivadeo timber port 1880s
+origin,Old Calabar,11,,,unmapped,1874-1879,,,,Old Calabar timber port 1880s
+origin,Brest,11,Presta,0.727,fuzzy_low,1877-1885,,,,Brest timber port 1880s
+origin,Frederickstadt,11,Fredrikstad,0.880,fuzzy_medium,1875-1881,,,,Frederickstadt timber port 1880s
+origin,Leghorn,11,,,unmapped,1881-1881,,,,Leghorn timber port 1880s
+origin,Tunadal,10,,,unmapped,1875-1885,,,,Tunadal timber port 1880s
+origin,Bure,10,Burea,0.889,fuzzy_medium,1885-1887,,,,Bure timber port 1880s
+origin,Ranea,10,Tornea,0.727,fuzzy_low,1877-1887,,,,Ranea timber port 1880s
+origin,Weener,10,,,unmapped,1879-1887,,,,Weener timber port 1880s
+origin,Youghal,10,,,unmapped,1877-1879,,,,Youghal timber port 1880s
+origin,F'shald,10,,,unmapped,1879-1879,,,,F'shald timber port 1880s
+origin,Christinestad,9,Kristinestad,0.880,fuzzy_medium,1874-1887,,,,Christinestad timber port 1880s
+origin,West Indies,8,East Indies,0.909,fuzzy_medium,1874-1881,,,,West Indies timber port 1880s
+origin,Truxillo,8,Trujillo,0.875,fuzzy_medium,1874-1881,,,,Truxillo timber port 1880s
+origin,Sandviken,7,Sandvik,0.875,fuzzy_medium,1879-1885,,,,Sandviken timber port 1880s
+origin,Chicontimi,7,Chicoutimi,0.900,fuzzy_medium,1881-1887,,,,Chicontimi timber port 1880s
+origin,Harburg,5,Hamburg,0.857,fuzzy_medium,1874-1877,,,,Harburg timber port 1880s
+origin,Essviken,5,Essvik,0.857,fuzzy_medium,1877-1885,,,,Essviken timber port 1880s
+origin,Twedestrand,4,Tvedestrand,0.909,fuzzy_medium,1874-1881,,,,Twedestrand timber port 1880s
+origin,Bay de Verte,4,Bay de Verde,0.917,fuzzy_medium,1881-1887,,,,Bay de Verte timber port 1880s
+origin,Koping,4,Nykoping,0.857,fuzzy_medium,1885-1885,,,,Koping timber port 1880s
+origin,Konigsburg,4,Konigsberg,0.900,fuzzy_medium,1879-1887,,,,Konigsburg timber port 1880s
+origin,Gothenberg,4,Gothenburg,0.900,fuzzy_medium,1874-1887,,,,Gothenberg timber port 1880s
+origin,Betsiamitz,4,Betsiamits,0.900,fuzzy_medium,1879-1881,,,,Betsiamitz timber port 1880s
+origin,Pernaviken,4,Pernoviken,0.900,fuzzy_medium,1881-1881,,,,Pernaviken timber port 1880s
+origin,River Quelle,4,River Ouelle,0.917,fuzzy_medium,1881-1887,,,,River Quelle timber port 1880s
+origin,Oskarshamn,3,Oscarshamn,0.900,fuzzy_medium,1879-1885,,,,Oskarshamn timber port 1880s
+origin,Nyham,3,Nyhamn,0.909,fuzzy_medium,1877-1879,,,,Nyham timber port 1880s
+origin,Buenos Ayres,2,Buenos Aires,0.917,fuzzy_medium,1885-1885,,,,Buenos Ayres timber port 1880s
+origin,Ornskjoldvik,2,Ornskoldsvik,0.917,fuzzy_medium,1879-1885,,,,Ornskjoldvik timber port 1880s
+origin,Skutekar,2,Skutskar,0.875,fuzzy_medium,1885-1887,,,,Skutekar timber port 1880s
+origin,Skutakar,2,Skutskar,0.875,fuzzy_medium,1877-1885,,,,Skutakar timber port 1880s
+origin,Fredericksvoern,2,Fredriksvern,0.889,fuzzy_medium,1877-1879,,,,Fredericksvoern timber port 1880s
+origin,Svartwik,2,Svartvik,0.875,fuzzy_medium,1874-1874,,,,Svartwik timber port 1880s
+origin,Wybor,2,Wyborg,0.909,fuzzy_medium,1879-1879,,,,Wybor timber port 1880s
+origin,Alfredsham,2,Alfredshem,0.900,fuzzy_medium,1879-1881,,,,Alfredsham timber port 1880s
+origin,Alfredshamn,2,Alfredshem,0.857,fuzzy_medium,1879-1887,,,,Alfredshamn timber port 1880s
+origin,Kungsgarten,2,Kungsgarden,0.909,fuzzy_medium,1879-1879,,,,Kungsgarten timber port 1880s
+origin,N. Orleans,2,New Orleans,0.857,fuzzy_medium,1879-1881,,,,N. Orleans timber port 1880s
+origin,Halmestrand,2,Holmestrand,0.909,fuzzy_medium,1881-1881,,,,Halmestrand timber port 1880s
+origin,Campbeltown,2,Campbellton,0.909,fuzzy_medium,1885-1886,,,,Campbeltown timber port 1880s
+origin,Sundvik,2,Sandvik,0.857,fuzzy_medium,1885-1885,,,,Sundvik timber port 1880s
+origin,Ulea,1,Lulea,0.889,fuzzy_medium,1885-1885,,,,Ulea timber port 1880s
+origin,Gothenborg,1,Gothenburg,0.900,fuzzy_medium,1875-1875,,,,Gothenborg timber port 1880s
+origin,Holsingfors,1,Helsingfors,0.909,fuzzy_medium,1887-1887,,,,Holsingfors timber port 1880s
+origin,"Newport News, Va",1,Newport News,0.857,fuzzy_medium,1887-1887,,,,"Newport News, Va timber port 1880s"
+origin,Toreforg,1,Torefors,0.875,fuzzy_medium,1877-1877,,,,Toreforg timber port 1880s
+origin,"Guysboro,' N.S.",1,"Guysborough, N.S.",0.875,fuzzy_medium,1885-1885,,,,"Guysboro,' N.S. timber port 1880s"
+origin,Narrkoping,1,Norrkoping,0.900,fuzzy_medium,1874-1874,,,,Narrkoping timber port 1880s
+origin,Skouvik,1,Skonvik,0.857,fuzzy_medium,1887-1887,,,,Skouvik timber port 1880s
+origin,Fredriksvorn,1,Fredriksvern,0.917,fuzzy_medium,1887-1887,,,,Fredriksvorn timber port 1880s
+origin,Risoe,1,Risoer,0.909,fuzzy_medium,1877-1877,,,,Risoe timber port 1880s
+origin,Ornskoldsvit,1,Ornskoldsvik,0.917,fuzzy_medium,1877-1877,,,,Ornskoldsvit timber port 1880s
+origin,Oploe,1,Oplo,0.889,fuzzy_medium,1885-1885,,,,Oploe timber port 1880s
+origin,Salis,1,Salmis,0.909,fuzzy_medium,1887-1887,,,,Salis timber port 1880s
+origin,Ornskolksvik,1,Ornskoldsvik,0.917,fuzzy_medium,1875-1875,,,,Ornskolksvik timber port 1880s
+origin,Hudicksvall,1,Hudikswall,0.857,fuzzy_medium,1877-1877,,,,Hudicksvall timber port 1880s
+origin,"Ny, Karleby",1,Nykarleby,0.900,fuzzy_medium,1885-1885,,,,"Ny, Karleby timber port 1880s"
+origin,Kon'gsberg,1,Konigsberg,0.900,fuzzy_medium,1885-1885,,,,Kon'gsberg timber port 1880s
+origin,Naskee,1,Naske,0.909,fuzzy_medium,1887-1887,,,,Naskee timber port 1880s
+origin,Simon,1,Simo,0.889,fuzzy_medium,1887-1887,,,,Simon timber port 1880s
+origin,Rano,1,Ramno,0.889,fuzzy_medium,1887-1887,,,,Rano timber port 1880s
+origin,Gallsta,1,Hallsta,0.857,fuzzy_medium,1874-1874,,,,Gallsta timber port 1880s
+origin,Gotheaburg,1,Gothenburg,0.900,fuzzy_medium,1887-1887,,,,Gotheaburg timber port 1880s
+origin,Fredrikvaern,1,Fredriksvern,0.917,fuzzy_medium,1887-1887,,,,Fredrikvaern timber port 1880s
+origin,Now York,1,New York,0.875,fuzzy_medium,1885-1885,,,,Now York timber port 1880s
+origin,Now Orleans,1,New Orleans,0.909,fuzzy_medium,1885-1885,,,,Now Orleans timber port 1880s
+origin,"Newport News, V.",1,Newport News,0.857,fuzzy_medium,1885-1885,,,,"Newport News, V. timber port 1880s"
+origin,Miramishi,1,Miramichi,0.889,fuzzy_medium,1885-1885,,,,Miramishi timber port 1880s
+origin,Kothka,1,Kotka,0.909,fuzzy_medium,1874-1874,,,,Kothka timber port 1880s
+origin,Bjneborg,1,Bjorneborg,0.889,fuzzy_medium,1875-1875,,,,Bjneborg timber port 1880s
+origin,Borrga,1,Borga,0.909,fuzzy_medium,1887-1887,,,,Borrga timber port 1880s
+origin,Bjorn-borg,1,Bjorneborg,0.900,fuzzy_medium,1877-1877,,,,Bjorn-borg timber port 1880s
+origin,Tredestrand,1,Tvedestrand,0.909,fuzzy_medium,1877-1877,,,,Tredestrand timber port 1880s
+origin,Ar-ndal,1,Arendal,0.857,fuzzy_medium,1877-1877,,,,Ar-ndal timber port 1880s
+origin,Charlotte Town P,1,Charlottetown,0.897,fuzzy_medium,1878-1878,,,,Charlotte Town P timber port 1880s
+origin,Areudal,1,Arendal,0.857,fuzzy_medium,1879-1879,,,,Areudal timber port 1880s
+origin,Fahrsund,1,Farosund,0.875,fuzzy_medium,1879-1879,,,,Fahrsund timber port 1880s
+origin,Frederiksham,1,Frederikshavn,0.880,fuzzy_medium,1879-1879,,,,Frederiksham timber port 1880s
+origin,Laurvigen,1,Laurvig,0.875,fuzzy_medium,1879-1879,,,,Laurvigen timber port 1880s
+origin,St. Mary,1,St. Mary's,0.889,fuzzy_medium,1879-1879,,,,St. Mary timber port 1880s
+origin,Raumea,1,Rauma,0.909,fuzzy_medium,1879-1879,,,,Raumea timber port 1880s
+origin,Skeppevik,1,Skeppsvik,0.889,fuzzy_medium,1879-1879,,,,Skeppevik timber port 1880s
+origin,Huddickwall,1,Hudikswall,0.857,fuzzy_medium,1879-1879,,,,Huddickwall timber port 1880s
+origin,E. Pascagoula,1,Pascagoula,0.870,fuzzy_medium,1879-1879,,,,E. Pascagoula timber port 1880s
+origin,Christina,1,Christiania,0.900,fuzzy_medium,1879-1879,,,,Christina timber port 1880s
+origin,Frederiksvorn,1,Fredriksvern,0.880,fuzzy_medium,1879-1879,,,,Frederiksvorn timber port 1880s
+origin,Stockvik,1,Stockviken,0.889,fuzzy_medium,1879-1879,,,,Stockvik timber port 1880s
+origin,Luguvik,1,Lugnvik,0.857,fuzzy_medium,1879-1879,,,,Luguvik timber port 1880s
+origin,Holsta,1,Holmstad,0.857,fuzzy_medium,1879-1879,,,,Holsta timber port 1880s
+origin,Penascola,1,Pensacola,0.889,fuzzy_medium,1879-1879,,,,Penascola timber port 1880s
+origin,Ytlersfors,1,Yttersfors,0.900,fuzzy_medium,1879-1879,,,,Ytlersfors timber port 1880s
+origin,Vancouver I.,1,Vancouver,0.857,fuzzy_medium,1879-1879,,,,Vancouver I. timber port 1880s
+origin,Forsgrund,1,Porsgrund,0.889,fuzzy_medium,1879-1879,,,,Forsgrund timber port 1880s
+origin,Bannesund,1,Sannesund,0.889,fuzzy_medium,1879-1879,,,,Bannesund timber port 1880s
+origin,und,1,Lund,0.857,fuzzy_medium,1881-1881,,,,und timber port 1880s
+origin,Tlacotalpam,1,Tlacotalpan,0.909,fuzzy_medium,1881-1881,,,,Tlacotalpam timber port 1880s
+origin,Baronne,1,Bayonne,0.857,fuzzy_medium,1881-1881,,,,Baronne timber port 1880s
+origin,Fredriksvoarn,1,Fredriksvern,0.880,fuzzy_medium,1881-1881,,,,Fredriksvoarn timber port 1880s
+origin,Porsgrand,1,Porsgrund,0.889,fuzzy_medium,1881-1881,,,,Porsgrand timber port 1880s
+origin,Porgrun,1,Porsgrund,0.875,fuzzy_medium,1881-1881,,,,Porgrun timber port 1880s
+origin,Kingsgarden,1,Kungsgarden,0.909,fuzzy_medium,1881-1881,,,,Kingsgarden timber port 1880s
+origin,Langoer,1,Langror,0.857,fuzzy_medium,1881-1881,,,,Langoer timber port 1880s
+origin,Ballsta,1,Hallsta,0.857,fuzzy_medium,1881-1881,,,,Ballsta timber port 1880s
+origin,Bjornsborg,1,Bjorneborg,0.900,fuzzy_medium,1881-1881,,,,Bjornsborg timber port 1880s
+origin,Tangror,1,Langror,0.857,fuzzy_medium,1881-1881,,,,Tangror timber port 1880s
+origin,"Guysboro', N.S.",1,"Guysborough, N.S.",0.875,fuzzy_medium,1881-1881,,,,"Guysboro', N.S. timber port 1880s"
+origin,Fridrikstadt,1,Fredrikstad,0.870,fuzzy_medium,1881-1881,,,,Fridrikstadt timber port 1880s
+origin,Jamacia,1,Jamaica,0.857,fuzzy_medium,1881-1881,,,,Jamacia timber port 1880s
+origin,Eggesund,1,Iggesund,0.875,fuzzy_medium,1881-1881,,,,Eggesund timber port 1880s
+origin,Domjo,1,Domsjo,0.909,fuzzy_medium,1881-1881,,,,Domjo timber port 1880s
+origin,Sod rhamn,1,Soderhamn,0.889,fuzzy_medium,1881-1881,,,,Sod rhamn timber port 1880s
+origin,Pierville,1,Pierreville,0.900,fuzzy_medium,1881-1881,,,,Pierville timber port 1880s
+origin,Fredriksbald,1,Fredriksdal,0.870,fuzzy_medium,1885-1885,,,,Fredriksbald timber port 1880s
+origin,Laurrig,1,Laurvig,0.857,fuzzy_medium,1877-1877,,,,Laurrig timber port 1880s
+origin,Oronstadt,1,Kronstadt,0.889,fuzzy_medium,1885-1885,,,,Oronstadt timber port 1880s
+origin,Karlscrona,1,Karlskrona,0.900,fuzzy_medium,1885-1885,,,,Karlscrona timber port 1880s
+origin,New O.leans,1,New Orleans,0.909,fuzzy_medium,1887-1887,,,,New O.leans timber port 1880s
+origin,Kannissaru,1,Kannissoari,0.857,fuzzy_medium,1885-1885,,,,Kannissaru timber port 1880s
+origin,Asbacks,1,Asbacka,0.857,fuzzy_medium,1887-1887,,,,Asbacks timber port 1880s
+origin,Atu,1,Attu,0.857,fuzzy_medium,1887-1887,,,,Atu timber port 1880s
+origin,Asbecka,1,Asbacka,0.857,fuzzy_medium,1887-1887,,,,Asbecka timber port 1880s
+origin,Sundawall,1,Sundswall,0.889,fuzzy_medium,1887-1887,,,,Sundawall timber port 1880s
+origin,Strommas,1,Stromnas,0.875,fuzzy_medium,1887-1887,,,,Strommas timber port 1880s
+origin,Hommelvig,1,Hommelvik,0.889,fuzzy_medium,1885-1885,,,,Hommelvig timber port 1880s
+origin,C. Helsingfors,1,Helsingfors,0.880,fuzzy_medium,1887-1887,,,,C. Helsingfors timber port 1880s
+origin,Falkonberg,1,Falkenberg,0.900,fuzzy_medium,1885-1885,,,,Falkonberg timber port 1880s
+origin,Esvik,1,Essvik,0.909,fuzzy_medium,1885-1885,,,,Esvik timber port 1880s
+origin,Dort,1,Dordt,0.889,fuzzy_medium,1877-1877,,,,Dort timber port 1880s
+origin,Karleby,1,Nykarleby,0.875,fuzzy_medium,1885-1885,,,,Karleby timber port 1880s
+origin,Helmsund,1,Holmsund,0.875,fuzzy_medium,1887-1887,,,,Helmsund timber port 1880s
+origin,Frederiksen,1,Fredriksvern,0.870,fuzzy_medium,1877-1877,,,,Frederiksen timber port 1880s
+origin,Ferdinandina,1,Fernandina,0.909,fuzzy_medium,1875-1875,,,,Ferdinandina timber port 1880s
+origin,Halista,1,Hallsta,0.857,fuzzy_medium,1885-1885,,,,Halista timber port 1880s
+origin,Monksund,1,Munksund,0.875,fuzzy_medium,1887-1887,,,,Monksund timber port 1880s
+origin,Christianstadt,1,Christiansand,0.889,fuzzy_medium,1877-1877,,,,Christianstadt timber port 1880s
+origin,Vitea,1,Itea,0.889,fuzzy_medium,1874-1874,,,,Vitea timber port 1880s
+origin,Kopmanholman,1,Kopmanholmen,0.917,fuzzy_medium,1875-1875,,,,Kopmanholman timber port 1880s
+origin,Kimouski,1,Rimouski,0.875,fuzzy_medium,1875-1875,,,,Kimouski timber port 1880s
+origin,Orendal,1,Arendal,0.857,fuzzy_medium,1877-1877,,,,Orendal timber port 1880s
+destination,LONDON,3336,,,unmapped,1874-1885,MAP,London,Auto-mapped (known variant),LONDON British port timber 1880s
+destination,SURREY COMMERCIAL DOCKS,2001,London (Surrey Commercial Docks),0.836,fuzzy_low,1885-1888,MAP,London (Surrey Commercial Docks),Auto-mapped (known variant),SURREY COMMERCIAL DOCKS British port timber 1880s
+destination,WEST HARTLEPOOL,1266,,,unmapped,1874-1881,,,,WEST HARTLEPOOL British port timber 1880s
+destination,MILLWALL DOCKS,466,London (Millwall Docks),0.757,fuzzy_low,1885-1888,MAP,London (Millwall Docks),Auto-mapped (known variant),MILLWALL DOCKS British port timber 1880s
+destination,PITWOOD,350,,,unmapped,1879-1879,,,,PITWOOD British port timber 1880s
+destination,BO'NESS,287,,,unmapped,1874-1887,MAP,Borrowstounness,Auto-mapped (known variant),BO'NESS British port timber 1880s
+destination,THE TYNE,270,,,unmapped,1875-1885,MAP,Tyne,Auto-mapped (known variant),THE TYNE British port timber 1880s
+destination,BELFAST,265,,,unmapped,1881-1888,,,,BELFAST British port timber 1880s
+destination,VICTORIA DOCKS,141,London (Victoria Docks),0.757,fuzzy_low,1885-1887,MAP,London (Victoria Docks),Auto-mapped (known variant),VICTORIA DOCKS British port timber 1880s
+destination,CHARLESTOWN,133,Castletown,0.762,fuzzy_low,1874-1881,,,,CHARLESTOWN British port timber 1880s
+destination,DUBLIN,122,,,unmapped,1881-1887,,,,DUBLIN British port timber 1880s
+destination,OTHER DOCKS AND WHARVES,117,London (Other Docks and Wharves),0.836,fuzzy_low,1885-1888,MAP,London (Other Docks and Wharves),Auto-mapped (known variant),OTHER DOCKS AND WHARVES British port timber 1880s
+destination,NEWPORT (MON.),105,,,unmapped,1881-1881,,,,NEWPORT (MON.) British port timber 1880s
+destination,REGENT'S CANAL DOCKS,99,London (Regent's Canal Docks),0.816,fuzzy_low,1885-1887,MAP,London (Regent's Canal Docks),Auto-mapped (known variant),REGENT'S CANAL DOCKS British port timber 1880s
+destination,GREAT YARMOUTH,99,Yarmouth,0.727,fuzzy_low,1879-1879,MAP,Yarmouth,Auto-mapped (known variant),GREAT YARMOUTH British port timber 1880s
+destination,CORK,55,,,unmapped,1881-1887,,,,CORK British port timber 1880s
+destination,KING'S LYNN,52,,,unmapped,1879-1881,,,,KING'S LYNN British port timber 1880s
+destination,ROYAL ALBERT DOCKS,46,London (Royal Albert Docks),0.800,fuzzy_low,1885-1888,MAP,London (Royal Albert Docks),Auto-mapped (known variant),ROYAL ALBERT DOCKS British port timber 1880s
+destination,COMMERCIAL DOCKS,44,,,unmapped,1885-1887,,,,COMMERCIAL DOCKS British port timber 1880s
+destination,SOUTH ALLOA,43,,,unmapped,1879-1879,,,,SOUTH ALLOA British port timber 1880s
+destination,LIMERICK,41,Lerwick,0.800,fuzzy_low,1881-1888,,,,LIMERICK British port timber 1880s
+destination,DUNDALK,40,,,unmapped,1881-1887,,,,DUNDALK British port timber 1880s
+destination,PORT GLASGOW,34,,,unmapped,1874-1887,,,,PORT GLASGOW British port timber 1880s
+destination,DEPTFORD,34,,,unmapped,1885-1885,,,,DEPTFORD British port timber 1880s
+destination,INVERKEITHING,32,,,unmapped,1875-1879,,,,INVERKEITHING British port timber 1880s
+destination,LONDONDERRY,31,,,unmapped,1881-1887,,,,LONDONDERRY British port timber 1880s
+destination,REGENT'S CANAL DOCK,30,London (Regent's Canal Docks),0.792,fuzzy_low,1885-1887,,,,REGENT'S CANAL DOCK British port timber 1880s
+destination,WATERFORD,29,,,unmapped,1881-1887,,,,WATERFORD British port timber 1880s
+destination,POOL (WEST),29,Hartlepool (West),0.786,fuzzy_low,1881-1881,,,,POOL (WEST) British port timber 1880s
+destination,ALBANY,27,,,unmapped,1875-1875,,,,ALBANY British port timber 1880s
+destination,NEWCASTLE,26,,,unmapped,1875-1881,,,,NEWCASTLE British port timber 1880s
+destination,NEWRY,25,,,unmapped,1881-1888,,,,NEWRY British port timber 1880s
+destination,NORTHFLEET,24,,,unmapped,1885-1887,,,,NORTHFLEET British port timber 1880s
+destination,WEST INDIA DOCKS,22,London (West India Docks),0.780,fuzzy_low,1885-1887,MAP,London (West India Docks),Auto-mapped (known variant),WEST INDIA DOCKS British port timber 1880s
+destination,BURT'S WHARF,22,London (Burt's Wharf),0.727,fuzzy_low,1885-1887,,,,BURT'S WHARF British port timber 1880s
+destination,ERRATA,20,,,unmapped,1881-1881,,,,ERRATA British port timber 1880s
+destination,MORRISONSHAVEN,18,,,unmapped,1877-1877,,,,MORRISONSHAVEN British port timber 1880s
+destination,MILLWALL,18,,,unmapped,1885-1886,,,,MILLWALL British port timber 1880s
+destination,TILBURY DOCKS,17,London (Tilbury Docks),0.743,fuzzy_low,1885-1887,MAP,London (Tilbury Docks),Auto-mapped (known variant),TILBURY DOCKS British port timber 1880s
+destination,KIRKWALL,16,Kirkcaldy,0.706,fuzzy_low,1881-1885,,,,KIRKWALL British port timber 1880s
+destination,ENGLAND AND WALES,15,,,unmapped,1881-1886,,,,ENGLAND AND WALES British port timber 1880s
+destination,GALWAY,15,,,unmapped,1881-1887,,,,GALWAY British port timber 1880s
+destination,SLIGO,14,,,unmapped,1881-1887,,,,SLIGO British port timber 1880s
+destination,MALDON,14,,,unmapped,1879-1881,,,,MALDON British port timber 1880s
+destination,SWANWICH,14,,,unmapped,1885-1885,,,,SWANWICH British port timber 1880s
+destination,GREENHITHE,13,,,unmapped,1885-1887,,,,GREENHITHE British port timber 1880s
+destination,ANTWERP,12,,,unmapped,1887-1887,,,,ANTWERP British port timber 1880s
+destination,WOOLWICH,11,,,unmapped,1885-1887,,,,WOOLWICH British port timber 1880s
+destination,HANOVER HOLE,11,London (Hanover Hole),0.727,fuzzy_low,1885-1887,,,,HANOVER HOLE British port timber 1880s
+destination,AT NEW ORLEANS,11,,,unmapped,1885-1885,,,,AT NEW ORLEANS British port timber 1880s
+destination,WEXFORD,10,,,unmapped,1881-1887,,,,WEXFORD British port timber 1880s
+destination,TRALEE,10,,,unmapped,1881-1887,,,,TRALEE British port timber 1880s
+destination,CAERNARVON,3,Carnavon,0.889,fuzzy_medium,1885-1885,,,,CAERNARVON British port timber 1880s
+destination,BARROWSTOUNESS,3,Borrowstounness,0.897,fuzzy_medium,1885-1887,,,,BARROWSTOUNESS British port timber 1880s
+destination,BORROWSTOWNESS,1,Borrowstounness,0.897,fuzzy_medium,1885-1885,,,,BORROWSTOWNESS British port timber 1880s
+destination,WISPECH,1,Wisbech,0.857,fuzzy_medium,1885-1885,,,,WISPECH British port timber 1880s

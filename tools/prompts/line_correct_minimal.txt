@@ -1,0 +1,18 @@
+Task: Correct a single OCR’d arrival line from The Timber Trades Journal “Imports of Timber, &c.”
+
+Rules:
+- Return exactly one corrected line.
+- Use em dashes (—) as separators: arrival_place — departure_port — products [; merchants]
+- Do not add or infer quantities; do not split into multiple lines.
+- Keep phrasing verbatim where possible; only fix obvious OCR errors.
+- Keep ports and place names as printed (light spelling fixes only, e.g., “Dantzic” ok).
+- Keep parenthetical cargo notes; drop trivial (s) markers.
+
+Example:
+Input: Surrey Commerciai Docks — Abo — 1,200 redw00d deaks and ends; for Smith & Co.
+Output: Surrey Commercial Docks — Abo — redwood deals and ends; for Smith & Co.
+
+Input:
+<<<LINE>>>
+Output:
+

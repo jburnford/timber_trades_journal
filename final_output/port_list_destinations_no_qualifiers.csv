@@ -1,0 +1,309 @@
+port_name,type,original_count,normalized_count,cleaned_count,total_occurrences,notes
+A,destination,3,3,0,3,removed in cleanup
+A LARGE STOCK KEPT,destination,1,1,1,1,
+ALBERT DOCKS,destination,2,2,2,2,
+AND VIENNA,destination,1,1,1,1,
+ARRIVALS IN DUNDEE,destination,3,3,3,3,
+AT AVONMOUTH,destination,2,2,2,2,
+AT AVONMOUTH DOCKS,destination,1,1,1,1,
+AT NEW ORLEANS,destination,11,0,0,11,removed in cleanup
+AVONMOUTH DOCK,destination,3,3,3,3,
+Aberdeen,destination + origin,125,1,1,125,removed in cleanup
+Aberystwith,destination,25,25,25,25,removed in cleanup; inferred
+Albany,destination,27,27,28,28,removed in cleanup; inferred
+Alloa,destination,438,438,438,438,removed in cleanup; inferred
+Antwerp,destination + origin,42,30,30,42,removed in cleanup
+Arbroath,destination,14,14,14,14,removed in cleanup; inferred
+Ardrossan,destination,20,20,20,20,removed in cleanup; inferred
+Ayr,destination,49,49,49,49,removed in cleanup; inferred
+B.,destination,0,0,1,1,inferred
+B. AND F. S. WHARF,destination,1,1,0,1,removed in cleanup
+BARK MERCHANTS,destination,1,1,1,1,
+BARKING CREEK,destination,1,1,1,1,
+BARNARD'S,destination,0,0,2,2,inferred
+BARNARD'S WHARF,destination,2,2,0,2,removed in cleanup
+BARROWSTOUNESS,destination,3,0,0,3,removed in cleanup
+BELFAST,destination,265,265,265,265,
+BELL,destination,0,0,2,2,inferred
+BELL WHARF,destination,2,2,0,2,removed in cleanup
+BILLS OF SALE,destination,1,1,0,1,removed in cleanup
+BO'NESS,destination,287,287,294,294,
+BONESS,destination,5,5,5,5,
+BORROWSTONESS,destination,16,0,0,16,removed in cleanup
+BORROWSTOUNESS,destination,17,0,0,17,removed in cleanup
+BORROWSTOWNESS,destination,1,0,0,1,removed in cleanup
+BORROWSTOWNNESS,destination,2,0,0,2,removed in cleanup
+BREWER'S QUAY,destination,6,6,6,6,
+BURT'S,destination,0,0,22,22,inferred
+BURT'S WHARF,destination,22,22,0,22,removed in cleanup
+BUTLER'S,destination,0,0,1,1,inferred
+BUTLER'S WHARF,destination,1,1,0,1,removed in cleanup
+BY COMMERCIAL DOCKS,destination,1,1,1,1,
+BY ROYAL ALBERT DOCK,destination,1,1,1,1,
+BY SURREY COMMERCIAL DOCKS,destination,4,4,4,4,
+BY VICTORIA DOCKS,destination,1,1,1,1,
+Banff,destination,27,27,27,27,removed in cleanup; inferred
+Barnstaple,destination + origin,16,3,3,16,removed in cleanup
+Barrow,destination,49,49,49,49,removed in cleanup; inferred
+Beaumaris,destination,23,23,23,23,removed in cleanup; inferred
+Berwick,destination,20,20,20,20,removed in cleanup; inferred
+Bideford,destination + origin,2,0,0,2,removed in cleanup
+Borrowstounness,destination,594,633,634,634,removed in cleanup; inferred
+Boston,destination + origin,403,351,351,403,removed in cleanup
+Bridgewater,destination + origin,6,0,0,6,removed in cleanup
+Bridgwater,destination + origin,54,13,13,54,removed in cleanup
+Bristol,destination,595,595,629,629,removed in cleanup; inferred
+CAERNARVON,destination,3,0,0,3,removed in cleanup
+CARNARVON,destination,23,0,0,23,removed in cleanup
+CHARLTON,destination,0,0,3,3,inferred
+CHARLTON BUOYS,destination,3,3,0,3,removed in cleanup
+CHICAGO,destination,1,1,1,1,
+CHURCH HOLE,destination,1,1,1,1,
+CLIFF'S CREEK,destination,2,2,2,2,
+CLIFFE CREEK,destination,5,5,5,5,
+COLERAINE,destination,4,4,4,4,
+COMMERCIAL DOCKS,destination,44,44,46,46,
+COTTON'S,destination,0,0,5,5,inferred
+COTTON'S WHARF,destination,5,5,0,5,removed in cleanup
+CUSTOM HOUSE,destination,1,1,1,1,
+Cardiff,destination + origin,1608,2,2,1608,removed in cleanup
+Cardigan,destination,7,7,7,7,removed in cleanup; inferred
+Carlisle,destination,2,2,2,2,removed in cleanup; inferred
+Carnavon,destination,0,26,26,26,inferred
+Castletown,destination,3,3,3,3,removed in cleanup; inferred
+Charleston,origin + destination,28,32,32,32,
+Charlestown,destination + origin,137,0,0,137,removed in cleanup
+Chester,destination,54,54,54,54,removed in cleanup; inferred
+Colchester,destination,23,23,23,23,removed in cleanup; inferred
+Cork,destination + origin,59,59,59,59,
+Cowes,destination,11,11,11,11,removed in cleanup; inferred
+DARTMOUTH,destination,8,8,8,8,
+DEADMAN,destination,0,0,1,1,inferred
+DEADMAN DOCK BUOYS,destination,1,1,0,1,removed in cleanup
+DEADMAN'S,destination,0,0,4,4,inferred
+DEADMAN'S BUOYS,destination,2,2,0,2,removed in cleanup
+DEADMAN'S DOCK,destination,2,2,2,2,
+DEADMAN'S DOCK BUOYS,destination,2,2,0,2,removed in cleanup
+DEADMAN'S DOCKS BROKERAGE,destination,1,1,1,1,
+DEAL,destination,2,0,0,2,removed in cleanup
+DEPTFORD,destination,34,34,38,38,
+DEPTFORD BUOYS,destination,4,4,0,4,removed in cleanup
+DIVIDENDS,destination,1,1,0,1,removed in cleanup
+DOUGLAS (ISLE OF MAN),destination,4,4,4,4,
+DUNBAR,destination,4,4,4,4,
+DUNDALK,destination,40,40,44,44,
+Dal,destination,0,2,2,2,inferred
+Douglas,destination,13,13,13,13,removed in cleanup; inferred
+Dover,destination,32,32,32,32,removed in cleanup; inferred
+Drogheda,destination + origin,7,7,7,7,
+Dublin,destination + origin,124,124,127,127,
+Dundee,destination,1017,1017,1036,1036,removed in cleanup; inferred
+EAST INDIA DOCKS,destination,3,3,3,3,
+ENGLAND AND WALES,destination,15,15,15,15,
+ERITH,destination,1,1,1,1,
+ERRATA,destination,20,20,0,20,removed in cleanup
+ERRATUM,destination,4,4,4,4,
+Exeter,destination,24,24,24,24,removed in cleanup; inferred
+FAILURES AND ARRANGEMENTS,destination,8,8,0,8,removed in cleanup
+FISHEROW,destination,1,1,1,1,
+FISHERROWS,destination,4,4,4,4,
+FLETCHER'S,destination,0,0,1,1,inferred
+FLETCHER'S BUOYS,destination,1,1,0,1,removed in cleanup
+FORT GLASGOW,destination,1,1,1,1,
+FREIGHT AND SHORT DELIVERY,destination,1,1,1,1,
+FREIGHTS,destination,15,15,0,15,removed in cleanup
+FRESH,destination,0,0,2,2,inferred
+FRESH WHARF,destination,2,2,0,2,removed in cleanup
+Falmouth,destination,16,16,16,16,removed in cleanup; inferred
+Faversham,destination,28,28,28,28,removed in cleanup; inferred
+Fleetwood,destination,56,56,56,56,removed in cleanup; inferred
+Folkestone,destination,18,18,18,18,removed in cleanup; inferred
+Fowey,destination,30,30,30,30,removed in cleanup; inferred
+Fraserburgh,destination,46,46,46,46,removed in cleanup; inferred
+GALLEON'S,destination,0,0,1,1,inferred
+GALLEON'S BUOYS,destination,1,1,0,1,removed in cleanup
+GLASGOW,destination,662,0,0,662,removed in cleanup
+GOVERNMENT,destination,0,0,1,1,inferred
+GOVERNMENT DOCK BUOYS,destination,1,1,0,1,removed in cleanup
+GRANGE MOUTH,destination,1,0,0,1,removed in cleanup
+GRANVILLE DOCKS,destination,1,1,1,1,
+GRAVESEND,destination,7,7,7,7,
+GRAYS,destination,8,8,8,8,
+GREAT YARMOUTH,destination,99,99,117,117,
+GREENHITHE,destination,13,13,13,13,
+GREENWICH,destination,1,1,1,1,
+GRENOCK,destination,3,0,0,3,removed in cleanup
+Galway,destination + origin,19,19,19,19,
+Glasglow,destination,0,662,671,671,inferred
+Gloucester,destination + origin,325,1,1,325,removed in cleanup
+Goole,destination,132,132,132,132,removed in cleanup; inferred
+Grangemouth,destination + origin,990,1,1,990,removed in cleanup
+Granton,destination,379,379,380,380,removed in cleanup; inferred
+Greenock,destination,264,267,269,269,removed in cleanup; inferred
+Grimsby,destination + origin,890,4,4,890,removed in cleanup
+HANOVER HOLE,destination,11,11,11,11,
+HARTLEPOOL,destination,4,4,4,4,
+HORS LEYDOWN,destination,1,1,1,1,
+HORSELYDOWN,destination,1,1,1,1,
+HORSLEYDOWN,destination,1,1,1,1,
+Hartlepool (West),destination,1013,1014,1017,1017,removed in cleanup; inferred
+Harwich,destination,57,57,59,59,removed in cleanup; inferred
+Havre,destination + origin,35,33,33,35,removed in cleanup
+Hayle,destination + origin,2,2,2,2,
+Hull,destination + origin,2529,3,3,2529,removed in cleanup
+IMPORTS,destination,3,3,0,3,removed in cleanup
+INVERKEITHING,destination,32,32,32,32,
+Idefjord,origin + destination,0,1,1,1,inferred
+Inverness,destination + origin,42,1,1,42,removed in cleanup
+Ipswich,destination + origin,40,1,1,40,removed in cleanup
+JOSEPH GARDNER & SONS,destination,2,2,2,2,
+KATHARINE'S DOCK,destination,1,1,1,1,
+KING'S LYNN,destination,52,52,52,52,
+KIRKWALL,destination,16,16,16,16,
+Kirkcaldy,destination,93,93,93,93,removed in cleanup; inferred
+LIQUIDATIONS,destination,11,11,0,11,removed in cleanup
+LONDON DOCK DELIVERIES,destination,3,3,3,3,
+LONDON SALES,destination,1,1,1,1,
+LONDONDERRY,destination,31,31,31,31,
+LONG REACH,destination,1,1,1,1,
+LOWER HOPE,destination,1,1,1,1,
+Lancaster,destination,26,26,26,26,removed in cleanup; inferred
+Leith,destination,948,948,957,957,removed in cleanup; inferred
+Lerwick,destination,25,25,25,25,removed in cleanup; inferred
+Limerick,destination + origin,44,44,44,44,
+Littlehampton,destination,34,34,34,34,removed in cleanup; inferred
+Liverpool,destination + origin,3464,1,1,3464,removed in cleanup
+Llanelly,destination,108,108,109,109,removed in cleanup; inferred
+London,destination,3336,3336,3368,3368,removed in cleanup; inferred
+Lowestoft,destination,60,60,60,60,removed in cleanup; inferred
+Lynn,destination,193,193,193,193,removed in cleanup; inferred
+MALDON,destination,14,14,14,14,
+MANCHESTER,destination,6,6,6,6,
+MARK,destination,0,0,1,1,inferred
+MARK BROWN'S WHARF,destination,1,1,0,1,removed in cleanup
+MIDDLESBRO',destination,5,5,5,5,
+MILL HOLE,destination,6,6,6,6,
+MILLWALL,destination,18,18,19,19,
+MILLWALL DOCKS,destination,466,466,471,471,
+MILLWALL STAIRS,destination,1,1,0,1,removed in cleanup
+MILWALL,destination,2,2,2,2,
+MORRISONSHAVEN,destination,18,18,18,18,
+Maryport,destination,32,32,32,32,removed in cleanup; inferred
+Middlesbrough,destination,215,215,215,215,removed in cleanup; inferred
+Milford,destination + origin,24,2,2,24,removed in cleanup
+Montrose,destination + origin,92,1,1,92,removed in cleanup
+NEWPORT (MON.),destination,105,105,105,105,
+NORTH ALLOA,destination,1,1,1,1,
+NORTHFLEET,destination,24,24,24,24,
+New Orleans,origin + destination,244,248,249,249,
+Newcastle,destination + origin,29,3,3,29,removed in cleanup
+Newhaven,destination,103,103,103,103,removed in cleanup; inferred
+Newport,destination,678,678,691,691,removed in cleanup; inferred
+Newry,destination + origin,26,26,26,26,
+OPENING OF A NEW TIMBER YARD,destination,1,1,1,1,
+OTHER,destination,0,0,1,1,inferred
+OTHER DOCKS,destination,3,3,3,3,
+OTHER DOCKS AND WHARFS,destination,1,1,0,1,removed in cleanup
+OTHER DOCKS AND WHARVES,destination,117,117,117,117,
+PADSTOW,destination,3,3,3,3,
+PEART'S BLUE OR TIMBER MARKING INK,destination,1,1,1,1,
+POOL (WEST),destination,29,29,29,29,
+PRINCE,destination,0,0,8,8,inferred
+PRINCE REGENT'S CANAL DOCKS,destination,1,1,1,1,
+PRINCE REGENT'S WHARF,destination,8,8,0,8,removed in cleanup
+PRINCE'S,destination,0,0,1,1,inferred
+PRINCE'S WHARF,destination,1,1,0,1,removed in cleanup
+Penzance,destination + origin,21,2,2,21,removed in cleanup
+Perth,destination,17,17,17,17,removed in cleanup; inferred
+Peterhead,destination,60,60,60,60,removed in cleanup; inferred
+Plymouth,destination,240,240,240,240,removed in cleanup; inferred
+Poole,destination + origin,239,3,3,239,removed in cleanup
+Port Glasgow,destination + origin,35,35,35,35,
+Portsmouth,destination,69,69,69,69,removed in cleanup; inferred
+QUEBEC DOCKS,destination,1,1,1,1,
+QUEENBORO',destination,1,1,1,1,
+QUEENBOROUGH PIER,destination,3,3,3,3,
+Quebec,destination + origin,1380,1380,1463,1463,removed in cleanup
+Queenborough,destination,15,15,15,15,removed in cleanup; inferred
+R. M,destination,3,3,3,3,
+RAMSEY (ISLE OF MAN),destination,2,2,2,2,
+READING,destination,8,8,10,10,
+REGENT'S,destination,0,0,2,2,inferred
+REGENT'S CANAL,destination,1,1,1,1,
+REGENT'S CANAL DOCK,destination,30,30,30,30,
+REGENT'S CANAL DOCKS,destination,99,99,99,99,
+REGENT'S WHARF,destination,2,2,0,2,removed in cleanup
+ROTHERHITHE,destination,4,4,4,4,
+ROYAL ALBERT DOCK,destination,8,8,8,8,
+ROYAL ALBERT DOCKS,destination,46,46,46,46,
+ROYAL VICTORIA DOCKS,destination,8,8,8,8,
+RTLEPOOL (WEST),destination,1,0,0,1,removed in cleanup
+RUNCORN,destination,1,1,1,1,
+RYE,destination,4,4,4,4,
+Ramsey,destination,11,11,11,11,removed in cleanup; inferred
+Ramsgate,destination,20,20,20,20,removed in cleanup; inferred
+Rochester,destination,100,100,100,100,removed in cleanup; inferred
+SCOTLAND,destination,3,3,3,3,
+SHEERNESS,destination,2,2,2,2,
+SHEERNESS DOCKYARD,destination,1,1,1,1,
+SILVERTOWN,destination,5,5,7,7,
+SILVERTOWN WHARF,destination,2,2,0,2,removed in cleanup
+SKIBBEREEN,destination,5,5,5,5,
+SLIGO,destination,14,14,14,14,
+SOUTH ALLOA,destination,43,43,48,48,
+SOUTH QUEENSFERRY,destination,6,6,6,6,
+ST. DAVID'S,destination,1,1,1,1,
+ST. KATHARINE'S DOCK,destination,4,4,4,4,
+ST. KATHARINE'S DOCKS,destination,4,4,4,4,
+ST. KATHARINE'S WHARF,destination,1,1,0,1,removed in cleanup
+STONE,destination,0,0,2,2,inferred
+STONE STAIRS,destination,2,2,0,2,removed in cleanup
+STRANRAER,destination,4,4,4,4,
+SURREY COMMERCIAL DOCKS,destination,2001,2001,2020,2020,
+SURREY DOCKS,destination,8,8,8,8,
+SWANWICH,destination,14,14,14,14,
+Scarborough,destination,19,19,19,19,removed in cleanup; inferred
+Shoreham,destination,67,67,67,67,removed in cleanup; inferred
+Southampton,destination + origin,321,6,6,321,removed in cleanup
+St.,destination + origin,1,1,2,2,inferred
+Stockton,destination,59,59,59,59,removed in cleanup; inferred
+Stornoway,destination,11,11,11,11,removed in cleanup; inferred
+Sunderland,destination + origin,2608,3,3,2608,removed in cleanup
+Swansea,destination,629,629,660,660,removed in cleanup; inferred
+THE MISSISSIPPI VALLEY,destination,9,9,9,9,
+THE SAGINAW VALLEY,destination,1,1,1,1,
+THE TIMBER TRADES JOURNAL,destination,210,210,0,210,removed in cleanup
+THE TYNE,destination,270,270,275,275,
+THOMAS ROEBUCK & COMPANY (LIMITED),destination,2,2,2,2,
+TILBURY,destination,2,2,2,2,
+TILBURY DOCK,destination,1,1,1,1,
+TILBURY DOCKS,destination,17,17,17,17,
+TRADE ITEMS,destination,3,3,0,3,removed in cleanup
+TRALEE,destination,10,10,10,10,
+TUNNEL PIER,destination,1,1,1,1,
+Teignmouth,destination,22,22,22,22,removed in cleanup; inferred
+Troon,destination + origin,25,1,1,25,removed in cleanup
+Truro,destination,40,40,40,40,removed in cleanup; inferred
+Tyne,destination,1423,1423,1437,1437,removed in cleanup; inferred
+VICTORIA DOCK,destination,6,6,6,6,
+VICTORIA DOCKS,destination,141,141,141,141,
+WEST HARTLEPOOL,destination,1266,1266,1276,1276,
+WEST INDIA DOCKS,destination,22,22,22,22,
+WESTPORT,destination,3,3,3,3,
+WEXFORD,destination,10,10,10,10,
+WIGTOWN,destination,1,1,1,1,
+WISBEACH,destination,1,0,0,1,removed in cleanup
+WISPECH,destination,1,0,0,1,removed in cleanup
+WOODBRIDGE,destination,2,2,2,2,
+Waterford,destination + origin,52,52,58,58,
+Weymouth,destination + origin,14,3,3,14,removed in cleanup
+Whitby,destination,12,12,12,12,removed in cleanup; inferred
+Whitehaven,destination,39,39,39,39,removed in cleanup; inferred
+Wick,destination,68,68,68,68,removed in cleanup; inferred
+Wisbech,destination,193,195,195,195,removed in cleanup; inferred
+Woolwich,destination + origin,12,12,12,12,
+Workington,destination,1,1,1,1,removed in cleanup; inferred
+Y COMMERCIAL DOCKS,destination,2,2,2,2,
+Yarmouth,destination + origin,202,2,2,202,removed in cleanup
+Youghal,destination + origin,12,12,12,12,
+pitwood,destination + origin,351,351,0,351,removed in cleanup

@@ -1,0 +1,25 @@
+{
+  "add_types": [
+    "sabica wood",
+    "brazilite wood",
+    "sapan wood",
+    "sabicu",
+    "cedarwood",
+    "sandalwood"
+  ],
+  "aliases": {
+    "redw00d": "redwood",
+    "deaks": "deals",
+    "dealt ends": "deal ends",
+    "scanning": "scantlings",
+    "palinges": "palings",
+    "vignum vitae": "lignum vitae",
+    "lathewood": "lathwood",
+    "log wood": "logwood",
+    "sapanwood": "sapan wood",
+    "sabica": "sabica wood",
+    "braziliate wood": "brazilite wood",
+    "oars": "other"
+  }
+}
+

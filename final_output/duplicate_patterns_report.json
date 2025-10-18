@@ -1,0 +1,109 @@
+{
+  "exact_dupes_count": 1160,
+  "exact_dupes_total_records": 3672,
+  "consecutive_issues_count": 3,
+  "high_freq_ships_count": 12,
+  "consecutive_issues": [
+    {
+      "file": "13. p. 153-155 - Imports - August 29 1885 - Timber Trades Journal 1885_p001.txt",
+      "start_line": "304",
+      "end_line": "307",
+      "count": 3,
+      "ship": "Medea",
+      "origin": "Krageroe",
+      "dest": "HARTLEPOOL (WEST)"
+    },
+    {
+      "file": "17. p. 302-303 - Imports - April 25 1885 - Timber Trades Journal 1885_p002.txt",
+      "start_line": "50",
+      "end_line": "56",
+      "count": 3,
+      "ship": "Grahant",
+      "origin": "Danzig",
+      "dest": "WISBECH"
+    },
+    {
+      "file": "19. p. 339-341 - Imports - May 9 1885 -Timber Trades Journal 1885_p003.txt",
+      "start_line": "13",
+      "end_line": "2829",
+      "count": 1409,
+      "ship": "Carl XV.",
+      "origin": "Oresund",
+      "dest": "SUNDERLAND"
+    }
+  ],
+  "high_freq_ships": [
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Preussen",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Presto",
+      "count": 170,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Bjorn",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Bifrost",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Zealous",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Benbrack",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Sapphire",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Whiddington",
+      "count": 85,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Veritas",
+      "count": 84,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Finale",
+      "count": 84,
+      "total_in_file": 1112
+    },
+    {
+      "file": "10. p. 100-103 - Imports - August 8 1885 - Timber Trades Journal 1885_p001.txt",
+      "ship": "Poltonzo",
+      "count": 84,
+      "total_in_file": 1112
+    },
+    {
+      "file": "19. p. 339-341 - Imports - May 9 1885 -Timber Trades Journal 1885_p003.txt",
+      "ship": "Carl XV.",
+      "count": 1411,
+      "total_in_file": 1413
+    }
+  ]
+}

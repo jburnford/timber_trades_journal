@@ -1,0 +1,1796 @@
+port_name,original_count,normalized_count,cleaned_count,total_occurrences,first_appears,notes
+'Hambro',2,0,0,2,original,removed as error
+.,2,2,0,2,original,removed as error
+Aaland,1,1,1,1,original,
+Aalborg,1,3,3,3,"original, normalized",count changed in cleanup
+Aalesund,2,4,4,4,"original, normalized",count changed in cleanup
+Aalsund,2,0,0,2,original,removed as error
+Aamaes,1,1,1,1,original,
+Aarhus,1,1,1,1,original,
+Aarhuus,6,6,6,6,original,
+Aasgaardstrand,4,6,6,6,"original, normalized",count changed in cleanup
+Aasgaarstrand,1,0,0,1,original,removed as error
+Aasgardstrand,1,0,0,1,original,removed as error
+Aberdeen,1,1,1,1,original,
+Ablafors,2,2,2,2,original,
+Abo,82,82,82,82,original,
+Abyn,9,9,9,9,original,
+Abyu,1,1,1,1,original,
+Adler,1,1,1,1,original,
+Aguste,1,1,1,1,original,
+Ahla,1,1,1,1,original,
+Ahlafors,30,30,30,30,original,
+Ahlators,1,1,1,1,original,
+Ahlo,1,1,1,1,original,
+Akyab,4,4,4,4,original,
+Aland,2,2,2,2,original,
+Alderney,1,1,1,1,original,
+Alexandria,2,2,2,2,original,
+Aleyn,1,1,1,1,original,
+Alfred,1,1,1,1,original,
+Alfredsham,2,4,4,4,"original, normalized",count changed in cleanup
+Alfredshamn,2,0,0,2,original,removed as error
+"Alma, N.B.",1,1,1,1,original,
+Almeria,1,1,1,1,original,
+Almvik,1,1,1,1,original,
+Alne,1,1,1,1,original,
+Altona,1,1,1,1,original,
+Altu,0,1,1,1,normalized,inferred from context
+Alufors,1,1,1,1,original,
+Alvik,1,1,1,1,original,
+Amo,1,1,1,1,original,
+Amsterdam,30,30,30,30,original,
+Anciola,1,1,1,1,original,
+Ancona,1,1,1,1,original,
+Anga,3,3,3,3,original,
+Anna,1,1,1,1,original,
+Annapolis,5,5,5,5,original,
+"Annapolis, N.S.",1,1,1,1,original,
+Antigua,1,1,1,1,original,
+Antwerp,30,30,30,30,original,
+Apalachicola,40,40,40,40,original,
+Ar-ndal,1,0,0,1,original,removed as error
+Arcachon,27,28,28,28,"original, normalized",count changed in cleanup
+Archangel,558,560,560,560,"original, normalized",count changed in cleanup
+Archangl.,1,0,0,1,original,removed as error
+Areachon,1,0,0,1,original,removed as error
+Arehangel,1,0,0,1,original,removed as error
+Arend,1,1,1,1,original,
+Arendal,230,233,234,234,"original, normalized, cleaned",count changed in cleanup
+Arenos,1,1,1,1,original,
+Areudal,1,0,0,1,original,removed as error
+Arno,13,13,13,13,original,
+Arno Ansag,1,1,1,1,original,
+Arthur,1,1,1,1,original,
+Aruskjoldvick,1,1,1,1,original,
+Asbacka,13,15,15,15,"original, normalized",count changed in cleanup
+Asbacker,1,1,1,1,original,
+Asbacks,1,0,0,1,original,removed as error
+Asbecka,1,0,0,1,original,removed as error
+Astoria,1,1,1,1,original,
+Attona,1,1,1,1,original,
+Attu,11,11,11,11,original,
+Atu,1,0,0,1,original,removed as error
+Auckland,2,2,2,2,original,
+"Auckland, N.Z.",1,1,1,1,original,
+Auray,107,107,107,107,original,
+Aussig,1,1,1,1,original,
+Australia,1,1,1,1,original,
+Aviles,1,1,1,1,original,
+Avonmouth,1,1,1,1,original,
+Away,1,1,1,1,original,
+Axmar,3,3,3,3,original,
+Axmar Bruk,1,1,1,1,original,
+B'torpshamn,1,1,1,1,original,
+Backmann,1,1,1,1,original,
+Baddeck,1,0,0,1,original,removed as error
+Baddick,0,1,1,1,normalized,inferred from context
+Badeck,1,1,1,1,original,
+Bahia,14,14,14,14,original,
+Ballsta,1,0,0,1,original,removed as error
+Balnarte,1,1,1,1,original,
+Baltic,1,1,1,1,original,
+Baltimore,228,228,228,228,original,
+"Baltimore, U.S.A.",1,1,1,1,original,
+Balto,1,1,1,1,original,
+Bangkok,2,2,2,2,original,
+Bangor,15,15,16,16,"original, cleaned",count changed in cleanup
+"Bangor, U.S.",2,2,2,2,original,
+Bangsund,2,2,2,2,original,
+Bankok,1,1,1,1,original,
+Bannesund,1,0,0,1,original,removed as error
+Bannow,1,1,1,1,original,
+Baraharia,1,1,1,1,original,
+Barahona,2,2,2,2,original,
+Barnstaple,3,3,3,3,original,
+Baronne,1,0,0,1,original,removed as error
+Barquero,3,3,3,3,original,
+Bassein,1,1,1,1,original,
+Batavia,1,1,1,1,original,
+Batekarnas,1,1,1,1,original,
+Bath,1,1,1,1,original,
+Bathurst,41,41,41,41,original,
+"Bathurst, N.B.",9,9,9,9,original,
+Batiscan,3,4,4,4,"original, normalized",count changed in cleanup
+Batoum,1,1,1,1,original,
+Batscan,1,0,0,1,original,removed as error
+Batvik,5,5,5,5,original,
+Bawik,1,1,1,1,original,
+Bay Chaleur,1,1,1,1,original,
+Bay Verte,45,46,46,46,"original, normalized",count changed in cleanup
+"Bay Verte, Montreal",1,1,1,1,original,
+"Bay Verte, N B.",1,1,1,1,original,
+"Bay Verte, N.B.",8,8,8,8,original,
+"Bay Verte, N.S.",3,3,3,3,original,
+Bay de Verte,4,4,4,4,original,
+"Bay de Verte, N.B.",1,1,1,1,original,
+Bay of Islands,2,2,2,2,original,
+Bayo nne,1,0,0,1,original,removed as error
+Bayonne,203,205,205,205,"original, normalized",count changed in cleanup
+Bayvert,1,0,0,1,original,removed as error
+Beaufort,1,1,1,1,original,
+"Beaufort, S.C.",2,2,2,2,original,
+Belize,36,36,36,36,original,
+Belle Isle,1,1,1,1,original,
+Bellon,3,3,3,3,original,
+Belon,4,4,4,4,original,
+Bennetts & Co,1,1,1,1,original,
+Benodet,1,1,1,1,original,
+Bergen,2,2,2,2,original,
+Berggvara,0,2,2,2,normalized,inferred from context
+Bergqvara,24,24,24,24,original,
+Bergrara,1,1,1,1,original,
+Bergvara,1,0,0,1,original,removed as error
+Bermuda,5,5,5,5,original,
+Bersiamitz,1,0,0,1,original,removed as error
+Bersimis,8,8,8,8,original,
+Betsiamites,3,0,0,3,original,removed as error
+Betsiamitz,4,8,8,8,"original, normalized",count changed in cleanup
+Bideford,1,0,0,1,original,removed as error
+Bidon,1,1,1,1,original,
+Billien,1,1,1,1,original,
+Billiers,1,1,1,1,original,
+Bindalen,7,7,7,7,original,
+Biornebora,1,1,1,1,original,
+Bisor,1,1,1,1,original,
+Bjerneborg,0,1,1,1,normalized,inferred from context
+Bjneborg,1,0,0,1,original,removed as error
+Bjorn-borg,1,0,0,1,original,removed as error
+Bjornberg,1,1,1,1,original,
+Bjornborg,1,0,0,1,original,removed as error
+Bjorneborg,403,406,407,407,"original, normalized, cleaned",count changed in cleanup
+Bjornemann,1,1,1,1,original,
+Bjornkas,1,1,1,1,original,
+Bjornsborg,1,0,0,1,original,removed as error
+Bjornstorm,1,1,1,1,original,
+Black River,3,3,3,3,original,
+Blaye,61,61,61,61,original,
+Bloody Bay,1,1,1,1,original,
+Bolax,1,1,1,1,original,
+Bolderaa,1,1,1,1,original,
+Bollsta,24,26,26,26,"original, normalized",count changed in cleanup
+Bollsta Bruk,1,1,1,1,original,
+Bolsiamitz,1,1,1,1,original,
+Bolsta,1,0,0,1,original,removed as error
+Bomarsund,1,1,1,1,original,
+Bombay,4,4,4,4,original,
+Bonny,2,2,2,2,original,
+Borde,1,1,1,1,original,
+Bordeaux,821,821,831,831,"original, cleaned",count changed in cleanup
+Bordeaux via London,1,1,1,1,original,
+Bordeaux vid London,1,1,1,1,original,
+Bordx.,1,1,1,1,original,
+Borga,30,31,31,31,"original, normalized",count changed in cleanup
+Borggvara,1,0,0,1,original,removed as error
+Borgn,1,1,1,1,original,
+Borgo,1,1,1,1,original,
+Borrga,1,0,0,1,original,removed as error
+Boston,351,351,351,351,original,
+"Boston, U.S.",2,2,2,2,original,
+Botornshamn,1,1,1,1,original,
+Botorphshamn,1,1,1,1,original,
+Boulogne,2,2,2,2,original,
+Boutouche,1,0,0,1,original,removed as error
+Brahestad,3,3,3,3,original,
+Brahestadt,1,1,1,1,original,
+Brake,8,8,8,8,original,
+Bredvik,1,1,1,1,original,
+Bremen,44,44,44,44,original,
+Brest,11,11,11,11,original,
+Brest pitwood,1,1,1,1,original,
+Brevig,148,148,148,148,original,
+Bridgewater,5,0,0,5,original,removed as error
+"Bridgewater, N.S.",1,1,1,1,original,
+Bridgwater,8,13,13,13,"original, normalized",count changed in cleanup
+"Bridgwater, N.S.",1,1,1,1,original,
+Brisbane,5,5,5,5,original,
+British Columbia,1,1,1,1,original,
+Broke,1,1,1,1,original,
+Bruges,3,3,3,3,original,
+Brunchausen,1,1,1,1,original,
+Brunne,1,1,1,1,original,
+Brunswick,6,6,6,6,original,
+"Brunswick, Ga.",5,0,0,5,original,removed as error
+"Brunswick, Georgia",2,2,2,2,original,
+"Brunswick, U.S",0,5,5,5,normalized,inferred from context
+Brussels,3,3,3,3,original,
+Bstaiamitz,2,2,2,2,original,
+Buctouche,27,28,29,29,"original, normalized, cleaned",count changed in cleanup
+"Buctouche, N.B.",5,5,5,5,original,
+Buenos Ayres,2,2,2,2,original,
+Bure,10,11,11,11,"original, normalized",count changed in cleanup
+Burea,4,4,4,4,original,
+Bureo,1,0,0,1,original,removed as error
+Byake,3,3,3,3,original,
+Byske,8,8,8,8,original,
+C. Helsingfors,1,0,0,1,original,removed as error
+CHRISTIANIA,1,0,0,1,original,removed as error
+Cabenda,1,1,1,1,original,
+Caderona,1,1,1,1,original,
+Caen,8,8,8,8,original,
+Calais,2,2,2,2,original,
+Calcutta,5,5,5,5,original,
+Calileo,1,1,1,1,original,
+Calix,1,1,1,1,original,
+Calmar,82,82,82,82,original,
+Camarina,2,2,2,2,original,
+Camarinas,3,3,3,3,original,
+Cameret,1,1,1,1,original,
+Camla Karleby,0,1,1,1,normalized,inferred from context
+Campbellton,6,6,6,6,original,
+"Campbellton, N.B.",5,0,0,5,original,removed as error
+"Campbelltown, N.B.",1,9,9,9,"original, normalized",count changed in cleanup
+Campbelton,4,4,4,4,original,
+Campbeltown,2,2,2,2,original,
+"Campbeltown, N.B.",3,0,0,3,original,removed as error
+Campechi,1,1,1,1,original,
+Canada,3,3,3,3,original,
+Canarinas,2,2,2,2,original,
+Caneron,1,1,1,1,original,
+Canterbury,1,1,1,1,original,
+Cape Lopez,1,1,1,1,original,
+Caramanal,1,1,1,1,original,
+Caramenal,2,2,2,2,original,
+Caraminas,1,1,1,1,original,
+Carany,1,1,1,1,original,
+Caraquet,4,4,4,4,original,
+"Caraquet, N.B.",4,4,4,4,original,
+Caraquette,4,4,4,4,original,
+Carde,1,1,1,1,original,
+Cardenas,2,2,2,2,original,
+Cardiff,2,2,2,2,original,
+"Cardigan, P.E.I.",1,1,1,1,original,
+Carlberg,2,2,2,2,original,
+Carlisle Bay,1,1,1,1,original,
+Carlscrona,28,29,29,29,"original, normalized",count changed in cleanup
+Carlshamn,20,20,20,20,original,
+Carlskrona,14,14,14,14,original,
+Carlstad,1,1,1,1,original,
+Carlsvik,7,7,7,7,original,
+Carril,18,18,18,18,original,
+Carrol,1,1,1,1,original,
+Castropol,1,1,1,1,original,
+Cayo,1,1,1,1,original,
+Cbristiansand,1,0,0,1,original,removed as error
+Ceara,1,1,1,1,original,
+Ch,1,1,0,1,original,removed as error
+Champion Bay,1,1,1,1,original,
+Charente,7,7,7,7,original,
+Charleston,28,32,32,32,"original, normalized",count changed in cleanup
+"Charleston, N.S.",1,1,1,1,original,
+"Charleston, S.C.",2,2,2,2,original,
+"Charleston, U.S.",1,1,1,1,original,
+Charlestown,4,0,0,4,original,removed as error
+Charlotte Town,36,41,41,41,"original, normalized",count changed in cleanup
+Charlotte Town P,1,0,0,1,original,removed as error
+"Charlotte Town, P.E.I.",3,4,4,4,"original, normalized",count changed in cleanup
+Charlottetown,4,0,0,4,original,removed as error
+"Charlottetown, P E.I.",1,0,0,1,original,removed as error
+Chatham,45,45,45,45,original,
+"Chatham, N. B.",3,0,0,3,original,removed as error
+"Chatham, N.B.",31,34,34,34,"original, normalized",count changed in cleanup
+Chepstow,2,2,2,2,original,
+Cherbourg,1,1,1,1,original,
+Cherril,1,1,1,1,original,
+Chicontima,1,0,0,1,original,removed as error
+Chicontimi,7,8,8,8,"original, normalized",count changed in cleanup
+Chicoutimi,1,1,1,1,original,
+Chiltepec,2,2,2,2,original,
+Chittagong,1,1,1,1,original,
+Christensen,1,1,1,1,original,
+Christian-sand,1,0,0,1,original,removed as error
+Christiana,10,0,0,10,original,removed as error
+Christianand,1,0,0,1,original,removed as error
+Christiania,947,966,969,969,"original, normalized, cleaned",count changed in cleanup
+Christiania and Gothenburg,3,0,0,3,original,removed as error
+Christianople,3,0,0,3,original,removed as error
+Christiansand,375,379,379,379,"original, normalized",count changed in cleanup
+Christiansann,1,0,0,1,original,removed as error
+Christianstad,1,2,2,2,"original, normalized",count changed in cleanup
+Christianstadt,1,0,0,1,original,removed as error
+Christiansund,11,11,11,11,original,
+Christina,1,0,0,1,original,removed as error
+Christine,1,1,1,1,original,
+Christinestad,9,9,9,9,original,
+Christinestadt,9,9,9,9,original,
+Cienfuegos,9,9,9,9,original,
+Cimbritshamn,1,1,1,1,original,
+City St. Domingo,1,1,1,1,original,
+City of Domingo,1,1,1,1,original,
+City of Son,1,1,1,1,original,
+Clare,1,1,1,1,original,
+Clare Castle,1,1,1,1,original,
+Co,1,1,0,1,original,removed as error
+Coastwise,1,1,1,1,original,
+"Coatzcoalcos, Mexico",1,1,1,1,original,
+Cocagne,5,5,5,5,original,
+"Cocagne, N.B.",2,2,2,2,original,
+"Cocaigne, N.B.",1,1,1,1,original,
+Cochin,3,3,3,3,original,
+Cochon,1,1,1,1,original,
+Coconada,1,1,1,1,original,
+Colberg,21,21,21,21,original,
+Colbergermunde,2,2,2,2,original,
+Colbjornsen,1,1,1,1,original,
+Colombo,16,16,16,16,original,
+Colon,2,2,2,2,original,
+Comarina,1,1,1,1,original,
+Concarnean,1,0,0,1,original,removed as error
+Concarneau,2,4,4,4,"original, normalized",count changed in cleanup
+Constantinople,31,31,31,31,original,
+Copenhagen,9,9,9,9,original,
+Corcarneau,1,0,0,1,original,removed as error
+Corcubion,1,1,1,1,original,
+Corfu,1,1,1,1,original,
+Coristiansand,1,0,0,1,original,removed as error
+Cork,4,4,4,4,original,
+"Cornwallis, N.S.",1,1,1,1,original,
+Corronne,1,1,1,1,original,
+Corunna,52,52,52,52,original,
+Croisic,1,1,1,1,original,
+Cronstad,3,0,0,3,original,removed as error
+Cronstadt,1205,1210,1216,1216,"original, normalized, cleaned",count changed in cleanup
+Cronstudt,1,0,0,1,original,removed as error
+Cuba,1,1,1,1,original,
+Cumberland Basin,1,1,1,1,original,
+Cunbushamn,1,1,1,1,original,
+Curagoa,1,1,1,1,original,
+Cuxhaven,1,1,1,1,original,
+D'anzig,1,0,0,1,original,removed as error
+Dago,3,3,3,3,original,
+Dahlkarlsa,1,1,1,1,original,
+Dalhousie,46,46,46,46,original,
+"Dalhousie, N.B.",4,4,4,4,original,
+Dalkarlsa,4,4,4,4,original,
+Dame d'Esperance,1,1,1,1,original,
+Dantric,1,0,0,1,original,removed as error
+Dantzic,137,149,151,151,"original, normalized, cleaned",count changed in cleanup
+Dantzie,8,0,0,8,original,removed as error
+Dantzig,15,15,15,15,original,
+Dantzio,3,0,0,3,original,removed as error
+Danzic,11,11,11,11,original,
+Danzig,587,588,592,592,"original, normalized, cleaned",count changed in cleanup
+Darien,97,97,97,97,original,
+Darklkahn,2,2,2,2,original,
+Delfhaven,1,1,1,1,original,
+Delfshaven,1,1,1,1,original,
+Demerara,34,34,34,34,original,
+Denmark,1,1,1,1,original,
+Derby,1,1,1,1,original,
+Dieppe,16,16,16,16,original,
+"Digby, N.S.",1,1,1,1,original,
+Djupvik,5,5,5,5,original,
+Dobay,1,1,1,1,original,
+Dobery,1,1,1,1,original,
+Doboy,50,50,50,50,original,
+Dohlkarsla,1,1,1,1,original,
+Domejo,1,1,1,1,original,
+Domjo,1,0,0,1,original,removed as error
+Domsjo,25,26,26,26,"original, normalized",count changed in cleanup
+Domsjo and Nordsmalings,1,1,1,1,original,
+Donelan,8,8,8,8,original,
+Donlin,1,1,1,1,original,
+Dorchester,2,2,2,2,original,
+Dordrecht,27,27,27,27,original,
+Dordt,63,64,64,64,"original, normalized",count changed in cleanup
+Dorkt,1,1,1,1,original,
+Dort,1,0,0,1,original,removed as error
+Douarnenez,3,3,3,3,original,
+Drag,2,2,2,2,original,
+Draget,1,1,1,1,original,
+Dram,228,229,231,231,"original, normalized, cleaned",count changed in cleanup
+Drambak,1,1,1,1,original,
+Dramen,1,0,0,1,original,removed as error
+Drammen,541,542,542,542,"original, normalized",count changed in cleanup
+Dramn,1,0,0,1,original,removed as error
+Drangsoud,1,1,1,1,original,
+Dranklippan,1,1,1,1,original,
+Drebak,1,1,1,1,original,
+Drng,1,1,1,1,original,
+Droback,1,0,0,1,original,removed as error
+Drobak,21,22,22,22,"original, normalized",count changed in cleanup
+Drogheda,2,2,2,2,original,
+Dronning,1,1,1,1,original,
+Drontheim,106,108,108,108,"original, normalized",count changed in cleanup
+Dronthiem,2,0,0,2,original,removed as error
+"Drysdale, N.B.",1,1,1,1,original,
+Dublin,2,2,2,2,original,
+Dumfries,1,1,1,1,original,
+Dungarvon,1,1,1,1,original,
+Dunkirk,3,3,3,3,original,
+Dwarf,1,1,1,1,original,
+E. Pascagoula,1,0,0,1,original,removed as error
+East Indies,0,8,8,8,normalized,inferred from context
+East Port,1,1,1,1,original,
+Eatonville,2,2,2,2,original,
+Economy,2,2,2,2,original,
+Economy Point,1,1,1,1,original,
+"Economy Point, Nova Scotia",1,1,1,1,original,
+"Economy, N.B.",1,1,1,1,original,
+"Economy, N.S.",4,4,4,4,original,
+"Economy, U.S.",1,1,1,1,original,
+Egersund,1,1,1,1,original,
+Eggesund,1,0,0,1,original,removed as error
+Ekenas,5,5,5,5,original,
+Eloby,1,1,1,1,original,
+Elsfleth,1,1,1,1,original,
+Elsinore,3,3,3,3,original,
+Emil,2,2,2,2,original,
+Emilie,1,1,1,1,original,
+Enoch,1,1,1,1,original,
+Esbjerg,1,1,1,1,original,
+Esborg,1,1,1,1,original,
+Escoumains,2,2,2,2,original,
+Esperanza,1,1,1,1,original,
+Essequibo,1,1,1,1,original,
+Essvick,1,0,0,1,original,removed as error
+Essvik,2,9,9,9,"original, normalized",count changed in cleanup
+Essviken,5,0,0,5,original,removed as error
+Esurken,1,1,1,1,original,
+Esvik,1,0,0,1,original,removed as error
+F' stad,1,1,1,1,original,
+F'dericksvoern,1,1,1,1,original,
+F'dksvoern,1,1,1,1,original,
+F'drikstvoern,1,1,1,1,original,
+F'driksvoern,1,0,0,1,original,removed as error
+F'kstad,2,2,2,2,original,
+F'shald,10,10,10,10,original,
+F'stad,21,0,0,21,original,removed as error
+F'stad.,1,1,1,1,original,
+F'stadt,6,6,6,6,original,
+Faaborg,2,0,0,2,original,removed as error
+Fagervik,1,1,1,1,original,
+Fahrsund,1,0,0,1,original,removed as error
+Falkenb'g,1,1,1,1,original,
+Falkenberg,131,132,132,132,"original, normalized",count changed in cleanup
+Falkenburg,79,79,79,79,original,
+Falkonberg,1,0,0,1,original,removed as error
+Faon,2,2,2,2,original,
+Farosund,2,2,2,2,original,
+Farsund,4,5,5,5,"original, normalized",count changed in cleanup
+Fecamp,1,1,1,1,original,
+Fedrikstad,1,0,0,1,original,removed as error
+Ferdinandina,1,0,0,1,original,removed as error
+Fernandina,16,17,17,17,"original, normalized",count changed in cleanup
+Fernavik,1,1,1,1,original,
+Ferrol,24,24,24,24,original,
+Fide,1,1,1,1,original,
+Figeholm,25,25,25,25,original,
+Finklippan,94,94,94,94,original,
+Finland,2,2,2,2,original,
+Finnklippan,24,24,24,24,original,
+Fiume,34,34,34,34,original,
+Fiume and Trieste,2,2,2,2,original,
+Five Islands,2,2,2,2,original,
+"Five Islands, N.S.",1,1,1,1,original,
+Flekkiefiord,1,1,1,1,original,
+Flekkifiord,1,1,1,1,original,
+Flushing,4,4,4,4,original,
+Fogelvik,1,1,1,1,original,
+Fordeux,1,1,1,1,original,
+Forrsogrund,1,1,1,1,original,
+Forsabyham,1,1,1,1,original,
+Forsby,1,1,1,1,original,
+Forsgrund,1,0,0,1,original,removed as error
+Forsly Ham,1,1,1,1,original,
+Fort Cortes,1,1,1,1,original,
+"Fort Royal, U.S.A.",1,0,0,1,original,removed as error
+Fowstkage,1,1,1,1,original,
+Fr. Laxa,1,1,1,1,original,
+France,1,1,1,1,original,
+Franck,1,1,1,1,original,
+Frangsound,1,0,0,1,original,removed as error
+Frankhald,1,1,1,1,original,
+Frano,2,3,3,3,"original, normalized",count changed in cleanup
+Fre.irikshald,1,0,0,1,original,removed as error
+Fred-rikstad,1,0,0,1,original,removed as error
+Frederickshald,5,0,0,5,original,removed as error
+Fredericksham,1,0,0,1,original,removed as error
+Frederickstad,3,0,0,3,original,removed as error
+Frederickstadt,11,0,0,11,original,removed as error
+Fredericksvoern,2,0,0,2,original,removed as error
+Frederiksen,1,0,0,1,original,removed as error
+Frederikshald,10,15,15,15,"original, normalized",count changed in cleanup
+Frederikshaldt,1,0,0,1,original,removed as error
+Frederikshall,1,0,0,1,original,removed as error
+Frederiksham,1,0,0,1,original,removed as error
+Frederikstad,17,31,31,31,"original, normalized",count changed in cleanup
+Frederikstadt,14,0,0,14,original,removed as error
+Frederiksvoern,10,0,0,10,original,removed as error
+Frederiksvorn,1,0,0,1,original,removed as error
+Fredrickshald,6,0,0,6,original,removed as error
+Fredrickshaldt,4,0,0,4,original,removed as error
+Fredrickshamn,5,0,0,5,original,removed as error
+Fredrickstad,3,0,0,3,original,removed as error
+Fredrickstadt,11,0,0,11,original,removed as error
+Fredriksbald,1,0,0,1,original,removed as error
+Fredrikshald,208,221,221,221,"original, normalized",count changed in cleanup
+Fredriksham,2,3,3,3,"original, normalized",count changed in cleanup
+Fredrikshamm,1,0,0,1,original,removed as error
+Fredrikshamn,14,21,21,21,"original, normalized",count changed in cleanup
+Fredrikshavn,1,0,0,1,original,removed as error
+Fredriksta,1,0,0,1,original,removed as error
+Fredrikstad,315,374,374,374,"original, normalized",count changed in cleanup
+Fredrikstadt,92,93,93,93,"original, normalized",count changed in cleanup
+Fredriksvern,1,0,0,1,original,removed as error
+Fredriksvoarn,1,0,0,1,original,removed as error
+Fredriksvoern,12,27,27,27,"original, normalized",count changed in cleanup
+Fredriksvorn,1,0,0,1,original,removed as error
+Fredrikvaern,1,0,0,1,original,removed as error
+Fridrikstadt,1,0,0,1,original,removed as error
+Fritzoe,3,3,3,3,original,
+Frontera,2,2,2,2,original,
+Frontera de Tabasco,2,2,2,2,original,
+Frostkage,1,1,1,1,original,
+Frostkorge,1,1,1,1,original,
+Fuen,1,1,1,1,original,
+Furugrund,1,0,0,1,original,removed as error
+Furuogrund,6,7,7,7,"original, normalized",count changed in cleanup
+G'brg,1,1,1,1,original,
+G'burg,108,0,0,108,original,removed as error
+G'burg.,3,3,3,3,original,
+G'stadt,1,1,1,1,original,
+Gaboon,3,3,3,3,original,
+Gala,1,1,1,1,original,
+Galeatacka,1,1,1,1,original,
+Gallsta,1,0,0,1,original,removed as error
+Galveston,9,9,9,9,original,
+Galway,4,4,4,4,original,
+Gamla Carleby,1,1,1,1,original,
+Gamla Karleby,1,0,0,1,original,removed as error
+Gamlastadt,1,1,1,1,original,
+Gamleby,2,2,2,2,original,
+Gaspe,5,5,5,5,original,
+Gebens,1,1,1,1,original,
+Gedeabuella,1,1,1,1,original,
+Gefle,662,662,664,664,"original, cleaned",count changed in cleanup
+Gefle and Sandarne,1,1,1,1,original,
+Gefle and Skutskar,1,1,1,1,original,
+Geila,1,1,1,1,original,
+Genoa,6,6,6,6,original,
+Georgetown,2,2,2,2,original,
+Germany,1,1,1,1,original,
+Geschwister,2,2,2,2,original,
+Ghent,3,3,3,3,original,
+Gibara,1,0,0,1,original,removed as error
+Gibara (Cuba),0,1,1,1,normalized,inferred from context
+"Gibara, Cuba",1,0,0,1,original,removed as error
+Gibra,0,1,1,1,normalized,inferred from context
+Gideabacka,4,5,5,5,"original, normalized",count changed in cleanup
+Gidebacha,2,2,2,2,original,
+Gidebacka,1,0,0,1,original,removed as error
+Gidenbacha,1,1,1,1,original,
+Gloucester,1,1,1,1,original,
+Gnarp,2,2,2,2,original,
+Go'burg,1,1,1,1,original,
+Gopaulpore,1,1,1,1,original,
+Goteborg,6,6,6,6,original,
+Goth,1,1,1,1,original,
+Gotheaburg,1,0,0,1,original,removed as error
+Gothen-burg,1,0,0,1,original,removed as error
+Gothenb'g,1,1,1,1,original,
+Gothenberg,4,0,0,4,original,removed as error
+Gothenborg,1,0,0,1,original,removed as error
+Gothenburg,1417,1546,1553,1553,"original, normalized, cleaned",count changed in cleanup
+Gothenburg and Cronstadt,1,1,1,1,original,
+Gothenburg and Fredrikstad,1,0,0,1,original,removed as error
+Gottenburg,14,0,0,14,original,removed as error
+Gotterburg,1,1,1,1,original,
+Grainsland,1,1,1,1,original,
+Grand Bay,1,1,1,1,original,
+Grangemouth,1,1,1,1,original,
+Granville,1,1,1,1,original,
+Green Island,1,1,1,1,original,
+Greytown,1,1,1,1,original,
+Grimsby,4,4,4,4,original,
+Grimstad,38,38,38,38,original,
+Grimstadt,23,23,23,23,original,
+Grinsted,1,1,1,1,original,
+Grop,1,1,1,1,original,
+Guantanamo,1,1,1,1,original,
+Gudingen,1,1,1,1,original,
+Guernsey,1,1,1,1,original,
+Gustafsberg,9,9,9,9,original,
+Gustafshamn,1,1,1,1,original,
+Guttstrom,1,1,1,1,original,
+Guysboro',2,2,2,2,original,
+"Guysboro', N.S.",1,0,0,1,original,removed as error
+"Guysboro, N.S.",0,2,2,2,normalized,inferred from context
+"Guysboro,' N.S.",1,0,0,1,original,removed as error
+Guysborough,2,2,2,2,original,
+"Guysborough, N.S.",3,3,3,3,original,
+Gymer,1,1,1,1,original,
+H,1,1,0,1,original,removed as error
+H'bont,1,1,1,1,original,
+Ha,1,1,0,1,original,removed as error
+Haab,1,1,1,1,original,
+Hakala,2,0,0,2,original,removed as error
+Hakkala,1,3,3,3,"original, normalized",count changed in cleanup
+Halax,1,1,1,1,original,
+Halifax,63,63,64,64,"original, cleaned",count changed in cleanup
+Halifax and Baltimore,1,1,1,1,original,
+Halifax and Philadelphia,1,1,1,1,original,
+Halifax and Portland,1,1,1,1,original,
+"Halifax, N.",1,0,0,1,original,removed as error
+"Halifax, N. B.",0,2,2,2,normalized,inferred from context
+"Halifax, N.B.",2,0,0,2,original,removed as error
+"Halifax, N.S.",26,27,27,27,"original, normalized",count changed in cleanup
+Halista,1,0,0,1,original,removed as error
+Halix,1,1,1,1,original,
+Hallsta,33,36,36,36,"original, normalized",count changed in cleanup
+Hallstavik,1,1,1,1,original,
+Halmestrand,2,0,0,2,original,removed as error
+Halmnholmen,1,0,0,1,original,removed as error
+Halmstad,188,192,192,192,"original, normalized",count changed in cleanup
+Halmstadt,47,48,48,48,"original, normalized",count changed in cleanup
+Halso,1,1,1,1,original,
+Halsoen,1,1,1,1,original,
+Halsta,1,0,0,1,original,removed as error
+Halstad,2,0,0,2,original,removed as error
+Hambro,7,21,21,21,"original, normalized",count changed in cleanup
+Hambro',12,0,0,12,original,removed as error
+Hamburg,73,79,79,79,"original, normalized",count changed in cleanup
+Hamburgh,1,0,0,1,original,removed as error
+Hamnholmen,1,2,2,2,"original, normalized",count changed in cleanup
+Hamstad,2,0,0,2,original,removed as error
+Hangesund,4,0,0,4,original,removed as error
+Hango,3,3,3,3,original,
+Hansta,1,1,1,1,original,
+Hantsport,1,1,1,1,original,
+Haparanda,25,25,25,25,original,
+Harborg,1,1,1,1,original,
+Harbour,1,1,1,1,original,
+Harburg,5,0,0,5,original,removed as error
+Harg,2,2,2,2,original,
+Harlingen,2,2,2,2,original,
+Harnas,23,23,23,23,original,
+Harne,1,1,1,1,original,
+Havana,3,3,3,3,original,
+Havre,33,33,33,33,original,
+Hayle,1,1,1,1,original,
+Haynasch,2,2,2,2,original,
+Haynash,2,2,2,2,original,
+Held,1,1,1,1,original,
+Helmstadt,1,0,0,1,original,removed as error
+Helmsund,1,0,0,1,original,removed as error
+Helsingborg,2,2,2,2,original,
+Helsingfors,100,103,103,103,"original, normalized",count changed in cleanup
+Helsingfors and Kotka,1,1,1,1,original,
+Helsingforst,1,0,0,1,original,removed as error
+Hennebont,156,157,158,158,"original, normalized, cleaned",count changed in cleanup
+Hennebout,1,0,0,1,original,removed as error
+Hernefors,1,1,1,1,original,
+Hernhamn,1,1,1,1,original,
+Hernosan,1,0,0,1,original,removed as error
+Hernosand,160,191,191,191,"original, normalized",count changed in cleanup
+Hernosand and Stockholm,1,1,1,1,original,
+Hernosaud,14,0,0,14,original,removed as error
+Hernossand,11,0,0,11,original,removed as error
+Hernsand,5,0,0,5,original,removed as error
+Herr,1,1,1,1,original,
+Herre,1,1,1,1,original,
+"Herring Neck, N.fld.",1,1,1,1,original,
+Herte,1,1,1,1,original,
+Hietanen,4,4,4,4,original,
+Hillsborough N.B.,1,1,1,1,original,
+Hjorthammar,1,1,1,1,original,
+Hobart,1,1,1,1,original,
+Hobart Town,4,4,4,4,original,
+Hoenash,1,1,1,1,original,
+Hollen,1,1,1,1,original,
+Holm,1,1,1,1,original,
+Holme-strand,1,0,0,1,original,removed as error
+Holmestad,2,0,0,2,original,removed as error
+Holmestrad,1,0,0,1,original,removed as error
+Holmestrand,55,61,61,61,"original, normalized",count changed in cleanup
+Holms,1,1,1,1,original,
+Holmstad,14,0,0,14,original,removed as error
+Holmstadt,10,24,24,24,"original, normalized",count changed in cleanup
+Holmstrand,34,34,34,34,original,
+Holmsund,46,47,47,47,"original, normalized",count changed in cleanup
+Holsingfors,1,0,0,1,original,removed as error
+Holsta,1,1,1,1,original,
+Hommelvig,1,0,0,1,original,removed as error
+Hommelvik,28,29,29,29,"original, normalized",count changed in cleanup
+Honduras,2,2,2,2,original,
+Honfleur,2,2,2,2,original,
+Hornefors,3,3,3,3,original,
+Horseno,1,0,0,1,original,removed as error
+Horsens,0,1,1,1,normalized,inferred from context
+Horten,3,3,3,3,original,
+Hosnas,1,1,1,1,original,
+Housie,1,1,1,1,original,
+Hower,1,1,1,1,original,
+Huddickwall,1,0,0,1,original,removed as error
+Hudicksvall,1,0,0,1,original,removed as error
+Hudickswall,4,0,0,4,original,removed as error
+Hudik swall,1,0,0,1,original,removed as error
+Hudiksval,1,0,0,1,original,removed as error
+Hudiksvall,19,21,21,21,"original, normalized",count changed in cleanup
+Hudikswall,201,207,208,208,"original, normalized, cleaned",count changed in cleanup
+Huelva,1,1,1,1,original,
+Hull,3,3,3,3,original,
+Hulst,1,1,1,1,original,
+Hushgoik,2,2,2,2,original,
+Husum,35,35,35,35,original,
+Hyvik,1,1,1,1,original,
+IN,1,1,0,1,original,removed as error
+Idefjord,0,1,1,1,normalized,inferred from context
+Iggesund,45,46,46,46,"original, normalized",count changed in cleanup
+Inverleith Windau,1,1,1,1,original,
+Inverness,1,1,1,1,original,
+Ipswich,1,1,1,1,original,
+Italy,2,2,2,2,original,
+Itea,0,1,1,1,normalized,inferred from context
+Itiga,1,1,1,1,original,
+Itzehoe,1,1,1,1,original,
+Jacobstad,35,35,35,35,original,
+Jacobstadt,6,6,6,6,original,
+Jamacia,1,0,0,1,original,removed as error
+Jamaica,46,47,47,47,"original, normalized",count changed in cleanup
+Java,1,1,1,1,original,
+Jemtosund,1,1,1,1,original,
+Jerfed,2,2,2,2,original,
+Joannesund,1,1,1,1,original,
+"Joggins, N.S.",1,1,1,1,original,
+Johan,1,1,1,1,original,
+Johannesnass,1,1,1,1,original,
+Johannesvik,1,1,1,1,original,
+John,1,1,1,1,original,
+Jordan River,3,3,3,3,original,
+"Jordan River, N.S.",2,2,2,2,original,
+Josephine,1,1,1,1,original,
+Jule,1,1,1,1,original,
+K. Tor,1,1,1,1,original,
+Kaipara,1,1,1,1,original,
+Kalix,6,6,6,6,original,
+Kallio,1,1,1,1,original,
+Kalmar,30,30,30,30,original,
+Kannissaru,1,0,0,1,original,removed as error
+Kannissoari,0,1,1,1,normalized,inferred from context
+Karenhdel,1,1,1,1,original,
+Karhula,1,1,1,1,original,
+Karleby,1,1,1,1,original,
+Karlscrona,1,0,0,1,original,removed as error
+Karlskrona,3,3,3,3,original,
+Karlstad,1,1,1,1,original,
+Katka,1,1,1,1,original,
+Katthammaravik,2,2,2,2,original,
+Katthammarsvik,1,1,1,1,original,
+Kaumussan,1,1,1,1,original,
+Kemi,37,37,37,37,original,
+Kersvik,1,1,1,1,original,
+Key West,1,1,1,1,original,
+Kiga,1,1,1,1,original,
+Killeviken,1,1,1,1,original,
+Kimouski,1,0,0,1,original,removed as error
+Kimovski,1,1,1,1,original,
+Kingsgar,1,1,1,1,original,
+Kingsgarden,1,0,0,1,original,removed as error
+Kingston,6,6,6,6,original,
+Kioja,1,1,1,1,original,
+Klampenberg,1,1,1,1,original,
+Klampenborg,2,2,2,2,original,
+Klasviken,1,1,1,1,original,
+Klintehamn,1,1,1,1,original,
+Klippe,1,1,1,1,original,
+Ko,1,1,0,1,original,removed as error
+Koga,1,1,1,1,original,
+Koja,6,6,6,6,original,
+Kon'gsberg,1,0,0,1,original,removed as error
+Kongsberg,1,0,0,1,original,removed as error
+Konigsaberg,1,0,0,1,original,removed as error
+Konigsberg,214,221,221,221,"original, normalized",count changed in cleanup
+Konigsburg,4,0,0,4,original,removed as error
+Konstadt,1,1,1,1,original,
+Koping,4,0,0,4,original,removed as error
+Kopmanhalmon,1,1,1,1,original,
+Kopmanholman,1,0,0,1,original,removed as error
+Kopmanholmen,6,7,7,7,"original, normalized",count changed in cleanup
+Kopmansholmen,4,4,4,4,original,
+Kothka,1,0,0,1,original,removed as error
+Kotka,296,297,297,297,"original, normalized",count changed in cleanup
+Krager o,1,0,0,1,original,removed as error
+Kragero,64,69,69,69,"original, normalized",count changed in cleanup
+Krageroc,2,0,0,2,original,removed as error
+Krageroe,189,189,189,189,original,
+Krageros,2,0,0,2,original,removed as error
+Kramfors,51,51,51,51,original,
+Kristinestad,2,2,2,2,original,
+Kubikenborg,1,1,1,1,original,
+Kungsbacka,1,1,1,1,original,
+Kungsgarden,1,4,4,4,"original, normalized",count changed in cleanup
+Kungsgarten,2,0,0,2,original,removed as error
+Kungshamn,1,1,1,1,original,
+Kurrachee,1,1,1,1,original,
+Kylom,1,1,1,1,original,
+Kylorn,6,6,6,6,original,
+L'Orient,5,0,0,5,original,removed as error
+L'orient,0,77,77,77,normalized,inferred from context
+La Roche Bernard,1,0,0,1,original,removed as error
+La Rochelle,40,40,40,40,original,
+Laguna,4,5,5,5,"original, normalized",count changed in cleanup
+Laguna de Terminos,3,3,3,3,original,
+Lagunade,1,0,0,1,original,removed as error
+Laguno,1,1,1,1,original,
+Landerneau,8,8,8,8,original,
+Landgangen,4,4,4,4,original,
+Landsburg,1,1,1,1,original,
+Landscrona,1,1,1,1,original,
+Landskrona,2,2,2,2,original,
+Lang,1,1,1,1,original,
+Langangen,2,2,2,2,original,
+Langesund,39,43,43,43,"original, normalized",count changed in cleanup
+Langoer,1,0,0,1,original,removed as error
+Langron,0,1,1,1,normalized,inferred from context
+Langronna,1,0,0,1,original,removed as error
+Langror,34,36,36,36,"original, normalized",count changed in cleanup
+Lappvik,11,11,11,11,original,
+Lauivg,1,1,1,1,original,
+Launay,2,2,2,2,original,
+Launig,2,2,2,2,original,
+Laurrig,1,0,0,1,original,removed as error
+Laurvig,340,342,344,344,"original, normalized, cleaned",count changed in cleanup
+Laurvigen,1,0,0,1,original,removed as error
+Le'que,2,2,2,2,original,
+Leer,1,1,1,1,original,
+Lefjefjord,1,1,1,1,original,
+Leghorn,11,11,11,11,original,
+Legne,1,1,1,1,original,
+Legue,2,2,2,2,original,
+Leontine,1,1,1,1,original,
+Leopold,1,1,1,1,original,
+Lepreux,1,1,1,1,original,
+Leque,1,1,1,1,original,
+Leroy,1,1,1,1,original,
+Lervik,1,1,1,1,original,
+Levanger,2,2,2,2,original,
+Levarger,1,1,1,1,original,
+Levo,1,1,1,1,original,
+Libau,64,64,64,64,original,
+Lilla Vartan,1,1,1,1,original,
+Lilla Varten,1,1,1,1,original,
+Lilla Warten,1,1,1,1,original,
+Lillesand,22,22,22,22,original,
+Limerick,3,3,3,3,original,
+Lisbon,1,1,1,1,original,
+Liscomb,1,0,0,1,original,removed as error
+Liscombe,3,4,4,4,"original, normalized",count changed in cleanup
+"Liscombe, N. S.",0,3,3,3,normalized,inferred from context
+"Liscombe, N.S.",3,0,0,3,original,removed as error
+Liverpool,1,1,1,1,original,
+"Liverpool, N.S.",2,2,2,2,original,
+Livingston,2,2,2,2,original,
+Ljughorn,1,1,1,1,original,
+Ljurne,1,1,1,1,original,
+Ljusne,129,129,130,130,"original, cleaned",count changed in cleanup
+Lockne,1,1,1,1,original,
+Lockno,5,5,5,5,original,
+Londorgroen,1,1,1,1,original,
+Lorient,65,65,71,71,"original, cleaned",count changed in cleanup
+Lorkno,1,1,1,1,original,
+Louise,1,1,1,1,original,
+Louvain,6,6,6,6,original,
+Lovisa,31,31,31,31,original,
+Lower Kalix,1,1,1,1,original,
+Lower Lauenburg,1,1,1,1,original,
+Luarca,2,2,2,2,original,
+Lubeck,1,1,1,1,original,
+Lugnooh,1,1,1,1,original,
+Lugnvik,4,5,5,5,"original, normalized",count changed in cleanup
+Luguvik,1,0,0,1,original,removed as error
+Luhe,1,1,1,1,original,
+Lulea,176,177,177,177,"original, normalized",count changed in cleanup
+Lules,1,1,1,1,original,
+Lund,0,1,1,1,normalized,inferred from context
+Lymington,1,1,1,1,original,
+Lyngoer,4,4,4,4,original,
+Lyngoor,1,1,1,1,original,
+Lyrgoer,1,1,1,1,original,
+Lysekil,2,2,2,2,original,
+Lysekvil,1,1,1,1,original,
+"MILL COMPANY, Johnstone Saw",1,1,1,1,original,
+MONTREAL,1,0,0,1,original,removed as error
+Mabon,1,1,1,1,original,
+Maccaw,1,1,1,1,original,
+Madras,7,7,7,7,original,
+Madsen,1,1,1,1,original,
+Magdalen River,7,7,7,7,original,
+Mahone Bay,1,1,1,1,original,
+Malmo,8,8,8,8,original,
+Mandal,70,70,70,70,original,
+Manilla,8,8,8,8,original,
+Manzanilla,1,1,1,1,original,
+Manzanillo,1,1,1,1,original,
+Maracaibo,1,1,1,1,original,
+Maraham,1,1,1,1,original,
+Maramham,1,1,1,1,original,
+Maranham,1,1,1,1,original,
+Margarethe,1,1,1,1,original,
+Margretha,1,1,1,1,original,
+Maria,1,1,1,1,original,
+Marie,1,1,1,1,original,
+Marieberg,2,2,2,2,original,
+Marma,1,1,1,1,original,
+Marseilles,13,13,13,13,original,
+Mass,1,1,1,1,original,
+Matane,12,12,12,12,original,
+Matanzas,1,1,1,1,original,
+Matawa,1,1,1,1,original,
+Mauritius,3,3,3,3,original,
+Mazatlan,1,1,1,1,original,
+Mediterranean,21,21,21,21,original,
+Melbourne,4,4,4,4,original,
+Melbu,1,1,1,1,original,
+Melchers,1,1,1,1,original,
+Mem,23,23,23,23,original,
+Memel,713,713,716,716,"original, cleaned",count changed in cleanup
+Mera,1,1,1,1,original,
+Merlaix,1,0,0,1,original,removed as error
+Mesane,28,28,28,28,original,
+Meschers,5,5,5,5,original,
+Mesen,1,1,1,1,original,
+Mesquer,1,1,1,1,original,
+Metane,1,1,1,1,original,
+Metis,24,24,24,24,original,
+Mexico,2,2,2,2,original,
+Middlepart,1,1,1,1,original,
+Milford,2,2,2,2,original,
+Milk River,1,1,1,1,original,
+Miller,1,1,1,1,original,
+Milsamvig,1,1,1,1,original,
+Milsemvig,1,1,1,1,original,
+Minatitlan,60,60,61,61,"original, cleaned",count changed in cleanup
+Miramichi,295,296,300,300,"original, normalized, cleaned",count changed in cleanup
+Miramichi York,1,1,1,1,original,
+"Miramichi, N.B.",5,5,5,5,original,
+Miramishi,1,0,0,1,original,removed as error
+Missouri,1,1,1,1,original,
+Mobile,105,105,105,105,original,
+"Mobile, Ala.",1,1,1,1,original,
+Mogensen,1,1,1,1,original,
+Molde,1,1,1,1,original,
+Moller,1,1,1,1,original,
+Mona's Isle,1,1,1,1,original,
+"Moncton, N.B.",1,1,1,1,original,
+Mone,1,1,1,1,original,
+Monksund,1,0,0,1,original,removed as error
+Monsquodoboit,1,1,1,1,original,
+Monsteras,58,58,58,58,original,
+Montreal,318,319,322,322,"original, normalized, cleaned",count changed in cleanup
+Montreal and Quebec,2,2,2,2,original,
+Montrose,1,1,1,1,original,
+Morant Bay,3,3,3,3,original,
+Morlaix,35,37,37,37,"original, normalized",count changed in cleanup
+Morliax,1,0,0,1,original,removed as error
+Mosane,1,1,1,1,original,
+Mose,1,1,1,1,original,
+"Moser River, N.S.",1,1,1,1,original,
+Moss,92,92,92,92,original,
+Moulmein,22,22,22,22,original,
+Moum,1,1,1,1,original,
+Muhlgraben,4,4,4,4,original,
+Munksund,4,5,5,5,"original, normalized",count changed in cleanup
+Muros,7,7,7,7,original,
+Murphy,1,1,1,1,original,
+Murray,1,1,1,1,original,
+Musquash,12,12,12,12,original,
+"Musquash, N. B.",1,1,1,1,original,
+"Musquash, N.B.",2,2,2,2,original,
+Musquodoboit,1,1,1,1,original,
+N,2,2,0,2,original,removed as error
+N. Orleans,2,0,0,2,original,removed as error
+N. York,5,5,5,5,original,
+N.B.,1,1,1,1,original,
+Nadoscha,1,1,1,1,original,
+Nafso,1,1,1,1,original,
+Namsos,49,49,50,50,"original, cleaned",count changed in cleanup
+Nantes,66,66,66,66,original,
+Narrkoping,1,0,0,1,original,removed as error
+Narva,95,95,95,95,original,
+Naske,0,1,1,1,normalized,inferred from context
+Naskee,1,0,0,1,original,removed as error
+Nassau,2,2,2,2,original,
+Nassau Tonala,1,1,1,1,original,
+Neder Calix,21,21,21,21,original,
+Neder Kalix,83,83,83,83,original,
+Neder Kalix and Sweden,1,1,1,1,original,
+Nedercalix,2,3,3,3,"original, normalized",count changed in cleanup
+Nederkalix,9,9,9,9,original,
+Neva,1,1,1,1,original,
+Nevis,3,3,3,3,original,
+New Carlisle,1,1,1,1,original,
+New O.leans,1,0,0,1,original,removed as error
+New Orleans,244,248,249,249,"original, normalized, cleaned",count changed in cleanup
+New Richmond,3,3,3,3,original,
+"New Richmond, N.B.",1,1,1,1,original,
+New River,2,2,2,2,original,
+New Ross,6,6,6,6,original,
+New York,1086,1087,1096,1096,"original, normalized, cleaned",count changed in cleanup
+"New York, U.S.",1,1,1,1,original,
+Newburgh,1,1,1,1,original,
+Newcastle,3,3,3,3,original,
+"Newcastle, N. B.",0,5,5,5,normalized,inferred from context
+"Newcastle, N.B.",5,0,0,5,original,removed as error
+Newfairwater,1,1,1,1,original,
+Newfoundland,2,2,2,2,original,
+Newport News,15,17,17,17,"original, normalized",count changed in cleanup
+"Newport News, V.",1,0,0,1,original,removed as error
+"Newport News, Va",1,0,0,1,original,removed as error
+"Newport News, Va.",1,1,1,1,original,
+"Newport, Va.",1,1,1,1,original,
+Newry,1,1,1,1,original,
+Niedercallix,1,0,0,1,original,removed as error
+Nivero,1,1,1,1,original,
+Njvik,1,1,1,1,original,
+Nora,1,1,1,1,original,
+Nordmaling,27,27,27,27,original,
+Norfolk,42,42,42,42,original,
+"Norfolk, N.S.",1,1,1,1,original,
+"Norfolk, Va",1,1,1,1,original,
+"Norfolk, Va.",23,23,23,23,original,
+Norrkoping,27,28,28,28,"original, normalized",count changed in cleanup
+Norrsundet,2,2,2,2,original,
+"North Port, N.S.",2,2,2,2,original,
+Northport,1,1,1,1,original,
+Norvik,1,1,1,1,original,
+Norway,11,11,11,11,original,
+Noskey,1,1,1,1,original,
+Nossi Be,1,1,1,1,original,
+Now Orleans,1,0,0,1,original,removed as error
+Now York,1,0,0,1,original,removed as error
+Noya,1,1,1,1,original,
+Nuevitas,2,2,2,2,original,
+Nvhann,1,1,1,1,original,
+Ny Carleby,6,6,6,6,original,
+Ny Karleby,12,19,19,19,"original, normalized",count changed in cleanup
+"Ny, Karleby",1,0,0,1,original,removed as error
+Nybamn,1,1,1,1,original,
+Nyborg,2,2,2,2,original,
+Nyburg,1,1,1,1,original,
+Nyham,3,0,0,3,original,removed as error
+Nyhamn,91,98,98,98,"original, normalized",count changed in cleanup
+Nykarlby,1,0,0,1,original,removed as error
+Nykarleby,5,0,0,5,original,removed as error
+Nykoping,3,7,7,7,"original, normalized",count changed in cleanup
+Nyland,19,19,19,19,original,
+Nynamn,2,2,2,2,original,
+Nynhamn,4,0,0,4,original,removed as error
+Nyrvik,1,1,1,1,original,
+Nystad,2,2,2,2,original,
+Nytorp,1,1,1,1,original,
+Nyvic,1,1,1,1,original,
+Nyvick,2,2,2,2,original,
+Nyvik,51,51,52,52,"original, cleaned",count changed in cleanup
+O xe osund,1,1,1,1,original,
+Oak Bay,3,3,3,3,original,
+"Oak Bay, N.B.",1,1,1,1,original,
+"Oak Bay, N.B.,",1,1,1,1,original,
+Odense,3,3,3,3,original,
+Odessa,33,33,33,33,original,
+Ogmore Co,1,1,1,1,original,
+Old Calabar,11,11,11,11,original,
+Old Harbour,3,3,3,3,original,
+Olofsford,1,1,1,1,original,
+Olskoldsvick,2,2,2,2,original,
+Omsach,1,1,1,1,original,
+Onega,96,96,96,96,original,
+Onkedalsorn,1,0,0,1,original,removed as error
+Oplo,7,8,8,8,"original, normalized",count changed in cleanup
+Oploe,1,0,0,1,original,removed as error
+Oporto,3,3,3,3,original,
+Orendal,1,0,0,1,original,removed as error
+Oresund,1409,1409,1409,1409,original,
+Orkedalen,4,0,0,4,original,removed as error
+Orkedalsoren,1,6,6,6,"original, normalized",count changed in cleanup
+Orkidulsken,1,1,1,1,original,
+Orleans,2,2,2,2,original,
+Ornskavik,1,1,1,1,original,
+Ornskjoldsvik,34,34,34,34,original,
+Ornskjoldvik,2,2,2,2,original,
+Ornskoldsvik,9,11,11,11,"original, normalized",count changed in cleanup
+Ornskoldsvit,1,0,0,1,original,removed as error
+Ornskolksvik,1,0,0,1,original,removed as error
+Ornswall,1,1,1,1,original,
+Oromocto,1,1,1,1,original,
+Oronstadt,1,0,0,1,original,removed as error
+Orotastadt,1,1,1,1,original,
+Oscar,1,1,1,1,original,
+Oscarhamn,1,0,0,1,original,removed as error
+Oscarsham,11,0,0,11,original,removed as error
+Oscarshamn,234,249,249,249,"original, normalized",count changed in cleanup
+Oskarn,1,1,1,1,original,
+Oskarshamn,3,0,0,3,original,removed as error
+Ostend,17,18,18,18,"original, normalized",count changed in cleanup
+Ostende,1,0,0,1,original,removed as error
+Ostrana,1,1,1,1,original,
+Ostrand,4,4,4,4,original,
+Oxarhaven,1,1,1,1,original,
+Oxelosund,14,14,14,14,original,
+Oxford,1,1,1,1,original,
+P,2,2,0,2,original,removed as error
+P'burg,18,18,18,18,original,
+P. E I.,1,1,1,1,original,
+P. E. Island,5,5,5,5,original,
+P.E. Island,1,1,1,1,original,
+Paimpol,8,8,8,8,original,
+Papenberg,1,1,1,1,original,
+Papenburg,3,3,3,3,original,
+Paquebot de Brest,1,1,1,1,original,
+Para,2,2,2,2,original,
+Parabobo,1,1,1,1,original,
+Parahyba,1,1,1,1,original,
+Parell,1,1,1,1,original,
+Paris,1,1,1,1,original,
+Parisienne,1,1,1,1,original,
+"Parraboro', N.S.",1,1,1,1,original,
+Parrsboro,0,21,21,21,normalized,inferred from context
+Parrsboro',21,0,0,21,original,removed as error
+"Parrsboro', N.S.",8,8,8,8,original,
+Parrsborough,8,8,8,8,original,
+Parrsborough N.S.,1,1,1,1,original,
+"Parrsborough, N.S.",1,1,1,1,original,
+Parrsbro',1,1,1,1,original,
+Parrshow,1,1,1,1,original,
+Pascagoula,30,31,31,31,"original, normalized",count changed in cleanup
+"Pascagoula, N.S.",1,1,1,1,original,
+Paskallavik,3,3,3,3,original,
+Pat,1,1,1,1,original,
+Pataholm,12,12,12,12,original,
+Patoum,1,1,1,1,original,
+Pauillac,7,7,7,7,original,
+Pearl River,1,1,1,1,original,
+Penang,1,1,1,1,original,
+Penascola,1,0,0,1,original,removed as error
+Pensacola,360,361,363,363,"original, normalized, cleaned",count changed in cleanup
+Pentecost,3,3,3,3,original,
+Penzance,2,2,2,2,original,
+Penze,1,1,1,1,original,
+Pernau,13,13,13,13,original,
+Pernaviken,4,0,0,4,original,removed as error
+Pernaw,1,1,1,1,original,
+Pernoviken,3,7,7,7,"original, normalized",count changed in cleanup
+Petea,1,1,1,1,original,
+Peter and Paul,1,1,1,1,original,
+Petersburg,6,6,6,6,original,
+Petersen,1,1,1,1,original,
+Phila,3,3,3,3,original,
+Philadelphi,1,0,0,1,original,removed as error
+Philadelphia,121,122,122,122,"original, normalized",count changed in cleanup
+Picton,3,3,3,3,original,
+Pictou,10,10,10,10,original,
+"Pictou, N.S.",8,8,8,8,original,
+Pierreville,1,1,1,1,original,
+Pierreville and Quebec,86,86,86,86,original,
+Pierville,1,1,1,1,original,
+Pikkala,1,1,1,1,original,
+Pillan,1,1,1,1,original,
+Pillau,28,28,28,28,original,
+Pitea,113,113,114,114,"original, cleaned",count changed in cleanup
+Pont Aven,1,1,1,1,original,
+Pont L'Abbe,2,0,0,2,original,removed as error
+Pont Neuf,1,1,1,1,original,
+Pont l'Abbe,21,23,23,23,"original, normalized",count changed in cleanup
+Pontaven,4,4,4,4,original,
+Pontorson,1,1,1,1,original,
+Poole,3,3,3,3,original,
+Porgrun,1,0,0,1,original,removed as error
+Porsgrand,1,0,0,1,original,removed as error
+Porsgrun,1,0,0,1,original,removed as error
+Porsgrund,389,393,393,393,"original, normalized",count changed in cleanup
+Port Cortes,1,1,1,1,original,
+Port Glasgow,1,1,1,1,original,
+Port Hill,1,1,1,1,original,
+Port Launay,26,26,26,26,original,
+Port Medway,1,1,1,1,original,
+"Port Medway, N.B.",1,1,1,1,original,
+Port Royal,4,4,4,4,original,
+"Port Royal, S.C.",2,0,0,2,original,removed as error
+"Port Royal, S.E.",1,0,0,1,original,removed as error
+"Port Royal, U.S.A.",0,4,4,4,normalized,inferred from context
+Port Saunders,1,1,1,1,original,
+Port au,1,1,1,1,original,
+Port-au-Prince,3,3,3,3,original,
+Portland,28,28,28,28,original,
+Portland Maine,1,1,1,1,original,
+"Portland, Maine",5,5,5,5,original,
+"Portland, O.",4,4,4,4,original,
+"Portland, Oregon",1,1,1,1,original,
+"Portland, U.S.A.",1,1,1,1,original,
+Porto Plata,1,1,1,1,original,
+Portsal,2,2,2,2,original,
+Poston,1,1,1,1,original,
+Poti,3,3,3,3,original,
+Presto,1,1,1,1,original,
+Prince Edward Island,1,1,1,1,original,
+Prince Edward's Island,1,1,1,1,original,
+Princesses,1,1,1,1,original,
+Puebla,15,15,15,15,original,
+Puerta Cortes,1,1,1,1,original,
+Puerto Cabello,1,1,1,1,original,
+Puerto Cortes,7,0,0,7,original,removed as error
+Puerto Cortez,1,8,8,8,"original, normalized",count changed in cleanup
+Puerto Plata,1,1,1,1,original,
+Puget Sound,1,1,1,1,original,
+Pugwash,28,28,28,28,original,
+"Pugwash, N.S.",1,1,1,1,original,
+Pukakirk,1,1,1,1,original,
+Punta Arenas,1,1,1,1,original,
+Pyterlaks,5,5,5,5,original,
+Pyttis,2,2,2,2,original,
+QUEBEC,6,0,0,6,original,removed as error
+Quebec,1374,1380,1463,1463,"original, normalized, cleaned",count changed in cleanup
+Quebec and Montreal,12,12,12,12,original,
+Quega,1,1,1,1,original,
+Quella,1,1,1,1,original,
+Quimper,44,44,44,44,original,
+R. Bernard,4,4,4,4,original,
+RIga,0,1970,1984,1984,"normalized, cleaned",inferred from context
+Rafsa,1,1,1,1,original,
+Rafso,54,54,54,54,original,
+Rambak,1,1,1,1,original,
+Ramvik,2,2,2,2,original,
+Ran goon,1,0,0,1,original,removed as error
+Rander,2,2,2,2,original,
+Randers,3,3,3,3,original,
+Ranea,10,10,10,10,original,
+Rangoon,83,84,86,86,"original, normalized, cleaned",count changed in cleanup
+Rangsund,0,1,1,1,normalized,inferred from context
+Ranmo,1,1,1,1,original,
+Rano,1,0,0,1,original,removed as error
+Rauma,0,1,1,1,normalized,inferred from context
+Raumea,1,0,0,1,original,removed as error
+Red Creek,1,1,1,1,original,
+Redon,188,188,190,190,"original, cleaned",count changed in cleanup
+Reonneby,1,1,1,1,original,
+Reval,3,3,3,3,original,
+Revel,1,1,1,1,original,
+Richibucto,84,84,86,86,"original, cleaned",count changed in cleanup
+"Richibucto, N.B.",4,4,4,4,original,
+Richmond,6,6,6,6,original,
+"Richmond, Va.",1,1,1,1,original,
+Riga,1970,0,0,1970,original,removed as error
+Riisoer,7,0,0,7,original,removed as error
+Rika,1,1,1,1,original,
+Rilgedahl,1,1,1,1,original,
+Rimouski,6,7,7,7,"original, normalized",count changed in cleanup
+Rio Hacha,1,1,1,1,original,
+Riser,0,3,3,3,normalized,inferred from context
+Risier,1,0,0,1,original,removed as error
+Risoe,1,0,0,1,original,removed as error
+Risoeer,1,0,0,1,original,removed as error
+Risoer,163,183,183,183,"original, normalized",count changed in cleanup
+Risor,11,0,0,11,original,removed as error
+Risver,2,0,0,2,original,removed as error
+Riv. Plate,1,1,1,1,original,
+Rivadeo,11,11,11,11,original,
+River,1,1,1,1,original,
+River Ouelle,0,4,4,4,normalized,inferred from context
+River Quelle,4,0,0,4,original,removed as error
+River Saguenay,1,1,1,1,original,
+River St. Lawrence,2,2,2,2,original,
+Robertshor,1,1,1,1,original,
+Roche Bernard,41,42,42,42,"original, normalized",count changed in cleanup
+Rochefort,25,25,25,25,original,
+Rockabema,1,1,1,1,original,
+Rodestrand,1,1,1,1,original,
+Ronne,1,1,1,1,original,
+Ronneby,1,1,1,1,original,
+Rosa,1,1,1,1,original,
+Roscoff,1,1,1,1,original,
+Rosetta,1,1,1,1,original,
+Rosso,1,1,1,1,original,
+Rotterdam,559,559,560,560,"original, cleaned",count changed in cleanup
+Rouen,6,6,6,6,original,
+Rounshy,1,1,1,1,original,
+Royetta,1,0,0,1,original,removed as error
+Roytta,2,3,3,3,"original, normalized",count changed in cleanup
+Ruchee,1,1,1,1,original,
+Ruetouche,1,1,1,1,original,
+Rugenwalde,13,14,14,14,"original, normalized",count changed in cleanup
+Rugewalde,1,0,0,1,original,removed as error
+Rusoer,1,1,1,1,original,
+Russoar,1,1,1,1,original,
+Ruthula,1,1,1,1,original,
+Sach Kallan,1,1,1,1,original,
+Sackville,8,8,8,8,original,
+"Sackville, N.B.",3,3,3,3,original,
+Sada,9,0,0,9,original,removed as error
+Saffi,1,1,1,1,original,
+Saguenay,51,52,52,52,"original, normalized",count changed in cleanup
+Saints,1,1,1,1,original,
+Salis,1,0,0,1,original,removed as error
+Salmis,0,1,1,1,normalized,inferred from context
+"Salo, Abo",1,1,1,1,original,
+Salsaker,9,9,9,9,original,
+Salsburg,1,1,1,1,original,
+Salstrom,1,1,1,1,original,
+Saltkallan,2,2,2,2,original,
+Saltock,1,1,1,1,original,
+Saltvick,1,1,1,1,original,
+Saltvik,5,5,5,5,original,
+Salvator,1,1,1,1,original,
+Salvesen & Co,1,1,1,1,original,
+Samarang,1,1,1,1,original,
+San Cyprian,2,2,2,2,original,
+San Domingo,2,2,2,2,original,
+San Francisco,25,25,25,25,original,
+San Pedro,1,1,1,1,original,
+San lefjord,1,0,0,1,original,removed as error
+Sanda,3,12,12,12,"original, normalized",count changed in cleanup
+Sandarne,90,90,90,90,original,
+Sandefiord,14,0,0,14,original,removed as error
+Sandefjord,60,88,88,88,"original, normalized",count changed in cleanup
+Sandeflord,1,0,0,1,original,removed as error
+Sandeford,3,0,0,3,original,removed as error
+Sandefurd,1,1,1,1,original,
+Sandfiord,1,1,1,1,original,
+Sandfjord,2,0,0,2,original,removed as error
+Sandiefiord,5,0,0,5,original,removed as error
+Sandiefurd,1,1,1,1,original,
+Sandifjord,2,0,0,2,original,removed as error
+Sandioford,1,1,1,1,original,
+Sando,3,3,3,3,original,
+Sandssund,1,1,1,1,original,
+Sandswell,2,2,2,2,original,
+Sandvik,13,15,15,15,"original, normalized",count changed in cleanup
+Sandviken,7,7,7,7,original,
+Sanne-sund,2,0,0,2,original,removed as error
+Sannes,1,1,1,1,original,
+Sannesund,32,35,35,35,"original, normalized",count changed in cleanup
+Santa Ana,18,18,18,18,original,
+Santa Anna,7,7,7,7,original,
+Santa Cruz,2,2,2,2,original,
+Santa Cruz de Cuba,1,1,1,1,original,
+Santa Cruz del Sur,1,1,1,1,original,
+Santander,1,1,1,1,original,
+Santirago de Cuba,1,1,1,1,original,
+Santos,1,1,1,1,original,
+Sarpsborg,10,12,12,12,"original, normalized",count changed in cleanup
+Sarpseborg,1,0,0,1,original,removed as error
+Sarsborg,1,0,0,1,original,removed as error
+Sastmola,1,1,1,1,original,
+Satilla,1,1,1,1,original,
+Satilla River,1,1,1,1,original,
+Sault,9,9,9,9,original,
+Sault an Cochon,0,1,1,1,normalized,inferred from context
+Sault au Cochon,1,1,1,1,original,
+Saulta Cochon,1,0,0,1,original,removed as error
+Sauris,1,1,1,1,original,
+Savannah,39,39,41,41,"original, cleaned",count changed in cleanup
+"Savannah, Georgia",1,1,1,1,original,
+Savenas,2,2,2,2,original,
+Savona,1,1,1,1,original,
+Scarsport,1,1,1,1,original,
+Schabk,1,1,1,1,original,
+Schiedam,6,6,6,6,original,
+Schippswick,1,1,1,1,original,
+Scholocklea,1,1,1,1,original,
+Serpa,1,1,1,1,original,
+Sevastopol,8,8,8,8,original,
+Sguenay,1,0,0,1,original,removed as error
+Shediac,69,70,74,74,"original, normalized, cleaned",count changed in cleanup
+"Shediac, N.B.",3,3,3,3,original,
+Sheet Harbor,1,0,0,1,original,removed as error
+Sheet Harbour,13,14,14,14,"original, normalized",count changed in cleanup
+"Sheet Harbour, Canada",1,1,1,1,original,
+"Sheet Harbour, N. B.",1,1,1,1,original,
+"Sheet Harbour, N.B.",2,2,2,2,original,
+"Sheet Harbour, N.S.",3,3,3,3,original,
+Sheliac,1,0,0,1,original,removed as error
+"Sheliac, N.B.",1,1,1,1,original,
+"Shemogue, N.B.,",1,1,1,1,original,
+Sherbrooke,4,4,4,4,original,
+"Sherbrooke, N.S.",1,1,1,1,original,
+Ship Harbor,1,1,1,1,original,
+Ship Harbour,3,3,3,3,original,
+Ship Harbour N,1,1,1,1,original,
+"Ship Harbour, N.S.",4,4,4,4,original,
+Ship Island,2,2,2,2,original,
+"Shulee, N.S.",1,1,1,1,original,
+Shulu,1,1,1,1,original,
+Sietwende,1,1,1,1,original,
+Sikea,6,6,6,6,original,
+Simo,15,16,16,16,"original, normalized",count changed in cleanup
+Simon,1,0,0,1,original,removed as error
+Singapore,5,5,5,5,original,
+Sjune,1,1,1,1,original,
+Skelleftea,162,162,162,162,original,
+Skepfovik,1,1,1,1,original,
+Skeppevik,1,0,0,1,original,removed as error
+Skeppsvik,9,11,11,11,"original, normalized",count changed in cleanup
+Skeppvik,0,1,1,1,normalized,inferred from context
+Skepsvik,2,0,0,2,original,removed as error
+Skien,179,179,179,179,original,
+Skippevik,1,1,1,1,original,
+Skonvick,1,0,0,1,original,removed as error
+Skonvik,93,96,96,96,"original, normalized",count changed in cleanup
+Skonwick,1,1,1,1,original,
+Skouvik,1,0,0,1,original,removed as error
+Skovik,1,0,0,1,original,removed as error
+Skutakar,2,0,0,2,original,removed as error
+Skutekar,2,0,0,2,original,removed as error
+Skutska,1,0,0,1,original,removed as error
+Skutskar,126,131,131,131,"original, normalized",count changed in cleanup
+Skutvik,1,1,1,1,original,
+Slite,19,19,19,19,original,
+Slitehamn,2,2,2,2,original,
+Smyrna,1,1,1,1,original,
+Sod rhamn,1,0,0,1,original,removed as error
+Soderham,1,0,0,1,original,removed as error
+Soderhamn,642,644,647,647,"original, normalized, cleaned",count changed in cleanup
+Sodertelje,2,2,2,2,original,
+Soladstrom,1,1,1,1,original,
+Solsatsen,1,1,1,1,original,
+Solstadstrom,2,2,2,2,original,
+Solstastrom,1,1,1,1,original,
+Solstradstrom,1,1,1,1,original,
+Solvetsburg,1,1,1,1,original,
+Soon,1,1,1,1,original,
+Soraka,1,1,1,1,original,
+Soraker,1,1,1,1,original,
+Soraki,1,1,1,1,original,
+Sornas,1,1,1,1,original,
+Soroka,49,49,49,49,original,
+Sourabaya,1,1,1,1,original,
+Southampton,6,6,6,6,original,
+Spain,1,1,1,1,original,
+Spencer Island,1,1,1,1,original,
+"Spencer's Island, N.S.",2,2,2,2,original,
+Sprangsviken,4,6,6,6,"original, normalized",count changed in cleanup
+Sprangviken,2,0,0,2,original,removed as error
+St,169,169,0,169,original,removed as error
+St John,1,0,0,1,original,removed as error
+St.,1,1,1,1,original,
+St. Ana,1,4,4,4,"original, normalized",count changed in cleanup
+St. Anna,3,0,0,3,original,removed as error
+St. Brieux,54,54,54,54,original,
+St. Clair,1,1,1,1,original,
+St. Cyprian,1,1,1,1,original,
+St. Etienne,1,1,1,1,original,
+St. George's,1,1,1,1,original,
+"St. George, N.B.",1,1,1,1,original,
+St. Ignace,4,4,4,4,original,
+St. Jago,1,1,1,1,original,
+St. Jago de Cuba,1,1,1,1,original,
+St. John,125,128,128,128,"original, normalized",count changed in cleanup
+St. John N.B.,1,0,0,1,original,removed as error
+St. John's,8,8,8,8,original,
+"St. John's, N. B.",0,2,2,2,normalized,inferred from context
+"St. John's, N.B.",1,0,0,1,original,removed as error
+"St. John's, N.F.",2,0,0,2,original,removed as error
+"St. John's, Newfoundland",1,1,1,1,original,
+"St. John, N. B.",1,1,1,1,original,
+"St. John, N.B",1,0,0,1,original,removed as error
+"St. John, N.B.",235,238,238,238,"original, normalized",count changed in cleanup
+"St. John, N.P.",1,0,0,1,original,removed as error
+St. Johns,1,0,0,1,original,removed as error
+St. Lucia,2,2,2,2,original,
+St. Malo,19,19,19,19,original,
+St. Mary,1,0,0,1,original,removed as error
+St. Mary's,5,6,6,6,"original, normalized",count changed in cleanup
+"St. Mary's, Georgia",2,2,2,2,original,
+"St. Marzonell's Bay, N.S.",1,1,1,1,original,
+St. Nazaire,18,18,18,18,original,
+St. P'burg,8,8,8,8,original,
+St. P'burg.,2,2,2,2,original,
+St. Paul's Bay,1,1,1,1,original,
+St. Petersburg,175,175,175,175,original,
+St. Petersburg Town,2,2,2,2,original,
+St. Servan,2,2,2,2,original,
+St. Thomas,5,5,5,5,original,
+Stavanger,1,1,1,1,original,
+Stavarf,4,4,4,4,original,
+Stedumas,1,1,1,1,original,
+Steel Harbour,1,1,1,1,original,
+Stege,1,1,1,1,original,
+Stenkjoer,1,2,2,2,"original, normalized",count changed in cleanup
+Stenkjor,1,0,0,1,original,removed as error
+Stenviker,1,1,1,1,original,
+Stettin,510,510,512,512,"original, cleaned",count changed in cleanup
+Stettin and Gothenburg,1,1,1,1,original,
+Stocka,18,19,19,19,"original, normalized",count changed in cleanup
+Stockasa,1,0,0,1,original,removed as error
+Stockasag,18,18,18,18,original,
+Stockavik,2,0,0,2,original,removed as error
+Stockaviken,3,7,7,7,"original, normalized",count changed in cleanup
+Stockazog,3,3,3,3,original,
+Stockholm,187,187,187,187,original,
+Stockholm and Rafso,1,1,1,1,original,
+Stockholm and Soderhamn,1,1,1,1,original,
+Stocks,1,1,1,1,original,
+Stocksasag,1,1,1,1,original,
+Stockssag,1,1,1,1,original,
+Stocksviken,1,0,0,1,original,removed as error
+Stockvick,1,1,1,1,original,
+Stockvig,1,1,1,1,original,
+Stockvik,1,1,1,1,original,
+Stockvike,1,0,0,1,original,removed as error
+Stoess,1,1,1,1,original,
+Stoka,0,1,1,1,normalized,inferred from context
+Stolpemunde,4,4,4,4,original,
+Storka,1,0,0,1,original,removed as error
+Stralsund,1,1,1,1,original,
+Strathbogie,1,1,1,1,original,
+Stromfars,0,5,5,5,normalized,inferred from context
+Stromfors,5,0,0,5,original,removed as error
+Strommas,1,0,0,1,original,removed as error
+Stromnaes,0,1,1,1,normalized,inferred from context
+Stromnas,7,8,8,8,"original, normalized",count changed in cleanup
+Stromness,1,0,0,1,original,removed as error
+Stromstad,8,8,8,8,original,
+Stromstadt,1,1,1,1,original,
+Strugsund,1,0,0,1,original,removed as error
+Stugsund,4,5,5,5,"original, normalized",count changed in cleanup
+Stutsboda,1,1,1,1,original,
+Stutshoda,1,1,1,1,original,
+Sulina,1,1,1,1,original,
+Summerside,5,5,5,5,original,
+"Summerside, P.E.I.",1,1,1,1,original,
+Sund,9,9,9,9,original,
+Sundabolay,1,1,1,1,original,
+Sundawall,1,0,0,1,original,removed as error
+Sunderland,3,3,3,3,original,
+Sunds Bolog,1,1,1,1,original,
+Sundsvall,10,0,0,10,original,removed as error
+Sundsvoern,1,1,1,1,original,
+Sundswal,1,0,0,1,original,removed as error
+Sundswall,908,920,924,924,"original, normalized, cleaned",count changed in cleanup
+Sundvik,2,0,0,2,original,removed as error
+Sunnas,1,1,1,1,original,
+Sutcliffe,1,1,1,1,original,
+Svano,4,4,4,4,original,
+Svartvick,1,0,0,1,original,removed as error
+Svartvik,16,19,19,19,"original, normalized",count changed in cleanup
+Svartwik,2,0,0,2,original,removed as error
+Svelvig,3,3,3,3,original,
+Svenesund,1,1,1,1,original,
+Swante,1,1,1,1,original,
+Swartvick,2,0,0,2,original,removed as error
+Swartvik,41,43,43,43,"original, normalized",count changed in cleanup
+Swartwick,34,34,34,34,original,
+Swartwik,26,27,27,27,"original, normalized",count changed in cleanup
+Swarwik,1,0,0,1,original,removed as error
+Sweden,3,3,3,3,original,
+Swinemunde,3,3,3,3,original,
+Swinesund,1,1,1,1,original,
+Sydney,7,7,7,7,original,
+T. W. Allen,1,1,1,1,original,
+Tabasco,5,5,5,5,original,
+Table Bay,1,1,1,1,original,
+Taganrog,4,4,4,4,original,
+Tain,2,2,2,2,original,
+Tangror,1,0,0,1,original,removed as error
+"Tapia, Spain",1,1,1,1,original,
+Tapilco,1,1,1,1,original,
+Tatamagouche,2,0,0,2,original,removed as error
+"Tatamagouche, N.B.",1,1,1,1,original,
+Tatnmagouche,0,2,2,2,normalized,inferred from context
+Tedestrand,1,0,0,1,original,removed as error
+"The finest floors are said to be seen in Russia. For those of the highest grade, tropical woods are exclusively employed. Fir and pine are never used, as in consequence of their sticky character they attract and retain dust and dirt, and thereby soon become blackened. Pitch pine too is liable to shrink, even after being well seasoned. The mosaic wood floors in Russia are of extraordinary beauty. One, in the Summer Palace, is of small squares of ebony inlaid with mother",1,1,0,1,original,removed as error
+Theophile,1,1,1,1,original,
+Thomas,1,1,1,1,original,
+Three Islands,1,1,1,1,original,
+Three Rivers,58,58,58,58,original,
+Three Sisters,1,1,1,1,original,
+Three Towns,1,1,1,1,original,
+Throndjem,1,0,0,1,original,removed as error
+Tiansand,1,1,1,1,original,
+"Tidnish, N.S.",1,1,1,1,original,
+Tignish,1,1,1,1,original,
+"Tignish, P.E.I.",1,1,1,1,original,
+Tillinge,1,1,1,1,original,
+Tillingnabben,7,7,7,7,original,
+Timmernabbem,1,0,0,1,original,removed as error
+Timmernabben,15,16,17,17,"original, normalized, cleaned",count changed in cleanup
+Tlacotalpam,1,4,4,4,"original, normalized",count changed in cleanup
+Tlacotalpan,3,0,0,3,original,removed as error
+Tlatocalpan,2,2,3,3,"original, cleaned",count changed in cleanup
+Tonala,14,14,14,14,original,
+Tonsberg,46,46,46,46,original,
+Toreforg,1,0,0,1,original,removed as error
+Torefors,20,23,23,23,"original, normalized",count changed in cleanup
+Tornea,68,68,68,68,original,
+Torneadal,1,1,1,1,original,
+Torneouen,1,1,1,1,original,
+Tornes,1,1,1,1,original,
+Torre del Greco,1,1,1,1,original,
+Torrefors,2,0,0,2,original,removed as error
+Tracadie,1,1,1,1,original,
+Trangesund,1,0,0,1,original,removed as error
+Trangssund,1,0,0,1,original,removed as error
+Trangsund,5,7,7,7,"original, normalized",count changed in cleanup
+Treaniskow,1,1,1,1,original,
+Tredestrand,1,0,0,1,original,removed as error
+Treffenberg,1,1,1,1,original,
+Treguier,3,3,3,3,original,
+Trehiguer,1,1,1,1,original,
+Trehiguier,9,9,9,9,original,
+Tremblade,1,1,1,1,original,
+Trenberth,1,1,1,1,original,
+Treport,5,5,5,5,original,
+Treshchow,1,1,1,1,original,
+Tresukstea,1,1,1,1,original,
+Trieste,92,92,92,92,original,
+Trieste and Fiume,1,1,1,1,original,
+Trimsaran,1,1,1,1,original,
+Trinidad,1,2,2,2,"original, normalized",count changed in cleanup
+Trinidade,1,0,0,1,original,removed as error
+Trondhjem,0,2,2,2,normalized,inferred from context
+Trondjem,1,0,0,1,original,removed as error
+Trontero,1,1,1,1,original,
+Troon,1,1,1,1,original,
+Trouville,4,4,4,4,original,
+Truxillo,8,8,8,8,original,
+Tunadal,10,10,10,10,original,
+Tunnadal,1,1,1,1,original,
+Tupilco,5,5,5,5,original,
+Turkey,1,1,1,1,original,
+Tusket,2,2,2,2,original,
+Tvedestrand,64,70,70,70,"original, normalized",count changed in cleanup
+Twedestrand,4,0,0,4,original,removed as error
+Uamarina,1,1,1,1,original,
+Uddevalla,86,87,87,87,"original, normalized",count changed in cleanup
+Uddewalla,29,31,31,31,"original, normalized",count changed in cleanup
+Uddowalla,1,0,0,1,original,removed as error
+Udevalla,1,0,0,1,original,removed as error
+Udewalla,1,0,0,1,original,removed as error
+Ulea,1,0,0,1,original,removed as error
+Uleaborg,203,203,203,203,original,
+Ulindaw,1,1,1,1,original,
+Ullanger,2,2,2,2,original,
+Umea,34,34,34,34,original,
+Upsal,1,1,1,1,original,
+Ursiken,0,2,2,2,normalized,inferred from context
+Ursviken,2,0,0,2,original,removed as error
+Utanigo,1,1,1,1,original,
+Uto,2,2,2,2,original,
+Utoo,1,1,1,1,original,
+V'garcia,1,1,1,1,original,
+Valparaiso,1,1,1,1,original,
+Valvig,1,1,1,1,original,
+Vamsos,1,1,1,1,original,
+Vances,1,1,1,1,original,
+Vancouver,0,1,1,1,normalized,inferred from context
+Vancouver I.,1,0,0,1,original,removed as error
+Vancouver's Island,3,3,3,3,original,
+Vannes,96,96,96,96,original,
+Varberg,1,0,0,1,original,removed as error
+Vardo,1,1,1,1,original,
+Vardoe,1,1,1,1,original,
+Vefsen,22,22,22,22,original,
+Vefser,1,1,1,1,original,
+Vegesack,1,1,1,1,original,
+Velsen,1,1,1,1,original,
+Venice,8,8,8,8,original,
+Vesta,1,1,1,1,original,
+Vesteras,1,1,1,1,original,
+Vigo,1,1,1,1,original,
+Villa Garcia,2,0,0,2,original,removed as error
+Villagarcia,38,40,40,40,"original, normalized",count changed in cleanup
+Vinje,1,1,1,1,original,
+Visero,1,1,1,1,original,
+Vitea,1,0,0,1,original,removed as error
+Vivero,3,3,3,3,original,
+Vlaardingen,4,4,4,4,original,
+Vlardingen,1,1,1,1,original,
+W,13,13,0,13,original,removed as error
+W. C. Africa,7,7,7,7,original,
+W. Indies,1,1,1,1,original,
+W.C. Africa,3,3,3,3,original,
+W.C.Africa,1,1,1,1,original,
+WORKING MACHINERY.,1,1,1,1,original,
+Waawa,1,1,1,1,original,
+Waija,2,2,2,2,original,
+Wanks River,1,1,1,1,original,
+Warberg,61,63,63,63,"original, normalized",count changed in cleanup
+Warburg,1,0,0,1,original,removed as error
+Wardoe,1,1,1,1,original,
+Wasa,6,6,6,6,original,
+Waterford,23,23,29,29,"original, cleaned",count changed in cleanup
+Wava,1,1,1,1,original,
+Waya,3,3,3,3,original,
+Weener,10,10,10,10,original,
+Wefsel,1,1,1,1,original,
+Werbeback,1,1,1,1,original,
+Wergeland,1,1,1,1,original,
+Werkeback,4,4,4,4,original,
+West Bay,8,8,8,8,original,
+"West Bay, N.S.",5,5,5,5,original,
+"West Bay, U.S.",1,1,1,1,original,
+West Coast of Africa,1,1,1,1,original,
+West Indies,8,0,0,8,original,removed as error
+Westawaif,1,1,1,1,original,
+Westering,1,1,1,1,original,
+Westervik,42,42,42,42,original,
+Westerwick,8,0,0,8,original,removed as error
+Westerwik,16,24,24,24,"original, normalized",count changed in cleanup
+Weymouth,3,3,3,3,original,
+"Weymouth, N S.",1,1,1,1,original,
+"Weymouth, N.S.",4,4,4,4,original,
+"Weymouth, U.S.",1,1,1,1,original,
+White Sea,1,1,1,1,original,
+Whyncomah,1,1,1,1,original,
+Wiborg,3,3,3,3,original,
+Wicklow,2,2,2,2,original,
+Wiener,4,4,4,4,original,
+Wifsta,1,1,1,1,original,
+Wifsta Warf,4,4,4,4,original,
+Wifstavarf,2,0,0,2,original,removed as error
+Wifstawarf,43,45,45,45,"original, normalized",count changed in cleanup
+Wiken,1,1,1,1,original,
+Wilmington,2,2,2,2,original,
+"Wilson appeared in this case, on Saturday last, in the Queen's Bench Division, before Mr. Justice Cave and Mr. Baron Pollock, on behalf of the defendants, on appeal against an order made by Mr. Justice Field, at Chambers, refusing to allow them to amend the writ in the action by adding the name of one Donald as a co",1,1,0,1,original,removed as error
+Windart,2,2,2,2,original,
+Windau,108,108,108,108,original,
+Windaw,1,1,1,1,original,
+Windsor,1,1,1,1,original,
+"Windsor, N.S.",1,1,1,1,original,
+Wisbey,1,0,0,1,original,removed as error
+Wisby,4,5,5,5,"original, normalized",count changed in cleanup
+Wiscasset,6,6,8,8,"original, cleaned",count changed in cleanup
+Wisner,1,1,1,1,original,
+Wistawarf,3,3,3,3,original,
+Wjsby,1,1,1,1,original,
+Wolgast,1,1,1,1,original,
+Woolwich,1,1,1,1,original,
+Wybor,2,0,0,2,original,removed as error
+Wyborg,223,225,225,225,"original, normalized",count changed in cleanup
+Wyburg,96,96,99,99,"original, cleaned",count changed in cleanup
+Wycoomagh,1,1,1,1,original,
+X'sand,1,1,1,1,original,
+Xiana,1,1,1,1,original,
+Xiania,48,48,48,48,original,
+Xiansand,4,4,4,4,original,
+Xinestad,3,3,3,3,original,
+Xnia,2,2,2,2,original,
+Xtiansand,3,3,3,3,original,
+Yallahs,1,1,1,1,original,
+Yarmouth,2,2,2,2,original,
+"Yarmouth, N.B.",1,1,1,1,original,
+"Yarmouth, N.S.",5,5,5,5,original,
+You-ford,1,1,1,1,original,
+Youghal,10,10,10,10,original,
+Ystad,2,2,2,2,original,
+Ytlersfors,1,0,0,1,original,removed as error
+Yttersfors,0,3,3,3,normalized,inferred from context
+Ytterstfors,2,0,0,2,original,removed as error
+Zanzibar,1,1,1,1,original,
+Zaza,1,1,1,1,original,
+and,1,1,0,1,original,removed as error
+app,1,1,1,1,original,
+deals,1,1,0,1,original,removed as error
+"driving streams upon which this market depends are still very discouraging as to the probabilities of getting the logs. The prospects of the Menominee and other streams tributary to Green Bay, are really not so encouraging as a few weeks ago, as logs on the first",1,1,0,1,original,removed as error
+ends,2,2,0,2,original,removed as error
+from Halifax,1,1,1,1,original,
+higa,1,1,0,1,original,removed as error
+kar,1,1,0,1,original,removed as error
+l'Orient,72,0,0,72,original,removed as error
+lathwood,1,1,0,1,original,removed as error
+oak staves,1,1,0,1,original,removed as error
+"past two o'clock, and at that time the first floor was well alight. Several manuals were promptly on the spot, and all round the building, and it was with such rapidity that in a short time the efforts of the firemen were successful. The shops of Mr. J. H. Ashton, a picture",1,1,0,1,original,removed as error
+pitwood,1,1,0,1,original,removed as error
+"props, birr",1,1,0,1,original,removed as error
+teak,1,1,0,1,original,removed as error
+timber,1,1,0,1,original,removed as error
+und,1,0,0,1,original,removed as error

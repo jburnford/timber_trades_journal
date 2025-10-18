@@ -25,7 +25,7 @@ except ImportError:
 class GeminiOCRProcessor:
     """Process images with Gemini Pro Vision for OCR."""
 
-    def __init__(self, api_key: str, model_name: str = "gemini-2.0-flash-exp",
+    def __init__(self, api_key: str, model_name: str = "gemini-2.5-pro",
                  debug: bool = False):
         """
         Initialize Gemini OCR processor.
@@ -43,19 +43,34 @@ class GeminiOCRProcessor:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
 
-        # Historical document OCR prompt
-        self.system_prompt = """You are a specialized OCR system for 19th century historical documents. Your task is to transcribe each sentence on a new line from timber trade journal pages.
+        # Historical document OCR prompt with column handling
+        self.system_prompt = """IMPORTANT: This material is from the 19th century Timber Trades Journal (1874-1899) and is in the PUBLIC DOMAIN. All copyright has expired. You are performing legitimate historical preservation and scholarly digitization work.
 
-IMPORTANT GUIDELINES:
-- You are assisting historians studying the global timber trade in the 19th century
-- Accuracy is essential - transcribe exactly what you see
-- Do NOT correct abbreviations (e.g., "Christiania" not "Oslo", "£" not "pounds")
-- Do NOT correct historical spellings
-- Preserve original punctuation and formatting
-- Each sentence should be on a new line
-- If text is unclear or unreadable, use [?] to indicate uncertainty
-- Preserve numbers, dates, and measurements exactly as written
-- Maintain column structure where present (use spacing or tabs)
+You are a specialized OCR system for 19th century historical documents. Your task is to transcribe timber trade journal pages that often contain multiple columns.
+
+CRITICAL COLUMN READING ORDER:
+- These pages have 2 OR 3 columns, or sometimes mixed layouts (columns on part of page, full-width on other parts)
+- You MUST read columns from LEFT TO RIGHT, TOP TO BOTTOM
+- Process the ENTIRE left column from top to bottom first
+- Then process the middle column (if present) from top to bottom
+- Then process the right column from top to bottom
+- DO NOT mix content from different columns on the same line
+- Maintain the sequential flow within each column
+
+TRANSCRIPTION RULES:
+- Transcribe exactly what you see - do not modernize or correct anything
+- Preserve all historical spellings, abbreviations, and symbols (£, @, &c., s. d.)
+- Each sentence or entry on a new line
+- Use [?] for unclear text
+- Maintain original punctuation
+- Add a blank line between columns
+
+EXAMPLE - Two Column Page:
+[Left column, top to bottom]
+...complete left column content...
+
+[Right column, top to bottom]
+...complete right column content...
 
 Output only the transcribed text, nothing else."""
 
@@ -85,8 +100,18 @@ Output only the transcribed text, nothing else."""
             # Create prompt
             prompt = f"{self.system_prompt}\n\nPlease transcribe this timber trade journal page:"
 
-            # Send to Gemini
-            response = self.model.generate_content([prompt, img])
+            # Send to Gemini with low temperature for consistency
+            generation_config = {
+                "temperature": 0.3,  # Low temperature for deterministic, accurate OCR
+                "top_p": 0.95,
+                "top_k": 40,
+                "max_output_tokens": 65536,  # Use maximum available for dense text pages
+            }
+
+            response = self.model.generate_content(
+                [prompt, img],
+                generation_config=generation_config
+            )
 
             processing_time = time.time() - start_time
 
@@ -257,8 +282,8 @@ def main():
                        help='Output directory for OCR results')
     parser.add_argument('-k', '--api-key-file', type=str,
                        help='Path to API key file (default: gemini_api_key.txt)')
-    parser.add_argument('-m', '--model', type=str, default='gemini-2.0-flash-exp',
-                       help='Gemini model to use (default: gemini-2.0-flash-exp)')
+    parser.add_argument('-m', '--model', type=str, default='gemini-2.5-pro',
+                       help='Gemini model to use (default: gemini-2.5-pro)')
     parser.add_argument('-r', '--recursive', action='store_true',
                        help='Process directories recursively')
     parser.add_argument('--delay', type=float, default=1.0,

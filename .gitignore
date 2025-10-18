@@ -4,13 +4,29 @@ openai_api_key.txt
 openrouter_api_key.txt
 *.key
 *.pem
+**/config/*_key.txt
+**/config/api_*.txt
 
 # OCR Output Directories
 ocr_ready/
 ocr_results/
-work/deskew_test/
-work/pdf_pipeline_test/
-work/cvdeskew/
+work/
+work_extract/
+
+# Image Files (original scans - too large for git)
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+1875/
+1877/
+1879/
+1881/
+1885/
+1887/
+TTJ 1891-1899/
+extracted_1891_1899/
 
 # Log Files
 *.log
@@ -29,8 +45,13 @@ build/
 
 # Data Files (Large)
 *.pdf
+*.zip
 *.db
 *.sqlite
+
+# Excel reference files (keep these - they're small)
+!reference_data/*.xlsx
+!**/sample*.xlsx
 
 # OS Files
 .DS_Store

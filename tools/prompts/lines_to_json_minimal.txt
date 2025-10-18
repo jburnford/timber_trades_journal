@@ -1,0 +1,19 @@
+Task: Convert each TTJ arrival line to one JSON object.
+
+Rules:
+- Output a JSON array. Each line → one object (do not split by products).
+- Exact keys only: date_iso, arrival_place_raw, departure_port_raw, departure_port_std, product_type_list, product_list_raw, merchants_raw, notes, warnings.
+- date_iso: YYYY-MM-DD if present in line; else null.
+- arrival_place_raw: dock/wharf/quay/buoy text as printed.
+- departure_port_raw: as printed; departure_port_std: normalize if matches this list or variants (if unsure, null): Gothenburg, New York, Kronstadt, Quebec, Danzig, Klaipeda, Riga, Christiania, Fredrikstad, Belize, Sundsvall, Drammen, St. Petersburg, Montreal, Stockholm, Konigsberg, Soderhamn, Gavle, Pensacola, Kotka, Jamaica, Arkhangelsk, Miramichi, Abo, Oulu, Halifax, Catania, Chicoutimi, Boston, Uddevalla, Svartvik, Porsgrund, Halden, Liepāja, Mobile, Odessa, Harnosand, Hamburg, Ljusne, Bremen, Helsingfors, Sandarne, Ventspils, Santa Ana, Trois-Rivières, Metis, Wyborg, Rangoon, Hudikswall, Finnklippan, Larvik, Bjorneborg, Baltimore, Puerto Cortez, Le Havre, Bathurst, Kragero, Amsterdam, Venice, St. John, Soroka, Stettin, Skien, Trieste, Sault au Cochon, Skonvik, Bangkok, Pitea, Nyhamn, Campbellton, Moulmein, Nassau. Variants: Wyburg→Wyborg, Dantzic→Danzig, Memel→Klaipeda, Windau→Ventspils, Hambro→Hamburg, Cronstadt→Kronstadt, Fredrickstad→Fredrikstad, Fredrikshald→Halden, Falmouth Jamaica→Jamaica.
+- product_type_list: lowercase, singular from: boards, battens, deals, deal ends, timber, oak timber, fir timber, scantlings, sleepers, sleeper blocks, staves, pipe staves, headings, props, pit props, mining timber, spars, masts, lathwood, laths, flooring boards, mouldings, architraves, skirtings, joinery, wainscot logs, wood pulp, mahogany, cedar, satinwood, logwood, fustic, lignum vitae, ebony, barwood, boxwood, canes, palings, teak, hardwood, letterwood, planks, redwood, firewood, other. Dedupe. Include deals and deal ends for “redwood deals and ends”.
+- product_list_raw: verbatim commodity fragment(s) (omit quantities).
+- merchants_raw: verbatim merchants, else null.
+- notes: parenthetical cargo remarks; drop trivial (s).
+- warnings: unknown_port/ambiguous_products/ocr_conflict as needed; else [].
+
+Input lines:
+<<<LINES>>>
+
+Output only the JSON array.
+

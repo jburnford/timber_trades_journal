@@ -1,0 +1,1484 @@
+{
+  "1874": [
+    {
+      "filename": "8. p. 116-119 - August 8 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p004.txt",
+      "file_size": 9518,
+      "line_count": 66,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "DUNDEE",
+          "BO'NESS",
+          "GLASGOW",
+          "GREENOCK",
+          "GRANGEMOUTH",
+          "GRANTON"
+        ],
+        "port_header_count": 6,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "15. p. 221-223 - November 14 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.txt",
+      "file_size": 8199,
+      "line_count": 76,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "BRISTOL",
+          "WEST HARTLEPOOL",
+          "DUNDEE",
+          "LEITH",
+          "BO'NESS",
+          "GRANGEMOUTH",
+          "GLASGOW",
+          "GREENOCK",
+          "PORT GLASGOW",
+          "GRANTON"
+        ],
+        "port_header_count": 10,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "9. p. 131-134 - August 22 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p004.txt",
+      "file_size": 7681,
+      "line_count": 46,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nGREENOCK",
+          "\nGRANGEMOUTH",
+          "\nDUNDEE",
+          "\nBO'NESS"
+        ],
+        "port_header_count": 4,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": [
+          "10 cords lathwood, Order. George @ Richibucto,—9,478 deals, ends, and palings, Brownlee, Dunn & Co."
+        ]
+      }
+    },
+    {
+      "filename": "12. p. 179-182 - October 3 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p004.txt",
+      "file_size": 8337,
+      "line_count": 71,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "\nGRANTON",
+          "DUNDEE",
+          "GRANGEMOUTH",
+          "GLASGOW",
+          "GREENOCK",
+          "BO'NESS",
+          "LONDON"
+        ],
+        "port_header_count": 8,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "12. p. 179-182 - October 3 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.txt",
+      "file_size": 8615,
+      "line_count": 58,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "\nTRUSTEES APPOINTED",
+          "\nDISSOLUTIONS OF PARTNERSHIPS",
+          "\nPETITION PRESENTED",
+          "\nMEETING OF CREDITORS UNDER SEQUESTRATIONS",
+          "\nBANKRUPT TO BE EXAMINED",
+          "\nTRUST DEEDS GRANTED",
+          "LONDON"
+        ],
+        "port_header_count": 8,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    }
+  ],
+  "1875": [
+    {
+      "filename": "9. p. 137-140 - August 21 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.txt",
+      "file_size": 9534,
+      "line_count": 41,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL"
+        ],
+        "port_header_count": 1,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "16. p. 241-243 - November 27 1875 - Imports of Timber, &c. -Timber Trades Journal Vol. 3 1875_p001.txt",
+      "file_size": 7899,
+      "line_count": 179,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL"
+        ],
+        "port_header_count": 1,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.txt",
+      "file_size": 8347,
+      "line_count": 44,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nGLASGOW",
+          "\nLEITH",
+          "LONDON",
+          "\nLIVERPOOL"
+        ],
+        "port_header_count": 4,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "8. p. 121-124 - Augus 7 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003.txt",
+      "file_size": 8665,
+      "line_count": 153,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TYNE",
+          "\nBRISTOL",
+          "WEST HARTLEPOOL"
+        ],
+        "port_header_count": 3,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "7. p. 106-110 - July 24 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p003.txt",
+      "file_size": 9432,
+      "line_count": 52,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "BRISTOL",
+          "WEST HARTLEPOOL",
+          "GREENOCK",
+          "PORT GLASGOW",
+          "GRANGEMOUTH",
+          "GLASGOW"
+        ],
+        "port_header_count": 6,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    }
+  ],
+  "1876": [
+    {
+      "filename": "18760108TTJt_p001.txt",
+      "file_size": 8497,
+      "line_count": 225,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "\nTHE TYNE",
+          "\nLEITH",
+          "\nGRANTON"
+        ],
+        "port_header_count": 4,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18760108TTJt_p002.txt",
+      "file_size": 8826,
+      "line_count": 106,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nGRIMSBY",
+          "\nGLASGOW",
+          "\nGREENOCK",
+          "\nGRANGEMOUTH",
+          "QUEBEC",
+          "\nSHIPMENTS TO LONDON",
+          "\nLUMBER LADEN VESSELS CLEARED",
+          "\nTHE TIMBER TRADES JOURNAL",
+          "\nMESSRS. FORSYTH AND CO.'S ANNUAL CIRCULAR"
+        ],
+        "port_header_count": 9,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    }
+  ],
+  "1877": [
+    {
+      "filename": "8. 122-126 - August 4 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+      "file_size": 7206,
+      "line_count": 157,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nTHE TIMBER TRADES JOURNAL",
+          "WEST HARTLEPOOL"
+        ],
+        "port_header_count": 2,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+      "file_size": 10446,
+      "line_count": 36,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nTHE TIMBER TRADES JOURNAL"
+        ],
+        "port_header_count": 1,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+      "file_size": 4751,
+      "line_count": 163,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "\nCARDIFF",
+          "\nBARROW"
+        ],
+        "port_header_count": 3,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "10. 153-157 - September 1 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+      "file_size": 8768,
+      "line_count": 138,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nGLASGOW",
+          "\nGREENOCK",
+          "\nDUNDEE",
+          "\nLEITH",
+          "\nGRANGEMOUTH",
+          "\nBO'NESS"
+        ],
+        "port_header_count": 6,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+      "file_size": 9092,
+      "line_count": 207,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "WEST HARTLEPOOL"
+        ],
+        "port_header_count": 1,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    }
+  ],
+  "1878": [
+    {
+      "filename": "18780105p301-302_p001.txt",
+      "file_size": 6312,
+      "line_count": 147,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL.\n\nLEITH",
+          "BRISTOL"
+        ],
+        "port_header_count": 2,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18780105p301-302_p002.txt",
+      "file_size": 9081,
+      "line_count": 75,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": true,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "NEW YORK",
+          "\nTHE SAGINAW VALLEY",
+          "\nCHICAGO",
+          "\nTHE MISSISSIPPI VALLEY",
+          "\nTHE DURABILITY OF IMPREGNATED SLEEPERS",
+          "RESULTS ON GERMAN RAILWAYS",
+          "RESULTS ON AUSTRIAN RAILWAYS"
+        ],
+        "port_header_count": 7,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    }
+  ],
+  "1879": [
+    {
+      "filename": "18791122p.253_p001.txt",
+      "file_size": 9282,
+      "line_count": 250,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "LONDON",
+          "LIVERPOOL",
+          "\nTHE TIMBER TRADES JOURNAL",
+          "HULL",
+          "GRIMSBY",
+          "GOOLE",
+          "WEST HARTLEPOOL",
+          "SUNDERLAND",
+          "BRISTOL",
+          "AT AVONMOUTH"
+        ],
+        "port_header_count": 11,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18790705p.90_p002.txt",
+      "file_size": 9523,
+      "line_count": 247,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "LIVERPOOL",
+          "STAVES",
+          "HULL",
+          "GRIMSBY",
+          "KING'S LYNN",
+          "SUNDERLAND",
+          "BRISTOL"
+        ],
+        "port_header_count": 7,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18790927p.189_p001.txt",
+      "file_size": 9432,
+      "line_count": 266,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "LONDON",
+          "LIVERPOOL",
+          "HULL",
+          "GRIMSBY",
+          "KING'S LYNN",
+          "WEST HARTLEPOOL"
+        ],
+        "port_header_count": 6,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18791108p.236_p002.txt",
+      "file_size": 9070,
+      "line_count": 263,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nTHE TIMBER TRADES JOURNAL",
+          "LIVERPOOL",
+          "HULL"
+        ],
+        "port_header_count": 3,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18790816p.139_p003.txt",
+      "file_size": 9706,
+      "line_count": 285,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nBRISTOL",
+          "\nGLOUCESTER",
+          "\nCARDIFF",
+          "\nTHE TIMBER TRADES JOURNAL.\nPITWOOD",
+          "\nSWANSEA",
+          "\nPITWOOD",
+          "\nNEWPORT",
+          "\nPITWOOD",
+          "\nSOUTHAMPTON",
+          "GREAT YARMOUTH"
+        ],
+        "port_header_count": 20,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": [
+          "2 Myrtle—Rotterdam—hoops—W. S. Hughes",
+          "5 Valdemar—Sundswall—battens—Order",
+          "6 Carl Johannes—Danzig—oak timber—Order",
+          "7 Francis—Drammen—pit props—Order",
+          "9 Maalaadesten—Archangel—deals, &c.—Order"
+        ]
+      }
+    }
+  ],
+  "1880": [
+    {
+      "filename": "18800103_p002.txt",
+      "file_size": 10262,
+      "line_count": 213,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "LIVERPOOL",
+          "LLANELLY",
+          "LONDON",
+          "\nTHE TIMBER TRADES JOURNAL",
+          "MARYPORT",
+          "NEWHAVEN",
+          "NEWPORT",
+          "PLYMOUTH",
+          "PORTSMOUTH",
+          "SHOREHAM"
+        ],
+        "port_header_count": 25,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": [
+          "Dec. 17 Celtic (s)—New York—900 staves—Order",
+          "18 Saragossa (s)—Trieste—20,000 oak staves—Order",
+          "19 Atlas (s)—Boston—7,600 staves, 500 pcs. lignum vitæ—Order",
+          "20 Minnesota (s)—Boston—606 staves, 10 boxes logwood—Order",
+          "22 Mangerton—St. John's N.B.—28,537 deals, 2,714 ends—Bland & Co."
+        ]
+      }
+    },
+    {
+      "filename": "18800110.txt",
+      "file_size": 10721,
+      "line_count": 174,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "\nIMPORTS.\n\nBEAUMARIS",
+          "\nCARDIFF",
+          "\nEXETER",
+          "\nFOWEY",
+          "\nGLOUCESTER",
+          "\nHARTLEPOOL (WEST)",
+          "\nHULL",
+          "\nLIVERPOOL",
+          "\nLONDON"
+        ],
+        "port_header_count": 22,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18800103_p001.txt",
+      "file_size": 11801,
+      "line_count": 188,
+      "signals": {
+        "has_import_header": true,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nTHE TYNE",
+          "\nGLASGOW",
+          "\nTHE TIMBER TRADES JOURNAL",
+          "\nLEITH",
+          "\nTHE TAY BRIDGE",
+          "\nIMPORTS.\n\nENGLAND AND WALES",
+          "\nBRISTOL",
+          "\nCARDIFF",
+          "\nGLOUCESTER",
+          "\nGOOLE"
+        ],
+        "port_header_count": 14,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": [
+          "Dec. 19 Nelly—Drammen—34 3/4 fms. firewood—Captain",
+          "23 Bucephalus—St. John's—32,858 deals, battens, scantlings and ends—Price, Potter & Co.",
+          "16 Gaga—Arno—7,064 deals and battens—G. Hooper",
+          "Dec. 22 St. Kilda—La Have—26,063 deals, &c., 11,269 palings, Jones & Nash",
+          "23 Lydia—St. John—1,970 birch billets—Whitford Barnes & Baker"
+        ]
+      }
+    }
+  ],
+  "1881": [
+    {
+      "filename": "18811105p.310_p004.txt",
+      "file_size": 7770,
+      "line_count": 158,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "\nMONTROSE",
+          "PERTH",
+          "PETERHEAD",
+          "WICK",
+          "WIGTOWN",
+          "\nSHIPPING INTELLIGENCE.\nFREIGHTS",
+          "FOREIGN CLEARANCES",
+          "\nSHIP. WHENCE. BERTH & STOWAGE",
+          "\nSOUND LIST.\nLIST OF VESSELS PASSING THROUGH THE SOUND TO THE UNITED KINGDOM WITH WOOD CARGOES",
+          "CASUALTIES"
+        ],
+        "port_header_count": 11,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18810910p.178_p003.txt",
+      "file_size": 8931,
+      "line_count": 173,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "ERITH",
+          "LOWESTOFT",
+          "LYNN",
+          "MALDON",
+          "MIDDLESBROUGH",
+          "NEWHAVEN",
+          "PENZANCE",
+          "PLYMOUTH",
+          "\nPOOLE"
+        ],
+        "port_header_count": 16,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18810702p.14_p002.txt",
+      "file_size": 10304,
+      "line_count": 203,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nLYNN",
+          "MARYPORT",
+          "MIDDLESBROUGH",
+          "NEWPORT",
+          "PLYMOUTH",
+          "PORTSMOUTH",
+          "RAMSGATE",
+          "ROCHESTER",
+          "SOUTHAMPTON",
+          "ST. DAVID'S"
+        ],
+        "port_header_count": 37,
+        "has_date_prefix": false,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18811231p.433_p002.txt",
+      "file_size": 0,
+      "line_count": 0,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [],
+        "port_header_count": 0,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18810820p.130_p001.txt",
+      "file_size": 10377,
+      "line_count": 186,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "IMPORTS",
+          "\nENGLAND AND WALES.\nBEAUMARIS",
+          "BERWICK",
+          "BOSTON",
+          "BRIDGWATER",
+          "CARDIFF",
+          "CARNARVON",
+          "CHESTER",
+          "COLCHESTER",
+          "DOUGLAS (ISLE OF MAN)"
+        ],
+        "port_header_count": 24,
+        "has_date_prefix": true,
+        "has_numeric_date": false,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    }
+  ],
+  "1882": [
+    {
+      "filename": "18820107_p001.txt",
+      "file_size": 10523,
+      "line_count": 170,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nGLASGOW",
+          "RETURN OF THE CLYDE SHIPBUILDING FOR THE YEARS UNDERNAMED",
+          "\nLEITH",
+          "IMPORTS",
+          "ENGLAND AND WALES.\nBARROW",
+          "BIDEFORD",
+          "BRIDGWATER",
+          "BRISTOL",
+          "CARDIFF",
+          "DOUGLAS (ISLE OF MAN)"
+        ],
+        "port_header_count": 24,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": [
+          "Dec. 28 Canada—Gefle—1,155 lds. fir board Crossfield",
+          "Dec. 28 Victoria—Skonvik—343 lds. fir hewn, 128 lds. deals, 25 lds. lathwood—How & Co.",
+          "Dec. 30 Olivette—Prince Edward Island—1,960 deals and ends—Richards, Power, & Co.",
+          "Dec. 29 Nordkyn—Laurvig—46,929 boards—J. A. Baker & Co.",
+          "31 Arklow—St. John, N.B.—20,305 deals, battens, scantlings, and ends—Jones & Nash"
+        ]
+      }
+    },
+    {
+      "filename": "18820107_p002.txt",
+      "file_size": 9607,
+      "line_count": 173,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL.\n\nLONDON",
+          "LYNN",
+          "MARYPORT",
+          "MIDDLESBROUGH",
+          "NEWHAVEN",
+          "NEWPORT",
+          "PENZANCE",
+          "PLYMOUTH",
+          "PORTSMOUTH",
+          "RYE"
+        ],
+        "port_header_count": 25,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    }
+  ],
+  "1885": [
+    {
+      "filename": "26. p. 407-408 - Imports - December 5 1885 - Timber Trades Journal 1885_p001.txt",
+      "file_size": 12344,
+      "line_count": 177,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "IMPORTS.\nENGLAND AND WALES",
+          "BRISTOL",
+          "CARDIFF",
+          "GOOLE",
+          "GRIMSBY",
+          "HARTLEPOOL (WEST)",
+          "HULL",
+          "LIVERPOOL",
+          "\nTHE TIMBER TRADES JOURNAL",
+          "LONDON.\nSURREY COMMERCIAL DOCKS"
+        ],
+        "port_header_count": 19,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001.txt",
+      "file_size": 0,
+      "line_count": 0,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [],
+        "port_header_count": 0,
+        "has_date_prefix": false,
+        "has_numeric_date": false,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "9. p. 173 - Imports - February 28 1885 - Timber Trades Journal 1885.txt",
+      "file_size": 10089,
+      "line_count": 146,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "\nIMPORTS.\nENGLAND AND WALES",
+          "BRISTOL",
+          "CARDIFF",
+          "GLOUCESTER",
+          "GRIMSBY",
+          "HARTLEPOOL (WEST)",
+          "HULL",
+          "LIVERPOOL",
+          "LONDON",
+          "LLANELLY"
+        ],
+        "port_header_count": 24,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "14. p. 172-174 - Imports - September 5 1885 - Timber Trades Journal 1885_p002.txt",
+      "file_size": 9061,
+      "line_count": 155,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "GRIMSBY",
+          "HARTLEPOOL (WEST)",
+          "\nTHE TIMBER TRADES JOURNAL",
+          "LONDON.\nSURREY COMMERCIAL DOCKS",
+          "MILLWALL DOCKS",
+          "WEST INDIA DOCKS",
+          "ROYAL ALBERT DOCKS",
+          "VICTORIA DOCK",
+          "HANOVER HOLE",
+          "ROTHERHITHE"
+        ],
+        "port_header_count": 22,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "16. p. 207-209 - Imports - September 19 1885 - Timber Trades Journal 1885_p003.txt",
+      "file_size": 10848,
+      "line_count": 136,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "YARMOUTH",
+          "\nIRELAND.\nBELFAST",
+          "CORK",
+          "DUNDALK",
+          "GALWAY",
+          "LIMERICK",
+          "NEWRY",
+          "TRALEE",
+          "WATERFORD",
+          "\nSCOTLAND.\nABERDEEN"
+        ],
+        "port_header_count": 26,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    }
+  ],
+  "1886": [
+    {
+      "filename": "18860102p8-9_p002.txt",
+      "file_size": 11374,
+      "line_count": 114,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "MONTROSE",
+          "TIMBER MEASURING.\nCUSTOMS ANNUITY AND BENEVOLENT FUND",
+          "THE GREATEST CARE IS TAKEN IN RECORDING LINEAL FEET OF PITCH PINE AND QUEBEC CARGOES",
+          "\nAN IMPORTANT FACT",
+          "LARGE STOCKS OF SEASONED MAHOGANY AND TIMBER ALWAYS ON HAND.\nCONTRACTORS TO RAILWAY AND TRAMWAY COMPANIES",
+          "ENGLISH & FOREIGN TIMBER MERCHANTS",
+          "\nACTON'S PATENT GLASS PAPER",
+          "WHARFINGER.\nGREENWICH",
+          "HARDWOODS",
+          "PINE AND SPRUCE DEALS OF ALL DESCRIPTIONS.\nMOULDINGS AND DOORS"
+        ],
+        "port_header_count": 10,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18860109p25-26_p002.txt",
+      "file_size": 11000,
+      "line_count": 157,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "\nIRELAND.\nBELFAST",
+          "\nDUBLIN",
+          "\nLONDONDERRY",
+          "\nSCOTLAND.\nDUNDEE",
+          "\nGLASGOW",
+          "\nGREENOCK",
+          "\nLEITH",
+          "\nTHE GAZETTE.\nFAILURES AND ARRANGEMENTS",
+          "FULLY SECURED",
+          "FULLY SECURED"
+        ],
+        "port_header_count": 10,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": [
+          "Dec. 29 Hiawatha — Bay Verte-12,156 deals and deal ends-Dixon & Sons"
+        ]
+      }
+    },
+    {
+      "filename": "18860102p8-9_p001.txt",
+      "file_size": 10367,
+      "line_count": 171,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "\nIMPORTS.\nENGLAND AND WALES",
+          "BRISTOL",
+          "CARDIFF",
+          "CARNARVON",
+          "FOLKESTONE",
+          "GLOUCESTER",
+          "GOOLE",
+          "GRIMSBY",
+          "HARTLEPOOL (WEST)",
+          "HARWICH"
+        ],
+        "port_header_count": 33,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18860109p25-26_p001.txt",
+      "file_size": 9754,
+      "line_count": 218,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "FLOATED GOODS",
+          "CARGOES NOT TAKEN INTO STOCK",
+          "\nIMPORTS.\nENGLAND AND WALES",
+          "BRIDGWATER",
+          "BRISTOL",
+          "CARDIFF",
+          "CARNARVON",
+          "DOUGLAS",
+          "FOLKESTONE",
+          "GOOLE"
+        ],
+        "port_header_count": 25,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    }
+  ],
+  "1887": [
+    {
+      "filename": "20. p. 482-483 - Imports - November 12 1887 - Timber Trades Journal 1887_p001.txt",
+      "file_size": 11176,
+      "line_count": 169,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL.\nIMPORTS",
+          "ENGLAND AND WALES.\nBARROW",
+          "BRISTOL",
+          "CARDIFF",
+          "CHESTER",
+          "FLEETWOOD",
+          "GLOUCESTER",
+          "GRIMSBY",
+          "HARTLEPOOL (WEST)",
+          "HULL"
+        ],
+        "port_header_count": 20,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "16. p. 426-428 - Imports - April 16 1887 - Timber Trades Journal 1887_p001.txt",
+      "file_size": 48087,
+      "line_count": 200,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "THE TIMBER TRADES JOURNAL",
+          "\nOBITUARY",
+          "\nLONDON DOCK DELIVERIES",
+          "\nSURREY COMMERCIAL DOCKS",
+          "\nMILLWALL DOCKS",
+          "\nDIFFERENCE (INCLUDING BOTH DOCKS)",
+          "\nTRADE ITEMS",
+          "\nWEATHER IN THE BALTIC",
+          "IMPORTS.\nENGLAND AND WALES",
+          "BARNSTAPLE"
+        ],
+        "port_header_count": 21,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": true,
+        "sample_records": [
+          "Apr. 7 Elida—Fredrikstad—21,650 pcs. sawn fir— John How & Co.",
+          "Apr. 7 Westbury (s)—Bordeaux—6,000 oak staves —Order",
+          "12 Balmoral—Pensacola—17,772 spars, poles and props—King Bros.",
+          "Apr. 9 Maria—Fredrikshald—24,962 sawn fir boards,1,485 deals, &c.—The Somerset Trading Co.",
+          "Apr. 5 Mathilda—Bordeaux—1,600 lds. hewn fir pit-props—G. N. Jessen"
+        ]
+      }
+    },
+    {
+      "filename": "19. p. 488-489 - Imports - May 7 1887 - Timber Trades Journal 1887_p002.txt",
+      "file_size": 11390,
+      "line_count": 145,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "\nSUNDERLAND",
+          "SWANSEA",
+          "TYNE",
+          "WISBECH",
+          "YARMOUTH",
+          "IRELAND.\nBELFAST",
+          "DUBLIN",
+          "SLIGO",
+          "TRALEE",
+          "SCOTLAND.\nABERDEEN"
+        ],
+        "port_header_count": 24,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "2. p. 34-35 - Imports - January 8 1887 - Timber Trades Journal 1887_p002.txt",
+      "file_size": 14811,
+      "line_count": 154,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "LERWICK",
+          "PERTH",
+          "\nTHE GAZETTE.\nFAILURES AND ARRANGEMENTS",
+          "FULLY SECURED",
+          "CREDITORS FULLY SECURED",
+          "PREFERENTIAL CREDITORS"
+        ],
+        "port_header_count": 6,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": false,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": true,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18. p. 468-470 - Imports - April 30 1887 - Timber Trades Journal 1887_p001.txt",
+      "file_size": 14314,
+      "line_count": 166,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "\nLEITH",
+          "\nTRADE ITEMS",
+          "\nWEATHER IN THE BALTIC",
+          "\nCORRESPONDENCE.\nHINTS ON BAND SAWS.\nTO THE EDITOR OF THE TIMBER TRADES JOURNAL",
+          "\nIMPORTS.\nENGLAND AND WALES",
+          "BRIDGWATER",
+          "BRISTOL",
+          "BOSTON",
+          "CARDIFF",
+          "CARNARVON"
+        ],
+        "port_header_count": 20,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    }
+  ],
+  "1888": [
+    {
+      "filename": "18880114p40-41_p002.txt",
+      "file_size": 15917,
+      "line_count": 123,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": false,
+        "port_headers": [
+          "LIVERPOOL",
+          "LONDON.\nMILLWALL DOCKS",
+          "ROYAL ALBERT DOCKS",
+          "\nVICTORIA DOCK",
+          "OTHER DOCKS AND WHARVES",
+          "LLANELLY",
+          "NEWHAVEN",
+          "NEWPORT",
+          "STOCKTON",
+          "SUNDERLAND"
+        ],
+        "port_header_count": 22,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18880107p16-17_p001.txt",
+      "file_size": 11979,
+      "line_count": 168,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "\nTHE TEAK MARKET",
+          "\nFORWARD SUPPLIES",
+          "\nTHE TIMBER TRADES JOURNAL.\nIMPORTS.\nENGLAND AND WALES",
+          "BRISTOL",
+          "CARDIFF",
+          "GLOUCESTER",
+          "GRIMSBY",
+          "IPSWICH",
+          "HARTLEPOOL (WEST)",
+          "HULL"
+        ],
+        "port_header_count": 25,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18880107p16-17_p002.txt",
+      "file_size": 12147,
+      "line_count": 102,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": false,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "ROCHESTER",
+          "STOCKTON",
+          "SUNDERLAND",
+          "SWANSEA",
+          "TYNE",
+          "WHITEHAVEN",
+          "IRELAND.\nBELFAST",
+          "SCOTLAND.\nALLOA",
+          "BORROWSTOUNNESS",
+          "GLASGOW"
+        ],
+        "port_header_count": 15,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": false,
+        "has_compressed_format": false,
+        "sample_records": []
+      }
+    },
+    {
+      "filename": "18880114p40-41_p001.txt",
+      "file_size": 5097,
+      "line_count": 107,
+      "signals": {
+        "has_import_header": false,
+        "has_imports_caps": true,
+        "uses_at_delimiter": false,
+        "uses_dash_delimiter": true,
+        "port_headers": [
+          "LARGEST STOCK IN THE UNITED KINGDOM. PRICES AND SIZES POST FREE.\nJOSEPH SANDELL & CO.\nMOULDINGS",
+          "JOINERY OF EVERY DESCRIPTION",
+          "LIVERPOOL",
+          "LONDON",
+          "WEST INDIA DOCKS",
+          "ROYAL ALBERT DOCKS",
+          "VICTORIA DOCKS",
+          "\nHAVRE",
+          "NEWHAVEN",
+          "GLASGOW"
+        ],
+        "port_header_count": 20,
+        "has_date_prefix": true,
+        "has_numeric_date": true,
+        "has_steamship_marker": true,
+        "has_dock_subdivisions": true,
+        "has_compressed_format": true,
+        "sample_records": [
+          "Jan. 2 Baltimore (s)—Baltimore-38 hickory logs-Farnworth & Jardine ; 30 hickory logs -Order",
+          "3 Oregon (s)—Portland-793 bdls. hickory-Ozden Benbrack (s)—Norfolk, Va.—291 pcs. persimmonwood-Order",
+          "5 Plantain (s)—Batoum-140 t. and 940 pcs. boxwood-Order",
+          "6 Caribbean (s)—Santa Martha-5 logs furniture wood-P. Nicol; 122 logs furniture wood—Order",
+          "9 Ariadne—Barahona-3,207 pcs. lignum-vitæ, 32 pcs. satinwood, 676 pcs. lancewood-B. Hall & Co."
+        ]
+      }
+    }
+  ]
+}

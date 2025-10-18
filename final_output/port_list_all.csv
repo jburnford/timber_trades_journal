@@ -1,0 +1,2167 @@
+port_name,type,original_count,normalized_count,cleaned_count,total_occurrences,notes
+'Hambro',origin,2,0,0,2,removed in cleanup
+.,origin,2,2,0,2,removed in cleanup
+A,destination,3,3,0,3,removed in cleanup
+A LARGE STOCK KEPT,destination,1,1,1,1,
+ABERDEEN,destination,124,0,0,124,removed in cleanup
+ABERYSTWITH,destination,25,0,0,25,removed in cleanup
+ALBANY,destination,27,0,0,27,removed in cleanup
+ALBERT DOCKS,destination,2,2,2,2,
+ALLOA,destination,438,0,0,438,removed in cleanup
+AND VIENNA,destination,1,1,1,1,
+ANTWERP,destination,12,0,0,12,removed in cleanup
+ARBROATH,destination,14,0,0,14,removed in cleanup
+ARDROSSAN,destination,20,0,0,20,removed in cleanup
+ARRIVALS IN DUNDEE,destination,3,3,3,3,
+AT AVONMOUTH,destination,2,2,2,2,
+AT AVONMOUTH DOCKS,destination,1,1,1,1,
+AT NEW ORLEANS,destination,11,0,0,11,removed in cleanup
+AVONMOUTH DOCK,destination,3,3,3,3,
+AYR,destination,49,0,0,49,removed in cleanup
+Aaland,origin,1,1,1,1,
+Aalborg,origin,1,3,3,3,
+Aalesund,origin,2,4,4,4,
+Aalsund,origin,2,0,0,2,removed in cleanup
+Aamaes,origin,1,1,1,1,
+Aarhus,origin,1,1,1,1,
+Aarhuus,origin,6,6,6,6,
+Aasgaardstrand,origin,4,6,6,6,
+Aasgaarstrand,origin,1,0,0,1,removed in cleanup
+Aasgardstrand,origin,1,0,0,1,removed in cleanup
+Aberdeen,origin + destination,1,1,1,1,
+Aberystwith,destination,0,25,25,25,inferred
+Ablafors,origin,2,2,2,2,
+Abo,origin,82,82,82,82,
+Abyn,origin,9,9,9,9,
+Abyu,origin,1,1,1,1,
+Adler,origin,1,1,1,1,
+Aguste,origin,1,1,1,1,
+Ahla,origin,1,1,1,1,
+Ahlafors,origin,30,30,30,30,
+Ahlators,origin,1,1,1,1,
+Ahlo,origin,1,1,1,1,
+Akyab,origin,4,4,4,4,
+Aland,origin,2,2,2,2,
+Albany,destination,0,27,28,28,inferred
+Alderney,origin,1,1,1,1,
+Alexandria,origin,2,2,2,2,
+Aleyn,origin,1,1,1,1,
+Alfred,origin,1,1,1,1,
+Alfredsham,origin,2,4,4,4,
+Alfredshamn,origin,2,0,0,2,removed in cleanup
+Alloa,destination,0,438,438,438,inferred
+"Alma, N.B.",origin,1,1,1,1,
+Almeria,origin,1,1,1,1,
+Almvik,origin,1,1,1,1,
+Alne,origin,1,1,1,1,
+Altona,origin,1,1,1,1,
+Altu,origin,0,1,1,1,inferred
+Alufors,origin,1,1,1,1,
+Alvik,origin,1,1,1,1,
+Amo,origin,1,1,1,1,
+Amsterdam,origin,30,30,30,30,
+Anciola,origin,1,1,1,1,
+Ancona,origin,1,1,1,1,
+Anga,origin,3,3,3,3,
+Anna,origin,1,1,1,1,
+Annapolis,origin,5,5,5,5,
+"Annapolis, N.S.",origin,1,1,1,1,
+Antigua,origin,1,1,1,1,
+Antwerp,origin + destination,30,30,30,30,
+Apalachicola,origin,40,40,40,40,
+Ar-ndal,origin,1,0,0,1,removed in cleanup
+Arbroath,destination,0,14,14,14,inferred
+Arcachon,origin,27,28,28,28,
+Archangel,origin,558,560,560,560,
+Archangl.,origin,1,0,0,1,removed in cleanup
+Ardrossan,destination,0,20,20,20,inferred
+Areachon,origin,1,0,0,1,removed in cleanup
+Arehangel,origin,1,0,0,1,removed in cleanup
+Arend,origin,1,1,1,1,
+Arendal,origin,230,233,234,234,
+Arenos,origin,1,1,1,1,
+Areudal,origin,1,0,0,1,removed in cleanup
+Arno,origin,13,13,13,13,
+Arno Ansag,origin,1,1,1,1,
+Arthur,origin,1,1,1,1,
+Aruskjoldvick,origin,1,1,1,1,
+Asbacka,origin,13,15,15,15,
+Asbacker,origin,1,1,1,1,
+Asbacks,origin,1,0,0,1,removed in cleanup
+Asbecka,origin,1,0,0,1,removed in cleanup
+Astoria,origin,1,1,1,1,
+Attona,origin,1,1,1,1,
+Attu,origin,11,11,11,11,
+Atu,origin,1,0,0,1,removed in cleanup
+Auckland,origin,2,2,2,2,
+"Auckland, N.Z.",origin,1,1,1,1,
+Auray,origin,107,107,107,107,
+Aussig,origin,1,1,1,1,
+Australia,origin,1,1,1,1,
+Aviles,origin,1,1,1,1,
+Avonmouth,origin,1,1,1,1,
+Away,origin,1,1,1,1,
+Axmar,origin,3,3,3,3,
+Axmar Bruk,origin,1,1,1,1,
+Ayr,destination,0,49,49,49,inferred
+B'torpshamn,origin,1,1,1,1,
+B.,destination,0,0,1,1,inferred
+B. AND F. S. WHARF,destination,1,1,0,1,removed in cleanup
+BANFF,destination,27,0,0,27,removed in cleanup
+BARK MERCHANTS,destination,1,1,1,1,
+BARKING CREEK,destination,1,1,1,1,
+BARNARD'S,destination,0,0,2,2,inferred
+BARNARD'S WHARF,destination,2,2,0,2,removed in cleanup
+BARNSTAPLE,destination,13,0,0,13,removed in cleanup
+BARROW,destination,49,0,0,49,removed in cleanup
+BARROWSTOUNESS,destination,3,0,0,3,removed in cleanup
+BEAUMARIS,destination,23,0,0,23,removed in cleanup
+BELFAST,destination,265,265,265,265,
+BELL,destination,0,0,2,2,inferred
+BELL WHARF,destination,2,2,0,2,removed in cleanup
+BERWICK,destination,20,0,0,20,removed in cleanup
+BIDEFORD,destination,1,0,0,1,removed in cleanup
+BILLS OF SALE,destination,1,1,0,1,removed in cleanup
+BO'NESS,destination,287,287,294,294,
+BONESS,destination,5,5,5,5,
+BORROWSTONESS,destination,16,0,0,16,removed in cleanup
+BORROWSTOUNESS,destination,17,0,0,17,removed in cleanup
+BORROWSTOUNNESS,destination,594,0,0,594,removed in cleanup
+BORROWSTOWNESS,destination,1,0,0,1,removed in cleanup
+BORROWSTOWNNESS,destination,2,0,0,2,removed in cleanup
+BOSTON,destination,52,0,0,52,removed in cleanup
+BREWER'S QUAY,destination,6,6,6,6,
+BRIDGEWATER,destination,1,0,0,1,removed in cleanup
+BRIDGWATER,destination,46,0,0,46,removed in cleanup
+BRISTOL,destination,595,0,0,595,removed in cleanup
+BURT'S,destination,0,0,22,22,inferred
+BURT'S WHARF,destination,22,22,0,22,removed in cleanup
+BUTLER'S,destination,0,0,1,1,inferred
+BUTLER'S WHARF,destination,1,1,0,1,removed in cleanup
+BY COMMERCIAL DOCKS,destination,1,1,1,1,
+BY ROYAL ALBERT DOCK,destination,1,1,1,1,
+BY SURREY COMMERCIAL DOCKS,destination,4,4,4,4,
+BY VICTORIA DOCKS,destination,1,1,1,1,
+Backmann,origin,1,1,1,1,
+Baddeck,origin,1,0,0,1,removed in cleanup
+Baddick,origin,0,1,1,1,inferred
+Badeck,origin,1,1,1,1,
+Bahia,origin,14,14,14,14,
+Ballsta,origin,1,0,0,1,removed in cleanup
+Balnarte,origin,1,1,1,1,
+Baltic,origin,1,1,1,1,
+Baltimore,origin,228,228,228,228,
+"Baltimore, U.S.A.",origin,1,1,1,1,
+Balto,origin,1,1,1,1,
+Banff,destination,0,27,27,27,inferred
+Bangkok,origin,2,2,2,2,
+Bangor,origin,15,15,16,16,
+"Bangor, U.S.",origin,2,2,2,2,
+Bangsund,origin,2,2,2,2,
+Bankok,origin,1,1,1,1,
+Bannesund,origin,1,0,0,1,removed in cleanup
+Bannow,origin,1,1,1,1,
+Baraharia,origin,1,1,1,1,
+Barahona,origin,2,2,2,2,
+Barnstaple,origin + destination,3,3,3,3,
+Baronne,origin,1,0,0,1,removed in cleanup
+Barquero,origin,3,3,3,3,
+Barrow,destination,0,49,49,49,inferred
+Bassein,origin,1,1,1,1,
+Batavia,origin,1,1,1,1,
+Batekarnas,origin,1,1,1,1,
+Bath,origin,1,1,1,1,
+Bathurst,origin,41,41,41,41,
+"Bathurst, N.B.",origin,9,9,9,9,
+Batiscan,origin,3,4,4,4,
+Batoum,origin,1,1,1,1,
+Batscan,origin,1,0,0,1,removed in cleanup
+Batvik,origin,5,5,5,5,
+Bawik,origin,1,1,1,1,
+Bay Chaleur,origin,1,1,1,1,
+Bay Verte,origin,45,46,46,46,
+"Bay Verte, Montreal",origin,1,1,1,1,
+"Bay Verte, N B.",origin,1,1,1,1,
+"Bay Verte, N.B.",origin,8,8,8,8,
+"Bay Verte, N.S.",origin,3,3,3,3,
+Bay de Verte,origin,4,4,4,4,
+"Bay de Verte, N.B.",origin,1,1,1,1,
+Bay of Islands,origin,2,2,2,2,
+Bayo nne,origin,1,0,0,1,removed in cleanup
+Bayonne,origin,203,205,205,205,
+Bayvert,origin,1,0,0,1,removed in cleanup
+Beaufort,origin,1,1,1,1,
+"Beaufort, S.C.",origin,2,2,2,2,
+Beaumaris,destination,0,23,23,23,inferred
+Belize,origin,36,36,36,36,
+Belle Isle,origin,1,1,1,1,
+Bellon,origin,3,3,3,3,
+Belon,origin,4,4,4,4,
+Bennetts & Co,origin,1,1,1,1,
+Benodet,origin,1,1,1,1,
+Bergen,origin,2,2,2,2,
+Berggvara,origin,0,2,2,2,inferred
+Bergqvara,origin,24,24,24,24,
+Bergrara,origin,1,1,1,1,
+Bergvara,origin,1,0,0,1,removed in cleanup
+Bermuda,origin,5,5,5,5,
+Bersiamitz,origin,1,0,0,1,removed in cleanup
+Bersimis,origin,8,8,8,8,
+Berwick,destination,0,20,20,20,inferred
+Betsiamites,origin,3,0,0,3,removed in cleanup
+Betsiamitz,origin,4,8,8,8,
+Bideford,origin,1,0,0,1,removed in cleanup
+Bidon,origin,1,1,1,1,
+Billien,origin,1,1,1,1,
+Billiers,origin,1,1,1,1,
+Bindalen,origin,7,7,7,7,
+Biornebora,origin,1,1,1,1,
+Bisor,origin,1,1,1,1,
+Bjerneborg,origin,0,1,1,1,inferred
+Bjneborg,origin,1,0,0,1,removed in cleanup
+Bjorn-borg,origin,1,0,0,1,removed in cleanup
+Bjornberg,origin,1,1,1,1,
+Bjornborg,origin,1,0,0,1,removed in cleanup
+Bjorneborg,origin,403,406,407,407,
+Bjornemann,origin,1,1,1,1,
+Bjornkas,origin,1,1,1,1,
+Bjornsborg,origin,1,0,0,1,removed in cleanup
+Bjornstorm,origin,1,1,1,1,
+Black River,origin,3,3,3,3,
+Blaye,origin,61,61,61,61,
+Bloody Bay,origin,1,1,1,1,
+Bolax,origin,1,1,1,1,
+Bolderaa,origin,1,1,1,1,
+Bollsta,origin,24,26,26,26,
+Bollsta Bruk,origin,1,1,1,1,
+Bolsiamitz,origin,1,1,1,1,
+Bolsta,origin,1,0,0,1,removed in cleanup
+Bomarsund,origin,1,1,1,1,
+Bombay,origin,4,4,4,4,
+Bonny,origin,2,2,2,2,
+Borde,origin,1,1,1,1,
+Bordeaux,origin,821,821,831,831,
+Bordeaux via London,origin,1,1,1,1,
+Bordeaux vid London,origin,1,1,1,1,
+Bordx.,origin,1,1,1,1,
+Borga,origin,30,31,31,31,
+Borggvara,origin,1,0,0,1,removed in cleanup
+Borgn,origin,1,1,1,1,
+Borgo,origin,1,1,1,1,
+Borrga,origin,1,0,0,1,removed in cleanup
+Borrowstounness,destination,0,633,634,634,inferred
+Boston,origin + destination,351,351,351,351,
+"Boston, U.S.",origin,2,2,2,2,
+Botornshamn,origin,1,1,1,1,
+Botorphshamn,origin,1,1,1,1,
+Boulogne,origin,2,2,2,2,
+Boutouche,origin,1,0,0,1,removed in cleanup
+Brahestad,origin,3,3,3,3,
+Brahestadt,origin,1,1,1,1,
+Brake,origin,8,8,8,8,
+Bredvik,origin,1,1,1,1,
+Bremen,origin,44,44,44,44,
+Brest,origin,11,11,11,11,
+Brest pitwood,origin,1,1,1,1,
+Brevig,origin,148,148,148,148,
+Bridgewater,origin,5,0,0,5,removed in cleanup
+"Bridgewater, N.S.",origin,1,1,1,1,
+Bridgwater,origin + destination,8,13,13,13,
+"Bridgwater, N.S.",origin,1,1,1,1,
+Brisbane,origin,5,5,5,5,
+Bristol,destination,0,595,629,629,inferred
+British Columbia,origin,1,1,1,1,
+Broke,origin,1,1,1,1,
+Bruges,origin,3,3,3,3,
+Brunchausen,origin,1,1,1,1,
+Brunne,origin,1,1,1,1,
+Brunswick,origin,6,6,6,6,
+"Brunswick, Ga.",origin,5,0,0,5,removed in cleanup
+"Brunswick, Georgia",origin,2,2,2,2,
+"Brunswick, U.S",origin,0,5,5,5,inferred
+Brussels,origin,3,3,3,3,
+Bstaiamitz,origin,2,2,2,2,
+Buctouche,origin,27,28,29,29,
+"Buctouche, N.B.",origin,5,5,5,5,
+Buenos Ayres,origin,2,2,2,2,
+Bure,origin,10,11,11,11,
+Burea,origin,4,4,4,4,
+Bureo,origin,1,0,0,1,removed in cleanup
+Byake,origin,3,3,3,3,
+Byske,origin,8,8,8,8,
+C. Helsingfors,origin,1,0,0,1,removed in cleanup
+CAERNARVON,destination,3,0,0,3,removed in cleanup
+CARDIFF,destination,1606,0,0,1606,removed in cleanup
+CARDIGAN,destination,7,0,0,7,removed in cleanup
+CARLISLE,destination,2,0,0,2,removed in cleanup
+CARNARVON,destination,23,0,0,23,removed in cleanup
+CASTLETOWN,destination,3,0,0,3,removed in cleanup
+CHARLESTOWN,destination,133,0,0,133,removed in cleanup
+CHARLTON,destination,0,0,3,3,inferred
+CHARLTON BUOYS,destination,3,3,0,3,removed in cleanup
+CHESTER,destination,54,0,0,54,removed in cleanup
+CHICAGO,destination,1,1,1,1,
+CHRISTIANIA,origin,1,0,0,1,removed in cleanup
+CHURCH HOLE,destination,1,1,1,1,
+CLIFF'S CREEK,destination,2,2,2,2,
+CLIFFE CREEK,destination,5,5,5,5,
+COLCHESTER,destination,23,0,0,23,removed in cleanup
+COLERAINE,destination,4,4,4,4,
+COMMERCIAL DOCKS,destination,44,44,46,46,
+CORK,destination,55,55,55,55,
+COTTON'S,destination,0,0,5,5,inferred
+COTTON'S WHARF,destination,5,5,0,5,removed in cleanup
+COWES,destination,11,0,0,11,removed in cleanup
+CUSTOM HOUSE,destination,1,1,1,1,
+Cabenda,origin,1,1,1,1,
+Caderona,origin,1,1,1,1,
+Caen,origin,8,8,8,8,
+Calais,origin,2,2,2,2,
+Calcutta,origin,5,5,5,5,
+Calileo,origin,1,1,1,1,
+Calix,origin,1,1,1,1,
+Calmar,origin,82,82,82,82,
+Camarina,origin,2,2,2,2,
+Camarinas,origin,3,3,3,3,
+Cameret,origin,1,1,1,1,
+Camla Karleby,origin,0,1,1,1,inferred
+Campbellton,origin,6,6,6,6,
+"Campbellton, N.B.",origin,5,0,0,5,removed in cleanup
+"Campbelltown, N.B.",origin,1,9,9,9,
+Campbelton,origin,4,4,4,4,
+Campbeltown,origin,2,2,2,2,
+"Campbeltown, N.B.",origin,3,0,0,3,removed in cleanup
+Campechi,origin,1,1,1,1,
+Canada,origin,3,3,3,3,
+Canarinas,origin,2,2,2,2,
+Caneron,origin,1,1,1,1,
+Canterbury,origin,1,1,1,1,
+Cape Lopez,origin,1,1,1,1,
+Caramanal,origin,1,1,1,1,
+Caramenal,origin,2,2,2,2,
+Caraminas,origin,1,1,1,1,
+Carany,origin,1,1,1,1,
+Caraquet,origin,4,4,4,4,
+"Caraquet, N.B.",origin,4,4,4,4,
+Caraquette,origin,4,4,4,4,
+Carde,origin,1,1,1,1,
+Cardenas,origin,2,2,2,2,
+Cardiff,origin + destination,2,2,2,2,
+Cardigan,destination,0,7,7,7,inferred
+"Cardigan, P.E.I.",origin,1,1,1,1,
+Carlberg,origin,2,2,2,2,
+Carlisle,destination,0,2,2,2,inferred
+Carlisle Bay,origin,1,1,1,1,
+Carlscrona,origin,28,29,29,29,
+Carlshamn,origin,20,20,20,20,
+Carlskrona,origin,14,14,14,14,
+Carlstad,origin,1,1,1,1,
+Carlsvik,origin,7,7,7,7,
+Carnavon,destination,0,26,26,26,inferred
+Carril,origin,18,18,18,18,
+Carrol,origin,1,1,1,1,
+Castletown,destination,0,3,3,3,inferred
+Castropol,origin,1,1,1,1,
+Cayo,origin,1,1,1,1,
+Cbristiansand,origin,1,0,0,1,removed in cleanup
+Ceara,origin,1,1,1,1,
+Ch,origin,1,1,0,1,removed in cleanup
+Champion Bay,origin,1,1,1,1,
+Charente,origin,7,7,7,7,
+Charleston,origin + destination,28,32,32,32,
+"Charleston, N.S.",origin,1,1,1,1,
+"Charleston, S.C.",origin,2,2,2,2,
+"Charleston, U.S.",origin,1,1,1,1,
+Charlestown,origin,4,0,0,4,removed in cleanup
+Charlotte Town,origin,36,41,41,41,
+Charlotte Town P,origin,1,0,0,1,removed in cleanup
+"Charlotte Town, P.E.I.",origin,3,4,4,4,
+Charlottetown,origin,4,0,0,4,removed in cleanup
+"Charlottetown, P E.I.",origin,1,0,0,1,removed in cleanup
+Chatham,origin,45,45,45,45,
+"Chatham, N. B.",origin,3,0,0,3,removed in cleanup
+"Chatham, N.B.",origin,31,34,34,34,
+Chepstow,origin,2,2,2,2,
+Cherbourg,origin,1,1,1,1,
+Cherril,origin,1,1,1,1,
+Chester,destination,0,54,54,54,inferred
+Chicontima,origin,1,0,0,1,removed in cleanup
+Chicontimi,origin,7,8,8,8,
+Chicoutimi,origin,1,1,1,1,
+Chiltepec,origin,2,2,2,2,
+Chittagong,origin,1,1,1,1,
+Christensen,origin,1,1,1,1,
+Christian-sand,origin,1,0,0,1,removed in cleanup
+Christiana,origin,10,0,0,10,removed in cleanup
+Christianand,origin,1,0,0,1,removed in cleanup
+Christiania,origin,947,966,969,969,
+Christiania and Gothenburg,origin,3,0,0,3,removed in cleanup
+Christianople,origin,3,0,0,3,removed in cleanup
+Christiansand,origin,375,379,379,379,
+Christiansann,origin,1,0,0,1,removed in cleanup
+Christianstad,origin,1,2,2,2,
+Christianstadt,origin,1,0,0,1,removed in cleanup
+Christiansund,origin,11,11,11,11,
+Christina,origin,1,0,0,1,removed in cleanup
+Christine,origin,1,1,1,1,
+Christinestad,origin,9,9,9,9,
+Christinestadt,origin,9,9,9,9,
+Cienfuegos,origin,9,9,9,9,
+Cimbritshamn,origin,1,1,1,1,
+City St. Domingo,origin,1,1,1,1,
+City of Domingo,origin,1,1,1,1,
+City of Son,origin,1,1,1,1,
+Clare,origin,1,1,1,1,
+Clare Castle,origin,1,1,1,1,
+Co,origin,1,1,0,1,removed in cleanup
+Coastwise,origin,1,1,1,1,
+"Coatzcoalcos, Mexico",origin,1,1,1,1,
+Cocagne,origin,5,5,5,5,
+"Cocagne, N.B.",origin,2,2,2,2,
+"Cocaigne, N.B.",origin,1,1,1,1,
+Cochin,origin,3,3,3,3,
+Cochon,origin,1,1,1,1,
+Coconada,origin,1,1,1,1,
+Colberg,origin,21,21,21,21,
+Colbergermunde,origin,2,2,2,2,
+Colbjornsen,origin,1,1,1,1,
+Colchester,destination,0,23,23,23,inferred
+Colombo,origin,16,16,16,16,
+Colon,origin,2,2,2,2,
+Comarina,origin,1,1,1,1,
+Concarnean,origin,1,0,0,1,removed in cleanup
+Concarneau,origin,2,4,4,4,
+Constantinople,origin,31,31,31,31,
+Copenhagen,origin,9,9,9,9,
+Corcarneau,origin,1,0,0,1,removed in cleanup
+Corcubion,origin,1,1,1,1,
+Corfu,origin,1,1,1,1,
+Coristiansand,origin,1,0,0,1,removed in cleanup
+Cork,origin,4,4,4,4,
+"Cornwallis, N.S.",origin,1,1,1,1,
+Corronne,origin,1,1,1,1,
+Corunna,origin,52,52,52,52,
+Cowes,destination,0,11,11,11,inferred
+Croisic,origin,1,1,1,1,
+Cronstad,origin,3,0,0,3,removed in cleanup
+Cronstadt,origin,1205,1210,1216,1216,
+Cronstudt,origin,1,0,0,1,removed in cleanup
+Cuba,origin,1,1,1,1,
+Cumberland Basin,origin,1,1,1,1,
+Cunbushamn,origin,1,1,1,1,
+Curagoa,origin,1,1,1,1,
+Cuxhaven,origin,1,1,1,1,
+D'anzig,origin,1,0,0,1,removed in cleanup
+DARTMOUTH,destination,8,8,8,8,
+DEADMAN,destination,0,0,1,1,inferred
+DEADMAN DOCK BUOYS,destination,1,1,0,1,removed in cleanup
+DEADMAN'S,destination,0,0,4,4,inferred
+DEADMAN'S BUOYS,destination,2,2,0,2,removed in cleanup
+DEADMAN'S DOCK,destination,2,2,2,2,
+DEADMAN'S DOCK BUOYS,destination,2,2,0,2,removed in cleanup
+DEADMAN'S DOCKS BROKERAGE,destination,1,1,1,1,
+DEAL,destination,2,0,0,2,removed in cleanup
+DEPTFORD,destination,34,34,38,38,
+DEPTFORD BUOYS,destination,4,4,0,4,removed in cleanup
+DIVIDENDS,destination,1,1,0,1,removed in cleanup
+DOUGLAS,destination,13,0,0,13,removed in cleanup
+DOUGLAS (ISLE OF MAN),destination,4,4,4,4,
+DOVER,destination,32,0,0,32,removed in cleanup
+DROGHEDA,destination,5,5,5,5,
+DUBLIN,destination,122,122,125,125,
+DUNBAR,destination,4,4,4,4,
+DUNDALK,destination,40,40,44,44,
+DUNDEE,destination,1017,0,0,1017,removed in cleanup
+Dago,origin,3,3,3,3,
+Dahlkarlsa,origin,1,1,1,1,
+Dal,destination,0,2,2,2,inferred
+Dalhousie,origin,46,46,46,46,
+"Dalhousie, N.B.",origin,4,4,4,4,
+Dalkarlsa,origin,4,4,4,4,
+Dame d'Esperance,origin,1,1,1,1,
+Dantric,origin,1,0,0,1,removed in cleanup
+Dantzic,origin,137,149,151,151,
+Dantzie,origin,8,0,0,8,removed in cleanup
+Dantzig,origin,15,15,15,15,
+Dantzio,origin,3,0,0,3,removed in cleanup
+Danzic,origin,11,11,11,11,
+Danzig,origin,587,588,592,592,
+Darien,origin,97,97,97,97,
+Darklkahn,origin,2,2,2,2,
+Delfhaven,origin,1,1,1,1,
+Delfshaven,origin,1,1,1,1,
+Demerara,origin,34,34,34,34,
+Denmark,origin,1,1,1,1,
+Derby,origin,1,1,1,1,
+Dieppe,origin,16,16,16,16,
+"Digby, N.S.",origin,1,1,1,1,
+Djupvik,origin,5,5,5,5,
+Dobay,origin,1,1,1,1,
+Dobery,origin,1,1,1,1,
+Doboy,origin,50,50,50,50,
+Dohlkarsla,origin,1,1,1,1,
+Domejo,origin,1,1,1,1,
+Domjo,origin,1,0,0,1,removed in cleanup
+Domsjo,origin,25,26,26,26,
+Domsjo and Nordsmalings,origin,1,1,1,1,
+Donelan,origin,8,8,8,8,
+Donlin,origin,1,1,1,1,
+Dorchester,origin,2,2,2,2,
+Dordrecht,origin,27,27,27,27,
+Dordt,origin,63,64,64,64,
+Dorkt,origin,1,1,1,1,
+Dort,origin,1,0,0,1,removed in cleanup
+Douarnenez,origin,3,3,3,3,
+Douglas,destination,0,13,13,13,inferred
+Dover,destination,0,32,32,32,inferred
+Drag,origin,2,2,2,2,
+Draget,origin,1,1,1,1,
+Dram,origin,228,229,231,231,
+Drambak,origin,1,1,1,1,
+Dramen,origin,1,0,0,1,removed in cleanup
+Drammen,origin,541,542,542,542,
+Dramn,origin,1,0,0,1,removed in cleanup
+Drangsoud,origin,1,1,1,1,
+Dranklippan,origin,1,1,1,1,
+Drebak,origin,1,1,1,1,
+Drng,origin,1,1,1,1,
+Droback,origin,1,0,0,1,removed in cleanup
+Drobak,origin,21,22,22,22,
+Drogheda,origin,2,2,2,2,
+Dronning,origin,1,1,1,1,
+Drontheim,origin,106,108,108,108,
+Dronthiem,origin,2,0,0,2,removed in cleanup
+"Drysdale, N.B.",origin,1,1,1,1,
+Dublin,origin,2,2,2,2,
+Dumfries,origin,1,1,1,1,
+Dundee,destination,0,1017,1036,1036,inferred
+Dungarvon,origin,1,1,1,1,
+Dunkirk,origin,3,3,3,3,
+Dwarf,origin,1,1,1,1,
+E. Pascagoula,origin,1,0,0,1,removed in cleanup
+EAST INDIA DOCKS,destination,3,3,3,3,
+ENGLAND AND WALES,destination,15,15,15,15,
+ERITH,destination,1,1,1,1,
+ERRATA,destination,20,20,0,20,removed in cleanup
+ERRATUM,destination,4,4,4,4,
+EXETER,destination,24,0,0,24,removed in cleanup
+East Indies,origin,0,8,8,8,inferred
+East Port,origin,1,1,1,1,
+Eatonville,origin,2,2,2,2,
+Economy,origin,2,2,2,2,
+Economy Point,origin,1,1,1,1,
+"Economy Point, Nova Scotia",origin,1,1,1,1,
+"Economy, N.B.",origin,1,1,1,1,
+"Economy, N.S.",origin,4,4,4,4,
+"Economy, U.S.",origin,1,1,1,1,
+Egersund,origin,1,1,1,1,
+Eggesund,origin,1,0,0,1,removed in cleanup
+Ekenas,origin,5,5,5,5,
+Eloby,origin,1,1,1,1,
+Elsfleth,origin,1,1,1,1,
+Elsinore,origin,3,3,3,3,
+Emil,origin,2,2,2,2,
+Emilie,origin,1,1,1,1,
+Enoch,origin,1,1,1,1,
+Esbjerg,origin,1,1,1,1,
+Esborg,origin,1,1,1,1,
+Escoumains,origin,2,2,2,2,
+Esperanza,origin,1,1,1,1,
+Essequibo,origin,1,1,1,1,
+Essvick,origin,1,0,0,1,removed in cleanup
+Essvik,origin,2,9,9,9,
+Essviken,origin,5,0,0,5,removed in cleanup
+Esurken,origin,1,1,1,1,
+Esvik,origin,1,0,0,1,removed in cleanup
+Exeter,destination,0,24,24,24,inferred
+F' stad,origin,1,1,1,1,
+F'dericksvoern,origin,1,1,1,1,
+F'dksvoern,origin,1,1,1,1,
+F'drikstvoern,origin,1,1,1,1,
+F'driksvoern,origin,1,0,0,1,removed in cleanup
+F'kstad,origin,2,2,2,2,
+F'shald,origin,10,10,10,10,
+F'stad,origin,21,0,0,21,removed in cleanup
+F'stad.,origin,1,1,1,1,
+F'stadt,origin,6,6,6,6,
+FAILURES AND ARRANGEMENTS,destination,8,8,0,8,removed in cleanup
+FALMOUTH,destination,16,0,0,16,removed in cleanup
+FAVERSHAM,destination,28,0,0,28,removed in cleanup
+FISHEROW,destination,1,1,1,1,
+FISHERROWS,destination,4,4,4,4,
+FLEETWOOD,destination,56,0,0,56,removed in cleanup
+FLETCHER'S,destination,0,0,1,1,inferred
+FLETCHER'S BUOYS,destination,1,1,0,1,removed in cleanup
+FOLKESTONE,destination,18,0,0,18,removed in cleanup
+FORT GLASGOW,destination,1,1,1,1,
+FOWEY,destination,30,0,0,30,removed in cleanup
+FRASERBURGH,destination,46,0,0,46,removed in cleanup
+FREIGHT AND SHORT DELIVERY,destination,1,1,1,1,
+FREIGHTS,destination,15,15,0,15,removed in cleanup
+FRESH,destination,0,0,2,2,inferred
+FRESH WHARF,destination,2,2,0,2,removed in cleanup
+Faaborg,origin,2,0,0,2,removed in cleanup
+Fagervik,origin,1,1,1,1,
+Fahrsund,origin,1,0,0,1,removed in cleanup
+Falkenb'g,origin,1,1,1,1,
+Falkenberg,origin,131,132,132,132,
+Falkenburg,origin,79,79,79,79,
+Falkonberg,origin,1,0,0,1,removed in cleanup
+Falmouth,destination,0,16,16,16,inferred
+Faon,origin,2,2,2,2,
+Farosund,origin,2,2,2,2,
+Farsund,origin,4,5,5,5,
+Faversham,destination,0,28,28,28,inferred
+Fecamp,origin,1,1,1,1,
+Fedrikstad,origin,1,0,0,1,removed in cleanup
+Ferdinandina,origin,1,0,0,1,removed in cleanup
+Fernandina,origin,16,17,17,17,
+Fernavik,origin,1,1,1,1,
+Ferrol,origin,24,24,24,24,
+Fide,origin,1,1,1,1,
+Figeholm,origin,25,25,25,25,
+Finklippan,origin,94,94,94,94,
+Finland,origin,2,2,2,2,
+Finnklippan,origin,24,24,24,24,
+Fiume,origin,34,34,34,34,
+Fiume and Trieste,origin,2,2,2,2,
+Five Islands,origin,2,2,2,2,
+"Five Islands, N.S.",origin,1,1,1,1,
+Fleetwood,destination,0,56,56,56,inferred
+Flekkiefiord,origin,1,1,1,1,
+Flekkifiord,origin,1,1,1,1,
+Flushing,origin,4,4,4,4,
+Fogelvik,origin,1,1,1,1,
+Folkestone,destination,0,18,18,18,inferred
+Fordeux,origin,1,1,1,1,
+Forrsogrund,origin,1,1,1,1,
+Forsabyham,origin,1,1,1,1,
+Forsby,origin,1,1,1,1,
+Forsgrund,origin,1,0,0,1,removed in cleanup
+Forsly Ham,origin,1,1,1,1,
+Fort Cortes,origin,1,1,1,1,
+"Fort Royal, U.S.A.",origin,1,0,0,1,removed in cleanup
+Fowey,destination,0,30,30,30,inferred
+Fowstkage,origin,1,1,1,1,
+Fr. Laxa,origin,1,1,1,1,
+France,origin,1,1,1,1,
+Franck,origin,1,1,1,1,
+Frangsound,origin,1,0,0,1,removed in cleanup
+Frankhald,origin,1,1,1,1,
+Frano,origin,2,3,3,3,
+Fraserburgh,destination,0,46,46,46,inferred
+Fre.irikshald,origin,1,0,0,1,removed in cleanup
+Fred-rikstad,origin,1,0,0,1,removed in cleanup
+Frederickshald,origin,5,0,0,5,removed in cleanup
+Fredericksham,origin,1,0,0,1,removed in cleanup
+Frederickstad,origin,3,0,0,3,removed in cleanup
+Frederickstadt,origin,11,0,0,11,removed in cleanup
+Fredericksvoern,origin,2,0,0,2,removed in cleanup
+Frederiksen,origin,1,0,0,1,removed in cleanup
+Frederikshald,origin,10,15,15,15,
+Frederikshaldt,origin,1,0,0,1,removed in cleanup
+Frederikshall,origin,1,0,0,1,removed in cleanup
+Frederiksham,origin,1,0,0,1,removed in cleanup
+Frederikstad,origin,17,31,31,31,
+Frederikstadt,origin,14,0,0,14,removed in cleanup
+Frederiksvoern,origin,10,0,0,10,removed in cleanup
+Frederiksvorn,origin,1,0,0,1,removed in cleanup
+Fredrickshald,origin,6,0,0,6,removed in cleanup
+Fredrickshaldt,origin,4,0,0,4,removed in cleanup
+Fredrickshamn,origin,5,0,0,5,removed in cleanup
+Fredrickstad,origin,3,0,0,3,removed in cleanup
+Fredrickstadt,origin,11,0,0,11,removed in cleanup
+Fredriksbald,origin,1,0,0,1,removed in cleanup
+Fredrikshald,origin,208,221,221,221,
+Fredriksham,origin,2,3,3,3,
+Fredrikshamm,origin,1,0,0,1,removed in cleanup
+Fredrikshamn,origin,14,21,21,21,
+Fredrikshavn,origin,1,0,0,1,removed in cleanup
+Fredriksta,origin,1,0,0,1,removed in cleanup
+Fredrikstad,origin,315,374,374,374,
+Fredrikstadt,origin,92,93,93,93,
+Fredriksvern,origin,1,0,0,1,removed in cleanup
+Fredriksvoarn,origin,1,0,0,1,removed in cleanup
+Fredriksvoern,origin,12,27,27,27,
+Fredriksvorn,origin,1,0,0,1,removed in cleanup
+Fredrikvaern,origin,1,0,0,1,removed in cleanup
+Fridrikstadt,origin,1,0,0,1,removed in cleanup
+Fritzoe,origin,3,3,3,3,
+Frontera,origin,2,2,2,2,
+Frontera de Tabasco,origin,2,2,2,2,
+Frostkage,origin,1,1,1,1,
+Frostkorge,origin,1,1,1,1,
+Fuen,origin,1,1,1,1,
+Furugrund,origin,1,0,0,1,removed in cleanup
+Furuogrund,origin,6,7,7,7,
+G'brg,origin,1,1,1,1,
+G'burg,origin,108,0,0,108,removed in cleanup
+G'burg.,origin,3,3,3,3,
+G'stadt,origin,1,1,1,1,
+GALLEON'S,destination,0,0,1,1,inferred
+GALLEON'S BUOYS,destination,1,1,0,1,removed in cleanup
+GALWAY,destination,15,15,15,15,
+GLASGOW,destination,662,0,0,662,removed in cleanup
+GLOUCESTER,destination,324,0,0,324,removed in cleanup
+GOOLE,destination,132,0,0,132,removed in cleanup
+GOVERNMENT,destination,0,0,1,1,inferred
+GOVERNMENT DOCK BUOYS,destination,1,1,0,1,removed in cleanup
+GRANGE MOUTH,destination,1,0,0,1,removed in cleanup
+GRANGEMOUTH,destination,989,0,0,989,removed in cleanup
+GRANTON,destination,379,0,0,379,removed in cleanup
+GRANVILLE DOCKS,destination,1,1,1,1,
+GRAVESEND,destination,7,7,7,7,
+GRAYS,destination,8,8,8,8,
+GREAT YARMOUTH,destination,99,99,117,117,
+GREENHITHE,destination,13,13,13,13,
+GREENOCK,destination,264,0,0,264,removed in cleanup
+GREENWICH,destination,1,1,1,1,
+GRENOCK,destination,3,0,0,3,removed in cleanup
+GRIMSBY,destination,886,0,0,886,removed in cleanup
+Gaboon,origin,3,3,3,3,
+Gala,origin,1,1,1,1,
+Galeatacka,origin,1,1,1,1,
+Gallsta,origin,1,0,0,1,removed in cleanup
+Galveston,origin,9,9,9,9,
+Galway,origin,4,4,4,4,
+Gamla Carleby,origin,1,1,1,1,
+Gamla Karleby,origin,1,0,0,1,removed in cleanup
+Gamlastadt,origin,1,1,1,1,
+Gamleby,origin,2,2,2,2,
+Gaspe,origin,5,5,5,5,
+Gebens,origin,1,1,1,1,
+Gedeabuella,origin,1,1,1,1,
+Gefle,origin,662,662,664,664,
+Gefle and Sandarne,origin,1,1,1,1,
+Gefle and Skutskar,origin,1,1,1,1,
+Geila,origin,1,1,1,1,
+Genoa,origin,6,6,6,6,
+Georgetown,origin,2,2,2,2,
+Germany,origin,1,1,1,1,
+Geschwister,origin,2,2,2,2,
+Ghent,origin,3,3,3,3,
+Gibara,origin,1,0,0,1,removed in cleanup
+Gibara (Cuba),origin,0,1,1,1,inferred
+"Gibara, Cuba",origin,1,0,0,1,removed in cleanup
+Gibra,origin,0,1,1,1,inferred
+Gideabacka,origin,4,5,5,5,
+Gidebacha,origin,2,2,2,2,
+Gidebacka,origin,1,0,0,1,removed in cleanup
+Gidenbacha,origin,1,1,1,1,
+Glasglow,destination,0,662,671,671,inferred
+Gloucester,origin + destination,1,1,1,1,
+Gnarp,origin,2,2,2,2,
+Go'burg,origin,1,1,1,1,
+Goole,destination,0,132,132,132,inferred
+Gopaulpore,origin,1,1,1,1,
+Goteborg,origin,6,6,6,6,
+Goth,origin,1,1,1,1,
+Gotheaburg,origin,1,0,0,1,removed in cleanup
+Gothen-burg,origin,1,0,0,1,removed in cleanup
+Gothenb'g,origin,1,1,1,1,
+Gothenberg,origin,4,0,0,4,removed in cleanup
+Gothenborg,origin,1,0,0,1,removed in cleanup
+Gothenburg,origin,1417,1546,1553,1553,
+Gothenburg and Cronstadt,origin,1,1,1,1,
+Gothenburg and Fredrikstad,origin,1,0,0,1,removed in cleanup
+Gottenburg,origin,14,0,0,14,removed in cleanup
+Gotterburg,origin,1,1,1,1,
+Grainsland,origin,1,1,1,1,
+Grand Bay,origin,1,1,1,1,
+Grangemouth,origin + destination,1,1,1,1,
+Granton,destination,0,379,380,380,inferred
+Granville,origin,1,1,1,1,
+Green Island,origin,1,1,1,1,
+Greenock,destination,0,267,269,269,inferred
+Greytown,origin,1,1,1,1,
+Grimsby,origin + destination,4,4,4,4,
+Grimstad,origin,38,38,38,38,
+Grimstadt,origin,23,23,23,23,
+Grinsted,origin,1,1,1,1,
+Grop,origin,1,1,1,1,
+Guantanamo,origin,1,1,1,1,
+Gudingen,origin,1,1,1,1,
+Guernsey,origin,1,1,1,1,
+Gustafsberg,origin,9,9,9,9,
+Gustafshamn,origin,1,1,1,1,
+Guttstrom,origin,1,1,1,1,
+Guysboro',origin,2,2,2,2,
+"Guysboro', N.S.",origin,1,0,0,1,removed in cleanup
+"Guysboro, N.S.",origin,0,2,2,2,inferred
+"Guysboro,' N.S.",origin,1,0,0,1,removed in cleanup
+Guysborough,origin,2,2,2,2,
+"Guysborough, N.S.",origin,3,3,3,3,
+Gymer,origin,1,1,1,1,
+H,origin,1,1,0,1,removed in cleanup
+H'bont,origin,1,1,1,1,
+HANOVER HOLE,destination,11,11,11,11,
+HARTLEPOOL,destination,4,4,4,4,
+HARTLEPOOL (WEST),destination,1013,0,0,1013,removed in cleanup
+HARWICH,destination,57,0,0,57,removed in cleanup
+HAVRE,destination,2,0,0,2,removed in cleanup
+HAYLE,destination,1,1,1,1,
+HORS LEYDOWN,destination,1,1,1,1,
+HORSELYDOWN,destination,1,1,1,1,
+HORSLEYDOWN,destination,1,1,1,1,
+HULL,destination,2526,0,0,2526,removed in cleanup
+Ha,origin,1,1,0,1,removed in cleanup
+Haab,origin,1,1,1,1,
+Hakala,origin,2,0,0,2,removed in cleanup
+Hakkala,origin,1,3,3,3,
+Halax,origin,1,1,1,1,
+Halifax,origin,63,63,64,64,
+Halifax and Baltimore,origin,1,1,1,1,
+Halifax and Philadelphia,origin,1,1,1,1,
+Halifax and Portland,origin,1,1,1,1,
+"Halifax, N.",origin,1,0,0,1,removed in cleanup
+"Halifax, N. B.",origin,0,2,2,2,inferred
+"Halifax, N.B.",origin,2,0,0,2,removed in cleanup
+"Halifax, N.S.",origin,26,27,27,27,
+Halista,origin,1,0,0,1,removed in cleanup
+Halix,origin,1,1,1,1,
+Hallsta,origin,33,36,36,36,
+Hallstavik,origin,1,1,1,1,
+Halmestrand,origin,2,0,0,2,removed in cleanup
+Halmnholmen,origin,1,0,0,1,removed in cleanup
+Halmstad,origin,188,192,192,192,
+Halmstadt,origin,47,48,48,48,
+Halso,origin,1,1,1,1,
+Halsoen,origin,1,1,1,1,
+Halsta,origin,1,0,0,1,removed in cleanup
+Halstad,origin,2,0,0,2,removed in cleanup
+Hambro,origin,7,21,21,21,
+Hambro',origin,12,0,0,12,removed in cleanup
+Hamburg,origin,73,79,79,79,
+Hamburgh,origin,1,0,0,1,removed in cleanup
+Hamnholmen,origin,1,2,2,2,
+Hamstad,origin,2,0,0,2,removed in cleanup
+Hangesund,origin,4,0,0,4,removed in cleanup
+Hango,origin,3,3,3,3,
+Hansta,origin,1,1,1,1,
+Hantsport,origin,1,1,1,1,
+Haparanda,origin,25,25,25,25,
+Harborg,origin,1,1,1,1,
+Harbour,origin,1,1,1,1,
+Harburg,origin,5,0,0,5,removed in cleanup
+Harg,origin,2,2,2,2,
+Harlingen,origin,2,2,2,2,
+Harnas,origin,23,23,23,23,
+Harne,origin,1,1,1,1,
+Hartlepool (West),destination,0,1014,1017,1017,inferred
+Harwich,destination,0,57,59,59,inferred
+Havana,origin,3,3,3,3,
+Havre,origin + destination,33,33,33,33,
+Hayle,origin,1,1,1,1,
+Haynasch,origin,2,2,2,2,
+Haynash,origin,2,2,2,2,
+Held,origin,1,1,1,1,
+Helmstadt,origin,1,0,0,1,removed in cleanup
+Helmsund,origin,1,0,0,1,removed in cleanup
+Helsingborg,origin,2,2,2,2,
+Helsingfors,origin,100,103,103,103,
+Helsingfors and Kotka,origin,1,1,1,1,
+Helsingforst,origin,1,0,0,1,removed in cleanup
+Hennebont,origin,156,157,158,158,
+Hennebout,origin,1,0,0,1,removed in cleanup
+Hernefors,origin,1,1,1,1,
+Hernhamn,origin,1,1,1,1,
+Hernosan,origin,1,0,0,1,removed in cleanup
+Hernosand,origin,160,191,191,191,
+Hernosand and Stockholm,origin,1,1,1,1,
+Hernosaud,origin,14,0,0,14,removed in cleanup
+Hernossand,origin,11,0,0,11,removed in cleanup
+Hernsand,origin,5,0,0,5,removed in cleanup
+Herr,origin,1,1,1,1,
+Herre,origin,1,1,1,1,
+"Herring Neck, N.fld.",origin,1,1,1,1,
+Herte,origin,1,1,1,1,
+Hietanen,origin,4,4,4,4,
+Hillsborough N.B.,origin,1,1,1,1,
+Hjorthammar,origin,1,1,1,1,
+Hobart,origin,1,1,1,1,
+Hobart Town,origin,4,4,4,4,
+Hoenash,origin,1,1,1,1,
+Hollen,origin,1,1,1,1,
+Holm,origin,1,1,1,1,
+Holme-strand,origin,1,0,0,1,removed in cleanup
+Holmestad,origin,2,0,0,2,removed in cleanup
+Holmestrad,origin,1,0,0,1,removed in cleanup
+Holmestrand,origin,55,61,61,61,
+Holms,origin,1,1,1,1,
+Holmstad,origin,14,0,0,14,removed in cleanup
+Holmstadt,origin,10,24,24,24,
+Holmstrand,origin,34,34,34,34,
+Holmsund,origin,46,47,47,47,
+Holsingfors,origin,1,0,0,1,removed in cleanup
+Holsta,origin,1,1,1,1,
+Hommelvig,origin,1,0,0,1,removed in cleanup
+Hommelvik,origin,28,29,29,29,
+Honduras,origin,2,2,2,2,
+Honfleur,origin,2,2,2,2,
+Hornefors,origin,3,3,3,3,
+Horseno,origin,1,0,0,1,removed in cleanup
+Horsens,origin,0,1,1,1,inferred
+Horten,origin,3,3,3,3,
+Hosnas,origin,1,1,1,1,
+Housie,origin,1,1,1,1,
+Hower,origin,1,1,1,1,
+Huddickwall,origin,1,0,0,1,removed in cleanup
+Hudicksvall,origin,1,0,0,1,removed in cleanup
+Hudickswall,origin,4,0,0,4,removed in cleanup
+Hudik swall,origin,1,0,0,1,removed in cleanup
+Hudiksval,origin,1,0,0,1,removed in cleanup
+Hudiksvall,origin,19,21,21,21,
+Hudikswall,origin,201,207,208,208,
+Huelva,origin,1,1,1,1,
+Hull,origin + destination,3,3,3,3,
+Hulst,origin,1,1,1,1,
+Hushgoik,origin,2,2,2,2,
+Husum,origin,35,35,35,35,
+Hyvik,origin,1,1,1,1,
+IMPORTS,destination,3,3,0,3,removed in cleanup
+IN,origin,1,1,0,1,removed in cleanup
+INVERKEITHING,destination,32,32,32,32,
+INVERNESS,destination,41,0,0,41,removed in cleanup
+IPSWICH,destination,39,0,0,39,removed in cleanup
+Idefjord,origin + destination,0,1,1,1,inferred
+Iggesund,origin,45,46,46,46,
+Inverleith Windau,origin,1,1,1,1,
+Inverness,origin + destination,1,1,1,1,
+Ipswich,origin + destination,1,1,1,1,
+Italy,origin,2,2,2,2,
+Itea,origin,0,1,1,1,inferred
+Itiga,origin,1,1,1,1,
+Itzehoe,origin,1,1,1,1,
+JOSEPH GARDNER & SONS,destination,2,2,2,2,
+Jacobstad,origin,35,35,35,35,
+Jacobstadt,origin,6,6,6,6,
+Jamacia,origin,1,0,0,1,removed in cleanup
+Jamaica,origin,46,47,47,47,
+Java,origin,1,1,1,1,
+Jemtosund,origin,1,1,1,1,
+Jerfed,origin,2,2,2,2,
+Joannesund,origin,1,1,1,1,
+"Joggins, N.S.",origin,1,1,1,1,
+Johan,origin,1,1,1,1,
+Johannesnass,origin,1,1,1,1,
+Johannesvik,origin,1,1,1,1,
+John,origin,1,1,1,1,
+Jordan River,origin,3,3,3,3,
+"Jordan River, N.S.",origin,2,2,2,2,
+Josephine,origin,1,1,1,1,
+Jule,origin,1,1,1,1,
+K. Tor,origin,1,1,1,1,
+KATHARINE'S DOCK,destination,1,1,1,1,
+KING'S LYNN,destination,52,52,52,52,
+KIRKCALDY,destination,93,0,0,93,removed in cleanup
+KIRKWALL,destination,16,16,16,16,
+Kaipara,origin,1,1,1,1,
+Kalix,origin,6,6,6,6,
+Kallio,origin,1,1,1,1,
+Kalmar,origin,30,30,30,30,
+Kannissaru,origin,1,0,0,1,removed in cleanup
+Kannissoari,origin,0,1,1,1,inferred
+Karenhdel,origin,1,1,1,1,
+Karhula,origin,1,1,1,1,
+Karleby,origin,1,1,1,1,
+Karlscrona,origin,1,0,0,1,removed in cleanup
+Karlskrona,origin,3,3,3,3,
+Karlstad,origin,1,1,1,1,
+Katka,origin,1,1,1,1,
+Katthammaravik,origin,2,2,2,2,
+Katthammarsvik,origin,1,1,1,1,
+Kaumussan,origin,1,1,1,1,
+Kemi,origin,37,37,37,37,
+Kersvik,origin,1,1,1,1,
+Key West,origin,1,1,1,1,
+Kiga,origin,1,1,1,1,
+Killeviken,origin,1,1,1,1,
+Kimouski,origin,1,0,0,1,removed in cleanup
+Kimovski,origin,1,1,1,1,
+Kingsgar,origin,1,1,1,1,
+Kingsgarden,origin,1,0,0,1,removed in cleanup
+Kingston,origin,6,6,6,6,
+Kioja,origin,1,1,1,1,
+Kirkcaldy,destination,0,93,93,93,inferred
+Klampenberg,origin,1,1,1,1,
+Klampenborg,origin,2,2,2,2,
+Klasviken,origin,1,1,1,1,
+Klintehamn,origin,1,1,1,1,
+Klippe,origin,1,1,1,1,
+Ko,origin,1,1,0,1,removed in cleanup
+Koga,origin,1,1,1,1,
+Koja,origin,6,6,6,6,
+Kon'gsberg,origin,1,0,0,1,removed in cleanup
+Kongsberg,origin,1,0,0,1,removed in cleanup
+Konigsaberg,origin,1,0,0,1,removed in cleanup
+Konigsberg,origin,214,221,221,221,
+Konigsburg,origin,4,0,0,4,removed in cleanup
+Konstadt,origin,1,1,1,1,
+Koping,origin,4,0,0,4,removed in cleanup
+Kopmanhalmon,origin,1,1,1,1,
+Kopmanholman,origin,1,0,0,1,removed in cleanup
+Kopmanholmen,origin,6,7,7,7,
+Kopmansholmen,origin,4,4,4,4,
+Kothka,origin,1,0,0,1,removed in cleanup
+Kotka,origin,296,297,297,297,
+Krager o,origin,1,0,0,1,removed in cleanup
+Kragero,origin,64,69,69,69,
+Krageroc,origin,2,0,0,2,removed in cleanup
+Krageroe,origin,189,189,189,189,
+Krageros,origin,2,0,0,2,removed in cleanup
+Kramfors,origin,51,51,51,51,
+Kristinestad,origin,2,2,2,2,
+Kubikenborg,origin,1,1,1,1,
+Kungsbacka,origin,1,1,1,1,
+Kungsgarden,origin,1,4,4,4,
+Kungsgarten,origin,2,0,0,2,removed in cleanup
+Kungshamn,origin,1,1,1,1,
+Kurrachee,origin,1,1,1,1,
+Kylom,origin,1,1,1,1,
+Kylorn,origin,6,6,6,6,
+L'Orient,origin,5,0,0,5,removed in cleanup
+L'orient,origin,0,77,77,77,inferred
+LANCASTER,destination,26,0,0,26,removed in cleanup
+LEITH,destination,948,0,0,948,removed in cleanup
+LERWICK,destination,25,0,0,25,removed in cleanup
+LIMERICK,destination,41,41,41,41,
+LIQUIDATIONS,destination,11,11,0,11,removed in cleanup
+LITTLEHAMPTON,destination,34,0,0,34,removed in cleanup
+LIVERPOOL,destination,3463,0,0,3463,removed in cleanup
+LLANELLY,destination,108,0,0,108,removed in cleanup
+LONDON,destination,3336,0,0,3336,removed in cleanup
+LONDON DOCK DELIVERIES,destination,3,3,3,3,
+LONDON SALES,destination,1,1,1,1,
+LONDONDERRY,destination,31,31,31,31,
+LONG REACH,destination,1,1,1,1,
+LOWER HOPE,destination,1,1,1,1,
+LOWESTOFT,destination,60,0,0,60,removed in cleanup
+LYNN,destination,193,0,0,193,removed in cleanup
+La Roche Bernard,origin,1,0,0,1,removed in cleanup
+La Rochelle,origin,40,40,40,40,
+Laguna,origin,4,5,5,5,
+Laguna de Terminos,origin,3,3,3,3,
+Lagunade,origin,1,0,0,1,removed in cleanup
+Laguno,origin,1,1,1,1,
+Lancaster,destination,0,26,26,26,inferred
+Landerneau,origin,8,8,8,8,
+Landgangen,origin,4,4,4,4,
+Landsburg,origin,1,1,1,1,
+Landscrona,origin,1,1,1,1,
+Landskrona,origin,2,2,2,2,
+Lang,origin,1,1,1,1,
+Langangen,origin,2,2,2,2,
+Langesund,origin,39,43,43,43,
+Langoer,origin,1,0,0,1,removed in cleanup
+Langron,origin,0,1,1,1,inferred
+Langronna,origin,1,0,0,1,removed in cleanup
+Langror,origin,34,36,36,36,
+Lappvik,origin,11,11,11,11,
+Lauivg,origin,1,1,1,1,
+Launay,origin,2,2,2,2,
+Launig,origin,2,2,2,2,
+Laurrig,origin,1,0,0,1,removed in cleanup
+Laurvig,origin,340,342,344,344,
+Laurvigen,origin,1,0,0,1,removed in cleanup
+Le'que,origin,2,2,2,2,
+Leer,origin,1,1,1,1,
+Lefjefjord,origin,1,1,1,1,
+Leghorn,origin,11,11,11,11,
+Legne,origin,1,1,1,1,
+Legue,origin,2,2,2,2,
+Leith,destination,0,948,957,957,inferred
+Leontine,origin,1,1,1,1,
+Leopold,origin,1,1,1,1,
+Lepreux,origin,1,1,1,1,
+Leque,origin,1,1,1,1,
+Leroy,origin,1,1,1,1,
+Lervik,origin,1,1,1,1,
+Lerwick,destination,0,25,25,25,inferred
+Levanger,origin,2,2,2,2,
+Levarger,origin,1,1,1,1,
+Levo,origin,1,1,1,1,
+Libau,origin,64,64,64,64,
+Lilla Vartan,origin,1,1,1,1,
+Lilla Varten,origin,1,1,1,1,
+Lilla Warten,origin,1,1,1,1,
+Lillesand,origin,22,22,22,22,
+Limerick,origin,3,3,3,3,
+Lisbon,origin,1,1,1,1,
+Liscomb,origin,1,0,0,1,removed in cleanup
+Liscombe,origin,3,4,4,4,
+"Liscombe, N. S.",origin,0,3,3,3,inferred
+"Liscombe, N.S.",origin,3,0,0,3,removed in cleanup
+Littlehampton,destination,0,34,34,34,inferred
+Liverpool,origin + destination,1,1,1,1,
+"Liverpool, N.S.",origin,2,2,2,2,
+Livingston,origin,2,2,2,2,
+Ljughorn,origin,1,1,1,1,
+Ljurne,origin,1,1,1,1,
+Ljusne,origin,129,129,130,130,
+Llanelly,destination,0,108,109,109,inferred
+Lockne,origin,1,1,1,1,
+Lockno,origin,5,5,5,5,
+London,destination,0,3336,3368,3368,inferred
+Londorgroen,origin,1,1,1,1,
+Lorient,origin,65,65,71,71,
+Lorkno,origin,1,1,1,1,
+Louise,origin,1,1,1,1,
+Louvain,origin,6,6,6,6,
+Lovisa,origin,31,31,31,31,
+Lower Kalix,origin,1,1,1,1,
+Lower Lauenburg,origin,1,1,1,1,
+Lowestoft,destination,0,60,60,60,inferred
+Luarca,origin,2,2,2,2,
+Lubeck,origin,1,1,1,1,
+Lugnooh,origin,1,1,1,1,
+Lugnvik,origin,4,5,5,5,
+Luguvik,origin,1,0,0,1,removed in cleanup
+Luhe,origin,1,1,1,1,
+Lulea,origin,176,177,177,177,
+Lules,origin,1,1,1,1,
+Lund,origin,0,1,1,1,inferred
+Lymington,origin,1,1,1,1,
+Lyngoer,origin,4,4,4,4,
+Lyngoor,origin,1,1,1,1,
+Lynn,destination,0,193,193,193,inferred
+Lyrgoer,origin,1,1,1,1,
+Lysekil,origin,2,2,2,2,
+Lysekvil,origin,1,1,1,1,
+MALDON,destination,14,14,14,14,
+MANCHESTER,destination,6,6,6,6,
+MARK,destination,0,0,1,1,inferred
+MARK BROWN'S WHARF,destination,1,1,0,1,removed in cleanup
+MARYPORT,destination,32,0,0,32,removed in cleanup
+MIDDLESBRO',destination,5,5,5,5,
+MIDDLESBROUGH,destination,215,0,0,215,removed in cleanup
+MILFORD,destination,22,0,0,22,removed in cleanup
+"MILL COMPANY, Johnstone Saw",origin,1,1,1,1,
+MILL HOLE,destination,6,6,6,6,
+MILLWALL,destination,18,18,19,19,
+MILLWALL DOCKS,destination,466,466,471,471,
+MILLWALL STAIRS,destination,1,1,0,1,removed in cleanup
+MILWALL,destination,2,2,2,2,
+MONTREAL,origin,1,0,0,1,removed in cleanup
+MONTROSE,destination,91,0,0,91,removed in cleanup
+MORRISONSHAVEN,destination,18,18,18,18,
+Mabon,origin,1,1,1,1,
+Maccaw,origin,1,1,1,1,
+Madras,origin,7,7,7,7,
+Madsen,origin,1,1,1,1,
+Magdalen River,origin,7,7,7,7,
+Mahone Bay,origin,1,1,1,1,
+Malmo,origin,8,8,8,8,
+Mandal,origin,70,70,70,70,
+Manilla,origin,8,8,8,8,
+Manzanilla,origin,1,1,1,1,
+Manzanillo,origin,1,1,1,1,
+Maracaibo,origin,1,1,1,1,
+Maraham,origin,1,1,1,1,
+Maramham,origin,1,1,1,1,
+Maranham,origin,1,1,1,1,
+Margarethe,origin,1,1,1,1,
+Margretha,origin,1,1,1,1,
+Maria,origin,1,1,1,1,
+Marie,origin,1,1,1,1,
+Marieberg,origin,2,2,2,2,
+Marma,origin,1,1,1,1,
+Marseilles,origin,13,13,13,13,
+Maryport,destination,0,32,32,32,inferred
+Mass,origin,1,1,1,1,
+Matane,origin,12,12,12,12,
+Matanzas,origin,1,1,1,1,
+Matawa,origin,1,1,1,1,
+Mauritius,origin,3,3,3,3,
+Mazatlan,origin,1,1,1,1,
+Mediterranean,origin,21,21,21,21,
+Melbourne,origin,4,4,4,4,
+Melbu,origin,1,1,1,1,
+Melchers,origin,1,1,1,1,
+Mem,origin,23,23,23,23,
+Memel,origin,713,713,716,716,
+Mera,origin,1,1,1,1,
+Merlaix,origin,1,0,0,1,removed in cleanup
+Mesane,origin,28,28,28,28,
+Meschers,origin,5,5,5,5,
+Mesen,origin,1,1,1,1,
+Mesquer,origin,1,1,1,1,
+Metane,origin,1,1,1,1,
+Metis,origin,24,24,24,24,
+Mexico,origin,2,2,2,2,
+Middlepart,origin,1,1,1,1,
+Middlesbrough,destination,0,215,215,215,inferred
+Milford,origin + destination,2,2,2,2,
+Milk River,origin,1,1,1,1,
+Miller,origin,1,1,1,1,
+Milsamvig,origin,1,1,1,1,
+Milsemvig,origin,1,1,1,1,
+Minatitlan,origin,60,60,61,61,
+Miramichi,origin,295,296,300,300,
+Miramichi York,origin,1,1,1,1,
+"Miramichi, N.B.",origin,5,5,5,5,
+Miramishi,origin,1,0,0,1,removed in cleanup
+Missouri,origin,1,1,1,1,
+Mobile,origin,105,105,105,105,
+"Mobile, Ala.",origin,1,1,1,1,
+Mogensen,origin,1,1,1,1,
+Molde,origin,1,1,1,1,
+Moller,origin,1,1,1,1,
+Mona's Isle,origin,1,1,1,1,
+"Moncton, N.B.",origin,1,1,1,1,
+Mone,origin,1,1,1,1,
+Monksund,origin,1,0,0,1,removed in cleanup
+Monsquodoboit,origin,1,1,1,1,
+Monsteras,origin,58,58,58,58,
+Montreal,origin,318,319,322,322,
+Montreal and Quebec,origin,2,2,2,2,
+Montrose,origin + destination,1,1,1,1,
+Morant Bay,origin,3,3,3,3,
+Morlaix,origin,35,37,37,37,
+Morliax,origin,1,0,0,1,removed in cleanup
+Mosane,origin,1,1,1,1,
+Mose,origin,1,1,1,1,
+"Moser River, N.S.",origin,1,1,1,1,
+Moss,origin,92,92,92,92,
+Moulmein,origin,22,22,22,22,
+Moum,origin,1,1,1,1,
+Muhlgraben,origin,4,4,4,4,
+Munksund,origin,4,5,5,5,
+Muros,origin,7,7,7,7,
+Murphy,origin,1,1,1,1,
+Murray,origin,1,1,1,1,
+Musquash,origin,12,12,12,12,
+"Musquash, N. B.",origin,1,1,1,1,
+"Musquash, N.B.",origin,2,2,2,2,
+Musquodoboit,origin,1,1,1,1,
+N,origin,2,2,0,2,removed in cleanup
+N. Orleans,origin,2,0,0,2,removed in cleanup
+N. York,origin,5,5,5,5,
+N.B.,origin,1,1,1,1,
+NEWCASTLE,destination,26,0,0,26,removed in cleanup
+NEWHAVEN,destination,103,0,0,103,removed in cleanup
+NEWPORT,destination,678,0,0,678,removed in cleanup
+NEWPORT (MON.),destination,105,105,105,105,
+NEWRY,destination,25,25,25,25,
+NORTH ALLOA,destination,1,1,1,1,
+NORTHFLEET,destination,24,24,24,24,
+Nadoscha,origin,1,1,1,1,
+Nafso,origin,1,1,1,1,
+Namsos,origin,49,49,50,50,
+Nantes,origin,66,66,66,66,
+Narrkoping,origin,1,0,0,1,removed in cleanup
+Narva,origin,95,95,95,95,
+Naske,origin,0,1,1,1,inferred
+Naskee,origin,1,0,0,1,removed in cleanup
+Nassau,origin,2,2,2,2,
+Nassau Tonala,origin,1,1,1,1,
+Neder Calix,origin,21,21,21,21,
+Neder Kalix,origin,83,83,83,83,
+Neder Kalix and Sweden,origin,1,1,1,1,
+Nedercalix,origin,2,3,3,3,
+Nederkalix,origin,9,9,9,9,
+Neva,origin,1,1,1,1,
+Nevis,origin,3,3,3,3,
+New Carlisle,origin,1,1,1,1,
+New O.leans,origin,1,0,0,1,removed in cleanup
+New Orleans,origin + destination,244,248,249,249,
+New Richmond,origin,3,3,3,3,
+"New Richmond, N.B.",origin,1,1,1,1,
+New River,origin,2,2,2,2,
+New Ross,origin,6,6,6,6,
+New York,origin,1086,1087,1096,1096,
+"New York, U.S.",origin,1,1,1,1,
+Newburgh,origin,1,1,1,1,
+Newcastle,origin + destination,3,3,3,3,
+"Newcastle, N. B.",origin,0,5,5,5,inferred
+"Newcastle, N.B.",origin,5,0,0,5,removed in cleanup
+Newfairwater,origin,1,1,1,1,
+Newfoundland,origin,2,2,2,2,
+Newhaven,destination,0,103,103,103,inferred
+Newport,destination,0,678,691,691,inferred
+Newport News,origin,15,17,17,17,
+"Newport News, V.",origin,1,0,0,1,removed in cleanup
+"Newport News, Va",origin,1,0,0,1,removed in cleanup
+"Newport News, Va.",origin,1,1,1,1,
+"Newport, Va.",origin,1,1,1,1,
+Newry,origin,1,1,1,1,
+Niedercallix,origin,1,0,0,1,removed in cleanup
+Nivero,origin,1,1,1,1,
+Njvik,origin,1,1,1,1,
+Nora,origin,1,1,1,1,
+Nordmaling,origin,27,27,27,27,
+Norfolk,origin,42,42,42,42,
+"Norfolk, N.S.",origin,1,1,1,1,
+"Norfolk, Va",origin,1,1,1,1,
+"Norfolk, Va.",origin,23,23,23,23,
+Norrkoping,origin,27,28,28,28,
+Norrsundet,origin,2,2,2,2,
+"North Port, N.S.",origin,2,2,2,2,
+Northport,origin,1,1,1,1,
+Norvik,origin,1,1,1,1,
+Norway,origin,11,11,11,11,
+Noskey,origin,1,1,1,1,
+Nossi Be,origin,1,1,1,1,
+Now Orleans,origin,1,0,0,1,removed in cleanup
+Now York,origin,1,0,0,1,removed in cleanup
+Noya,origin,1,1,1,1,
+Nuevitas,origin,2,2,2,2,
+Nvhann,origin,1,1,1,1,
+Ny Carleby,origin,6,6,6,6,
+Ny Karleby,origin,12,19,19,19,
+"Ny, Karleby",origin,1,0,0,1,removed in cleanup
+Nybamn,origin,1,1,1,1,
+Nyborg,origin,2,2,2,2,
+Nyburg,origin,1,1,1,1,
+Nyham,origin,3,0,0,3,removed in cleanup
+Nyhamn,origin,91,98,98,98,
+Nykarlby,origin,1,0,0,1,removed in cleanup
+Nykarleby,origin,5,0,0,5,removed in cleanup
+Nykoping,origin,3,7,7,7,
+Nyland,origin,19,19,19,19,
+Nynamn,origin,2,2,2,2,
+Nynhamn,origin,4,0,0,4,removed in cleanup
+Nyrvik,origin,1,1,1,1,
+Nystad,origin,2,2,2,2,
+Nytorp,origin,1,1,1,1,
+Nyvic,origin,1,1,1,1,
+Nyvick,origin,2,2,2,2,
+Nyvik,origin,51,51,52,52,
+O xe osund,origin,1,1,1,1,
+OPENING OF A NEW TIMBER YARD,destination,1,1,1,1,
+OTHER,destination,0,0,1,1,inferred
+OTHER DOCKS,destination,3,3,3,3,
+OTHER DOCKS AND WHARFS,destination,1,1,0,1,removed in cleanup
+OTHER DOCKS AND WHARVES,destination,117,117,117,117,
+Oak Bay,origin,3,3,3,3,
+"Oak Bay, N.B.",origin,1,1,1,1,
+"Oak Bay, N.B.,",origin,1,1,1,1,
+Odense,origin,3,3,3,3,
+Odessa,origin,33,33,33,33,
+Ogmore Co,origin,1,1,1,1,
+Old Calabar,origin,11,11,11,11,
+Old Harbour,origin,3,3,3,3,
+Olofsford,origin,1,1,1,1,
+Olskoldsvick,origin,2,2,2,2,
+Omsach,origin,1,1,1,1,
+Onega,origin,96,96,96,96,
+Onkedalsorn,origin,1,0,0,1,removed in cleanup
+Oplo,origin,7,8,8,8,
+Oploe,origin,1,0,0,1,removed in cleanup
+Oporto,origin,3,3,3,3,
+Orendal,origin,1,0,0,1,removed in cleanup
+Oresund,origin,1409,1409,1409,1409,
+Orkedalen,origin,4,0,0,4,removed in cleanup
+Orkedalsoren,origin,1,6,6,6,
+Orkidulsken,origin,1,1,1,1,
+Orleans,origin,2,2,2,2,
+Ornskavik,origin,1,1,1,1,
+Ornskjoldsvik,origin,34,34,34,34,
+Ornskjoldvik,origin,2,2,2,2,
+Ornskoldsvik,origin,9,11,11,11,
+Ornskoldsvit,origin,1,0,0,1,removed in cleanup
+Ornskolksvik,origin,1,0,0,1,removed in cleanup
+Ornswall,origin,1,1,1,1,
+Oromocto,origin,1,1,1,1,
+Oronstadt,origin,1,0,0,1,removed in cleanup
+Orotastadt,origin,1,1,1,1,
+Oscar,origin,1,1,1,1,
+Oscarhamn,origin,1,0,0,1,removed in cleanup
+Oscarsham,origin,11,0,0,11,removed in cleanup
+Oscarshamn,origin,234,249,249,249,
+Oskarn,origin,1,1,1,1,
+Oskarshamn,origin,3,0,0,3,removed in cleanup
+Ostend,origin,17,18,18,18,
+Ostende,origin,1,0,0,1,removed in cleanup
+Ostrana,origin,1,1,1,1,
+Ostrand,origin,4,4,4,4,
+Oxarhaven,origin,1,1,1,1,
+Oxelosund,origin,14,14,14,14,
+Oxford,origin,1,1,1,1,
+P,origin,2,2,0,2,removed in cleanup
+P'burg,origin,18,18,18,18,
+P. E I.,origin,1,1,1,1,
+P. E. Island,origin,5,5,5,5,
+P.E. Island,origin,1,1,1,1,
+PADSTOW,destination,3,3,3,3,
+PEART'S BLUE OR TIMBER MARKING INK,destination,1,1,1,1,
+PENZANCE,destination,19,0,0,19,removed in cleanup
+PERTH,destination,17,0,0,17,removed in cleanup
+PETERHEAD,destination,60,0,0,60,removed in cleanup
+PITWOOD,destination,350,350,0,350,removed in cleanup
+PLYMOUTH,destination,240,0,0,240,removed in cleanup
+POOL (WEST),destination,29,29,29,29,
+POOLE,destination,236,0,0,236,removed in cleanup
+PORT GLASGOW,destination,34,34,34,34,
+PORTSMOUTH,destination,69,0,0,69,removed in cleanup
+PRINCE,destination,0,0,8,8,inferred
+PRINCE REGENT'S CANAL DOCKS,destination,1,1,1,1,
+PRINCE REGENT'S WHARF,destination,8,8,0,8,removed in cleanup
+PRINCE'S,destination,0,0,1,1,inferred
+PRINCE'S WHARF,destination,1,1,0,1,removed in cleanup
+Paimpol,origin,8,8,8,8,
+Papenberg,origin,1,1,1,1,
+Papenburg,origin,3,3,3,3,
+Paquebot de Brest,origin,1,1,1,1,
+Para,origin,2,2,2,2,
+Parabobo,origin,1,1,1,1,
+Parahyba,origin,1,1,1,1,
+Parell,origin,1,1,1,1,
+Paris,origin,1,1,1,1,
+Parisienne,origin,1,1,1,1,
+"Parraboro', N.S.",origin,1,1,1,1,
+Parrsboro,origin,0,21,21,21,inferred
+Parrsboro',origin,21,0,0,21,removed in cleanup
+"Parrsboro', N.S.",origin,8,8,8,8,
+Parrsborough,origin,8,8,8,8,
+Parrsborough N.S.,origin,1,1,1,1,
+"Parrsborough, N.S.",origin,1,1,1,1,
+Parrsbro',origin,1,1,1,1,
+Parrshow,origin,1,1,1,1,
+Pascagoula,origin,30,31,31,31,
+"Pascagoula, N.S.",origin,1,1,1,1,
+Paskallavik,origin,3,3,3,3,
+Pat,origin,1,1,1,1,
+Pataholm,origin,12,12,12,12,
+Patoum,origin,1,1,1,1,
+Pauillac,origin,7,7,7,7,
+Pearl River,origin,1,1,1,1,
+Penang,origin,1,1,1,1,
+Penascola,origin,1,0,0,1,removed in cleanup
+Pensacola,origin,360,361,363,363,
+Pentecost,origin,3,3,3,3,
+Penzance,origin + destination,2,2,2,2,
+Penze,origin,1,1,1,1,
+Pernau,origin,13,13,13,13,
+Pernaviken,origin,4,0,0,4,removed in cleanup
+Pernaw,origin,1,1,1,1,
+Pernoviken,origin,3,7,7,7,
+Perth,destination,0,17,17,17,inferred
+Petea,origin,1,1,1,1,
+Peter and Paul,origin,1,1,1,1,
+Peterhead,destination,0,60,60,60,inferred
+Petersburg,origin,6,6,6,6,
+Petersen,origin,1,1,1,1,
+Phila,origin,3,3,3,3,
+Philadelphi,origin,1,0,0,1,removed in cleanup
+Philadelphia,origin,121,122,122,122,
+Picton,origin,3,3,3,3,
+Pictou,origin,10,10,10,10,
+"Pictou, N.S.",origin,8,8,8,8,
+Pierreville,origin,1,1,1,1,
+Pierreville and Quebec,origin,86,86,86,86,
+Pierville,origin,1,1,1,1,
+Pikkala,origin,1,1,1,1,
+Pillan,origin,1,1,1,1,
+Pillau,origin,28,28,28,28,
+Pitea,origin,113,113,114,114,
+Plymouth,destination,0,240,240,240,inferred
+Pont Aven,origin,1,1,1,1,
+Pont L'Abbe,origin,2,0,0,2,removed in cleanup
+Pont Neuf,origin,1,1,1,1,
+Pont l'Abbe,origin,21,23,23,23,
+Pontaven,origin,4,4,4,4,
+Pontorson,origin,1,1,1,1,
+Poole,origin + destination,3,3,3,3,
+Porgrun,origin,1,0,0,1,removed in cleanup
+Porsgrand,origin,1,0,0,1,removed in cleanup
+Porsgrun,origin,1,0,0,1,removed in cleanup
+Porsgrund,origin,389,393,393,393,
+Port Cortes,origin,1,1,1,1,
+Port Glasgow,origin,1,1,1,1,
+Port Hill,origin,1,1,1,1,
+Port Launay,origin,26,26,26,26,
+Port Medway,origin,1,1,1,1,
+"Port Medway, N.B.",origin,1,1,1,1,
+Port Royal,origin,4,4,4,4,
+"Port Royal, S.C.",origin,2,0,0,2,removed in cleanup
+"Port Royal, S.E.",origin,1,0,0,1,removed in cleanup
+"Port Royal, U.S.A.",origin,0,4,4,4,inferred
+Port Saunders,origin,1,1,1,1,
+Port au,origin,1,1,1,1,
+Port-au-Prince,origin,3,3,3,3,
+Portland,origin,28,28,28,28,
+Portland Maine,origin,1,1,1,1,
+"Portland, Maine",origin,5,5,5,5,
+"Portland, O.",origin,4,4,4,4,
+"Portland, Oregon",origin,1,1,1,1,
+"Portland, U.S.A.",origin,1,1,1,1,
+Porto Plata,origin,1,1,1,1,
+Portsal,origin,2,2,2,2,
+Portsmouth,destination,0,69,69,69,inferred
+Poston,origin,1,1,1,1,
+Poti,origin,3,3,3,3,
+Presto,origin,1,1,1,1,
+Prince Edward Island,origin,1,1,1,1,
+Prince Edward's Island,origin,1,1,1,1,
+Princesses,origin,1,1,1,1,
+Puebla,origin,15,15,15,15,
+Puerta Cortes,origin,1,1,1,1,
+Puerto Cabello,origin,1,1,1,1,
+Puerto Cortes,origin,7,0,0,7,removed in cleanup
+Puerto Cortez,origin,1,8,8,8,
+Puerto Plata,origin,1,1,1,1,
+Puget Sound,origin,1,1,1,1,
+Pugwash,origin,28,28,28,28,
+"Pugwash, N.S.",origin,1,1,1,1,
+Pukakirk,origin,1,1,1,1,
+Punta Arenas,origin,1,1,1,1,
+Pyterlaks,origin,5,5,5,5,
+Pyttis,origin,2,2,2,2,
+QUEBEC,origin + destination,6,0,0,6,removed in cleanup
+QUEBEC DOCKS,destination,1,1,1,1,
+QUEENBORO',destination,1,1,1,1,
+QUEENBOROUGH,destination,15,0,0,15,removed in cleanup
+QUEENBOROUGH PIER,destination,3,3,3,3,
+Quebec,origin + destination,1374,1380,1463,1463,
+Quebec and Montreal,origin,12,12,12,12,
+Queenborough,destination,0,15,15,15,inferred
+Quega,origin,1,1,1,1,
+Quella,origin,1,1,1,1,
+Quimper,origin,44,44,44,44,
+R. Bernard,origin,4,4,4,4,
+R. M,destination,3,3,3,3,
+RAMSEY,destination,11,0,0,11,removed in cleanup
+RAMSEY (ISLE OF MAN),destination,2,2,2,2,
+RAMSGATE,destination,20,0,0,20,removed in cleanup
+READING,destination,8,8,10,10,
+REGENT'S,destination,0,0,2,2,inferred
+REGENT'S CANAL,destination,1,1,1,1,
+REGENT'S CANAL DOCK,destination,30,30,30,30,
+REGENT'S CANAL DOCKS,destination,99,99,99,99,
+REGENT'S WHARF,destination,2,2,0,2,removed in cleanup
+RIga,origin,0,1970,1984,1984,inferred
+ROCHESTER,destination,100,0,0,100,removed in cleanup
+ROTHERHITHE,destination,4,4,4,4,
+ROYAL ALBERT DOCK,destination,8,8,8,8,
+ROYAL ALBERT DOCKS,destination,46,46,46,46,
+ROYAL VICTORIA DOCKS,destination,8,8,8,8,
+RTLEPOOL (WEST),destination,1,0,0,1,removed in cleanup
+RUNCORN,destination,1,1,1,1,
+RYE,destination,4,4,4,4,
+Rafsa,origin,1,1,1,1,
+Rafso,origin,54,54,54,54,
+Rambak,origin,1,1,1,1,
+Ramsey,destination,0,11,11,11,inferred
+Ramsgate,destination,0,20,20,20,inferred
+Ramvik,origin,2,2,2,2,
+Ran goon,origin,1,0,0,1,removed in cleanup
+Rander,origin,2,2,2,2,
+Randers,origin,3,3,3,3,
+Ranea,origin,10,10,10,10,
+Rangoon,origin,83,84,86,86,
+Rangsund,origin,0,1,1,1,inferred
+Ranmo,origin,1,1,1,1,
+Rano,origin,1,0,0,1,removed in cleanup
+Rauma,origin,0,1,1,1,inferred
+Raumea,origin,1,0,0,1,removed in cleanup
+Red Creek,origin,1,1,1,1,
+Redon,origin,188,188,190,190,
+Reonneby,origin,1,1,1,1,
+Reval,origin,3,3,3,3,
+Revel,origin,1,1,1,1,
+Richibucto,origin,84,84,86,86,
+"Richibucto, N.B.",origin,4,4,4,4,
+Richmond,origin,6,6,6,6,
+"Richmond, Va.",origin,1,1,1,1,
+Riga,origin,1970,0,0,1970,removed in cleanup
+Riisoer,origin,7,0,0,7,removed in cleanup
+Rika,origin,1,1,1,1,
+Rilgedahl,origin,1,1,1,1,
+Rimouski,origin,6,7,7,7,
+Rio Hacha,origin,1,1,1,1,
+Riser,origin,0,3,3,3,inferred
+Risier,origin,1,0,0,1,removed in cleanup
+Risoe,origin,1,0,0,1,removed in cleanup
+Risoeer,origin,1,0,0,1,removed in cleanup
+Risoer,origin,163,183,183,183,
+Risor,origin,11,0,0,11,removed in cleanup
+Risver,origin,2,0,0,2,removed in cleanup
+Riv. Plate,origin,1,1,1,1,
+Rivadeo,origin,11,11,11,11,
+River,origin,1,1,1,1,
+River Ouelle,origin,0,4,4,4,inferred
+River Quelle,origin,4,0,0,4,removed in cleanup
+River Saguenay,origin,1,1,1,1,
+River St. Lawrence,origin,2,2,2,2,
+Robertshor,origin,1,1,1,1,
+Roche Bernard,origin,41,42,42,42,
+Rochefort,origin,25,25,25,25,
+Rochester,destination,0,100,100,100,inferred
+Rockabema,origin,1,1,1,1,
+Rodestrand,origin,1,1,1,1,
+Ronne,origin,1,1,1,1,
+Ronneby,origin,1,1,1,1,
+Rosa,origin,1,1,1,1,
+Roscoff,origin,1,1,1,1,
+Rosetta,origin,1,1,1,1,
+Rosso,origin,1,1,1,1,
+Rotterdam,origin,559,559,560,560,
+Rouen,origin,6,6,6,6,
+Rounshy,origin,1,1,1,1,
+Royetta,origin,1,0,0,1,removed in cleanup
+Roytta,origin,2,3,3,3,
+Ruchee,origin,1,1,1,1,
+Ruetouche,origin,1,1,1,1,
+Rugenwalde,origin,13,14,14,14,
+Rugewalde,origin,1,0,0,1,removed in cleanup
+Rusoer,origin,1,1,1,1,
+Russoar,origin,1,1,1,1,
+Ruthula,origin,1,1,1,1,
+SCARBOROUGH,destination,19,0,0,19,removed in cleanup
+SCOTLAND,destination,3,3,3,3,
+SHEERNESS,destination,2,2,2,2,
+SHEERNESS DOCKYARD,destination,1,1,1,1,
+SHOREHAM,destination,67,0,0,67,removed in cleanup
+SILVERTOWN,destination,5,5,7,7,
+SILVERTOWN WHARF,destination,2,2,0,2,removed in cleanup
+SKIBBEREEN,destination,5,5,5,5,
+SLIGO,destination,14,14,14,14,
+SOUTH ALLOA,destination,43,43,48,48,
+SOUTH QUEENSFERRY,destination,6,6,6,6,
+SOUTHAMPTON,destination,315,0,0,315,removed in cleanup
+ST.,destination,0,0,1,1,inferred
+ST. DAVID'S,destination,1,1,1,1,
+ST. KATHARINE'S DOCK,destination,4,4,4,4,
+ST. KATHARINE'S DOCKS,destination,4,4,4,4,
+ST. KATHARINE'S WHARF,destination,1,1,0,1,removed in cleanup
+STOCKTON,destination,59,0,0,59,removed in cleanup
+STONE,destination,0,0,2,2,inferred
+STONE STAIRS,destination,2,2,0,2,removed in cleanup
+STORNOWAY,destination,11,0,0,11,removed in cleanup
+STRANRAER,destination,4,4,4,4,
+SUNDERLAND,destination,2605,0,0,2605,removed in cleanup
+SURREY COMMERCIAL DOCKS,destination,2001,2001,2020,2020,
+SURREY DOCKS,destination,8,8,8,8,
+SWANSEA,destination,629,0,0,629,removed in cleanup
+SWANWICH,destination,14,14,14,14,
+Sach Kallan,origin,1,1,1,1,
+Sackville,origin,8,8,8,8,
+"Sackville, N.B.",origin,3,3,3,3,
+Sada,origin,9,0,0,9,removed in cleanup
+Saffi,origin,1,1,1,1,
+Saguenay,origin,51,52,52,52,
+Saints,origin,1,1,1,1,
+Salis,origin,1,0,0,1,removed in cleanup
+Salmis,origin,0,1,1,1,inferred
+"Salo, Abo",origin,1,1,1,1,
+Salsaker,origin,9,9,9,9,
+Salsburg,origin,1,1,1,1,
+Salstrom,origin,1,1,1,1,
+Saltkallan,origin,2,2,2,2,
+Saltock,origin,1,1,1,1,
+Saltvick,origin,1,1,1,1,
+Saltvik,origin,5,5,5,5,
+Salvator,origin,1,1,1,1,
+Salvesen & Co,origin,1,1,1,1,
+Samarang,origin,1,1,1,1,
+San Cyprian,origin,2,2,2,2,
+San Domingo,origin,2,2,2,2,
+San Francisco,origin,25,25,25,25,
+San Pedro,origin,1,1,1,1,
+San lefjord,origin,1,0,0,1,removed in cleanup
+Sanda,origin,3,12,12,12,
+Sandarne,origin,90,90,90,90,
+Sandefiord,origin,14,0,0,14,removed in cleanup
+Sandefjord,origin,60,88,88,88,
+Sandeflord,origin,1,0,0,1,removed in cleanup
+Sandeford,origin,3,0,0,3,removed in cleanup
+Sandefurd,origin,1,1,1,1,
+Sandfiord,origin,1,1,1,1,
+Sandfjord,origin,2,0,0,2,removed in cleanup
+Sandiefiord,origin,5,0,0,5,removed in cleanup
+Sandiefurd,origin,1,1,1,1,
+Sandifjord,origin,2,0,0,2,removed in cleanup
+Sandioford,origin,1,1,1,1,
+Sando,origin,3,3,3,3,
+Sandssund,origin,1,1,1,1,
+Sandswell,origin,2,2,2,2,
+Sandvik,origin,13,15,15,15,
+Sandviken,origin,7,7,7,7,
+Sanne-sund,origin,2,0,0,2,removed in cleanup
+Sannes,origin,1,1,1,1,
+Sannesund,origin,32,35,35,35,
+Santa Ana,origin,18,18,18,18,
+Santa Anna,origin,7,7,7,7,
+Santa Cruz,origin,2,2,2,2,
+Santa Cruz de Cuba,origin,1,1,1,1,
+Santa Cruz del Sur,origin,1,1,1,1,
+Santander,origin,1,1,1,1,
+Santirago de Cuba,origin,1,1,1,1,
+Santos,origin,1,1,1,1,
+Sarpsborg,origin,10,12,12,12,
+Sarpseborg,origin,1,0,0,1,removed in cleanup
+Sarsborg,origin,1,0,0,1,removed in cleanup
+Sastmola,origin,1,1,1,1,
+Satilla,origin,1,1,1,1,
+Satilla River,origin,1,1,1,1,
+Sault,origin,9,9,9,9,
+Sault an Cochon,origin,0,1,1,1,inferred
+Sault au Cochon,origin,1,1,1,1,
+Saulta Cochon,origin,1,0,0,1,removed in cleanup
+Sauris,origin,1,1,1,1,
+Savannah,origin,39,39,41,41,
+"Savannah, Georgia",origin,1,1,1,1,
+Savenas,origin,2,2,2,2,
+Savona,origin,1,1,1,1,
+Scarborough,destination,0,19,19,19,inferred
+Scarsport,origin,1,1,1,1,
+Schabk,origin,1,1,1,1,
+Schiedam,origin,6,6,6,6,
+Schippswick,origin,1,1,1,1,
+Scholocklea,origin,1,1,1,1,
+Serpa,origin,1,1,1,1,
+Sevastopol,origin,8,8,8,8,
+Sguenay,origin,1,0,0,1,removed in cleanup
+Shediac,origin,69,70,74,74,
+"Shediac, N.B.",origin,3,3,3,3,
+Sheet Harbor,origin,1,0,0,1,removed in cleanup
+Sheet Harbour,origin,13,14,14,14,
+"Sheet Harbour, Canada",origin,1,1,1,1,
+"Sheet Harbour, N. B.",origin,1,1,1,1,
+"Sheet Harbour, N.B.",origin,2,2,2,2,
+"Sheet Harbour, N.S.",origin,3,3,3,3,
+Sheliac,origin,1,0,0,1,removed in cleanup
+"Sheliac, N.B.",origin,1,1,1,1,
+"Shemogue, N.B.,",origin,1,1,1,1,
+Sherbrooke,origin,4,4,4,4,
+"Sherbrooke, N.S.",origin,1,1,1,1,
+Ship Harbor,origin,1,1,1,1,
+Ship Harbour,origin,3,3,3,3,
+Ship Harbour N,origin,1,1,1,1,
+"Ship Harbour, N.S.",origin,4,4,4,4,
+Ship Island,origin,2,2,2,2,
+Shoreham,destination,0,67,67,67,inferred
+"Shulee, N.S.",origin,1,1,1,1,
+Shulu,origin,1,1,1,1,
+Sietwende,origin,1,1,1,1,
+Sikea,origin,6,6,6,6,
+Simo,origin,15,16,16,16,
+Simon,origin,1,0,0,1,removed in cleanup
+Singapore,origin,5,5,5,5,
+Sjune,origin,1,1,1,1,
+Skelleftea,origin,162,162,162,162,
+Skepfovik,origin,1,1,1,1,
+Skeppevik,origin,1,0,0,1,removed in cleanup
+Skeppsvik,origin,9,11,11,11,
+Skeppvik,origin,0,1,1,1,inferred
+Skepsvik,origin,2,0,0,2,removed in cleanup
+Skien,origin,179,179,179,179,
+Skippevik,origin,1,1,1,1,
+Skonvick,origin,1,0,0,1,removed in cleanup
+Skonvik,origin,93,96,96,96,
+Skonwick,origin,1,1,1,1,
+Skouvik,origin,1,0,0,1,removed in cleanup
+Skovik,origin,1,0,0,1,removed in cleanup
+Skutakar,origin,2,0,0,2,removed in cleanup
+Skutekar,origin,2,0,0,2,removed in cleanup
+Skutska,origin,1,0,0,1,removed in cleanup
+Skutskar,origin,126,131,131,131,
+Skutvik,origin,1,1,1,1,
+Slite,origin,19,19,19,19,
+Slitehamn,origin,2,2,2,2,
+Smyrna,origin,1,1,1,1,
+Sod rhamn,origin,1,0,0,1,removed in cleanup
+Soderham,origin,1,0,0,1,removed in cleanup
+Soderhamn,origin,642,644,647,647,
+Sodertelje,origin,2,2,2,2,
+Soladstrom,origin,1,1,1,1,
+Solsatsen,origin,1,1,1,1,
+Solstadstrom,origin,2,2,2,2,
+Solstastrom,origin,1,1,1,1,
+Solstradstrom,origin,1,1,1,1,
+Solvetsburg,origin,1,1,1,1,
+Soon,origin,1,1,1,1,
+Soraka,origin,1,1,1,1,
+Soraker,origin,1,1,1,1,
+Soraki,origin,1,1,1,1,
+Sornas,origin,1,1,1,1,
+Soroka,origin,49,49,49,49,
+Sourabaya,origin,1,1,1,1,
+Southampton,origin + destination,6,6,6,6,
+Spain,origin,1,1,1,1,
+Spencer Island,origin,1,1,1,1,
+"Spencer's Island, N.S.",origin,2,2,2,2,
+Sprangsviken,origin,4,6,6,6,
+Sprangviken,origin,2,0,0,2,removed in cleanup
+St,origin,169,169,0,169,removed in cleanup
+St John,origin,1,0,0,1,removed in cleanup
+St.,origin,1,1,1,1,
+St. Ana,origin,1,4,4,4,
+St. Anna,origin,3,0,0,3,removed in cleanup
+St. Brieux,origin,54,54,54,54,
+St. Clair,origin,1,1,1,1,
+St. Cyprian,origin,1,1,1,1,
+St. Etienne,origin,1,1,1,1,
+St. George's,origin,1,1,1,1,
+"St. George, N.B.",origin,1,1,1,1,
+St. Ignace,origin,4,4,4,4,
+St. Jago,origin,1,1,1,1,
+St. Jago de Cuba,origin,1,1,1,1,
+St. John,origin,125,128,128,128,
+St. John N.B.,origin,1,0,0,1,removed in cleanup
+St. John's,origin,8,8,8,8,
+"St. John's, N. B.",origin,0,2,2,2,inferred
+"St. John's, N.B.",origin,1,0,0,1,removed in cleanup
+"St. John's, N.F.",origin,2,0,0,2,removed in cleanup
+"St. John's, Newfoundland",origin,1,1,1,1,
+"St. John, N. B.",origin,1,1,1,1,
+"St. John, N.B",origin,1,0,0,1,removed in cleanup
+"St. John, N.B.",origin,235,238,238,238,
+"St. John, N.P.",origin,1,0,0,1,removed in cleanup
+St. Johns,origin,1,0,0,1,removed in cleanup
+St. Lucia,origin,2,2,2,2,
+St. Malo,origin,19,19,19,19,
+St. Mary,origin,1,0,0,1,removed in cleanup
+St. Mary's,origin,5,6,6,6,
+"St. Mary's, Georgia",origin,2,2,2,2,
+"St. Marzonell's Bay, N.S.",origin,1,1,1,1,
+St. Nazaire,origin,18,18,18,18,
+St. P'burg,origin,8,8,8,8,
+St. P'burg.,origin,2,2,2,2,
+St. Paul's Bay,origin,1,1,1,1,
+St. Petersburg,origin,175,175,175,175,
+St. Petersburg Town,origin,2,2,2,2,
+St. Servan,origin,2,2,2,2,
+St. Thomas,origin,5,5,5,5,
+Stavanger,origin,1,1,1,1,
+Stavarf,origin,4,4,4,4,
+Stedumas,origin,1,1,1,1,
+Steel Harbour,origin,1,1,1,1,
+Stege,origin,1,1,1,1,
+Stenkjoer,origin,1,2,2,2,
+Stenkjor,origin,1,0,0,1,removed in cleanup
+Stenviker,origin,1,1,1,1,
+Stettin,origin,510,510,512,512,
+Stettin and Gothenburg,origin,1,1,1,1,
+Stocka,origin,18,19,19,19,
+Stockasa,origin,1,0,0,1,removed in cleanup
+Stockasag,origin,18,18,18,18,
+Stockavik,origin,2,0,0,2,removed in cleanup
+Stockaviken,origin,3,7,7,7,
+Stockazog,origin,3,3,3,3,
+Stockholm,origin,187,187,187,187,
+Stockholm and Rafso,origin,1,1,1,1,
+Stockholm and Soderhamn,origin,1,1,1,1,
+Stocks,origin,1,1,1,1,
+Stocksasag,origin,1,1,1,1,
+Stockssag,origin,1,1,1,1,
+Stocksviken,origin,1,0,0,1,removed in cleanup
+Stockton,destination,0,59,59,59,inferred
+Stockvick,origin,1,1,1,1,
+Stockvig,origin,1,1,1,1,
+Stockvik,origin,1,1,1,1,
+Stockvike,origin,1,0,0,1,removed in cleanup
+Stoess,origin,1,1,1,1,
+Stoka,origin,0,1,1,1,inferred
+Stolpemunde,origin,4,4,4,4,
+Storka,origin,1,0,0,1,removed in cleanup
+Stornoway,destination,0,11,11,11,inferred
+Stralsund,origin,1,1,1,1,
+Strathbogie,origin,1,1,1,1,
+Stromfars,origin,0,5,5,5,inferred
+Stromfors,origin,5,0,0,5,removed in cleanup
+Strommas,origin,1,0,0,1,removed in cleanup
+Stromnaes,origin,0,1,1,1,inferred
+Stromnas,origin,7,8,8,8,
+Stromness,origin,1,0,0,1,removed in cleanup
+Stromstad,origin,8,8,8,8,
+Stromstadt,origin,1,1,1,1,
+Strugsund,origin,1,0,0,1,removed in cleanup
+Stugsund,origin,4,5,5,5,
+Stutsboda,origin,1,1,1,1,
+Stutshoda,origin,1,1,1,1,
+Sulina,origin,1,1,1,1,
+Summerside,origin,5,5,5,5,
+"Summerside, P.E.I.",origin,1,1,1,1,
+Sund,origin,9,9,9,9,
+Sundabolay,origin,1,1,1,1,
+Sundawall,origin,1,0,0,1,removed in cleanup
+Sunderland,origin + destination,3,3,3,3,
+Sunds Bolog,origin,1,1,1,1,
+Sundsvall,origin,10,0,0,10,removed in cleanup
+Sundsvoern,origin,1,1,1,1,
+Sundswal,origin,1,0,0,1,removed in cleanup
+Sundswall,origin,908,920,924,924,
+Sundvik,origin,2,0,0,2,removed in cleanup
+Sunnas,origin,1,1,1,1,
+Sutcliffe,origin,1,1,1,1,
+Svano,origin,4,4,4,4,
+Svartvick,origin,1,0,0,1,removed in cleanup
+Svartvik,origin,16,19,19,19,
+Svartwik,origin,2,0,0,2,removed in cleanup
+Svelvig,origin,3,3,3,3,
+Svenesund,origin,1,1,1,1,
+Swansea,destination,0,629,660,660,inferred
+Swante,origin,1,1,1,1,
+Swartvick,origin,2,0,0,2,removed in cleanup
+Swartvik,origin,41,43,43,43,
+Swartwick,origin,34,34,34,34,
+Swartwik,origin,26,27,27,27,
+Swarwik,origin,1,0,0,1,removed in cleanup
+Sweden,origin,3,3,3,3,
+Swinemunde,origin,3,3,3,3,
+Swinesund,origin,1,1,1,1,
+Sydney,origin,7,7,7,7,
+T. W. Allen,origin,1,1,1,1,
+TEIGNMOUTH,destination,22,0,0,22,removed in cleanup
+THE MISSISSIPPI VALLEY,destination,9,9,9,9,
+THE SAGINAW VALLEY,destination,1,1,1,1,
+THE TIMBER TRADES JOURNAL,destination,210,210,0,210,removed in cleanup
+THE TYNE,destination,270,270,275,275,
+THOMAS ROEBUCK & COMPANY (LIMITED),destination,2,2,2,2,
+TILBURY,destination,2,2,2,2,
+TILBURY DOCK,destination,1,1,1,1,
+TILBURY DOCKS,destination,17,17,17,17,
+TRADE ITEMS,destination,3,3,0,3,removed in cleanup
+TRALEE,destination,10,10,10,10,
+TROON,destination,24,0,0,24,removed in cleanup
+TRURO,destination,40,0,0,40,removed in cleanup
+TUNNEL PIER,destination,1,1,1,1,
+TYNE,destination,1423,0,0,1423,removed in cleanup
+Tabasco,origin,5,5,5,5,
+Table Bay,origin,1,1,1,1,
+Taganrog,origin,4,4,4,4,
+Tain,origin,2,2,2,2,
+Tangror,origin,1,0,0,1,removed in cleanup
+"Tapia, Spain",origin,1,1,1,1,
+Tapilco,origin,1,1,1,1,
+Tatamagouche,origin,2,0,0,2,removed in cleanup
+"Tatamagouche, N.B.",origin,1,1,1,1,
+Tatnmagouche,origin,0,2,2,2,inferred
+Tedestrand,origin,1,0,0,1,removed in cleanup
+Teignmouth,destination,0,22,22,22,inferred
+"The finest floors are said to be seen in Russia. For those of the highest grade, tropical woods are exclusively employed. Fir and pine are never used, as in consequence of their sticky character they attract and retain dust and dirt, and thereby soon become blackened. Pitch pine too is liable to shrink, even after being well seasoned. The mosaic wood floors in Russia are of extraordinary beauty. One, in the Summer Palace, is of small squares of ebony inlaid with mother",origin,1,1,0,1,removed in cleanup
+Theophile,origin,1,1,1,1,
+Thomas,origin,1,1,1,1,
+Three Islands,origin,1,1,1,1,
+Three Rivers,origin,58,58,58,58,
+Three Sisters,origin,1,1,1,1,
+Three Towns,origin,1,1,1,1,
+Throndjem,origin,1,0,0,1,removed in cleanup
+Tiansand,origin,1,1,1,1,
+"Tidnish, N.S.",origin,1,1,1,1,
+Tignish,origin,1,1,1,1,
+"Tignish, P.E.I.",origin,1,1,1,1,
+Tillinge,origin,1,1,1,1,
+Tillingnabben,origin,7,7,7,7,
+Timmernabbem,origin,1,0,0,1,removed in cleanup
+Timmernabben,origin,15,16,17,17,
+Tlacotalpam,origin,1,4,4,4,
+Tlacotalpan,origin,3,0,0,3,removed in cleanup
+Tlatocalpan,origin,2,2,3,3,
+Tonala,origin,14,14,14,14,
+Tonsberg,origin,46,46,46,46,
+Toreforg,origin,1,0,0,1,removed in cleanup
+Torefors,origin,20,23,23,23,
+Tornea,origin,68,68,68,68,
+Torneadal,origin,1,1,1,1,
+Torneouen,origin,1,1,1,1,
+Tornes,origin,1,1,1,1,
+Torre del Greco,origin,1,1,1,1,
+Torrefors,origin,2,0,0,2,removed in cleanup
+Tracadie,origin,1,1,1,1,
+Trangesund,origin,1,0,0,1,removed in cleanup
+Trangssund,origin,1,0,0,1,removed in cleanup
+Trangsund,origin,5,7,7,7,
+Treaniskow,origin,1,1,1,1,
+Tredestrand,origin,1,0,0,1,removed in cleanup
+Treffenberg,origin,1,1,1,1,
+Treguier,origin,3,3,3,3,
+Trehiguer,origin,1,1,1,1,
+Trehiguier,origin,9,9,9,9,
+Tremblade,origin,1,1,1,1,
+Trenberth,origin,1,1,1,1,
+Treport,origin,5,5,5,5,
+Treshchow,origin,1,1,1,1,
+Tresukstea,origin,1,1,1,1,
+Trieste,origin,92,92,92,92,
+Trieste and Fiume,origin,1,1,1,1,
+Trimsaran,origin,1,1,1,1,
+Trinidad,origin,1,2,2,2,
+Trinidade,origin,1,0,0,1,removed in cleanup
+Trondhjem,origin,0,2,2,2,inferred
+Trondjem,origin,1,0,0,1,removed in cleanup
+Trontero,origin,1,1,1,1,
+Troon,origin + destination,1,1,1,1,
+Trouville,origin,4,4,4,4,
+Truro,destination,0,40,40,40,inferred
+Truxillo,origin,8,8,8,8,
+Tunadal,origin,10,10,10,10,
+Tunnadal,origin,1,1,1,1,
+Tupilco,origin,5,5,5,5,
+Turkey,origin,1,1,1,1,
+Tusket,origin,2,2,2,2,
+Tvedestrand,origin,64,70,70,70,
+Twedestrand,origin,4,0,0,4,removed in cleanup
+Tyne,destination,0,1423,1437,1437,inferred
+Uamarina,origin,1,1,1,1,
+Uddevalla,origin,86,87,87,87,
+Uddewalla,origin,29,31,31,31,
+Uddowalla,origin,1,0,0,1,removed in cleanup
+Udevalla,origin,1,0,0,1,removed in cleanup
+Udewalla,origin,1,0,0,1,removed in cleanup
+Ulea,origin,1,0,0,1,removed in cleanup
+Uleaborg,origin,203,203,203,203,
+Ulindaw,origin,1,1,1,1,
+Ullanger,origin,2,2,2,2,
+Umea,origin,34,34,34,34,
+Upsal,origin,1,1,1,1,
+Ursiken,origin,0,2,2,2,inferred
+Ursviken,origin,2,0,0,2,removed in cleanup
+Utanigo,origin,1,1,1,1,
+Uto,origin,2,2,2,2,
+Utoo,origin,1,1,1,1,
+V'garcia,origin,1,1,1,1,
+VICTORIA DOCK,destination,6,6,6,6,
+VICTORIA DOCKS,destination,141,141,141,141,
+Valparaiso,origin,1,1,1,1,
+Valvig,origin,1,1,1,1,
+Vamsos,origin,1,1,1,1,
+Vances,origin,1,1,1,1,
+Vancouver,origin,0,1,1,1,inferred
+Vancouver I.,origin,1,0,0,1,removed in cleanup
+Vancouver's Island,origin,3,3,3,3,
+Vannes,origin,96,96,96,96,
+Varberg,origin,1,0,0,1,removed in cleanup
+Vardo,origin,1,1,1,1,
+Vardoe,origin,1,1,1,1,
+Vefsen,origin,22,22,22,22,
+Vefser,origin,1,1,1,1,
+Vegesack,origin,1,1,1,1,
+Velsen,origin,1,1,1,1,
+Venice,origin,8,8,8,8,
+Vesta,origin,1,1,1,1,
+Vesteras,origin,1,1,1,1,
+Vigo,origin,1,1,1,1,
+Villa Garcia,origin,2,0,0,2,removed in cleanup
+Villagarcia,origin,38,40,40,40,
+Vinje,origin,1,1,1,1,
+Visero,origin,1,1,1,1,
+Vitea,origin,1,0,0,1,removed in cleanup
+Vivero,origin,3,3,3,3,
+Vlaardingen,origin,4,4,4,4,
+Vlardingen,origin,1,1,1,1,
+W,origin,13,13,0,13,removed in cleanup
+W. C. Africa,origin,7,7,7,7,
+W. Indies,origin,1,1,1,1,
+W.C. Africa,origin,3,3,3,3,
+W.C.Africa,origin,1,1,1,1,
+WATERFORD,destination,29,29,29,29,
+WEST HARTLEPOOL,destination,1266,1266,1276,1276,
+WEST INDIA DOCKS,destination,22,22,22,22,
+WESTPORT,destination,3,3,3,3,
+WEXFORD,destination,10,10,10,10,
+WEYMOUTH,destination,11,0,0,11,removed in cleanup
+WHITBY,destination,12,0,0,12,removed in cleanup
+WHITEHAVEN,destination,39,0,0,39,removed in cleanup
+WICK,destination,68,0,0,68,removed in cleanup
+WIGTOWN,destination,1,1,1,1,
+WISBEACH,destination,1,0,0,1,removed in cleanup
+WISBECH,destination,193,0,0,193,removed in cleanup
+WISPECH,destination,1,0,0,1,removed in cleanup
+WOODBRIDGE,destination,2,2,2,2,
+WOOLWICH,destination,11,11,11,11,
+WORKING MACHINERY.,origin,1,1,1,1,
+WORKINGTON,destination,1,0,0,1,removed in cleanup
+Waawa,origin,1,1,1,1,
+Waija,origin,2,2,2,2,
+Wanks River,origin,1,1,1,1,
+Warberg,origin,61,63,63,63,
+Warburg,origin,1,0,0,1,removed in cleanup
+Wardoe,origin,1,1,1,1,
+Wasa,origin,6,6,6,6,
+Waterford,origin,23,23,29,29,
+Wava,origin,1,1,1,1,
+Waya,origin,3,3,3,3,
+Weener,origin,10,10,10,10,
+Wefsel,origin,1,1,1,1,
+Werbeback,origin,1,1,1,1,
+Wergeland,origin,1,1,1,1,
+Werkeback,origin,4,4,4,4,
+West Bay,origin,8,8,8,8,
+"West Bay, N.S.",origin,5,5,5,5,
+"West Bay, U.S.",origin,1,1,1,1,
+West Coast of Africa,origin,1,1,1,1,
+West Indies,origin,8,0,0,8,removed in cleanup
+Westawaif,origin,1,1,1,1,
+Westering,origin,1,1,1,1,
+Westervik,origin,42,42,42,42,
+Westerwick,origin,8,0,0,8,removed in cleanup
+Westerwik,origin,16,24,24,24,
+Weymouth,origin + destination,3,3,3,3,
+"Weymouth, N S.",origin,1,1,1,1,
+"Weymouth, N.S.",origin,4,4,4,4,
+"Weymouth, U.S.",origin,1,1,1,1,
+Whitby,destination,0,12,12,12,inferred
+White Sea,origin,1,1,1,1,
+Whitehaven,destination,0,39,39,39,inferred
+Whyncomah,origin,1,1,1,1,
+Wiborg,origin,3,3,3,3,
+Wick,destination,0,68,68,68,inferred
+Wicklow,origin,2,2,2,2,
+Wiener,origin,4,4,4,4,
+Wifsta,origin,1,1,1,1,
+Wifsta Warf,origin,4,4,4,4,
+Wifstavarf,origin,2,0,0,2,removed in cleanup
+Wifstawarf,origin,43,45,45,45,
+Wiken,origin,1,1,1,1,
+Wilmington,origin,2,2,2,2,
+"Wilson appeared in this case, on Saturday last, in the Queen's Bench Division, before Mr. Justice Cave and Mr. Baron Pollock, on behalf of the defendants, on appeal against an order made by Mr. Justice Field, at Chambers, refusing to allow them to amend the writ in the action by adding the name of one Donald as a co",origin,1,1,0,1,removed in cleanup
+Windart,origin,2,2,2,2,
+Windau,origin,108,108,108,108,
+Windaw,origin,1,1,1,1,
+Windsor,origin,1,1,1,1,
+"Windsor, N.S.",origin,1,1,1,1,
+Wisbech,destination,0,195,195,195,inferred
+Wisbey,origin,1,0,0,1,removed in cleanup
+Wisby,origin,4,5,5,5,
+Wiscasset,origin,6,6,8,8,
+Wisner,origin,1,1,1,1,
+Wistawarf,origin,3,3,3,3,
+Wjsby,origin,1,1,1,1,
+Wolgast,origin,1,1,1,1,
+Woolwich,origin,1,1,1,1,
+Workington,destination,0,1,1,1,inferred
+Wybor,origin,2,0,0,2,removed in cleanup
+Wyborg,origin,223,225,225,225,
+Wyburg,origin,96,96,99,99,
+Wycoomagh,origin,1,1,1,1,
+X'sand,origin,1,1,1,1,
+Xiana,origin,1,1,1,1,
+Xiania,origin,48,48,48,48,
+Xiansand,origin,4,4,4,4,
+Xinestad,origin,3,3,3,3,
+Xnia,origin,2,2,2,2,
+Xtiansand,origin,3,3,3,3,
+Y COMMERCIAL DOCKS,destination,2,2,2,2,
+YARMOUTH,destination,200,0,0,200,removed in cleanup
+YOUGHAL,destination,2,2,2,2,
+Yallahs,origin,1,1,1,1,
+Yarmouth,origin + destination,2,2,2,2,
+"Yarmouth, N.B.",origin,1,1,1,1,
+"Yarmouth, N.S.",origin,5,5,5,5,
+You-ford,origin,1,1,1,1,
+Youghal,origin,10,10,10,10,
+Ystad,origin,2,2,2,2,
+Ytlersfors,origin,1,0,0,1,removed in cleanup
+Yttersfors,origin,0,3,3,3,inferred
+Ytterstfors,origin,2,0,0,2,removed in cleanup
+Zanzibar,origin,1,1,1,1,
+Zaza,origin,1,1,1,1,
+and,origin,1,1,0,1,removed in cleanup
+app,origin,1,1,1,1,
+deals,origin,1,1,0,1,removed in cleanup
+"driving streams upon which this market depends are still very discouraging as to the probabilities of getting the logs. The prospects of the Menominee and other streams tributary to Green Bay, are really not so encouraging as a few weeks ago, as logs on the first",origin,1,1,0,1,removed in cleanup
+ends,origin,2,2,0,2,removed in cleanup
+from Halifax,origin,1,1,1,1,
+higa,origin,1,1,0,1,removed in cleanup
+kar,origin,1,1,0,1,removed in cleanup
+l'Orient,origin,72,0,0,72,removed in cleanup
+lathwood,origin,1,1,0,1,removed in cleanup
+oak staves,origin,1,1,0,1,removed in cleanup
+"past two o'clock, and at that time the first floor was well alight. Several manuals were promptly on the spot, and all round the building, and it was with such rapidity that in a short time the efforts of the firemen were successful. The shops of Mr. J. H. Ashton, a picture",origin,1,1,0,1,removed in cleanup
+pitwood,origin,1,1,0,1,removed in cleanup
+"props, birr",origin,1,1,0,1,removed in cleanup
+teak,origin,1,1,0,1,removed in cleanup
+timber,origin,1,1,0,1,removed in cleanup
+und,origin,1,0,0,1,removed in cleanup

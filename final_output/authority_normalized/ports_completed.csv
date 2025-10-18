@@ -1,0 +1,109 @@
+port_type,original_port,ship_count,best_match_canonical,similarity_score,normalization_tier,year_range,action,map_to_port,notes,web_search_query
+origin,Oresund,1409,Porsgrund,0.750,fuzzy_low,1885-1885,ACCEPT,,Øresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
+origin,Memel,713,,,unmapped,1874-1888,MAP,Klaipeda,Auto-mapped (known variant),Memel timber port 1880s
+origin,Archangel,558,Arkhangelsk,0.800,fuzzy_low,1874-1887,MAP,Arkhangelsk,Auto-mapped (known variant),Archangel timber port 1880s
+origin,Dram,228,Durham,0.800,fuzzy_low,1874-1887,MAP,Drammen,Auto-mapped (known variant),Dram timber port 1880s
+origin,Drontheim,106,Trondheim,0.778,fuzzy_low,1874-1888,MAP,Trondheim,Auto-mapped (known variant),Drontheim timber port 1880s
+origin,Richibucto,84,Richibouctou,0.909,fuzzy_medium,1874-1887,MAP,Richibouctou,Auto-mapped (known variant),Richibucto timber port 1880s
+origin,Calmar,82,Kalmar,0.833,fuzzy_low,1874-1887,MAP,Kalmar,Auto-mapped (known variant),Calmar timber port 1880s
+origin,Falkenburg,79,Falkenberg,0.900,fuzzy_medium,1875-1885,MAP,Falkenberg,Auto-mapped (known variant),Falkenburg timber port 1880s
+origin,Havre,33,Le Havre,0.769,fuzzy_low,1874-1888,MAP,Le Havre,Auto-mapped (known variant),Havre timber port 1880s
+origin,"Chatham, N.B.",31,,,unmapped,1879-1887,MAP,Chatham,Auto-mapped (known variant),"Chatham, N.B. timber port 1880s"
+origin,"Norfolk, Va.",23,Norfolk,0.737,fuzzy_low,1879-1887,MAP,Norfolk,Auto-mapped (known variant),"Norfolk, Va. timber port 1880s"
+origin,Vefsen,22,Vefsn,0.909,fuzzy_medium,1874-1881,MAP,Vefsn,Auto-mapped (known variant),Vefsen timber port 1880s
+origin,P'burg,18,,,unmapped,1879-1879,MAP,Porsgrund,Auto-mapped (known variant),P'burg timber port 1880s
+destination,LONDON,3336,,,unmapped,1874-1885,MAP,London,Auto-mapped (known variant),LONDON British port timber 1880s
+destination,SURREY COMMERCIAL DOCKS,2001,London (Surrey Commercial Docks),0.836,fuzzy_low,1885-1888,MAP,London (Surrey Commercial Docks),Auto-mapped (known variant),SURREY COMMERCIAL DOCKS British port timber 1880s
+destination,MILLWALL DOCKS,466,London (Millwall Docks),0.757,fuzzy_low,1885-1888,MAP,London (Millwall Docks),Auto-mapped (known variant),MILLWALL DOCKS British port timber 1880s
+destination,BO'NESS,287,,,unmapped,1874-1887,MAP,Borrowstounness,Auto-mapped (known variant),BO'NESS British port timber 1880s
+destination,THE TYNE,270,,,unmapped,1875-1885,MAP,Tyne,Auto-mapped (known variant),THE TYNE British port timber 1880s
+destination,BELFAST,265,,,unmapped,1881-1888,MAP,Belfast,Auto-mapped (known variant),BELFAST British port timber 1880s
+destination,VICTORIA DOCKS,141,London (Victoria Docks),0.757,fuzzy_low,1885-1887,MAP,London (Victoria Docks),Auto-mapped (known variant),VICTORIA DOCKS British port timber 1880s
+destination,DUBLIN,122,,,unmapped,1881-1887,MAP,Dublin,Auto-mapped (known variant),DUBLIN British port timber 1880s
+destination,OTHER DOCKS AND WHARVES,117,London (Other Docks and Wharves),0.836,fuzzy_low,1885-1888,MAP,London (Other Docks and Wharves),Auto-mapped (known variant),OTHER DOCKS AND WHARVES British port timber 1880s
+destination,REGENT'S CANAL DOCKS,99,London (Regent's Canal Docks),0.816,fuzzy_low,1885-1887,MAP,London (Regent's Canal Docks),Auto-mapped (known variant),REGENT'S CANAL DOCKS British port timber 1880s
+destination,GREAT YARMOUTH,99,Yarmouth,0.727,fuzzy_low,1879-1879,MAP,Yarmouth,Auto-mapped (known variant),GREAT YARMOUTH British port timber 1880s
+destination,CORK,55,,,unmapped,1881-1887,MAP,Cork,Auto-mapped (known variant),CORK British port timber 1880s
+destination,ROYAL ALBERT DOCKS,46,London (Royal Albert Docks),0.800,fuzzy_low,1885-1888,MAP,London (Royal Albert Docks),Auto-mapped (known variant),ROYAL ALBERT DOCKS British port timber 1880s
+destination,LIMERICK,41,Lerwick,0.800,fuzzy_low,1881-1888,MAP,Limerick,Auto-mapped (fuzzy 1.000),LIMERICK British port timber 1880s
+destination,DUNDALK,40,,,unmapped,1881-1887,MAP,Dundalk,Auto-mapped (fuzzy 1.000),DUNDALK British port timber 1880s
+destination,LONDONDERRY,31,,,unmapped,1881-1887,MAP,Londonderry,Auto-mapped (fuzzy 1.000),LONDONDERRY British port timber 1880s
+destination,WATERFORD,29,,,unmapped,1881-1887,MAP,Waterford,Auto-mapped (fuzzy 1.000),WATERFORD British port timber 1880s
+destination,NEWRY,25,,,unmapped,1881-1888,MAP,Newry,Auto-mapped (fuzzy 1.000),NEWRY British port timber 1880s
+destination,WEST INDIA DOCKS,22,London (West India Docks),0.780,fuzzy_low,1885-1887,MAP,London (West India Docks),Auto-mapped (known variant),WEST INDIA DOCKS British port timber 1880s
+destination,TILBURY DOCKS,17,London (Tilbury Docks),0.743,fuzzy_low,1885-1887,MAP,London (Tilbury Docks),Auto-mapped (known variant),TILBURY DOCKS British port timber 1880s
+destination,GALWAY,15,,,unmapped,1881-1887,MAP,Galway,Auto-mapped (fuzzy 1.000),GALWAY British port timber 1880s
+destination,SLIGO,14,,,unmapped,1881-1887,MAP,Sligo,Auto-mapped (fuzzy 1.000),SLIGO British port timber 1880s
+origin,Oresund,1409,Porsgrund,0.75,fuzzy_low,1885-1885,ACCEPT,,Ãresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
+origin,Memel,713,,,unmapped,1874-1888,MAP,Klaipeda,Auto-mapped (known variant),Memel timber port 1880s
+origin,Gefle,662,,,unmapped,1874-1888,MAP,Gävle,,Gefle timber port 1880s
+origin,Archangel,558,Arkhangelsk,0.8,fuzzy_low,1874-1887,MAP,Arkhangelsk,Auto-mapped (known variant),Archangel timber port 1880s
+origin,Dram,228,Durham,0.8,fuzzy_low,1874-1887,MAP,Drammen,Auto-mapped (known variant),Dram timber port 1880s
+origin,Redon,188,,,unmapped,1877-1887,ACCEPT,,,Redon timber port 1880s
+origin,Hennebont,156,,,unmapped,1877-1887,ACCEPT,,,Hennebont timber port 1880s
+origin,Auray,107,,,unmapped,1877-1888,ACCEPT,,,Auray timber port 1880s
+origin,Drontheim,106,Trondheim,0.778,fuzzy_low,1874-1888,MAP,Trondheim,Auto-mapped (known variant),Drontheim timber port 1880s
+origin,Vannes,96,,,unmapped,1877-1887,ACCEPT,,,Vannes timber port 1880s
+origin,Richibucto,84,Richibouctou,0.909,fuzzy_medium,1874-1887,MAP,Richibouctou,Auto-mapped (known variant),Richibucto timber port 1880s
+origin,Neder Kalix,83,,,unmapped,1877-1887,MAP,Kalix,,Neder Kalix timber port 1880s
+origin,Calmar,82,Kalmar,0.833,fuzzy_low,1874-1887,MAP,Kalmar,Auto-mapped (known variant),Calmar timber port 1880s
+origin,Falkenburg,79,Falkenberg,0.9,fuzzy_medium,1875-1885,MAP,Falkenberg,Auto-mapped (known variant),Falkenburg timber port 1880s
+origin,l'Orient,72,,,unmapped,1879-1881,MAP,Lorient,,l'Orient timber port 1880s
+origin,Mandal,70,Arendal,0.769,fuzzy_low,1874-1887,ACCEPT,,,Mandal timber port 1880s
+origin,Shediac,69,,,unmapped,1874-1887,ACCEPT,,,Shediac timber port 1880s
+origin,Lorient,65,Kyloren,0.714,fuzzy_low,1877-1887,ACCEPT,,,Lorient timber port 1880s
+origin,Blaye,61,,,unmapped,1885-1887,ACCEPT,,,Blaye timber port 1880s
+origin,Warberg,61,Marieberg,0.75,fuzzy_low,1881-1887,MAP,Varberg,,Warberg timber port 1880s
+origin,Sandefjord,60,,,unmapped,1875-1887,ACCEPT,,,Sandefjord timber port 1880s
+origin,Three Rivers,58,,,unmapped,1874-1887,MAP,Trois-Rivières,,Three Rivers timber port 1880s
+origin,Monsteras,58,Montreal,0.706,fuzzy_low,1875-1887,MAP,Mönsterås,,Monsteras timber port 1880s
+origin,St. Brieux,54,,,unmapped,1879-1886,MAP, Saint-Brieuc,,St. Brieux timber port 1880s
+origin,Corunna,52,Brunna,0.769,fuzzy_low,1879-1888,MAP,A Coruña,,Corunna timber port 1880s
+origin,Xiania,48,,,unmapped,1879-1881,MAP,Kristiania,,Xiania timber port 1880s
+origin,Tonsberg,46,Konigsberg,0.778,fuzzy_low,1875-1887,MAP,Tønsberg,,Tonsberg timber port 1880s
+origin,Bay Verte,45,Bay de Verde,0.762,fuzzy_low,1879-1887,MAP,Baie Verte,,Bay Verte timber port 1880s
+origin,Quimper,44,,,unmapped,1877-1887,ACCEPT,,,Quimper timber port 1880s
+origin,Wifstawarf,43,,,unmapped,1874-1887,MAP,Timrå,,Wifstawarf timber port 1880s
+origin,Westervik,42,Vastervik,0.778,fuzzy_low,1881-1887,MAP,Västervik,,Westervik timber port 1880s
+origin,Roche Bernard,41,,,unmapped,1877-1887,MAP,La Roche-Bernard,,Roche Bernard timber port 1880s
+origin,La Rochelle,40,,,unmapped,1877-1888,ACCEPT,,,La Rochelle timber port 1880s
+origin,Langesund,39,Bangsund,0.824,fuzzy_low,1877-1887,ACCEPT,,,Langesund timber port 1880s
+origin,Villagarcia,38,,,unmapped,1881-1888,MAP,Vilagarcía de Arousa,,Villagarcia timber port 1880s
+origin,Morlaix,35,,,unmapped,1881-1888,ACCEPT,,,Morlaix timber port 1880s
+origin,Fiume,34,,,unmapped,1881-1887,MAP,Rijeka,,Fiume timber port 1880s
+origin,Havre,33,Le Havre,0.769,fuzzy_low,1874-1888,MAP,Le Havre,Auto-mapped (known variant),Havre timber port 1880s
+origin,Constantinople,31,,,unmapped,1874-1881,MAP,Istanbul,,Constantinople timber port 1880s
+origin,"Chatham, N.B.",31,,,unmapped,1879-1887,MAP,Chatham,Auto-mapped (known variant),"Chatham, N.B. timber port 1880s"
+origin,Mesane,28,Mesana,0.833,fuzzy_low,1875-1887,MAP,Matane,,Mesane timber port 1880s
+origin,Charleston,28,Charlottetown,0.783,fuzzy_low,1875-1887,ACCEPT,,,Charleston timber port 1880s
+origin,Buctouche,27,,,unmapped,1874-1887,ACCEPT,,,Buctouche timber port 1880s
+origin,Arcachon,27,,,unmapped,1879-1887,ACCEPT,,,Arcachon timber port 1880s
+origin,Dordrecht,27,Dordt,0.714,fuzzy_low,1881-1887,ACCEPT,,,Dordrecht timber port 1880s
+origin,Port Launay,26,Portland,0.737,fuzzy_low,1879-1887,MAP,Port-Launay,,Port Launay timber port 1880s
+origin,"Norfolk, Va.",23,Norfolk,0.737,fuzzy_low,1879-1887,MAP,Norfolk,Auto-mapped (known variant),"Norfolk, Va. timber port 1880s"
+origin,Vefsen,22,Vefsn,0.909,fuzzy_medium,1874-1881,MAP,Vefsn,Auto-mapped (known variant),Vefsen timber port 1880s
+origin,P'burg,18,,,unmapped,1879-1879,MAP,Porsgrund,Auto-mapped (known variant),P'burg timber port 1880s
+destination,BO'NESS,287,,,unmapped,1874-1887,MAP,Borrowstounness,Auto-mapped (known variant),BO'NESS British port timber 1880s
+destination,THE TYNE,270,,,unmapped,1875-1885,MAP,Tyne,Auto-mapped (known variant),THE TYNE British port timber 1880s
+destination,WEST HARTLEPOOL,1266,,,unmapped,1874-1881,MAP,Hartlepool (West),Auto-mapped (capitalization/variant),WEST HARTLEPOOL British port timber 1880s
+destination,PITWOOD,350,,,unmapped,1879-1879,ERROR,,"Commodity (pitwood), not a port",PITWOOD British port timber 1880s
+destination,KING'S LYNN,52,,,unmapped,1879-1881,MAP,Lynn,Auto-mapped (capitalization/variant),KING'S LYNN British port timber 1880s
+destination,COMMERCIAL DOCKS,44,,,unmapped,1885-1887,MAP,London (Surrey Commercial Docks),Auto-mapped (capitalization/variant),COMMERCIAL DOCKS British port timber 1880s
+destination,SOUTH ALLOA,43,,,unmapped,1879-1879,MAP,Alloa,Auto-mapped (capitalization/variant),SOUTH ALLOA British port timber 1880s
+destination,PORT GLASGOW,34,,,unmapped,1874-1887,MAP,Port Glasgow,Auto-mapped (capitalization/variant),PORT GLASGOW British port timber 1880s
+destination,DEPTFORD,34,,,unmapped,1885-1885,MAP,Deptford,Auto-mapped (capitalization/variant),DEPTFORD British port timber 1880s
+destination,INVERKEITHING,32,,,unmapped,1875-1879,MAP,Inverkeithing,Auto-mapped (capitalization/variant),INVERKEITHING British port timber 1880s
+destination,REGENT'S CANAL DOCK,30,London (Regent's Canal Docks),0.792,fuzzy_low,1885-1887,MAP,London (Regent's Canal Docks),Auto-mapped (capitalization/variant),REGENT'S CANAL DOCK British port timber 1880s
+destination,NEWCASTLE,26,,,unmapped,1875-1881,MAP,Newcastle,Auto-mapped (capitalization/variant),NEWCASTLE British port timber 1880s
+destination,NORTHFLEET,24,,,unmapped,1885-1887,MAP,Northfleet,Auto-mapped (capitalization/variant),NORTHFLEET British port timber 1880s
+destination,BURT'S WHARF,22,London (Burt's Wharf),0.727,fuzzy_low,1885-1887,MAP,London (Burt's Wharf),Auto-mapped (capitalization/variant),BURT'S WHARF British port timber 1880s
+destination,MILLWALL,18,,,unmapped,1885-1886,MAP,London (Millwall Docks),Auto-mapped (capitalization/variant),MILLWALL British port timber 1880s
+destination,MALDON,14,,,unmapped,1879-1881,MAP,Maldon,Auto-mapped (capitalization/variant),MALDON British port timber 1880s
+destination,GREENHITHE,13,,,unmapped,1885-1887,MAP,Greenhithe,Auto-mapped (capitalization/variant),GREENHITHE British port timber 1880s
+destination,ANTWERP,12,,,unmapped,1887-1887,MAP,Antwerp,Auto-mapped (capitalization/variant),ANTWERP British port timber 1880s
+destination,WOOLWICH,11,,,unmapped,1885-1887,MAP,Woolwich,Auto-mapped (capitalization/variant),WOOLWICH British port timber 1880s
+destination,HANOVER HOLE,11,London (Hanover Hole),0.727,fuzzy_low,1885-1887,MAP,London (Hanover Hole),Auto-mapped (capitalization/variant),HANOVER HOLE British port timber 1880s
+destination,WEXFORD,10,,,unmapped,1881-1887,MAP,Wexford,Auto-mapped (capitalization/variant),WEXFORD British port timber 1880s
+destination,TRALEE,10,,,unmapped,1881-1887,MAP,Tralee,Auto-mapped (capitalization/variant),TRALEE British port timber 1880s
+destination,CAERNARVON,3,Carnavon,0.889,fuzzy_medium,1885-1885,MAP,Carnavon,Auto-mapped (capitalization/variant),CAERNARVON British port timber 1880s
+destination,BARROWSTOUNESS,3,Borrowstounness,0.897,fuzzy_medium,1885-1887,MAP,Borrowstounness,Auto-mapped (capitalization/variant),BARROWSTOUNESS British port timber 1880s

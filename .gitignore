@@ -1,0 +1,51 @@
+# API Keys and Secrets
+gemini_api_key.txt
+openai_api_key.txt
+openrouter_api_key.txt
+*.key
+*.pem
+
+# OCR Output Directories
+ocr_ready/
+ocr_results/
+work/deskew_test/
+work/pdf_pipeline_test/
+work/cvdeskew/
+
+# Log Files
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Data Files (Large)
+*.pdf
+*.db
+*.sqlite
+
+# OS Files
+.DS_Store
+.DS_Store:*
+*:Zone.Identifier
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+tmp/
+temp/
+*.tmp

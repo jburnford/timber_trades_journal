@@ -89,6 +89,11 @@ for YEAR in 1891 1893 1895 1899; do
     # Create year output directory
     mkdir -p "$YEAR_OUTPUT"
 
+    # Remove macOS metadata files
+    find "$YEAR_DIR" -name "._*" -delete
+    find "$YEAR_DIR" -name ".DS_Store" -delete
+    find "$YEAR_DIR" -type d -name "__MACOSX" -exec rm -rf {} + 2>/dev/null || true
+
     # Process all PDFs in this year directory (recursive)
     python3 "$BASE_DIR/tools/process_pdf_for_ocr.py" \
         "$YEAR_DIR" \

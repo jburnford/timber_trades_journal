@@ -1,0 +1,11 @@
+{
+  "total_ships": 69303,
+  "origin_auto_normalized": 6613,
+  "origin_human_mapped": 7392,
+  "origin_human_accepted": 2374,
+  "origin_marked_error": 5,
+  "dest_auto_normalized": 49139,
+  "dest_human_mapped": 15093,
+  "dest_human_accepted": 0,
+  "dest_marked_error": 435
+}

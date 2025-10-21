@@ -1,7 +1,7 @@
 {
-  "original_count": 35870,
-  "final_count": 32198,
-  "duplicates_removed": 3672,
+  "original_count": 74894,
+  "final_count": 69303,
+  "duplicates_removed": 5591,
   "major_patterns": 12,
   "verification_passed": true
 }

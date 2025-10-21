@@ -1,5 +1,5 @@
 port_type,original_port,ship_count,best_match_canonical,similarity_score,normalization_tier,year_range,action,map_to_port,notes,web_search_query
-origin,Oresund,1409,Porsgrund,0.750,fuzzy_low,1885-1885,ACCEPT,,Øresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
+origin,Oresund,1409,Porsgrund,0.750,fuzzy_low,1885-1885,ACCEPT,,Ãresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
 origin,Memel,713,,,unmapped,1874-1888,MAP,Klaipeda,Auto-mapped (known variant),Memel timber port 1880s
 origin,Archangel,558,Arkhangelsk,0.800,fuzzy_low,1874-1887,MAP,Arkhangelsk,Auto-mapped (known variant),Archangel timber port 1880s
 origin,Dram,228,Durham,0.800,fuzzy_low,1874-1887,MAP,Drammen,Auto-mapped (known variant),Dram timber port 1880s
@@ -34,9 +34,9 @@ destination,WEST INDIA DOCKS,22,London (West India Docks),0.780,fuzzy_low,1885-1
 destination,TILBURY DOCKS,17,London (Tilbury Docks),0.743,fuzzy_low,1885-1887,MAP,London (Tilbury Docks),Auto-mapped (known variant),TILBURY DOCKS British port timber 1880s
 destination,GALWAY,15,,,unmapped,1881-1887,MAP,Galway,Auto-mapped (fuzzy 1.000),GALWAY British port timber 1880s
 destination,SLIGO,14,,,unmapped,1881-1887,MAP,Sligo,Auto-mapped (fuzzy 1.000),SLIGO British port timber 1880s
-origin,Oresund,1409,Porsgrund,0.75,fuzzy_low,1885-1885,ACCEPT,,Ãresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
+origin,Oresund,1409,Porsgrund,0.75,fuzzy_low,1885-1885,ACCEPT,,ÃÂresund Sound - legitimate reporting point (fix 1407 duplicates separately),Oresund timber port 1880s
 origin,Memel,713,,,unmapped,1874-1888,MAP,Klaipeda,Auto-mapped (known variant),Memel timber port 1880s
-origin,Gefle,662,,,unmapped,1874-1888,MAP,Gävle,,Gefle timber port 1880s
+origin,Gefle,662,,,unmapped,1874-1888,MAP,GÃ¤vle,,Gefle timber port 1880s
 origin,Archangel,558,Arkhangelsk,0.8,fuzzy_low,1874-1887,MAP,Arkhangelsk,Auto-mapped (known variant),Archangel timber port 1880s
 origin,Dram,228,Durham,0.8,fuzzy_low,1874-1887,MAP,Drammen,Auto-mapped (known variant),Dram timber port 1880s
 origin,Redon,188,,,unmapped,1877-1887,ACCEPT,,,Redon timber port 1880s
@@ -55,20 +55,20 @@ origin,Lorient,65,Kyloren,0.714,fuzzy_low,1877-1887,ACCEPT,,,Lorient timber port
 origin,Blaye,61,,,unmapped,1885-1887,ACCEPT,,,Blaye timber port 1880s
 origin,Warberg,61,Marieberg,0.75,fuzzy_low,1881-1887,MAP,Varberg,,Warberg timber port 1880s
 origin,Sandefjord,60,,,unmapped,1875-1887,ACCEPT,,,Sandefjord timber port 1880s
-origin,Three Rivers,58,,,unmapped,1874-1887,MAP,Trois-Rivières,,Three Rivers timber port 1880s
-origin,Monsteras,58,Montreal,0.706,fuzzy_low,1875-1887,MAP,Mönsterås,,Monsteras timber port 1880s
-origin,St. Brieux,54,,,unmapped,1879-1886,MAP, Saint-Brieuc,,St. Brieux timber port 1880s
-origin,Corunna,52,Brunna,0.769,fuzzy_low,1879-1888,MAP,A Coruña,,Corunna timber port 1880s
+origin,Three Rivers,58,,,unmapped,1874-1887,MAP,Trois-RiviÃ¨res,,Three Rivers timber port 1880s
+origin,Monsteras,58,Montreal,0.706,fuzzy_low,1875-1887,MAP,MÃ¶nsterÃ¥s,,Monsteras timber port 1880s
+origin,St. Brieux,54,,,unmapped,1879-1886,MAP,Â Saint-Brieuc,,St. Brieux timber port 1880s
+origin,Corunna,52,Brunna,0.769,fuzzy_low,1879-1888,MAP,A CoruÃ±a,,Corunna timber port 1880s
 origin,Xiania,48,,,unmapped,1879-1881,MAP,Kristiania,,Xiania timber port 1880s
-origin,Tonsberg,46,Konigsberg,0.778,fuzzy_low,1875-1887,MAP,Tønsberg,,Tonsberg timber port 1880s
+origin,Tonsberg,46,Konigsberg,0.778,fuzzy_low,1875-1887,MAP,TÃ¸nsberg,,Tonsberg timber port 1880s
 origin,Bay Verte,45,Bay de Verde,0.762,fuzzy_low,1879-1887,MAP,Baie Verte,,Bay Verte timber port 1880s
 origin,Quimper,44,,,unmapped,1877-1887,ACCEPT,,,Quimper timber port 1880s
-origin,Wifstawarf,43,,,unmapped,1874-1887,MAP,Timrå,,Wifstawarf timber port 1880s
-origin,Westervik,42,Vastervik,0.778,fuzzy_low,1881-1887,MAP,Västervik,,Westervik timber port 1880s
+origin,Wifstawarf,43,,,unmapped,1874-1887,MAP,TimrÃ¥,,Wifstawarf timber port 1880s
+origin,Westervik,42,Vastervik,0.778,fuzzy_low,1881-1887,MAP,VÃ¤stervik,,Westervik timber port 1880s
 origin,Roche Bernard,41,,,unmapped,1877-1887,MAP,La Roche-Bernard,,Roche Bernard timber port 1880s
 origin,La Rochelle,40,,,unmapped,1877-1888,ACCEPT,,,La Rochelle timber port 1880s
 origin,Langesund,39,Bangsund,0.824,fuzzy_low,1877-1887,ACCEPT,,,Langesund timber port 1880s
-origin,Villagarcia,38,,,unmapped,1881-1888,MAP,Vilagarcía de Arousa,,Villagarcia timber port 1880s
+origin,Villagarcia,38,,,unmapped,1881-1888,MAP,VilagarcÃ­a de Arousa,,Villagarcia timber port 1880s
 origin,Morlaix,35,,,unmapped,1881-1888,ACCEPT,,,Morlaix timber port 1880s
 origin,Fiume,34,,,unmapped,1881-1887,MAP,Rijeka,,Fiume timber port 1880s
 origin,Havre,33,Le Havre,0.769,fuzzy_low,1874-1888,MAP,Le Havre,Auto-mapped (known variant),Havre timber port 1880s
@@ -107,3 +107,237 @@ destination,WEXFORD,10,,,unmapped,1881-1887,MAP,Wexford,Auto-mapped (capitalizat
 destination,TRALEE,10,,,unmapped,1881-1887,MAP,Tralee,Auto-mapped (capitalization/variant),TRALEE British port timber 1880s
 destination,CAERNARVON,3,Carnavon,0.889,fuzzy_medium,1885-1885,MAP,Carnavon,Auto-mapped (capitalization/variant),CAERNARVON British port timber 1880s
 destination,BARROWSTOUNESS,3,Borrowstounness,0.897,fuzzy_medium,1885-1887,MAP,Borrowstounness,Auto-mapped (capitalization/variant),BARROWSTOUNESS British port timber 1880s
+destination,WEST HARTLEPOOL,1266,,,unmapped,1874-1881,MAP,Hartlepool (West),Auto-mapped (capitalization/variant),WEST HARTLEPOOL British port timber 1880s
+destination,PITWOOD,350,,,unmapped,1879-1879,ERROR,,"Commodity (pitwood), not a port",PITWOOD British port timber 1880s
+destination,CHARLESTOWN,133,Castletown,0.762,fuzzy_low,1874-1881,MAP,Charlestown,,CHARLESTOWN British port timber 1880s
+destination,NEWPORT (MON.),105,,,unmapped,1881-1881,MAP,Newport,,NEWPORT (MON.) British port timber 1880s
+destination,KING'S LYNN,52,,,unmapped,1879-1881,MAP,Lynn,Auto-mapped (capitalization/variant),KING'S LYNN British port timber 1880s
+destination,COMMERCIAL DOCKS,44,,,unmapped,1885-1887,MAP,London (Surrey Commercial Docks),Auto-mapped (capitalization/variant),COMMERCIAL DOCKS British port timber 1880s
+destination,SOUTH ALLOA,43,,,unmapped,1879-1879,MAP,Alloa,Auto-mapped (capitalization/variant),SOUTH ALLOA British port timber 1880s
+destination,PORT GLASGOW,34,,,unmapped,1874-1887,MAP,Port Glasgow,Auto-mapped (capitalization/variant),PORT GLASGOW British port timber 1880s
+destination,DEPTFORD,34,,,unmapped,1885-1885,MAP,Deptford,Auto-mapped (capitalization/variant),DEPTFORD British port timber 1880s
+destination,INVERKEITHING,32,,,unmapped,1875-1879,MAP,Inverkeithing,Auto-mapped (capitalization/variant),INVERKEITHING British port timber 1880s
+destination,REGENT'S CANAL DOCK,30,London (Regent's Canal Docks),0.792,fuzzy_low,1885-1887,MAP,London (Regent's Canal Docks),Auto-mapped (capitalization/variant),REGENT'S CANAL DOCK British port timber 1880s
+destination,POOL (WEST),29,Hartlepool (West),0.786,fuzzy_low,1881-1881,Map,Hartlepool (West),,POOL (WEST) British port timber 1880s
+destination,NEWCASTLE,26,,,unmapped,1875-1881,MAP,Newcastle,Auto-mapped (capitalization/variant),NEWCASTLE British port timber 1880s
+origin,Figeholm,25,,,unmapped,1877-1887,ACCEPT,,,Figeholm timber port 1880s
+origin,Ferrol,24,,,unmapped,1881-1887,ACCEPT,,,Ferrol timber port 1880s
+origin,Bollsta,24,Bollstabruk,0.778,fuzzy_low,1875-1887,ACCEPT,,,Bollsta timber port 1880s
+destination,NORTHFLEET,24,,,unmapped,1885-1887,MAP,Northfleet,Auto-mapped (capitalization/variant),NORTHFLEET British port timber 1880s
+origin,Waterford,23,,,unmapped,1877-1881,ACCEPT,,Nova Scotia,Waterford timber port 1880s
+origin,Mem,23,,,unmapped,1874-1887,ACCEPT,,Sweden,Mem timber port 1880s
+destination,BURT'S WHARF,22,London (Burt's Wharf),0.727,fuzzy_low,1885-1887,MAP,London (Burt's Wharf),Auto-mapped (capitalization/variant),BURT'S WHARF British port timber 1880s
+origin,Pont l'Abbe,21,,,unmapped,1881-1888,MAP,Pont-l'Abbé,,Pont l'Abbe timber port 1880s
+origin,Colberg,21,,,unmapped,1881-1887,ACCEPT,,Germany,Colberg timber port 1880s
+origin,Mediterranean,21,,,unmapped,1875-1881,ACCEPT,,,Mediterranean timber port 1880s
+origin,Parrsboro',21,,,unmapped,1885-1887,MAP,Parrsboro,,Parrsboro' timber port 1880s
+origin,Neder Calix,21,,,unmapped,1877-1885,MAP,Kalix,,Neder Calix timber port 1880s
+origin,Drobak,21,,,unmapped,1877-1887,ACCEPT,,,Drobak timber port 1880s
+destination,ERRATA,20,,,unmapped,1881-1881,ERROR,,,ERRATA British port timber 1880s
+destination,MILLWALL,18,,,unmapped,1885-1886,MAP,London (Millwall Docks),Auto-mapped (capitalization/variant),MILLWALL British port timber 1880s
+destination,MALDON,14,,,unmapped,1879-1881,MAP,Maldon,Auto-mapped (capitalization/variant),MALDON British port timber 1880s
+destination,GREENHITHE,13,,,unmapped,1885-1887,MAP,Greenhithe,Auto-mapped (capitalization/variant),GREENHITHE British port timber 1880s
+destination,ANTWERP,12,,,unmapped,1887-1887,MAP,Antwerp,Auto-mapped (capitalization/variant),ANTWERP British port timber 1880s
+destination,WOOLWICH,11,,,unmapped,1885-1887,MAP,Woolwich,Auto-mapped (capitalization/variant),WOOLWICH British port timber 1880s
+destination,HANOVER HOLE,11,London (Hanover Hole),0.727,fuzzy_low,1885-1887,MAP,London (Hanover Hole),Auto-mapped (capitalization/variant),HANOVER HOLE British port timber 1880s
+destination,WEXFORD,10,,,unmapped,1881-1887,MAP,Wexford,Auto-mapped (capitalization/variant),WEXFORD British port timber 1880s
+destination,TRALEE,10,,,unmapped,1881-1887,MAP,Tralee,Auto-mapped (capitalization/variant),TRALEE British port timber 1880s
+destination,CAERNARVON,3,Carnavon,0.889,fuzzy_medium,1885-1885,MAP,Carnavon,Auto-mapped (capitalization/variant),CAERNARVON British port timber 1880s
+destination,BARROWSTOUNESS,3,Borrowstounness,0.897,fuzzy_medium,1885-1887,MAP,Borrowstounness,Auto-mapped (capitalization/variant),BARROWSTOUNESS British port timber 1880s
+destination,TILBURY DOCK,355,,,unmapped,1891-1899,MAP,London (Tilbury Docks),User-mapped - London dock,TILBURY DOCK British port timber 1890s
+destination,QUEEN'S DOCK,326,,,unmapped,1891-1899,MAP,Hull (Queen's Dock),User-mapped - Hull dock,QUEEN'S DOCK British port timber 1890s
+destination,RUNCORN,101,,,unmapped,1891-1899,MAP,Runcorn,User-mapped - River Mersey port town,RUNCORN British port timber 1890s
+destination,IRVINE,96,,,unmapped,1891-1899,MAP,Irvine,User-mapped - Scotland port city,IRVINE British port timber 1890s
+destination,COBURG DOCK,80,,,unmapped,1891-1899,MAP,Liverpool (Coburg Dock),User-mapped - Liverpool dock,COBURG DOCK British port timber 1890s
+destination,DEPTFORD BUOYS,70,,,unmapped,1891-1899,MAP,London (Deptford Buoys),User-mapped - London,DEPTFORD BUOYS British port timber 1890s
+destination,SILVERTOWN,48,,,unmapped,1891-1899,MAP,London (Silvertown),User-mapped - London,SILVERTOWN British port timber 1890s
+destination,UNION DOCK,51,,,unmapped,1891-1899,MAP,Hull (Union Dock),User-mapped - Hull dock,UNION DOCK British port timber 1890s
+destination,BOSTON DOCK,48,,,unmapped,1891-1899,MAP,Boston (Boston Dock),User-mapped - English city Boston,BOSTON DOCK British port timber 1890s
+destination,CLIFFE CREEK,47,,,unmapped,1891-1899,MAP,Cliffe,User-mapped - Cliffe Kent,CLIFFE CREEK British port timber 1890s
+destination,MIDDLESBRO',45,,,unmapped,1891-1899,MAP,Middlesbrough,User-mapped - Middlesbrough (abbreviated),MIDDLESBRO' British port timber 1890s
+destination,SURREY DOCKS,42,,,unmapped,1891-1899,MAP,London (Surrey Commercial Docks),User-mapped - London,SURREY DOCKS British port timber 1890s
+destination,LONDON DOCKS,98,,,unmapped,1891-1899,MAP,London,User-mapped - London,LONDON DOCKS British port timber 1890s
+destination,LONDON DOCK,30,,,unmapped,1891-1899,MAP,London,User-mapped - London,LONDON DOCK British port timber 1890s
+origin,Gefle,1263,,,unmapped,1874-1899,MAP,GÃ¤vle,Non-accented variant,
+origin,Vastervik,156,,,unmapped,1881-1899,MAP,VÃ¤stervik,Non-accented variant,
+origin,Vilagarcia de Arousa,118,,,unmapped,1881-1899,MAP,VilagarcÃ­a de Arousa,Non-accented variant,
+origin,Tonsberg,108,,,unmapped,1875-1899,MAP,TÃ¸nsberg,Non-accented variant,
+origin,Monsteras,105,,,unmapped,1875-1887,MAP,MÃ¶nsterÃ¥s,Non-accented variant,
+origin,St. Brieux,54,,,unmapped,1879-1886,MAP,Saint-Brieuc,Non-accented variant,
+origin,Corunna,52,,,unmapped,1879-1888,MAP,A CoruÃ±a,Non-accented variant,
+origin,Timra,83,,,unmapped,1874-1899,MAP,TimrÃ¥,Non-accented variant,
+origin,Three Rivers,58,,,unmapped,1874-1887,MAP,Trois-RiviÃ¨res,Non-accented variant,
+origin,Neder Kalix,83,,,unmapped,1877-1887,MAP,Nederkalix,Non-accented variant,
+origin,Hambro',63,,,unmapped,1874-1899,MAP,Hamburg,Abbreviated variant,
+origin,L'Orient,48,,,unmapped,1879-1881,MAP,Lorient,Historical variant,
+origin,Xiania,48,,,unmapped,1879-1881,MAP,Kristiania,Historical variant,
+origin,GEFLE,33,,,unmapped,1874-1899,MAP,Gävle,Variant spelling - Swedish port
+origin,Hernosaud,42,,,unmapped,1874-1899,MAP,Härnösand,Variant spelling - Swedish port
+origin,Hernsand,26,,,unmapped,1874-1899,MAP,Härnösand,Variant spelling - Swedish port
+origin,Hernossand,25,,,unmapped,1874-1899,MAP,Härnösand,Variant spelling - Swedish port
+origin,Fredrikshamn,42,,,unmapped,1874-1899,MAP,Fredrikshavn,Variant spelling - Danish port
+origin,Fredrickstadt,14,,,unmapped,1874-1899,MAP,Fredrikstad,Variant spelling - Norwegian port
+origin,Frederikstadt,13,,,unmapped,1874-1899,MAP,Fredrikstad,Variant spelling - Norwegian port
+origin,Frederickstadt,11,,,unmapped,1874-1899,MAP,Fredrikstad,Variant spelling - Norwegian port
+origin,FREDRIKSHALD,14,,,unmapped,1874-1899,MAP,Halden,Historical name for Halden - Norwegian port
+origin,Goteborg,16,,,unmapped,1874-1899,MAP,Göteborg,Variant spelling - Swedish port
+origin,Gothenberg,10,,,unmapped,1874-1899,MAP,Göteborg,Variant spelling - Swedish port
+origin,Gottenburg,14,,,unmapped,1874-1899,MAP,Göteborg,Variant spelling - Swedish port
+origin,Rugenwalde,39,,,unmapped,1874-1899,MAP,Darłowo,German name for Polish port Darłowo (Rügenwalde)
+origin,Christinestad,27,,,unmapped,1874-1899,MAP,Kristinestad,Variant spelling - Finnish port
+origin,Christinestadt,13,,,unmapped,1874-1899,MAP,Kristinestad,Variant spelling - Finnish port
+origin,Stocka,43,,,unmapped,1874-1899,ACCEPT,,Swedish timber port
+origin,La Tremblade,37,,,unmapped,1874-1899,ACCEPT,,French oyster/timber port
+origin,Tremblade,11,,,unmapped,1874-1899,MAP,La Tremblade,Variant of La Tremblade
+origin,Parrsboro,36,,,unmapped,1874-1899,ACCEPT,,Nova Scotia Canada port
+origin,"Parrsboro', N.S.",18,,,unmapped,1874-1899,MAP,Parrsboro,Variant with province suffix
+origin,Paimpol,33,,,unmapped,1874-1899,ACCEPT,,French Brittany port
+origin,Puebla,33,,,unmapped,1874-1899,ACCEPT,,Mexican port
+origin,Sheet Harbour,32,,,unmapped,1874-1899,ACCEPT,,Nova Scotia Canada port
+origin,Rivadeo,32,,,unmapped,1874-1899,ACCEPT,,Spanish Galicia port
+origin,Ahlafors,30,,,unmapped,1874-1899,ACCEPT,,Swedish timber port
+origin,West Bay,30,,,unmapped,1874-1899,ACCEPT,,Nova Scotia Canada
+origin,"West Bay, N.S.",18,,,unmapped,1874-1899,MAP,West Bay,Variant with province suffix
+origin,"Bathurst, N.B.",29,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada port
+origin,Pernau,27,,,unmapped,1874-1899,ACCEPT,,Estonian port (Pärnu)
+origin,Risor,27,,,unmapped,1874-1899,ACCEPT,,Norwegian port (Risør)
+origin,Quebec and Montreal,25,,,unmapped,1874-1899,ACCEPT,,Combined Canadian ports
+origin,Laguna,23,,,unmapped,1874-1899,ACCEPT,,Mexican Pacific port
+origin,Bersimis,23,,,unmapped,1874-1899,ACCEPT,,Quebec Canada river port
+origin,Bangor,22,,,unmapped,1874-1899,ACCEPT,,Northern Ireland port
+origin,Slite,22,,,unmapped,1874-1899,ACCEPT,,Swedish Gotland port
+origin,Musquash,22,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,Hango,22,,,unmapped,1874-1899,ACCEPT,,Finnish port (Hanko)
+origin,Timmernabben,22,,,unmapped,1874-1899,ACCEPT,,Swedish timber port
+origin,New Richmond,21,,,unmapped,1874-1899,ACCEPT,,Quebec Canada
+origin,Wanevik,20,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Stromstad,19,,,unmapped,1874-1899,ACCEPT,,Swedish port (Strömstad)
+origin,Stockasag,19,,,unmapped,1874-1899,ACCEPT,,Swedish timber port
+origin,Brest,19,,,unmapped,1874-1899,ACCEPT,,French Brittany port
+origin,Weener,19,,,unmapped,1874-1899,ACCEPT,,German port
+origin,"Newcastle, N.B.",19,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,Jacobstadt,18,,,unmapped,1874-1899,ACCEPT,,Latvian port (Jēkabpils)
+origin,"Pictou, N.S.",18,,,unmapped,1874-1899,ACCEPT,,Nova Scotia Canada
+origin,"Dalhousie, N.B.",18,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,"Miramichi, N.B.",17,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,West Indies,17,,,unmapped,1874-1899,ACCEPT,,Caribbean region
+origin,Ranea,17,,,unmapped,1874-1899,ACCEPT,,Finnish port (Ranua)
+origin,Arno,17,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Chicontimi,17,,,unmapped,1874-1899,MAP,Chicoutimi,Variant spelling - Quebec Canada
+origin,Leghorn,16,,,unmapped,1874-1899,MAP,Livorno,English name for Italian port Livorno
+origin,Koja,16,,,unmapped,1874-1899,ACCEPT,,Finnish port
+origin,Hambro,15,,,unmapped,1874-1899,MAP,Hamburg,Variant spelling - German port
+origin,Aasgaardstrand,15,,,unmapped,1874-1899,ACCEPT,,Norwegian port (Åsgårdstrand)
+origin,Westerwick,15,,,unmapped,1874-1899,MAP,Västervik,Variant spelling - Swedish port
+origin,Stromfors,15,,,unmapped,1874-1899,ACCEPT,,Finnish port (Ruotsinpyhtää)
+origin,Flushing,15,,,unmapped,1874-1899,MAP,Vlissingen,English name for Dutch port Vlissingen
+origin,Wisby,15,,,unmapped,1874-1899,MAP,Visby,Variant spelling - Swedish Gotland
+origin,DRAM,15,,,unmapped,1874-1899,MAP,Drammen,Abbreviated - Norwegian port
+origin,Old Calabar,14,,,unmapped,1874-1899,ACCEPT,,Nigerian port
+origin,Wasa,14,,,unmapped,1874-1899,MAP,Vaasa,Swedish name for Finnish port Vaasa
+origin,Cienfuegos,14,,,unmapped,1874-1899,ACCEPT,,Cuban port
+origin,Sandefiord,14,,,unmapped,1874-1899,MAP,Sandefjord,Variant spelling - Norwegian port
+origin,Sault,14,,,unmapped,1874-1899,ACCEPT,,Canadian port (Sault Ste. Marie)
+origin,Donelan,14,,,unmapped,1874-1899,ACCEPT,,Irish port
+origin,W.C. Africa,14,,,unmapped,1874-1899,MAP,W. C. Africa,Variant - West Coast Africa
+origin,Aalborg,14,,,unmapped,1874-1899,ACCEPT,,Danish port
+origin,Bergen,14,,,unmapped,1874-1899,ACCEPT,,Norwegian port
+origin,Bure,14,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Galveston,13,,,unmapped,1874-1899,ACCEPT,,Texas USA port
+origin,Saltvik,13,,,unmapped,1874-1899,ACCEPT,,Finnish Åland port
+origin,Landerneau,13,,,unmapped,1874-1899,ACCEPT,,French Brittany port
+origin,Werkeback,13,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Dantzie,13,,,unmapped,1874-1899,MAP,Gdańsk,Historical English name for Polish port Gdańsk (Danzig)
+origin,St. Estephe,13,,,unmapped,1874-1899,ACCEPT,,French port (Saint-Estèphe)
+origin,Norway,12,,,unmapped,1874-1899,ACCEPT,,Country - generic origin
+origin,Tunadal,12,,,unmapped,1874-1899,ACCEPT,,Swedish timber port
+origin,"Bay Verte, N.B.",12,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,Truxillo,11,,,unmapped,1874-1899,MAP,Trujillo,Variant spelling - Honduras port
+origin,Petersburg,11,,,unmapped,1874-1899,MAP,St. Petersburg,Abbreviated - Russian port
+origin,Sandviken,11,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Svelvig,11,,,unmapped,1874-1899,ACCEPT,,Norwegian port
+origin,Maracaibo,11,,,unmapped,1874-1899,ACCEPT,,Venezuelan port
+origin,Trouville,11,,,unmapped,1874-1899,ACCEPT,,French port (Trouville-sur-Mer)
+origin,Raumo,11,,,unmapped,1874-1899,MAP,Rauma,Variant spelling - Finnish port
+origin,Buenos Ayres,11,,,unmapped,1874-1899,MAP,Buenos Aires,Variant spelling - Argentine port
+origin,Richmond,10,,,unmapped,1874-1899,ACCEPT,,Quebec Canada
+origin,Brake,10,,,unmapped,1874-1899,ACCEPT,,German port (Brake (Unterweser))
+origin,Sackville,10,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,Youghal,10,,,unmapped,1874-1899,ACCEPT,,Irish port
+origin,F'shald,10,,,unmapped,1874-1899,MAP,Halden,Abbreviated Fredrikshald - Norwegian port
+origin,Aarhuus,10,,,unmapped,1874-1899,MAP,Aarhus,Variant spelling - Danish port
+origin,"Shediac, N.B.",9,,,unmapped,1874-1899,MAP,Shediac,Strip province suffix - New Brunswick
+origin,"Musquash, N.B.",8,,,unmapped,1874-1899,MAP,Musquash,Strip province suffix - New Brunswick (already canonical)
+origin,"Richibucto, N.B.",8,,,unmapped,1874-1899,MAP,Richibucto,Strip province suffix - New Brunswick
+origin,"Campbellton, N.B.",8,,,unmapped,1874-1899,MAP,Campbellton,Strip province suffix - New Brunswick (already canonical)
+origin,"Weymouth, N.S.",7,,,unmapped,1874-1899,MAP,Weymouth,Strip province suffix - Nova Scotia
+origin,"Buctouche, N.B.",7,,,unmapped,1874-1899,MAP,Buctouche,Strip province suffix - New Brunswick
+origin,"Yarmouth, N.S.",7,,,unmapped,1874-1899,MAP,Yarmouth,Strip province suffix - Nova Scotia
+origin,"Sheet Harbour, N.S.",6,,,unmapped,1874-1899,MAP,Sheet Harbour,Strip province suffix - Nova Scotia (already canonical)
+origin,"Ship Harbour, N.S.",6,,,unmapped,1874-1899,MAP,Ship Harbour,Strip province suffix - Nova Scotia
+origin,"Campbeltown, N.B.",6,,,unmapped,1874-1899,MAP,Campbellton,Strip province suffix and spelling variant - New Brunswick
+origin,"Economy, N.S.",6,,,unmapped,1874-1899,MAP,Economy,Strip province suffix - Nova Scotia
+origin,"Liscombe, N.S.",5,,,unmapped,1874-1899,MAP,Liscombe,Strip province suffix - Nova Scotia
+origin,"Charlotte Town, P.E.I.",5,,,unmapped,1874-1899,MAP,Charlottetown,Strip province suffix - Prince Edward Island
+origin,"Hillsboro', N.B.",5,,,unmapped,1874-1899,MAP,Hillsborough,Strip province suffix and apostrophe - New Brunswick
+origin,"Sackville, N.B.",4,,,unmapped,1874-1899,MAP,Sackville,Strip province suffix - New Brunswick (already canonical)
+origin,"Bridgwater, N.S.",4,,,unmapped,1874-1899,MAP,Bridgewater,Strip province suffix - Nova Scotia
+origin,"Guysboro', N.S.",4,,,unmapped,1874-1899,MAP,Guysborough,Strip province suffix and apostrophe - Nova Scotia
+origin,"Sherbrooke, N.S.",4,,,unmapped,1874-1899,MAP,Sherbrooke,Strip province suffix - Nova Scotia
+origin,"Harvey, N.B.",4,,,unmapped,1874-1899,MAP,Harvey,Strip province suffix - New Brunswick
+origin,"Point Wolfe, N.B.",4,,,unmapped,1874-1899,MAP,Point Wolfe,Strip province suffix - New Brunswick
+origin,ARCHANGEL,9,,,unmapped,1874-1899,MAP,Archangel,Capitalization fix - Russian port
+origin,SWARTWIK,6,,,unmapped,1874-1899,MAP,Svartvik,Capitalization and spelling fix - Swedish port
+origin,LIBAU,5,,,unmapped,1874-1899,MAP,Liepaja,Capitalization fix - Latvian port (German name Libau)
+origin,FRONTERA,4,,,unmapped,1874-1899,MAP,Frontera,Capitalization fix - Mexican port
+origin,PUERTO PLATA,4,,,unmapped,1874-1899,MAP,Puerto Plata,Capitalization fix - Dominican Republic
+origin,PUNTA ARENAS,3,,,unmapped,1874-1899,MAP,Punta Arenas,Capitalization fix - Chilean port
+origin,MANZANILLO,3,,,unmapped,1874-1899,MAP,Manzanillo,Capitalization fix - Mexican/Cuban port
+origin,MEMEL,2,,,unmapped,1874-1899,MAP,Klaipeda,Capitalization fix - Lithuanian port (German name Memel)
+origin,FRITZOE,1,,,unmapped,1874-1899,MAP,Fritzøe,Capitalization fix - Norwegian port
+origin,MADAGASCAR,1,,,unmapped,1874-1899,ACCEPT,,Island country - accept as origin
+origin,FIUME,1,,,unmapped,1874-1899,MAP,Rijeka,Capitalization fix - Croatian port (Italian name Fiume)
+origin,TLACOTALPAM,1,,,unmapped,1874-1899,MAP,Tlacotalpan,Capitalization fix - Mexican port
+origin,WORKING MACHINERY.,1,,,unmapped,1874-1899,ERROR,,Not a port - OCR error (advertisement text)
+origin,GRATEFUL AND COMFORTING.,1,,,unmapped,1874-1899,ERROR,,Not a port - OCR error (advertisement text)
+origin,OUT OF PACKING,1,,,unmapped,1874-1899,ERROR,,Not a port - OCR error
+origin,MILL PORT,1,,,unmapped,1874-1899,ERROR,,Not a port - OCR error (partial text)
+origin,PRESTO,1,,,unmapped,1874-1899,ERROR,,Not a port - OCR error
+origin,OABARETTE,1,,,unmapped,1874-1899,ERROR,,Not a port - OCR error
+origin,Parrsborough,10,,,unmapped,1874-1899,MAP,Parrsboro,Spelling variant - Nova Scotia
+origin,Essviken,9,,,unmapped,1874-1899,MAP,Essvik,Spelling variant - Swedish port
+origin,Stockazog,3,,,unmapped,1874-1899,MAP,Stocka,Spelling variant - Swedish port (already canonical)
+origin,Nyham,3,,,unmapped,1874-1899,MAP,Nyhamn,Spelling variant - Swedish port
+origin,Stockavik,3,,,unmapped,1874-1899,MAP,Stocka,Spelling variant - Swedish port (already canonical)
+origin,Halsoen,3,,,unmapped,1874-1899,MAP,Halso,Spelling variant - Swedish port
+origin,Ursvik,3,,,unmapped,1874-1899,MAP,Ursviken,Spelling variant - Swedish port
+origin,Risoe,2,,,unmapped,1874-1899,MAP,Risoer,Spelling variant - Norwegian port
+origin,Wybor,2,,,unmapped,1874-1899,MAP,Vyborg,Spelling variant - Russian/Finnish port
+origin,Stockvik,2,,,unmapped,1874-1899,MAP,Stockviken,Spelling variant - Swedish port
+origin,Sannes,2,,,unmapped,1874-1899,MAP,Sannesund,Spelling variant - Norwegian port
+origin,Simon,2,,,unmapped,1874-1899,MAP,Simo,Spelling variant - Finnish port
+origin,Sundvik,2,,,unmapped,1874-1899,MAP,Sundsvall,Likely variant - Swedish port
+origin,Holms,2,,,unmapped,1874-1899,MAP,Holmstad,Spelling variant - Swedish port
+origin,Montreal and Quebec,9,,,unmapped,1874-1899,ACCEPT,,Combined Canadian ports
+origin,Wilmington,10,,,unmapped,1874-1899,ACCEPT,,North Carolina USA port
+origin,Tabasco,9,,,unmapped,1874-1899,ACCEPT,,Mexican state/region
+origin,Pontaven,9,,,unmapped,1874-1899,MAP,Pont-Aven,Spelling variant - French Brittany port
+origin,"Pont L'Abbe",9,,,unmapped,1874-1899,MAP,Pont-l'Abbé,Spelling variant - French Brittany port (already mapped)
+origin,Caraminal,9,,,unmapped,1874-1899,ACCEPT,,Spanish Galicia port
+origin,Sada,9,,,unmapped,1874-1899,ACCEPT,,Spanish Galicia port
+origin,Ahus,9,,,unmapped,1874-1899,MAP,Åhus,Spelling variant - Swedish port
+origin,Harburg,8,,,unmapped,1874-1899,ACCEPT,,German port (now part of Hamburg)
+origin,Helsingborg,8,,,unmapped,1874-1899,ACCEPT,,Swedish port (Helsingborg/Hälsingborg)
+origin,Bridgwater,8,,,unmapped,1874-1899,ACCEPT,,Somerset England port
+origin,Douarnenez,8,,,unmapped,1874-1899,ACCEPT,,French Brittany port
+origin,St. P'burg,8,,,unmapped,1874-1899,MAP,St. Petersburg,Abbreviated - Russian port (already mapped)
+origin,Wifsta Warf,8,,,unmapped,1874-1899,ACCEPT,,Swedish timber port
+origin,Paskallavik,8,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Bindalen,8,,,unmapped,1874-1899,ACCEPT,,Norwegian port
+origin,Caraquet,8,,,unmapped,1874-1899,ACCEPT,,New Brunswick Canada
+origin,Ornskjoldvik,8,,,unmapped,1874-1899,MAP,Örnsköldsvik,Spelling variant - Swedish port
+origin,Bay de Verte,8,,,unmapped,1874-1899,MAP,Bay Verte,Spelling variant - New Brunswick (already canonical)
+origin,Camarinas,8,,,unmapped,1874-1899,ACCEPT,,Spanish Galicia port (Camariñas)
+origin,Lisbon,8,,,unmapped,1874-1899,ACCEPT,,Portuguese capital port
+origin,Ramvik,8,,,unmapped,1874-1899,ACCEPT,,Swedish port
+origin,Halifax and Philadelphia,8,,,unmapped,1874-1899,ACCEPT,,Combined North American ports

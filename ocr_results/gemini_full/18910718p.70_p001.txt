@@ -1,0 +1,211 @@
+70
+IMPORTS.
+
+ABERDOVEY.
+July 13 Dreadnought-Fredrikstad-10,000 flooring boards-J. Hughes Jones
+ABERYSTWITH.
+July 13 Vesta-Drammen-12,741 fir props-D. Williams & Co.
+Lotus (s)-Riga 1,922 deals and battens, 7,031 sleepers, 274 hewn logs-Dempsey
+BARROW.
+July 8 Jean Baptiste-Christiania-1 ld. fir spars, 7 lds. firewood-Price & Co.
+BEAUMARIS.
+July 7 Louise-Quebec-25 pcs. elm, 12 pcs. oak, 57 pcs. hewn red fir, 20 pcs. hewn white fir, 4,135 deals-P. & H. Lewis
+BERWICK.
+July 10 A. Wicander (s)-Bjorneborg-27,883 deals and battens-J. Fleming & Co.
+10 Tyr (s)-Kotka-22,514 deals and battens-J. Fleming & Co.
+10 Pan (s)-Gefle-2,374 fir sleepers-J. Fleming & Co.
+BLYTH.
+July 7 Emigrant-Sundswall-61,240 deals, 2,974 fir props-Order
+Titanic (s)-Riga-42,103 birch props, 13 pcs. lathwood centres, 3,000 whitewood blocks, 447 whitewood deals, 3,000 whitewood blocks, 4,801 whitewood deals, battens, and ends, 55 fms. firewood-May & Co.
+11 Exeter City (-)-New York 16 pcs. lumber-Midland Railway Co.; 409 pcs. cabinet wood-H. Denty; 112 pkgs., 450 pcs. cabinet wood-Order
+13 Clara-Hernösand-148 fms. firewood-Ashcroft, Harris, & Budgett
+Emma Memel-451 pcs. timber, 1,000 oak staves, 1,909 deals-Jones & Wainright
+14 Donan (s)-St. John, N.B.-89,969 deals, battens, scantlings, boards, and ends-J. Bland & Co.
+AVONMOUTH DOCK.
+July 7 Ontario (s)-Quebec 3 038 boards-Jones & Wainwright; 2,900 pcs. 3 inch pine deals-Order
+11 Loch Ness (s) - Tornea - 32,170 deals, battens, boards, and scantlings, 170 bdls. slating battens, 38 fms. firewood-Taylor & Low Bros.
+CARDIFF.
+July 7 Usk-Bordeaux-842 lds. pitwood-Watts, Ward & Co.
+8 Dodo (s)-Bayonne-1,350 lds. pitwood-Newport Pitwood Co.
+Talma-l'Orient-250 lds. pitwood-Watts
+11 Ferndale (s)-Bayonne-1,000 lds. pitwood-Newport Pitwood Co.
+13 Daylight (s)-Skonvik-56,640 pcs. sawn fir-John Bland & Co.
+Ouse-Bordeaux-750 lds. pitwood-Simkin
+Greta-Bordeaux-670 lds. pitwood-Watts
+CASTLETOWN.
+July 7 Halomaanen - Sundswall - 44,718 deals, battens, and boards, 413 pcs. hewn fir-Coole & Qualtrough
+CHESTER.
+July 11 Forest Belle - Fredrikstad - 15,938 flooring boards, 711 bdls. laths-Order
+COWES.
+July 9 Sleipner-Holmsund-16 lds. firewood, 60 fir boards-Knudsen
+DOVER.
+July 11 Sindbad(s)-Skonvik-5,030 fir deals from Soderhamn-27,570 fir battens and boards, 19 lds. firewood-Steriker Finnis & Son
+FAVERSHAM.
+July 11 Ingeborg-Gefle-9,226 deals and battens-Little & Co.
+8 lds. firewood-Little & Co.
+FLEETWOOD.
+July 7 Hermon-Halifax, N.S.-24,721 fir deals, 1 425 birch deals, 345 pcs. hewn birch-Curwen & Co.
+13 Joseph (s) Sundswall-29,003 deals, boards, and battens-Bass & Smith
+FOLKESTONE.
+July 10 Hanna Gefle-15,446 pcs. sawn fir-Vidler & Son
+GLOUCESTER.
+July 7 Falls of Invermaid (s)-Montreal-95,969 deals-Price, Walker, & Co.
+9 Royal Prince (s)-Uleaborg-12,237 deals from Kemi-31,362 deals-Price, Walker, & Co.
+GOOLE.
+July 8 John-Riga 12,679 deal ends Illingworth, Ingham, & Co.
+Anna Dorothea-Pascagoula-10 pcs. hewn fir, 595 pcs. sawn fir, 258 fir deals-Illingworth, Ingham, & Co.
+9 Wharfe-Rotterdam-1,600 bdls. hoops-Goole Steamship Co.
+10 Riga (s) Riga-13,360 deals and battens-Illingworth Ingham & Co.
+13 Derwent-Rotterdam-2,840 bdls. hoops-Goole Steamship Co.
+GRIMSBY.
+July 7 Ibis (s)-Nederkalix 30 lds. deal ends-Master ; 75,549 pcs. sawn fir-G. A. Carr
+8 Tyr (s) Kotka-14,959 pcs. sawn fir-Marshall
+
+THE TIMBER TRADES JOURNAL.
+9 A. Wicander (s)-Bjorneborg 67,809 fir deals-Bennetts & Co.
+Tyr (s)-Kotka-15 lds. deal ends-Master
+Pan (s)-Gefle-45 lds. deal ends-Master
+Arbela-Pensacola 118 pcs. hewn fir, 1,990 pcs. sawn fir, 309 fir deals-Bennetts
+Northenden-Rotterdam-125 bdls. hoops-J. Sutcliffe & Co.
+10 Demetra-Memel-1,019 deals, 215 pcs. hewn fir, 531 pcs. sawn fir, 12,000 oak staves J. Hewson
+Pan (s)-Gefle-40,035 pcs. sawn fir Carr
+Patriot-Sundswall 21,453 pcs. sawn fir-Carr
+Athenian-Brevig-1 ld. spars, 1 ld. oars-Grimsby Ice Co.
+Helens-Brevig-1 ld. spars, 2 lds. oars-Co-operative Ice Co.
+11 A. Wicander (s)-Rafso-14 lds. firewood-A. Wilkin
+Frisk Gefle-20,455 deals, battens, and ends-Seddon, Shepherd, & Co.
+Junior Gefle-23,516 deals, battens, and ends-Seddon, Shepherd, & Co.
+13 Neva (s) Konigsberg-4,600 hewn fir sleepers, 287 sawn fir sleepers-Burt, Boulton, & Haywood
+HARTLEPOOL (WEST).
+July 7 Desi (s)-Danzig-1,400 fir crossings-Burt
+9 Dee (s)-Danzig-2,523 fir crossings, 130 fir sleepers-Burt, Boulton, & Haywood
+10 Duchess (s)-Riga-78,817 deals, battens, and boards-A. Livingston & Co.
+Astrea-Halmstad-11,145 props-E. Pritchard
+Libertas-Carlscrona-10,032 props-Pedersen
+11 Helge-Christianopel-17,605 props-Nilson
+Camilla-Laurvig-566 pcs. square timber, 755 pcs. round timber, 5,925 props-Casper & Co.
+Ellida Drobak 780 pcs. square timber, 1,842 pcs. round timber, 3,271 props, 3,365 birch props-E. A. Casper & Co.
+E. S. Jobson (s)-Simo-47,431 deals, battens, and boards R. Wade, Sons, & Co.
+Guido-Borga-22,438 deals, battens, and boards-R. Lauder & Co.
+Larch (s)-Soderhamn-93,862 deals, battens, and boards-Harrison & Singleton
+13 Paola (s)-Archangel-57,737 deals, battens, and boards-Harrison & Singleton
+Bravo Husbyvik-14,813 deals, battens, and boards-J. H. Hancock
+Amaranth - Kramfors - 19,671 deals and boards-Harrison & Singleton
+Verdandi (-) Gothenburg-7,247 fir sleepers, 5,000 props-J. W. Baird ; 2,000 sleepers, 500 props Osbeck & Co. ; 500 prop-A. Reed ; 9,891 props-W. Pearson & Co. ; 4,000 props-Rayner & Moller ; 1,000 props-W. J. Watson & Co. ; 1 582 props-G. Pyman & Co. ; 5,527 props-W. D. Coxon
+Newton (s)-Stockholm-74 001 props-Hessler
+Taunus (s)-Halmstad-18,294 props-Osbeck
+Haabet - Tvedestrand-40 lds. hewn fir-C. A. Forslind & Co.
+Proven-Krageroe-2,827 pcs. hewn birch, 732 props-Order
+Lindola Mobile-1,199 pcs. sawn fir, 882 fir deals-W. Gray & Co., Lim.
+Eliezer-Ahus-7,756 props, 4,304 oak chocks-C. Salvesen & Co.
+Suldal (s)-Konigsberg-18,645 alder props-G. Bradley & Co.
+Sweden (s)-Gothenburg-2,000 bdls. lathwood, 5,761 deals and battens, 28 lds. staves, 21,811 props, 1,028 poles, 23,485 sleepers-T. Barraclough; 2,200 crown trees-Raynor & Moller
+HARWICH.
+July 13 Kirstine-Norrkoping-4,932 pcs. sawn fir-Taylor & Butler
+HULL.
+July 9 Cameo (s) Gothenburg 9,000 props-Pyman, Bell, & Co. ; 9,241 props-Hagensen, Watt, & Co. ; 16,716 props Order
+Edith (s)-1,428 bdls. hoops-Order
+10 Talis (s)-Wyborg-62,231 deals, &c.-Bryson, Jameson, & Co.
+Telesto (s)-Munksund-29,990 deals, &c.-Order
+Marianne Bertha-Gefle-18,671 deals, battens, and boards-Order
+11 Kerdalia-Arendal 26,224 pit props Order
+Livorno (s)-St. Petersburg-4,164 rickers-Order
+Forslind (s)-Fredrikshald-qty. birch and fir props-Order
+Albert (s)-Rotterdam-4,203 bdls.hoops-Order
+13 Angelo (s) Christiania 1 380 props, 6,000 bdls. staves-1,550 bdls. boards-Wilson, Sons & Co.
+Ariosto (s)-Gothenburg 1 cs. joinery, 4 pkgs. wood, 637 bdls. staves, 10 905 props-Wilson, Sons & Co ; 4 502 props-H. Smith & Co ; 4,751 props, 4,800 bdls laths Order
+Mi'o (s)-Stettin-14,205 props-Rayner
+Milan (s)-Cronstadt-74,664 deals, battens, &c., 26 fms. firewood-Order
+14 Flos (s)-Harnass-56,015 deals, battens, and boards-R. Wade, Sons, & Co.
+LONDON.
+SURREY COMMERCIAL DOCK.
+July 8 Sappho (-)-Cronstadt 9,035 deals, 80% ends, 11,050 boards, 1,281 board ends, 18 fms. firewood Order
+Ronds (s) Rafso 52 953 deals and battens-Order
+9 Skelleftea-84,199 deals and battens, 178 fms. firewood D. T. & H. Green
+Marychurch (s) Archangel 33,852 deals, battens, and ends, 2 fms. firewood Order
+10 Riga (s)-Riga-213 wainscot logs, 8,184 pcs. wood-Order
+Ida (s)-St. Petersburg-1,213 rickers, 6 fms. firewood, 2,987 boards, 148 ends-Order
+Victoria (-)-St. Petersburg-2,932 deals and battens, 19,892 props, 931 rickers-Order
+Thor (s) - Muolsund-495 stds. deals and battens-T. & H. Green
+11 Finland (-)-St. Petersburg-470 stds. deals, battens, and boards, 61 fms. firewood, 3,445 props-Order
+Borga-Borga-267 1/2 fms. deal and batten ends, 82 1/2 fms. board ends G. Jewett
+Olaf (s)-Sundswall-579 stds. deals-Green
+Sambuco (s) Furuogrund-405 stds. deals, 17 fms. firewood-Order
+Singleton (s)-Archangel-12,674 deals and battens, 12,753 deals, boards, and ends-Order
+Araunah-Rafso 52,586 deals, battens, planks, and ends Order
+Thor-Bjorneborg-173 fms. firewood-Order
+Wyborg 183 fms. firewood Order
+13 Odin-Fredrikstad 42,717 boards-Tagart, Beaton, & Co. ; 30,276 boards Order
+Finland (-)-Riga 14,169 deals and ends-Grover & Co. ; 11,024 battens-Order
+Talis (s)-Soderhamn-610 stds. deals, battens, and boards-T. & H. Green
+Mary-Fredrikstad-97,627 pcs. floorings, 1,288 scantlings, 1,604 bdls. laths-Order
+14 Finland (-)-Cronstadt-6,105 deals and battens, 1,353 battens and ends, 9,806 boards and ends, 9 201 deals, battens, and ends, 418 boards, 125 deals and ends, 50 1/2 fms. firewood Order
+15 Victoria (s)-St. Petersburg-4,814 ends, 4,699 props, 1,975 rickers-Order
+MILLWALL DOCK.
+July 10 Narva (s)-St. Petersburg 2,633 pcs. redwood, 6,463 pcs whitewood, 724 rickers-Tagart, Beaton, & Co.
+
+JULY 18, 1891.
+Thorsten (s)-Gothenburg-1,600 deals-Nicks & Penton ; 14 cs. joinery-Wilson, Maxime & Co. ; 103 pkgs. wood-Wilson, Uloth & Co. ; 617 pcs. joinery-Wilson, Sons & Co. ; 734 pkgs. joinery-Wilson, Sons & Son ; 999 pkgs. laths-Order
+13 Tasso (s)-Christiania-1,693 bdls. laths-Keen ; 764 bdls. cases-Wilson, Sons & Co. ; 6,635 bdls. boxboards-Order
+Mudir (s)-Malmo-80 lds. firewood-Wilson, Son ; 4,169 bdls. sawn wood-Order
+15 Durham (s) Fiume-30 lds. staves-Order
+Nerissa (-)-Cronstadt-1,742 fir rickers-Order
+Coronilla (-)-St. Petersburg-4,164 rickers, wood-2,928 rickers-Order
+TILBURY.
+July Memphis (s)-Baltimore-2,000 staves-Order
+VICTORIA AND ALBERT DOCKS.
+July 11 City of America (s)-New York-507 pcs. wood-B. F. Dowdeswell
+Egyptian Monarch (s)-New York-970 pcs. lumber-Order
+Stanley-Porsgrund-2,000 telegraph poles-Postmaster General
+Burt Boulton, & Haywood
+-Duus, Brown, & Co.
+13 Federation (s)-Montreal-2,000 staves, 1,600 deals-Order
+Beatrice Lines-Lubeck-1,000 staves-Order
+14 Thames (s)-Hong Kong-1,000 pcs. camphor wood-Order
+Salvator-Skien-987 pcs. telegraph poles-Postmaster General ; 1,000 poles-Duus, Brown, & Co. ; 11,000 poles-Order
+15 Tower Hill (s)-New York-2,000 staves-Order
+Cunningham, St. Petersburg-1,000 pcs. boxwood-B. F. Dowdeswell ; 1,000 pcs. boxwood, 970 pcs. lumber-Order
+WEST INDIA DOCKS.
+July 13 Enskar (s)-Gefle-8,000 deals, 1,000 pcs. basswood-Cobbetts & Co. ; 1,000 pcs. basswood Churchill & Sim
+OTHER DOCKS.
+July 11 Professor S. (s)-Libau-7,685 fir sleepers, firewood, 100 bdls. laths-Order
+13 Virgo (s)-Hamburg-1,000 staves-Order
+Die Krone Abo-80 lds. firewood-Order
+Italia (s)-Libau-7,685 sleepers-Order
+-Burt, Boulton, & Haywood
+Fauna Kotka-182 fms. firewood-Order
+14 Redstart (s)-Hamburg-1,000 staves-Order
+Tammo- Foxe-strand-1,000 staves-Order
+15 Johanne August-Wasa-1,000 staves-Order
+Cairo (s)-St. Petersburg-1,000 pcs. boxwood-Order
+METHIL.
+July 11 Chester (s)-Riga-11,934 props, 1,648 aspen logs, 15,817 deals, 5,950 battens-Order
+Ocean King (s)-Riga-17,757 birch props, 2,720 pcs. lathwood-Order
+MIDDLESBRO'.
+July 10 Rap-Brevig-1,000 props-W. J. Watson & Co.
+13 Asiatic Prince (s)-Pensacola-1,625 pcs. sawn fir, 949 pcs. pitch pine-Brough Estate
+St. Johannes-Borga-22,438 deals-Order
+1,022 fir props-Order
+NEWCASTLE.
+July 9 Colomba-Stettin-14,205 props-Rayner
+13 Elisabeth-Soderhamn-93,862 deals, battens and boards, 1,000 pcs. basswood-Order
+NEWPORT.
+July 7 St. Michel-Bordeaux-842 lds. pitwood-Budd & Co.
+10 Palmira-Miramichi-23,561 fir deals, boards and boards-Budd & Co.
+10 Haab-Darien-5,000 fir palings-Order
+deals-Alexanders & Co.
+PLYMOUTH.
+July 11 Cascapedia-Cascapedia-23,561 fir deals, 62,576 flooring boards-Bryant, Powis & Bryant
+11 Ulf-Munksund-29,990 deals, &c.-R. & R. Bayly
+RUNCORN.
+July 11 Emma-Gefle-18,671 deals, battens, 1,742 fir rickers-Order
+13 Hoppet-Soderhamn-610 stds. deals, battens, and boards-Order
+SHIELDS (NORTH).
+July 8 Venio-Bjorneborg-67,809 fir deals-Gillingham & Co.
+13 Erin-Gefle-Sundswall-21,453 pcs. sawn fir-mills Co.
+SHIELDS (SOUTH).
+July 10 Kong Sverre-Gothenburg-2,000 bdls. lathwood, 303 fir deals-Order
+SOUTHAMPTON.
+July 10 Egmont-Rafso-52,953 deals, battens, 40 fms. firewood-Driver & Co.
+Loxton & Son
+11 Mariane Bertha-Gefle-18,671 deals, battens-J. T. Crampton & Co.

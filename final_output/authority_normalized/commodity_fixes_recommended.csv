@@ -1,0 +1,46 @@
+category,original,recommendation,affected_records,action,notes
+fragment,w,,52,ERROR,Parser error - too short to be valid commodity
+fragment,sq,,25,ERROR,Parser error - too short to be valid commodity
+fragment,p,,24,ERROR,Parser error - too short to be valid commodity
+fragment,i,,13,ERROR,Parser error - too short to be valid commodity
+fragment,pp,,13,ERROR,Parser error - too short to be valid commodity
+fragment,ft,,12,ERROR,Parser error - too short to be valid commodity
+fragment,o,,10,ERROR,Parser error - too short to be valid commodity
+fragment,s,,7,ERROR,Parser error - too short to be valid commodity
+fragment,r,,4,ERROR,Parser error - too short to be valid commodity
+fragment,&c,,2,ERROR,Parser error - too short to be valid commodity
+fragment,a,,2,ERROR,Parser error - too short to be valid commodity
+fragment,m,,2,ERROR,Parser error - too short to be valid commodity
+fragment,b,,2,ERROR,Parser error - too short to be valid commodity
+fragment,wo,,2,ERROR,Parser error - too short to be valid commodity
+fragment,ww,,2,ERROR,Parser error - too short to be valid commodity
+fragment,d,,2,ERROR,Parser error - too short to be valid commodity
+fragment,f,,2,ERROR,Parser error - too short to be valid commodity
+unit,lds,,403,ERROR,Measurement unit parsed as commodity
+unit,pcs,,365,ERROR,Measurement unit parsed as commodity
+unit,tons,,297,ERROR,Measurement unit parsed as commodity
+unit,loads,,278,ERROR,Measurement unit parsed as commodity
+unit,bdls,,145,ERROR,Measurement unit parsed as commodity
+unit,square,,144,ERROR,Measurement unit parsed as commodity
+unit,pieces,,84,ERROR,Measurement unit parsed as commodity
+unit,cords,,55,ERROR,Measurement unit parsed as commodity
+unit,fathoms,,28,ERROR,Measurement unit parsed as commodity
+unit,bundles,,27,ERROR,Measurement unit parsed as commodity
+unit,cubic,,13,ERROR,Measurement unit parsed as commodity
+unit,ft,,12,ERROR,Measurement unit parsed as commodity
+unit,standards,,4,ERROR,Measurement unit parsed as commodity
+variant,deal,deals,1223,NORMALIZE,"Merge with deals (17,282 records) for 18,505 total"
+variant,stave,staves,2,NORMALIZE,"Merge with staves (5,211 records) for 5,213 total"
+variant,prop,props,4,NORMALIZE,"Merge with props (4,545 records) for 4,549 total"
+variant,batten,battens,43,NORMALIZE,"Merge with battens (4,091 records) for 4,134 total"
+variant,board,boards,34,NORMALIZE,"Merge with boards (2,777 records) for 2,811 total"
+variant,sleeper,sleepers,312,NORMALIZE,"Merge with sleepers (1,554 records) for 1,866 total"
+variant,log,logs,183,NORMALIZE,"Merge with logs (1,375 records) for 1,558 total"
+variant,hoop,hoops,2,NORMALIZE,"Merge with hoops (1,102 records) for 1,104 total"
+variant,end,ends,1,NORMALIZE,Merge with ends (900 records) for 901 total
+variant,lath,laths,39,NORMALIZE,Merge with laths (797 records) for 836 total
+variant,scantling,scantlings,112,NORMALIZE,Merge with scantlings (626 records) for 738 total
+variant,spar,spars,2,NORMALIZE,Merge with spars (678 records) for 680 total
+variant,plank,planks,7,NORMALIZE,Merge with planks (571 records) for 578 total
+variant,flooring,floorings,306,NORMALIZE,Merge with floorings (125 records) for 431 total
+variant,square,squares,144,NORMALIZE,Merge with squares (55 records) for 199 total

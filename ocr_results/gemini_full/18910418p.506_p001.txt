@@ -1,0 +1,269 @@
+506
+IMPORTS.
+
+BARROW.
+April 9 Sognedalen-Skien-4,043 pcs. hewn fir, 900 pit props-F. J. Crossfield
+
+BOSTON.
+April 9 Medea-Porsgrund-4,238 pcs. mining timber, 2,912 props-C. W. B. Anderson
+10 Vibilia-Grimstad-2,549 pcs. round mining timber, 560 fir boards-C. W. B. Anderson
+11 Regina-Fredrikstad-4,146 pcs. mining timber 531 props-A. Beeby & Son
+13 Normania-Arendal-4,993 pcs. mining timber, 286 props-W. Southern & Son
+
+BRIDGWATER.
+April 11 Felix-Fredrikshald-85,863 pcs. sawn fir, 977 fir battens, 100 fir spars-Somerset Trading Co.
+
+BRISTOL.
+April 6 Mignonne-La Tremblade-167 tons pitwood-Order
+11 Nornen-Fredrikstad-58,555 boards-Bancroft, Harris, & Budgett
+12 Farmland-Fredrikstad-102,947 pcs. floor boards-Order
+Gerhardus-Pensacola-1,426 pcs. p.p. timber, 112 p.p. deals-Harrison & Co.
+Ibis (s)-Dunkirk-4 crts. staves, 6,170 bdls hoops-Order
+
+CARDIFF.
+April 8 Augusta-Muros-420 lds. pitwood-Manzanos, Cristoball, & Co.
+St. Vincent-Pensacola-4 lds. hewn fir-Robinson, David, & Co.
+Tula-Puebla-470 lds. pitwood-A. de Torres
+Ernestine-Landernau-100 lds. pitwood-A. Stonehouse & Co.
+Adour (s)-Bayonne-1,100 lds. pitwood-A. Capelle
+9 Mars-Ferrol-260 lds. pitwood-Manzanos
+11 Cinque-Pensacola-21 pcs. hewn fir, 1,169 fir deals-Alexanders
+I. M. F.-Santa Eugenia-450 lds. pitwood-Jago & Co.
+Tancred (s)-Bordeaux-1,800 lds. pitwood-Ward, Watts, & Co.
+Jersey (s)-Bayonne-1,700 lds. pitwood-Order
+13 Eliezer-Christiansand-3,770 pcs. hewn fir-G. H. Wells & Co.
+Ely-Bordeaux-800 lds. pitwood-Hooper
+Nicolay H. Knudsen-Arendal-500 lds. mining timber-C. Schroeter & Co.
+Annie-Carril-250 lds. pitwood-Jugo & Co.;
+Eurvia-Pont l'Abbe-55 lds. pitwood-A. Stonehouse & Co.
+Ganger Rolf-Christiansand-6,680 pcs. hewn fir-J. Bland & Co.
+
+COLCHESTER.
+April 13 Gustav-Fredrikstad-37,483 pcs. sawn fir, 105 spars-Nicholls & Co.
+
+FAVERSHAM.
+April 7 Marie-Christiansand-9,826 spars and poles-T. A. Whittle & Co.
+
+FLEETWOOD.
+April 13 Rifondo-Drammen-41,656 fir boards-R. Owen
+
+FOWEY.
+April 11 Let-Fredrikstad-16,335 pcs. sawn fir-Trefry, Clunes, & Co.
+
+GLOUCESTER.
+April 10 Hero-Rotterdam-1,215 bdls. hoops-Bristol Steam Navigation Co.
+Undine-Pensacola-1,517 pcs. sawn fir-Price, Walker, & Co.
+13 Kaja-Fredrikshald-65,135 boards and ends-Nicks & Co.
+
+GOOLE.
+April 9 Wharfe-Rotterdam-1,160 bdls. hoops-Goole Steam Shipping Co.
+13 Derwent-Rotterdam-200 bdls. hoops-Goole Steam Shipping Co.
+Hannah-Fredrikstad-523 lds. board ends-A. Meek
+
+GRIMSBY.
+April 7 Wardenlau-Brevig-20 spars, 100 prs. oars-Great Grimsby Ice Co.
+8 Cato-Danzig-4,241 sleepers-Wilson & Co.
+Alliance-Brevig-12 spars, 60 prs. oars-Great Grimsby Ice Co.
+Oryx-Brevig-60 prs. oars-Sutcliffe & Son
+9 Bradford-Rotterdam-6,700 bdls. hoops-John Sutcliffe & Son
+11 Bobsien-Kagsdorff-857 hewn oak logs and log ends-Bennetts & Co.
+13 Retford-Rotterdam-800 bdls. hoops-John Sutcliffe & Son
+
+HARTLEPOOL (WEST).
+April 7 Libertas-Fredrikstad-1,451 props-Metcalfe, Simpson, & Co.
+8 Clara Dicklemann-Holmstad-21,579 props-Victor Nilson & Co.
+Juno-Gothenburg-10,173 props-Osbeck
+Soblomsten-Arendal-370 lds. props-A. For-lind & Co.
+Ocean Mail-Filtvedt-2,814 pcs. sawn fir, 1,635 pcs. square timber-E. A. Casper & Co.
+
+THE TIMBER TRADES JOURNAL
+Thrudvang-Christiansand-3,740 pcs. round timber, 881 props-G. Bradley & Co.
+Marie-Halmstad-6,946 props-Osbeck & Co.
+Phonix-Drammen-15,355 props-W. Pearson
+10 Urda-Christiansand-568 props-E. A. Casper
+Viking-Christiansand-3,780 pcs. round timber-G. Horsley & Co.; 1,829 props-E. A. Casper & Co.
+Olof-Halmstad-16,547 props-Edward Pritchard
+Kimfakerhjelm-Westervik - 8,102 props-Pedersen & Co.
+Primrose-Calmar-4,974 props-Pearson
+Olivia-Skien-32,242 props, 339 pcs. square timber-E. A. Casper & Co.
+11 Iris-Calmar-8,419 props-G. Pyman
+Anna-Bergqvara-32,893 props-Victor Nilson
+Hjalmar-Mandal-3,509 pcs. mining timber, 1,426 props-Victor Nilson & Co.
+Petter-Christianopel (Sweden)-11,543 props-Victor Nilson & Co.
+13 Janis Pettack-Drammen-160 lds. firewood-C. A. Forslind & Co.
+Bernadotte-Danzig-2,441 sleeper crossings-Burt, Boulton, & Haywood
+Gefion-Drammen-44,917 props-Pedersen
+Fortuna-Calmar-8,753 props-Pedersen
+
+HARWICH.
+April 8 Terra Nova-Fredrikstad-25,319 red firwood boards, 40 spars-Groom & Sons.
+
+HULL.
+April 7 Solide-Halmstad-4,512 pit props-Order
+8 Mathilde-Fredrikshald-28,403 pit props-H. Smith & Co.
+Fredrikke Louise-Porsgrund-470 telegraph poles, 223 pcs. mining timber, 849 pit props-Order
+Emanuel-Christiansand-3,165 pcs. mining timber-H. Smith & Co.; 1,857 pit props-Order
+9 Laura-Fredrikshald-21,251 pit props-Rayner & Moller-Order
+Frisk-Halmstad-23,706 pit props-Rayner & Moller-Order
+Nornen-2,891 pcs. mining timber, 770 props-H. Smith & Co.
+10 Albatros (s)-Bremen-1 bl. wood boards-J. Pyefinch & Co.
+Gjemle-Grimstad-5,241 pcs. mining timber, 1,179 pit props-Order
+Flamingo 2 cs. mouldings-Wilson, Sons
+Orlando (s)-Gothenburg-2,312 bdls., 8,480 boards-Wilson, Sons, & Co., Ltd.; 6,502 props-Pyman, Bell, & Co.
+Tryggve-Drammen-20,707 pit props-Order
+Catharine-Westervik-5,408 pit props-Smith & Co.
+11 Let-Fredrikstad-2,954 pcs. round timber, 390 pit props-Order
+13 Fingal-Arendal-2,954 pcs. round timber, 390 pit props-Order
+Romeo (s)-Gothenburg-5,840 props-Pyman, Bell, & Co.; 585 pcs. firewood-T. W. Allen; 1,000 bdls. laths-Hollis, Bros., & Co.; 500 bdls. laths, 1,000 sleepers-Order
+Melite-Arendal-212 lds firewood-T. Allen
+Montebello-Christiania-6,000 bdls. staves-Wilson, Sons, & Co., Ltd.; 743 pcs. timber-Haagensen, Watt, & Co.
+Koltrasten-Warberg-19,794 pit props-Order
+14 Egia-Tvedestrand-1,102 pcs. timber, 11,561 props-Order
+
+LIVERPOOL.
+April 9 Leonora (s)-Baltimore-550 w.o. boards, 1,109 w.o. planks-Order
+Wyoming (s)-New York-33 bdls., 4 pcs. wood tubing-J. Lewis & Son; 3 crts. spokes, 12 cks. hubs-Farnworth & Jardine
+Loango (s)-New Orleans-3,652 staves-Order
+10 Germanic (s)-New York-6,351 pcs. lumber-Whiteside, Johns, & Co.; 3 cs. wood mouldings-H. Hughes & Co.; 490 lance spars-B. Hall & Co.
+Volta (s)-W. C. Africa-4,200 billets wood-A. V. Heyder
+Historian (s)-New Orleans-250 staves-Order
+Mentone-Skien-7,447 poles, 739 props-Bahr
+13 Umbria (s)-New York-800 staves-Order
+Cyclone (s)-Hamburg-8 cs. mouldings-Order
+Holden-Fredrikshald-361 stds. pit props-R. Bildt & Co.
+Roman (s)-Boston-1,356 blocks-T. Mitchell; 1,777 maple blocks-T. Silverwood; 300 bdls. shooks-J. G. Forster; 2,400 staves-Order
+Columbian (s)-Boston-1 crt. boards-Hornby & West; 600 old shooks-Order
+Duisburg-Darien-1,445 pcs. sawn timber, 8 pcs. sawn timber for beam fillings, 562 deals-A. Dobell & Co.
+Hermod (s)-Gothenburg-2,500 bdls. laths-H. Brown & Sons; 1,000 bdls. laths-C. R. Jones; 1,000 bdls. laths-J. Griggs & Co.; 220 bdls. laths-Heaven & Kesterton; 500 bdls. laths-G. Bradley & Co.; 11,000 bdls. laths-Order; 1,500 bdls. lathwood-Bahr, Behrend, & Ross; 25 bdls. broom handles-A. Field & Co.; 4,268 pit props, 80,015 pit poles, 1,200 pcs. mining timber-Osbeck & Co.; 2,000 bdls. laths-Hollis, Bros., & Co.; 54 cs. lathwood-Order
+
+LONDON.
+SURREY COMMERCIAL DOCKS.
+April 13 Garam-Memel-68,090 staves-Order
+Alma-Christiania-5,375 boathooks-15,279 pcs. fresh Christiania spars-G. Jewett; 4,683 poles, 5,263 rickers, 8 fms. firewood-Order
+NOTE.—The 15,809 boards reported from the Alexandra last week to Order were for Messrs. Dolton, Bournes, & Dolton. The Eliezer brought 8,808 poles and rickers for the same firm. 893 poles from the Albano were also for Messrs. Dolton, Bournes, & Dolton.
+
+MILLWALL DOCKS.
+April 9 Elerstein (s)-Libau-240 pcs. wood-C. Arendt
+11 Prins Oscar (s)-Gothenburg-749 doz. battens-Dolton & Co.; 500 bdls. laths-Broadbent & Co.; 200 bdls. laths, 80 bdls. palings-Foy, Morgan, & Co.; 50 prs. oars, 30 prs. boat oars, 12 doz. rickers, 2,399 doz. boards, 4,055 pcs. firewood, 403 bdls. laths, 40 poles-Order
+13 Rhein (s)-Stettin-38 bdls. pinewood-Order
+William Bailey (s)-Trieste-220 logs, 16 planks-Order
+Mississippi (s)-Baltimore-833 pcs. lumber-G. Becker; 924 pcs. lumber-Cobbett & Co.; 259 cs. spokes-Pfeil, Stedall, & Son; 115 crts. wood-Lankester & Co.
+Bele (s)-Gothenburg-12 pkgs. wood-H. Pearsall; 204 bls. wood-Taylor & Co.; 11 bls. wood-G. Green; 22 cs. mouldings-Nicks & Co.; 497 cs. mouldings-Crow & Son; 124 bgs., 8 cs. wood-Uloth & Co.; 6 bgs., 2 cs. wood-Maxime & Co.
+Albano (s)-Christiania-215 cs. wood boards-Brown & Brough; 10 cs. wood boards-F. Foulger; 422 poles, 580 rickers-Dunn, Brown, & Co.; 2,732 floorings-Churchill & Sim; 893 floorings-Gumer, Molasses
+
+ST. KATHARINE'S DOCK.
+April 11 Adler (s)-Bremen-344 planks-Order
+14 Wega (s)-Hambro'-12 cs. mouldings-Order
+
+TILBURY DOCK.
+April 14 Astronom (s)-Hambro'-31 cs. mouldings-Order
+
+VICTORIA AND ALBERT DOCKS.
+April 13 Manche (s)-Odessa-9 pkgs. wood-Jacobs, Young, & Co.; 160 pcs. sandal-wood-Order
+Glengoil-Newport News-380 pcs. lumber-W. Mallinson; 188 pcs. lumber, 156 boards-C. Leary & Co.; 2,075 pcs. lumber, 2,721 boards-Cobbett & Co.
+14 Lydian Monarch (s)-New York-800 bdls. staves-Drysdale Bros.; 3,000 staves-F. F. Brown
+
+OTHER DOCKS AND WHARVES.
+April 8 Redstart (s)-Hambro'-37 pkgs. wood flooring-Order
+Deutschland (s)-Flushing-139 pkgs. joiners work-Order
+Capella (s)-Hambro'-3 bls. orchella wood-Order
+Franziska-Mobile-355 pcs. timber, 1,009 deals-Order
+9 Widdrington (s)-Palermo-84 pkgs., 14 bgs. wood-Order
+York-Bo deaux-271 pkgs. wood-Order
+Prinses Marie (s)-Flushing-19 cs. wood-T. N. Wylie
+Ardle (s)-Danzig-4,000 sleepers-Burt, Boulton, & Haywood; 5,524 sleepers-Order
+Abyssinian-Mobile-659 pcs. timber-Crundall & Co.; 1,108 pcs. timber, 113 pcs. cedar-Order
+Cygnet (s)-Hambro'-3 cs. mouldings-Order
+Sinon (s)-Mem[?]-900 sleeper blocks, 1,10 half-sleeper blocks-Burt, Boulton
+Blonde (s)-Danzig-7,683 staves-Order
+
+APRIL 18, 1891.
+14 Aquila-Porsgrund-11,505 poles, 1,129 props-J. Franklin
+Venner-Laurvig-55,857 flooring boards-Order
+Kong Karl-Skien-193 stds. mining timber-R. Grandidge
+Condor-Fredrikstad-37,451 flooring boards-D. Roberts, Sons, & Co.
+British Prince (s)-Philadelphia-7 bxs. spokes, 11 cs. hubs-J. Gardner & Sons; 450 bdls. shooks, 11,759 staves
+Capulet (s)-New Orleans-5,100 dunnage staves-Order
+15 Barrowmore (s) - Baltimore- 339 bdls. handles, 1,206 w.o. planks-Order
+Neptune-Christiania-958 poles, 439 boathooks-S. Bennett & Co.; qty. boards-Pierce, Watts, & Co.
+Teutonic (s)-New York-5,200 pcs. lumber-Whiteside, Johns, & Co.; 433 lance spars, 600 staves, 164 oars-Order
+Annie-Fredrikshald-76,777 flooring boards-Order
+King's County-Fredrikstad-418 stds. flooring boards-Order
+
+LEITH.
+April 13 Foynland-Fredrikstad-1,205 lds. flooring-King Bros.
+Alma-Christiania-500 lds. flooring-King Bros.
+
+LONDONDERRY.
+April 15 Britannia-St. John-1,000 stds. deals-J. Corscaden & Co.
+
+LYNN.
+April 11 Thor-Drammen-10,000 pcs. props-Partridge, Jones, & Co.
+
+METHIL.
+April 11 Elida-Gothenburg-1,300 lds. props-T. Dishart
+
+MIDDLESBRO'.
+April 13 Tordenskjold-Drammen-150 lds. props-J. Constantine & Co.
+
+MONTROSE.
+April 11 Boadicea-Gothenburg-1,000 lds. props-A. M. & J. Pert
+
+NEWCASTLE.
+April 11 Fenham (s)-Gothenburg-749 bdls. laths-Order
+13 Twee Gebroeders-Harlingen-100,000 hoops-Order
+
+NEWPORT.
+April 11 Eider (s)-Bilbao-1,000 tons pitwood-Order
+13 'Scandia-Bordeaux-1,000 tons pitwood-Order
+
+NEWRY.
+April 13 Marie-Porsgrund-130 lds. props-Fisher & Co.
+
+PLYMOUTH.
+April 9 Olaf-Drammen-13,000 pcs. boards-Collier Bros.
+
+PORTSMOUTH.
+April 5 Scotia-Brevig-10,000 pcs. boards-J. B. Smith
+8 Advance-Brevig-10,000 pcs. boards-J. B. Smith
+12 Julie-Brevig-10,000 pcs. boards-J. B. Smith
+15 Svea-Brevig-10,000 pcs. boards-J. B. Smith
+46,000 pcs. boards-J. B. Smith
+9 Olaf-Drammen-13,000 pcs. boards-Collier Bros.
+
+PRESTON.
+April 5 Scotia-Brevig-10,000 pcs. boards-J. B. Smith
+10 Gem-Brevig-10,000 pcs. boards-J. B. Smith
+
+RUNCORN.
+April 11 Ann-Christiansand-21,000 pcs. boards, 570 pcs. poles-Pierpoint & Co.
+13 Morion-Christiansand-12,000 pcs. boards, fir poles, 1,000 pcs. spars-Pierpoint & Co.
+
+SHIELDS (NORTH).
+April 11 Ernst-Gothenburg-1,000 bdls. laths-Order
+Caroline-Gothenburg-1,000 bdls. laths-Order
+Charles-Gothenburg-1,000 bdls. laths-Order
+and 1,000 bdls. laths-Order
+
+SHIELDS (SOUTH).
+April 7 Vivi-Gothenburg-1,000 bdls. laths-Order; wood-Order
+Petit Jules-Dunkirk-1,000 bdls. laths-Order
+Vivi-Gothenburg-1,000 bdls. laths-Order
+Bonne Mere-Dunkirk-1,000 bdls. laths-Order
+
+SOUTHAMPTON.
+April 9 Louis-Brevig-10,000 pcs. boards-Driver & Co.
+
+SUNDERLAND.
+April 11 Paquebot-Gothenburg-1,000 bdls. laths-Order; wood-Order
+8 Pauline-Gothenburg-1,000 bdls. laths-Order
+Collier-Gothenburg-1,000 bdls. laths-Order
+Sablais-Gothenburg-1,000 bdls. laths-Order
+Mario-Gothenburg-1,000 bdls. laths-Order
+9 Volgy-Gothenburg-1,000 bdls. laths-Order
+
+SWANSEA.
+April 11 Anna-Vigo-1,000 tons pitwood-Vivian & Sons
+
+Imported into London, Bristol, Liverpool, and Hull, but not included in the returns from the various docks, are the following parcels of wood goods, which have been landed at the various Legal Quays, Sufferance Wharves, &c., on the river side:—
+Boxwood, Cedar, Cocuswood, Ebony, Lignumvitae, Mahogany, Rosewood, Satinwood, Walnut, Lancewood Spars, and Hornbeam

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-10-16T16:49:31.108965",
+  "statistics": {
+    "total_files": 659,
+    "processed": 659,
+    "failed": 0,
+    "total_records": 35870,
+    "records_with_port": 32044,
+    "records_with_date": 23525
+  },
+  "port_coverage": "89.3%",
+  "date_coverage": "65.6%"
+}

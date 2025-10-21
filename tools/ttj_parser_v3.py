@@ -20,6 +20,108 @@ class RecordFormat(Enum):
     UNKNOWN = "unknown"
 
 
+# UTF-8 encoding fixes for double-encoded characters
+# These appear in OCR output when UTF-8 was misinterpreted as Latin-1
+ENCODING_FIXES = {
+    # Complete port names (exact replacement)
+    'GÃ¤vle': 'Gävle',
+    'VÃ¤stervik': 'Västervik',
+    'MÃ¶nsterÃ¥s': 'Mönsterås',
+    'TimrÃ¥': 'Timrå',
+    'VilagarcÃ\xada de Arousa': 'Vilagarcía de Arousa',
+    'A CoruÃ±a': 'A Coruña',
+    'TÃ¸nsberg': 'Tønsberg',
+    'Trois-RiviÃ¨res': 'Trois-Rivières',
+    "Pont-l'Abbé": "Pont-l'Abbé",
+    'Â\xa0Saint-Brieuc': 'Saint-Brieuc',
+    'Â Saint-Brieuc': 'Saint-Brieuc',
+
+    # Character patterns (for partial matches)
+    'Ã¤': 'ä',  # Swedish/German a-umlaut
+    'Ã¶': 'ö',  # Swedish/German o-umlaut
+    'Ã¥': 'å',  # Swedish/Norwegian a-ring
+    'Ã¸': 'ø',  # Norwegian/Danish o-slash
+    'Ã±': 'ñ',  # Spanish n-tilde
+    'Ã©': 'é',  # French e-acute
+    'Ã¨': 'è',  # French e-grave
+    'Ã­': 'í',  # Spanish i-acute
+}
+
+def fix_encoding(text: Optional[str]) -> Optional[str]:
+    """Fix double-encoded UTF-8 text (Latin-1 misinterpretation).
+
+    Args:
+        text: Original text that may contain corrupted encoding
+
+    Returns:
+        Text with encoding fixed, or None if input was None
+    """
+    if not text:
+        return text
+
+    # Try exact replacement first (faster for known complete strings)
+    if text in ENCODING_FIXES:
+        return ENCODING_FIXES[text]
+
+    # Apply pattern replacements for partial corruption
+    fixed = text
+    for corrupted, correct in ENCODING_FIXES.items():
+        # Only apply pattern replacements (short sequences)
+        if len(corrupted) <= 3:
+            fixed = fixed.replace(corrupted, correct)
+
+    return fixed
+
+
+# Non-port headers to skip (journal headers, commodities, advertisements)
+SKIP_HEADERS = {
+    # Journal headers
+    'TIMBER TRADES JOURNAL', 'TIMBER TRADES\' JOURNAL', 'ADES JOURNAL',
+    'ENGLAND AND WALES', 'SCOTLAND', 'IRELAND', 'SCOTCH SUPPLEMENT',
+    'IMPORTS', 'REVIEWS', 'FREIGHTS', 'FAILURES AND ARRANGEMENTS',
+    'LIQUIDATIONS', 'ERRATUM', 'TRADE ITEMS', 'CREDITOR PARTLY SECURED',
+    'ACCEPTED TENDERS', 'LONDON DOCK DELIVERIES', 'ARRIVALS',
+
+    # Timber commodities
+    'PINE', 'SPRUCE', 'PITCH PINE', 'OAK', 'OAK TIMBER', 'MAHOGANY', 'ASH',
+    'LATHWOOD', 'WEATHERBOARDS', 'SLATING BATTENS', 'MOULDING', 'MOULDINGS',
+    'VENEERS', 'SLAB BOARDS', 'POLES', 'SPARS', 'DECK DEALS', 'LATHS',
+    'PLASTERERS\' LATHS', 'BEAD', 'TORUS SKIRTING', 'DEAL', 'ERABLE',
+    'HEWN BALK', 'AHOGANY',
+
+    # Advertisements and misc
+    'CONTRACTS OPEN', 'TRADE MARK', 'ILLUSTRATED CATALOGUES FREE ON APPLICATION',
+    'POST FREE ON APPLICATION', 'EXPORT ORDERS PROMPTLY EXECUTED',
+    'WRITE FOR CATALOGUE', 'DETAILED SPECIFICATION ON APPLICATION',
+    'COUNTRY ORDERS RECEIVE PROMPT ATTENTION', 'SEND FOR REFERENCES TO USERS',
+    'REGISTERED BRAND', 'SILVER MEDAL', 'CIRCULAR SAWS', 'IN THE WORLD',
+    'SPECIFICATIONS OF THE FOLLOWING HAVE BEEN PUBLISHED',
+    'EVERY DESCRIPTION OF BALTIC AND AMERICAN TIMBER',
+    'VENEERS OF ALL KINDS', 'AND ALL VARIETIES OF FANCY WOODS',
+    'EVERY DESCRIPTION OF WOOD ALWAYS IN STOCK',
+    'PREPARED FROM THE DIMENSIONS STATED',
+    'EXPORTERS AMERICAN HARDWOOD LUMBER',
+    'AUSTRALIAN TIMBER TRADE', 'TIMBER FROM CORSICA',
+    'SEEDLING AND TRANSPLANTED FOREST TREES',
+    'HORTICULTURAL TIMBER MERCHANT', 'THE STANDARD TIMBER MEASURER',
+    'GANDY\'S PATENT COTTON BELTING', 'THE GANDY BELT',
+
+    # Company names / abbreviations
+    'MAURICE GANDY', 'THOMAS ROEBUCK & COMPANY (LIMITED)',
+    'JOSEPH GARDNER & SONS', 'ROBERT PARKER & CO', 'LAVY BROS',
+
+    # Geographic/location indicators
+    'AT NEW ORLEANS', 'THE MISSISSIPPI VALLEY', 'THE HAWAIIAN ISLANDS',
+    'BRANCH YARD AT NEWBURGH', 'AT THE MILLWALL DOCKS', 'AT AVONMOUTH',
+    'BY SURREY COMMERCIAL DOCKS',
+
+    # Typos/OCR errors/Single letters
+    'R. M', 'R & CO', 'H', 'A', 'ONE', 'EST', 'TONE', 'BURGH',
+    'J. H. ROW... AU', 'B. & F. S. WHARF', 'B. & F. WHARF',
+    'Y COMMERCIAL DOCKS', 'COLUMBIA', 'MILWALL'
+}
+
+
 @dataclass
 class ShipRecord:
     """Parsed ship arrival record."""
@@ -57,13 +159,15 @@ class TTJContextParser:
     def __init__(self):
         # Ship record patterns
         # Early @ format handles: "April 27. Ship @..." and "Sept. 11 Ship @..."
+        # Fixed to handle abbreviations like "St. John, N.B." without truncation
+        # Uses lookahead to stop at comma+em-dash or comma+digit
         self.early_at_pattern = re.compile(
             r'^(?:(?P<month>\w{3,9})\.?\s+(?P<day>\d{1,2})\.?\s+)?'
             r'(?P<ship>[A-Za-z\s\.\&\'\-]+?)\s*'
             r'(?:\(s\))?\s*'
             r'@\s*'
-            r'(?P<origin>[A-Za-z\s\.,\-&]+?)\s*'
-            r'[,\.—]\s*'
+            r'(?P<origin>[A-Za-z\s\.,\-&]+?)'
+            r',?\s*(?=[—\d])'  # Optional comma, then lookahead for em-dash or digit
             r'(?P<cargo>.*?)$',
             re.IGNORECASE
         )
@@ -99,12 +203,28 @@ class TTJContextParser:
 
         # Persistent context (maintained across file boundaries)
         self.current_port = None
+        self.current_city = None  # Track city context for dock disambiguation
         self.current_month = None
         self.current_day = None
+
+        # List of known UK port cities that appear as headers
+        self.uk_cities = {
+            'LONDON', 'LIVERPOOL', 'GLASGOW', 'GREENOCK', 'GRANGEMOUTH',
+            'LEITH', 'DUNDEE', 'ABERDEEN', 'BRISTOL', 'CARDIFF', 'HULL',
+            'NEWCASTLE', 'SUNDERLAND', 'MIDDLESBROUGH', 'HARTLEPOOL',
+            'MANCHESTER', 'GOOLE', 'GRIMSBY', 'SOUTHAMPTON', 'PLYMOUTH',
+            'BELFAST', 'DUBLIN', 'CORK', 'BARROW', 'PRESTON'
+        }
+
+        # Dock keywords that need city context
+        self.dock_keywords = {
+            'DOCK', 'DOCKS', 'WHARF', 'WHARVES', 'PIER', 'QUAY'
+        }
 
     def extract_port_from_context(self, context_lines: List[str]) -> Optional[str]:
         """
         Extract destination port from preceding lines.
+        Also handles city context for dock names.
 
         Args:
             context_lines: Previous 2-4 lines before ship record
@@ -112,16 +232,38 @@ class TTJContextParser:
         Returns:
             Port name if found, None otherwise
         """
+        city_context = None
+        port_found = None
+
         # Search backwards through context
         for line in reversed(context_lines):
             line = line.strip()
             match = self.port_header_pattern.match(line)
             if match:
                 port = match.group(1).rstrip('.')
-                # Filter out non-port headers
-                if len(port) > 2 and not re.match(r'^\d', port):
-                    return port
-        return None
+                # Filter out non-port headers using comprehensive skip list
+                port_upper = port.upper()
+                if (len(port) > 2 and
+                    not re.match(r'^\d', port) and
+                    not any(skip in port_upper for skip in SKIP_HEADERS)):
+
+                    # Check if this is a city header
+                    if port_upper in self.uk_cities:
+                        city_context = port
+                        continue  # Keep looking for dock name
+
+                    # Check if this is a dock name
+                    if any(keyword in port_upper for keyword in self.dock_keywords):
+                        # If we found a city before this, prepend it
+                        if city_context:
+                            return f"{city_context} ({port})"
+                        else:
+                            return port
+                    else:
+                        # Regular port name
+                        return port
+
+        return port_found
 
     def extract_date_from_context(self, context_lines: List[str]) -> Tuple[Optional[str], Optional[int]]:
         """
@@ -194,6 +336,9 @@ class TTJContextParser:
         cargo = groups.get('cargo', '').strip()
         merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
 
+        # Fix encoding for origin port (double-encoded UTF-8)
+        origin_port = fix_encoding(origin_port) if origin_port else origin_port
+
         # Extract date from line or context
         day = groups.get('day')
         month = groups.get('month')
@@ -208,6 +353,9 @@ class TTJContextParser:
 
         # Extract destination port from context
         destination_port = self.extract_port_from_context(context_lines)
+
+        # Fix encoding for destination port (double-encoded UTF-8)
+        destination_port = fix_encoding(destination_port) if destination_port else destination_port
 
         # Detect steamship
         is_steamship = '(s)' in line
@@ -265,13 +413,31 @@ class TTJContextParser:
         for i, line in enumerate(lines):
             line_stripped = line.strip()
 
-            # Update persistent port context if we see a port header
+            # Update persistent port/city context if we see a port header
             port_match = self.port_header_pattern.match(line_stripped)
             if port_match:
                 port_candidate = port_match.group(1).rstrip('.')
-                # Filter out non-port headers
-                if not any(skip in port_candidate for skip in ['TIMBER TRADES JOURNAL', 'ENGLAND AND WALES', 'SCOTLAND', 'IRELAND']):
-                    self.current_port = port_candidate
+                # Filter out non-port headers using comprehensive skip list
+                port_upper = port_candidate.upper()
+                if not any(skip in port_upper for skip in SKIP_HEADERS):
+                    # Check if this is a city header (major UK port city)
+                    if port_upper in self.uk_cities:
+                        self.current_city = port_candidate
+                        # Don't set current_port for city headers - wait for dock name
+                    else:
+                        # Check if this is a dock name that needs city context
+                        if any(keyword in port_upper for keyword in self.dock_keywords):
+                            # Prepend city name if available
+                            if self.current_city:
+                                self.current_port = f"{self.current_city} ({port_candidate})"
+                            else:
+                                self.current_port = port_candidate
+                            # Keep city context for subsequent docks in same city
+                        else:
+                            # Regular port name (not a dock, not a city)
+                            self.current_port = port_candidate
+                            # Reset city context - we've moved to a different port
+                            self.current_city = None
                 continue
 
             # Update persistent date context if we see a date header

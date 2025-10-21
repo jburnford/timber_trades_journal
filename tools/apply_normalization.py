@@ -19,7 +19,20 @@ def load_review_decisions(review_csv: Path) -> dict:
         'error': []    # Mark as error
     }
 
-    with open(review_csv, 'r', encoding='utf-8') as f:
+    # Read with UTF-8 encoding (accented characters properly handled)
+    try:
+        with open(review_csv, 'r', encoding='utf-8') as f:
+            file_content = f.read()
+    except UnicodeDecodeError:
+        # Fallback to latin-1 if UTF-8 fails
+        with open(review_csv, 'r', encoding='latin-1') as f:
+            file_content = f.read()
+
+    if file_content is None:
+        raise ValueError(f"Could not decode {review_csv} with any standard encoding")
+
+    import io
+    with io.StringIO(file_content) as f:
         reader = csv.DictReader(f)
         for row in reader:
             # Skip instruction row
@@ -180,8 +193,8 @@ def main():
     with open(ref_dir / "canonical_destination_ports.json", 'r') as f:
         canonical_dest = set(json.load(f))
 
-    # Load review decisions
-    review_csv = auth_dir / "ports_for_review.csv"
+    # Load review decisions - use completed review file
+    review_csv = auth_dir / "ports_completed.csv"
     if not review_csv.exists():
         print(f"ERROR: Review file not found: {review_csv}")
         return
@@ -196,17 +209,17 @@ def main():
     # Initialize normalizer
     normalizer = PortNormalizer(canonical_origin, canonical_dest)
 
-    # Apply to shipments
+    # Apply to shipments (use DEDUPED version)
     print("\nNormalizing shipments...")
-    input_csv = base_dir / "final_output" / "ttj_shipments.csv"
+    input_csv = base_dir / "final_output" / "deduped" / "ttj_shipments_deduped.csv"
     output_csv = auth_dir / "ttj_shipments_authority_normalized.csv"
 
     stats = apply_normalization(input_csv, output_csv, normalizer, decisions,
                                canonical_origin, canonical_dest)
 
-    # Also apply to cargo details
+    # Also apply to cargo details (use DEDUPED version)
     print("\nNormalizing cargo details...")
-    input_csv = base_dir / "final_output" / "ttj_cargo_details.csv"
+    input_csv = base_dir / "final_output" / "deduped" / "ttj_cargo_details_deduped.csv"
     output_csv_cargo = auth_dir / "ttj_cargo_details_authority_normalized.csv"
 
     # Cargo uses same ships, so we just copy the logic

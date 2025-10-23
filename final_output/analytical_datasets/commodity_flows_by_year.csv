@@ -1,11 +1,6 @@
 commodity,year,num_ships,num_cargo_items,top_origin,top_destination
-& battens,1877,1,1,Soderhamn,
-& battens,1881,1,1,GÃ¤vle,Lynn
-& co,1874,1,1,Colombo,
-& co,1875,1,1,Chatham,Bristol
-& co,1885,1,1,Riga,London
 abutter laths,1889,1,1,Uddevalla,Liverpool
-ahl &,1875,1,1,Gothenburg,London
+ahl,1875,1,1,Gothenburg,London
 alder,1884,2,2,poti,Liverpool
 alder,1887,3,3,Konigsberg,Grimsby
 alder,1888,1,1,St. Nazaire,London
@@ -371,14 +366,13 @@ birch,1886,1,1,"Pictou, N.S.",Liverpool
 birch,1887,74,81,Quebec,Grimsby
 birch,1889,135,160,Quebec,Liverpool
 birch,1890,6,6,Danzig,Newport
-birch,1891,97,109,St. John,Grimsby
+birch,1891,98,110,St. John,Grimsby
 birch,1892,5,5,St. John,Liverpool
 birch,1893,36,43,St. John,Liverpool
 birch,1895,23,24,St. John,Liverpool
 birch,1897,2,2,St. John,Borrowstounness
 birch,1898,1,1,Konigsberg,Grimsby
 birch,1899,11,12,Kalmar,Dundee
-birch &,1891,1,1,St. John,Liverpool
 birch and,1887,1,1,St. John,Liverpool
 birch and,1889,2,2,Pictou,London
 birch and alder,1893,1,1,Bergkvara,Grimsby
@@ -556,13 +550,12 @@ boards,1889,253,257,Fredrikstad,Liverpool
 boards,1890,6,6,Gothenburg,Boston
 boards,1891,187,191,Gothenburg,Liverpool
 boards,1892,27,27,Christiania,Liverpool
-boards,1893,167,173,Fredrikstad,London
+boards,1893,168,174,Fredrikstad,London
 boards,1895,110,111,Gothenburg,Grimsby
 boards,1896,7,7,Riga,Bristol
 boards,1897,44,46,Fredrikstad,London
 boards,1898,6,6,Gothenburg,Bristol
 boards,1899,94,96,Montreal,London
-boards &,1893,1,1,Fredrikstad,Newport
 boards and,1891,1,1,Stettin,London
 boards and battens,1881,2,2,Skutskar,Grimsby
 boards and battens,1883,1,1,Drammen,London
@@ -710,7 +703,6 @@ braziletto,1881,1,1,Nevis,
 brazilwood,1881,1,1,Bahia,London
 brazilwood,1883,1,1,Brazil,Liverpool
 brewers,1885,1,1,Boston,Liverpool
-briesman & co,1875,1,1,Christiania,London
 bright,1877,3,4,Quebec,Dundee
 bright,1881,2,2,Quebec,Greenock
 bright,1883,2,2,Quebec,Montrose
@@ -970,7 +962,6 @@ chocks,1889,3,3,Laurvig,Liverpool
 chocks,1891,2,2,Danzig,Grimsby
 chocks,1895,4,4,Danzig,Hull (Queen's Dock)
 chocks,1897,1,1,Danzig,Hull (Queen's Dock)
-chotti & co,1887,1,1,Gothenburg,Dundee
 christmas,1895,1,1,Gothenburg,Tyne
 city of florence,1875,1,1,Colombo,London
 cks,1889,2,2,Stettin,Liverpool
@@ -1163,52 +1154,36 @@ deal ends,1899,3,3,Riga,Dundee
 deal ends and battens,1892,1,1,Miramichi,Limerick
 deal nina,1875,1,1,Gothenburg,London
 deal scantling and deal ends,1877,1,1,Miramichi,Greenock
-deals,1874,503,677,Quebec,Liverpool
-deals,1875,762,1185,Quebec,Bristol
+deals,1874,505,679,Quebec,Liverpool
+deals,1875,767,1191,Quebec,Bristol
 deals,1876,7,11,Quebec,Greenock
-deals,1877,1131,1525,Quebec,Dundee
+deals,1877,1132,1526,Quebec,Dundee
 deals,1878,17,20,Portland,Bristol
 deals,1879,1603,1603,Quebec,London
 deals,1880,8,8,Pensacola,Liverpool
-deals,1881,1725,1901,Quebec,Liverpool
+deals,1881,1726,1903,Quebec,Liverpool
 deals,1882,13,13,Stockholm,London
-deals,1883,2166,2406,Quebec,London
+deals,1883,2168,2408,Quebec,London
 deals,1884,53,58,St. John,Liverpool
-deals,1885,1959,2130,Kronstadt,Grimsby
+deals,1885,1960,2131,Kronstadt,Grimsby
 deals,1886,32,36,St. John,Liverpool
-deals,1887,1536,1649,Riga,Grimsby
+deals,1887,1538,1651,Riga,Grimsby
 deals,1888,15,16,Riga,Grimsby
-deals,1889,1905,2088,Riga,Liverpool
+deals,1889,1907,2090,Riga,Liverpool
 deals,1890,24,25,Riga,Grimsby
-deals,1891,946,1029,Riga,Liverpool
+deals,1891,955,1038,Riga,Grimsby
 deals,1892,40,43,Riga,Liverpool
 deals,1893,707,791,Montreal,London
-deals,1895,663,707,Montreal,Grimsby
+deals,1895,664,708,Montreal,Grimsby
 deals,1896,8,8,Riga,Hull (Queen's Dock)
-deals,1897,119,124,St. John,Grimsby
+deals,1897,120,125,St. John,Grimsby
 deals,1898,19,20,Riga,Inverness
-deals,1899,422,432,Montreal,Grimsby
-deals &,1875,2,2,Kronstadt,CURRENT PRICES
-deals &,1883,2,2,Attu,Bristol
-deals &,1885,1,1,Skutskar,Poole
-deals &,1887,1,1,St. Petersburg,Grimsby
-deals &,1889,2,2,Oxelosund,Newport
-deals &,1891,2,2,Boston,Dundee
-deals &,1899,1,1,Pugwash,Lynn
+deals,1899,424,435,Montreal,Grimsby
 deals & battens,1899,1,1,Abo,Grimsby
-deals &c,1874,2,2,Danzig,London
-deals &c,1875,4,4,GÃ¤vle,Bristol
-deals &c,1877,1,1,Sundsvall,
-deals &c,1881,2,2,St. John,Bristol
-deals &c,1887,1,1,St. John,Liverpool
-deals &c,1891,7,7,Sundswall,Grimsby
-deals &c,1895,1,1,Wyborg,Hull (Queen's Dock)
-deals &c,1897,1,1,St. Petersburg,Bristol
-deals &c,1899,2,2,Norrkoping,Tyne
+deals and,1874,1,1,TimrÃ¥,London
 deals and,1877,2,2,Dort,Dundee
 deals and,1887,1,1,Skutskar,London
 deals and,1895,1,1,Sundswall,Boston
-deals and &c,1874,1,1,TimrÃ¥,London
 deals and bat,1885,1,1,GÃ¤vle,London
 deals and bat,1893,2,2,GÃ¤vle,London (Surrey Commercial Docks)
 deals and bat,1899,1,1,Harnas,Poole
@@ -1826,8 +1801,6 @@ firewood,1896,2,2,Risoer,London (Tilbury Docks)
 firewood,1897,59,59,Fredrikstad,London
 firewood,1898,4,4,Fredrikstad,Grimsby
 firewood,1899,105,105,Sundswall,London
-firewood & co,1885,1,1,Kronstadt,London
-firewood & wood,1893,1,1,Konigsberg,
 firewood and,1889,1,1,Kronstadt,London
 firewood and,1899,2,2,Arendal,London
 firewood and battens,1887,1,1,Sundswall,Dundee
@@ -1908,10 +1881,9 @@ floorings,1892,4,4,Gothenburg,Tyne
 floorings,1893,28,28,Fredrikstad,Liverpool
 floorings,1895,8,8,Fredrikstad,London
 floorings,1896,2,2,Fredrikstad,London
-floorings,1897,9,9,Fredrikstad,London
+floorings,1897,10,11,Fredrikstad,London
 floorings,1898,3,3,New York,Grimsby
 floorings,1899,21,21,Fredrikstad,London
-floorings &,1897,1,2,Helsingfors,London
 floorings and,1899,1,1,Fredrikstad,London
 floorings and matchings,1895,1,1,Hilbrungsberg,Newport
 fms,1874,1,1,Riga,Liverpool
@@ -2785,7 +2757,7 @@ logs,1883,206,284,New York,Liverpool
 logs,1884,11,16,Belize,Liverpool
 logs,1885,55,78,Quebec,Greenock
 logs,1886,1,1,New Orleans,Liverpool
-logs,1887,47,52,Baltimore,Liverpool
+logs,1887,48,53,Baltimore,Liverpool
 logs,1888,2,2,Galveston,Liverpool
 logs,1889,51,79,Quebec,Dundee
 logs,1890,6,7,Belize,Boston
@@ -2797,7 +2769,6 @@ logs,1896,2,2,Laguna de Terminos,London (Tilbury Docks)
 logs,1897,39,48,New York,Liverpool
 logs,1898,2,4,Baltimore,Liverpool (Coburg Dock)
 logs,1899,30,41,Baltimore,Liverpool
-logs &,1887,1,1,Baltimore,London
 logs ebony,1874,1,1,Quebec,
 logs lignumvitae,1899,1,1,New York,Liverpool
 logs pcs,1899,1,1,Hobart,Dover
@@ -2850,8 +2821,7 @@ lumber,1898,7,7,New York,Bristol
 lumber,1899,24,25,New York,Liverpool
 lumber and planks,1877,1,1,Savannah,Dundee
 lumber maple rollers,1897,1,1,New York,Liverpool
-lunan &,1877,1,1,Christiania,Borrowstounness
-macpherson & co,1875,1,1,Levanger,Greenock
+lunan,1877,1,1,Christiania,Borrowstounness
 maho,1881,1,1,Frontera de Tabasco,Liverpool
 mahog and cedar,1881,1,1,Gibara,London
 mahogany,1874,7,7,New York,Liverpool
@@ -3117,7 +3087,6 @@ oak,1896,5,5,Baltimore,Liverpool
 oak,1897,36,38,New York,Liverpool
 oak,1898,8,10,Boston,Inverness
 oak,1899,51,52,Baltimore,Liverpool
-oak & sim,1892,1,1,Newport News,London (Tilbury Docks)
 oak and,1874,1,1,Stockholm,London
 oak and,1885,1,1,New York,London
 oak and,1893,1,1,Baltimore,Liverpool
@@ -3322,7 +3291,6 @@ olinda,1887,1,1,Halden,Liverpool
 olive wood,1891,1,1,Marseilles,Liverpool
 olivewood,1881,3,3,Marseilles,Liverpool
 olivewood,1883,1,1,Mazzarelli,London
-olivewood sutton & co,1892,1,1,Marseilles,London (Tilbury Docks)
 orchella wood,1891,1,1,Hamburg,London (Tilbury Docks)
 order,1875,2,2,Helsingfors,Bristol
 order,1877,1,1,Quebec,
@@ -3975,7 +3943,7 @@ props,1887,573,575,Gothenburg,Grimsby
 props,1888,9,9,Gothenburg,Grimsby
 props,1889,869,873,Gothenburg,Grimsby
 props,1890,18,18,Gothenburg,Grimsby
-props,1891,412,414,Gothenburg,Grimsby
+props,1891,413,415,Gothenburg,Grimsby
 props,1892,25,25,Gothenburg,Grimsby
 props,1893,168,170,Gothenburg,Tyne
 props,1895,284,286,Gothenburg,Grimsby
@@ -3983,8 +3951,6 @@ props,1896,8,8,Kragero,Bristol
 props,1897,131,132,Gothenburg,Grimsby
 props,1898,9,9,Gothenburg,Grimsby
 props,1899,162,166,Gothenburg,Grimsby
-props &,1891,1,1,Gothenburg,Grimsby
-props & son,1893,1,1,Helsingfors,Grimsby
 props and,1877,1,1,Halmstad,Dundee
 props and,1899,1,1,Alloa,Greenock
 props and boards,1899,1,1,Gothenburg,Tyne
@@ -4363,7 +4329,7 @@ sawn,1884,2,2,Bordeaux,Newport
 sawn,1885,54,61,Gothenburg,Newport
 sawn,1887,18,18,Danzig,Newport
 sawn,1888,1,1,Pensacola,Liverpool
-sawn,1889,41,41,Pensacola,Grimsby
+sawn,1889,42,42,Pensacola,Grimsby
 sawn,1890,1,1,St. John,Londonderry
 sawn,1891,34,35,Konigsberg,Grimsby
 sawn,1892,5,7,Danzig,Newport
@@ -4372,7 +4338,6 @@ sawn,1895,4,4,Mobile,Greenock
 sawn,1897,2,2,Pensacola,Bristol
 sawn,1898,1,1,Jacksonville,Liverpool
 sawn,1899,4,4,Danzig,Liverpool
-sawn &,1889,1,1,Riga,Bristol
 sawn and,1885,1,1,Mobile,Bristol
 sawn and,1887,1,1,"Brunswick, Ga.",Liverpool
 sawn and,1891,1,1,Mobile,Liverpool
@@ -4465,7 +4430,6 @@ sawn fir boards,1893,4,4,Halden,Newry
 sawn fir boards,1899,3,3,Gothenburg,Lynn
 sawn fir brattice,1883,1,1,Klaipeda,Grimsby
 sawn fir caskboards,1899,1,1,Christiania,Lynn
-sawn fir churchill & sim,1889,1,1,Danzig,Newport
 sawn fir crossing timber,1889,1,1,Stettin,Grimsby
 sawn fir crossings,1893,1,1,Danzig,London
 sawn fir damage,1897,1,1,San Francisco,Limerick
@@ -4491,7 +4455,6 @@ sawn fir hoops,1893,1,1,Bristol,London
 sawn fir lathwood,1891,1,1,Fredrikstad,Wexford
 sawn fir lathwood,1893,1,1,Riga,Poole
 sawn fir log ends,1883,1,1,Fredrikstad,Poole
-sawn fir marshland & atkinson,1883,1,1,Kronstadt,Grimsby
 sawn fir palings,1893,2,2,Miramichi,Tyne
 sawn fir pit props,1899,1,1,Konigsberg,Newport
 sawn fir pitprops,1899,2,2,Harnosand,NEWPORT (MON)
@@ -4737,7 +4700,6 @@ scantlings,1895,22,22,St. John,Liverpool
 scantlings,1897,5,5,Fredrikstad,London
 scantlings,1898,1,1,St. John,Liverpool
 scantlings,1899,14,14,West Bay,Lynn
-schroder & co,1875,1,1,Gothenburg,London
 screenings,1883,1,1,Trieste,Grimsby
 screws,1885,1,1,Philadelphia,Liverpool
 scythe snaths,1889,1,1,New York,Liverpool
@@ -4921,13 +4883,11 @@ small timber,1875,2,2,Lulea,Bristol
 small timber,1877,1,1,Riga,Dundee
 small timber ends,1881,1,1,Klaipeda,Tyne
 smaller,1889,1,1,Christiania,Liverpool
-smith & co,1875,1,1,Gothenburg,London
 snakewood,1875,1,1,Amsterdam,London
 snaths,1885,1,1,New York,Bristol
 snaths,1887,4,4,New York,Bristol
 son,1874,1,1,Pensacola,London
 soon,1875,1,1,Rangoon,Liverpool
-southern & son,1875,1,1,Frederikshall,
 span,1893,1,1,Sundswall,Liverpool
 sparr,1881,1,1,Kronstadt,Bristol
 spars,1874,14,15,Christiania,Liverpool
@@ -5271,7 +5231,7 @@ staves,1879,177,177,Klaipeda,London
 staves,1880,4,4,Quebec,Liverpool
 staves,1881,540,545,New York,Liverpool
 staves,1882,8,9,Laurvig,London
-staves,1883,850,859,New York,Liverpool
+staves,1883,851,860,New York,Liverpool
 staves,1884,53,53,New York,Liverpool
 staves,1885,693,700,New York,Liverpool
 staves,1886,27,27,New Orleans,Liverpool
@@ -5287,7 +5247,6 @@ staves,1896,6,6,New York,Liverpool
 staves,1897,62,62,New York,Liverpool
 staves,1898,15,16,New York,London (Tilbury Docks)
 staves,1899,57,58,New Orleans,Liverpool
-staves &,1883,1,1,Klaipeda,London
 staves and,1883,1,1,New York,Dundee
 staves and,1899,1,1,Trondheim,Dundee
 staves and bottoms,1893,1,1,Rotterdam,Dundee

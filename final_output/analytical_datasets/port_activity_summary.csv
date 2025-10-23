@@ -355,7 +355,7 @@ Axim,origin,1893,1,1,logs,,
 Axim,origin,1895,2,2,logs,,
 "Axim, W. C. Africa",origin,1895,1,1,logs,,
 "Axim, W.C. Africa",origin,1895,2,2,logs,,
-Axmar,origin,1875,1,2,deals &c,stadt,
+Axmar,origin,1875,1,2,deals,stadt,
 Axmar,origin,1879,2,2,deals,battens,
 Axmar Bruk,origin,1877,1,1,battens and boards,,
 Axmarby,origin,1893,2,2,fir props,hewn fir,
@@ -1050,7 +1050,7 @@ Bullriver,origin,1891,1,2,fan,logs,
 Bunbury,origin,1899,1,1,jarrah,,
 Bure,origin,1885,2,3,firewood,battens,sawn fir
 Bure,origin,1887,8,8,sawn fir,firewood,staves
-Bure,origin,1891,3,3,fir,deals &c,
+Bure,origin,1891,3,3,fir,deals,
 Bure,origin,1893,1,1,fir deals,,
 Burea,origin,1874,1,1,deals,,
 Burea,origin,1875,2,6,deals,hewn pitch pine timber,sawn pitch pine timber
@@ -1452,7 +1452,7 @@ Colbergermunde,origin,1881,2,2,pit,,
 Colbjornsen,origin,1879,1,0,,,
 Colmar,origin,1891,1,1,pit,,
 Cologne,origin,1891,3,3,mouldings,work,
-Colombo,origin,1874,4,6,sapanwood,logs,& co
+Colombo,origin,1874,4,6,sapanwood,logs,logwood
 Colombo,origin,1875,5,19,logs,oars,sapanwood
 Colombo,origin,1881,5,8,logs,planks,
 Colombo,origin,1882,2,2,logs,ebony,
@@ -2167,7 +2167,7 @@ Fredericksvoern,origin,1879,1,0,,,
 Frederikahald,origin,1883,1,1,pit,,
 Frederiksen,origin,1877,1,3,mining timber,pit props,staves
 Frederikshaldt,origin,1877,1,1,props,,
-Frederikshall,origin,1875,1,2,staves,southern & son,
+Frederikshall,origin,1875,1,2,staves,,
 Frederiksham,origin,1879,1,1,staves,,
 Frederikshavn,origin,1895,1,1,battens,,
 Frederiksoern,origin,1893,1,1,firewood,,
@@ -2490,7 +2490,7 @@ Grimsby,destination,1887,1238,1586,deals,props,sawn fir
 Grimsby,destination,1888,22,28,props,hewn fir,firewood
 Grimsby,destination,1889,1298,1876,deals,props,firewood
 Grimsby,destination,1890,28,41,props,deals,sleepers
-Grimsby,destination,1891,840,1080,props,deals,fir
+Grimsby,destination,1891,840,1080,deals,props,fir
 Grimsby,destination,1892,58,65,props,boards,hoops
 Grimsby,destination,1893,578,737,fir props,deals,hewn fir
 Grimsby,destination,1895,652,808,props,deals,firewood
@@ -2841,7 +2841,7 @@ Helsingfors,origin,1891,22,32,deals,birch,battens
 Helsingfors,origin,1892,1,0,,,
 Helsingfors,origin,1893,34,52,deals,battens,birch staves
 Helsingfors,origin,1895,28,29,squares,deals,sawn fir
-Helsingfors,origin,1897,3,8,floorings &,battens,staves
+Helsingfors,origin,1897,3,8,floorings,battens,staves
 Helsingfors,origin,1899,12,14,deals,birch squares,battens
 Helsingfors and Kotka,origin,1881,1,1,lathwood,,
 Hennebent,origin,1891,1,1,pitwood,,
@@ -3413,7 +3413,7 @@ Kor gaborg,origin,1883,1,1,hewn birch,,
 Kothka,origin,1874,1,12,deals,timber,boards
 Kotja,origin,1895,2,2,battens,,
 Kotka,origin,1874,3,3,deals,,
-Kotka,origin,1875,6,7,deals,deals &c,firewood
+Kotka,origin,1875,6,7,deals,firewood,planks
 Kotka,origin,1877,26,29,deals,battens,timber
 Kotka,origin,1879,55,53,deals,staves,firewood
 Kotka,origin,1881,68,73,firewood,staves,deals
@@ -3743,7 +3743,7 @@ Lerwick,destination,1893,5,6,fir props,fir deals and boards,fir sawn
 Lerwick,destination,1895,8,16,props,staves and headings,battens
 Lerwick,destination,1897,3,5,battens,staves,
 Lerwick,destination,1899,6,15,staves,firewood,oak staves
-Levanger,origin,1875,1,1,macpherson & co,,
+Levanger,origin,1875,1,1,,,
 Levanger,origin,1877,1,1,deals,,
 Levanger,origin,1883,1,1,pit,,
 Levarger,origin,1875,1,1,deals,,
@@ -4160,7 +4160,7 @@ Marseilles,origin,1885,2,2,wood,,
 Marseilles,origin,1887,2,2,wood,staves,
 Marseilles,origin,1889,7,8,staves,wood,brls
 Marseilles,origin,1891,10,12,staves,logs,wood
-Marseilles,origin,1892,2,3,staves,olivewood sutton & co,logs
+Marseilles,origin,1892,2,3,staves,logs,
 Marseilles,origin,1893,8,9,staves,boxwood,ends
 Marseilles,origin,1897,1,1,bags,,
 Marseilles,origin,1899,2,2,staves,lignum,
@@ -4692,7 +4692,7 @@ Newport News,origin,1887,12,21,oak,planks,staves
 Newport News,origin,1889,5,6,staves,handles,shuttle blocks
 Newport News,origin,1890,1,2,oak,coffin,
 Newport News,origin,1891,8,8,walnut,staves,deals
-Newport News,origin,1892,4,6,oak,walnut lumber,oak & sim
+Newport News,origin,1892,4,6,oak,walnut lumber,poplar
 Newport News,origin,1893,14,17,oak,staves,walnut
 Newport News,origin,1895,14,19,lumber,oak,staves
 Newport News,origin,1896,1,1,oak,,
@@ -5049,7 +5049,7 @@ Oxelosund,origin,1883,4,4,deals and battens,deals,battens
 Oxelosund,origin,1884,1,1,props,,
 Oxelosund,origin,1885,6,6,deals,deals and battens,sawn fir
 Oxelosund,origin,1887,3,3,sawn fir,deals,
-Oxelosund,origin,1889,4,5,deals,deals &,
+Oxelosund,origin,1889,4,5,deals,,
 Oxelosund,origin,1891,3,4,deals,boards,
 Oxelosund,origin,1898,1,1,battens,,
 Oxelosund,origin,1899,2,2,laths,deals and battens,
@@ -5532,7 +5532,7 @@ Pugwash,origin,1889,4,5,deals,,
 Pugwash,origin,1891,4,6,deals,ends,
 Pugwash,origin,1893,1,1,fir deals and battens,,
 Pugwash,origin,1895,8,12,deals,sawn fir,scantlings
-Pugwash,origin,1899,3,6,deals,deals &,scantlings
+Pugwash,origin,1899,3,6,deals,scantlings,ends
 "Pugwash, N.B.",origin,1883,1,1,deals,,
 "Pugwash, N.S.",origin,1883,2,6,deals,battens,
 "Pugwash, N.S.",origin,1885,1,1,deals,,
@@ -5617,7 +5617,7 @@ Rafso,origin,1883,5,5,deals,battens,staves
 Rafso,origin,1885,14,14,deals,staves,firewood
 Rafso,origin,1887,29,39,deals,battens,staves
 Rafso,origin,1889,46,56,deals,firewood,fir
-Rafso,origin,1891,16,19,battens,deals,fir
+Rafso,origin,1891,16,19,deals,battens,fir
 Rafso,origin,1893,30,35,deals,fir deals,staves
 Rafso,origin,1895,22,24,staves,battens,deals
 Rafso,origin,1897,1,1,staves,,
@@ -6655,7 +6655,7 @@ St. Petersburg,origin,1889,135,263,deals,lathwood,rickers
 St. Petersburg,origin,1891,59,112,rickers,deals,lathwood
 St. Petersburg,origin,1893,45,75,rickers,lathwood,props
 St. Petersburg,origin,1895,42,50,rickers,firewood,lathwood
-St. Petersburg,origin,1897,8,9,lathwood,deals,deals and battens
+St. Petersburg,origin,1897,8,9,deals,lathwood,deals and battens
 St. Petersburg,origin,1899,12,12,lathwood,deals,hewn fir
 St. Petersburg Town,origin,1881,2,3,lathwood,rickers,
 St. Petersburg and Cronstadt,origin,1891,1,3,firewood,lathwood,deals
@@ -6882,7 +6882,7 @@ Sunds Bolog,origin,1874,1,3,battens,timber,deal ends
 Sundsore,origin,1893,1,2,firewood,deals,
 Sundsvall,origin,1874,1,1,deals,,
 Sundsvall,origin,1875,2,3,timber,battens,deals
-Sundsvall,origin,1877,4,4,deals,mining timber,deals &c
+Sundsvall,origin,1877,4,4,deals,mining timber,
 Sundsvall,origin,1881,1,2,staves,props,
 Sundsvall,origin,1883,2,1,deals,,
 Sundsvall,origin,1885,2,2,deals,,
@@ -7070,7 +7070,7 @@ Timmernabben,origin,1887,4,4,props,,
 Timmernabben,origin,1891,2,2,props,birch,
 Timmernabben,origin,1892,1,3,birch,props,deals
 Timmernabben,origin,1895,1,1,deals,,
-TimrÃ¥,origin,1874,1,2,deals and &c,spars,
+TimrÃ¥,origin,1874,1,2,deals and,spars,
 TimrÃ¥,origin,1875,5,28,deals,laths,deals and boards
 TimrÃ¥,origin,1877,1,2,fir hewn,battens,
 TimrÃ¥,origin,1879,6,6,deals,battens,
@@ -7367,7 +7367,7 @@ Uleaborg,origin,1884,1,1,props,,
 Uleaborg,origin,1885,41,53,deals,sawn fir,firewood
 Uleaborg,origin,1887,19,32,firewood,deals,hewn fir
 Uleaborg,origin,1889,28,34,deals,firewood,fir
-Uleaborg,origin,1891,15,15,deals,firewood,deals &c
+Uleaborg,origin,1891,15,15,deals,firewood,hewn fir
 Uleaborg,origin,1892,1,1,brushwood,,
 Uleaborg,origin,1893,26,29,deals,firewood,fir deals
 Uleaborg,origin,1895,21,26,deals,sawn fir,deals and battens

@@ -690,7 +690,7 @@ Arkhangelsk,Grimsby,1883,22,9,deals,5
 Arkhangelsk,Grimsby,1885,15,16,deals,9
 Arkhangelsk,Grimsby,1887,17,19,deals,11
 Arkhangelsk,Grimsby,1889,20,24,deals,19
-Arkhangelsk,Grimsby,1891,15,15,deals,11
+Arkhangelsk,Grimsby,1891,15,15,deals,12
 Arkhangelsk,Grimsby,1893,8,8,deals,3
 Arkhangelsk,Grimsby,1895,20,21,deals,9
 Arkhangelsk,Grimsby,1899,6,7,deals,3
@@ -3859,7 +3859,7 @@ Danzig,Liverpool,1893,10,17,hewn fir,3
 Danzig,Liverpool,1895,2,3,battens,1
 Danzig,Liverpool,1897,1,1,beech chocks,1
 Danzig,Liverpool,1899,2,3,fir,1
-Danzig,London,1874,17,36,deals,9
+Danzig,London,1874,17,36,deals,10
 Danzig,London,1875,5,9,timber,5
 Danzig,London,1879,46,34,timber,16
 Danzig,London,1881,50,105,timber,25
@@ -5318,7 +5318,7 @@ Fredrikstad,Newport,1885,6,10,sawn fir,4
 Fredrikstad,Newport,1887,6,7,sawn fir,2
 Fredrikstad,Newport,1889,4,6,fir,1
 Fredrikstad,Newport,1891,5,8,sawn fir,2
-Fredrikstad,Newport,1893,5,6,planed fir boards,1
+Fredrikstad,Newport,1893,5,6,boards,2
 Fredrikstad,Newport,1895,2,2,sawn fir,2
 Fredrikstad,Newport,1898,2,4,sawn fir,1
 Fredrikstad,Newry,1881,3,4,pit,1
@@ -5716,7 +5716,7 @@ Gothenburg,Grimsby,1887,74,118,props,56
 Gothenburg,Grimsby,1888,3,5,laths,2
 Gothenburg,Grimsby,1889,79,158,props,48
 Gothenburg,Grimsby,1890,5,13,props,3
-Gothenburg,Grimsby,1891,63,119,props,30
+Gothenburg,Grimsby,1891,63,119,props,31
 Gothenburg,Grimsby,1892,6,10,props,4
 Gothenburg,Grimsby,1893,38,68,fir props,11
 Gothenburg,Grimsby,1895,50,121,laths,28
@@ -6141,7 +6141,7 @@ GÃ¤vle,Grimsby,1884,1,0,,0
 GÃ¤vle,Grimsby,1885,23,24,deals,15
 GÃ¤vle,Grimsby,1887,27,29,deals,15
 GÃ¤vle,Grimsby,1889,35,35,deals,18
-GÃ¤vle,Grimsby,1891,18,25,deals,17
+GÃ¤vle,Grimsby,1891,18,25,deals,18
 GÃ¤vle,Grimsby,1893,13,14,deals,4
 GÃ¤vle,Grimsby,1895,15,15,props,6
 GÃ¤vle,Grimsby,1897,3,3,deals,2
@@ -6170,7 +6170,7 @@ GÃ¤vle,Liverpool,1895,3,3,deals,3
 GÃ¤vle,Liverpool,1896,1,1,planed,1
 GÃ¤vle,Liverpool,1899,3,4,deals,1
 GÃ¤vle,London,1874,24,33,deals,16
-GÃ¤vle,London,1875,13,21,deals,8
+GÃ¤vle,London,1875,13,21,deals,9
 GÃ¤vle,London,1879,71,71,deals,60
 GÃ¤vle,London,1881,27,33,deals,14
 GÃ¤vle,London,1882,1,3,handles,1
@@ -7252,7 +7252,7 @@ Helsingfors,London,1889,2,2,scantlings,2
 Helsingfors,London,1891,4,6,deals,3
 Helsingfors,London,1893,6,16,birch dowels,2
 Helsingfors,London,1895,2,3,battens,2
-Helsingfors,London,1897,1,2,floorings &,2
+Helsingfors,London,1897,1,2,floorings,2
 Helsingfors,London,1899,1,1,firewood,1
 Helsingfors,London (Tilbury Docks),1893,1,2,deals,1
 Helsingfors,Montrose,1887,1,1,battens,1
@@ -8830,7 +8830,7 @@ Kotka,Boston,1887,1,1,firewood,1
 Kotka,Boston,1889,2,2,deals,1
 Kotka,Boston,1891,1,1,deals,1
 Kotka,Bristol,1874,1,1,deals,1
-Kotka,Bristol,1875,2,2,deals,1
+Kotka,Bristol,1875,2,2,deals,2
 Kotka,Bristol,1879,9,8,deals,4
 Kotka,Bristol,1883,1,0,,0
 Kotka,Bristol,1885,2,2,deals,2
@@ -9278,7 +9278,7 @@ Kronstadt,Bristol,1896,1,1,sawn fir,1
 Kronstadt,Bristol,1897,1,1,sawn fir,1
 Kronstadt,Bristol,1899,1,2,deals,1
 Kronstadt,CREDITORS FULLY SECURED,1883,2,2,sawn fir,1
-Kronstadt,CURRENT PRICES,1875,9,29,deals,10
+Kronstadt,CURRENT PRICES,1875,9,29,deals,11
 Kronstadt,Cork,1883,1,2,lathwood,1
 Kronstadt,Cork,1885,3,3,deals,2
 Kronstadt,Deptford,1885,25,36,deals,27
@@ -10004,7 +10004,7 @@ Leque,Newport,1883,1,1,pitwood,1
 Leroy,Berwick,1881,1,1,pitwood,1
 Lervik,Grimsby,1887,1,1,deals,1
 Levanger,Borrowstounness,1883,1,1,pit,1
-Levanger,Greenock,1875,1,1,macpherson & co,1
+Levanger,Greenock,1875,1,1,,0
 Levanger,Greenock,1877,1,1,deals,1
 Levarger,Bristol,1875,1,1,deals,1
 Levo,Bristol,1887,1,1,sawn fir,1
@@ -10744,7 +10744,7 @@ Marseilles,London,1885,1,1,wood,1
 Marseilles,London,1887,2,2,wood,1
 Marseilles,London,1889,1,1,wood,1
 Marseilles,London (Tilbury Docks),1891,2,3,logs,2
-Marseilles,London (Tilbury Docks),1892,1,2,olivewood sutton & co,1
+Marseilles,London (Tilbury Docks),1892,1,2,logs,1
 Marseilles,London (Tilbury Docks),1899,1,1,staves,1
 Marseilles,Newport,1885,1,1,wood,1
 Marseilles,Newport,1889,1,1,wood,1
@@ -11018,7 +11018,7 @@ Miramichi,Greenock,1883,2,5,deals,3
 Miramichi,Greenock,1893,1,1,spoolwood,1
 Miramichi,Greenock,1899,1,1,deals,1
 Miramichi,Grimsby,1881,7,11,deals,7
-Miramichi,Grimsby,1883,3,8,deals,2
+Miramichi,Grimsby,1883,3,8,deals,3
 Miramichi,Grimsby,1885,1,1,deals,1
 Miramichi,Grimsby,1893,1,3,timber,1
 Miramichi,Hull (Queen's Dock),1895,1,1,deals,1
@@ -11327,7 +11327,7 @@ Montreal,Liverpool,1881,45,58,deals,39
 Montreal,Liverpool,1883,50,88,deals,49
 Montreal,Liverpool,1885,36,61,deals,30
 Montreal,Liverpool,1887,41,59,deals,34
-Montreal,Liverpool,1889,53,96,deals,36
+Montreal,Liverpool,1889,53,96,deals,37
 Montreal,Liverpool,1891,34,48,deals,18
 Montreal,Liverpool,1893,57,81,deals,44
 Montreal,Liverpool,1895,29,41,deals,23
@@ -12549,7 +12549,7 @@ Norrkoping,Tyne,1883,1,1,battens,1
 Norrkoping,Tyne,1887,1,0,,0
 Norrkoping,Tyne,1889,7,9,deals,3
 Norrkoping,Tyne,1893,5,9,deals,3
-Norrkoping,Tyne,1899,1,1,deals &c,1
+Norrkoping,Tyne,1899,1,1,deals,1
 Norrsund,Liverpool,1893,1,2,deals,1
 Norrsundet,Bristol,1899,2,2,pit props,1
 Norrsundet,Goole,1895,2,2,deals,1
@@ -13141,7 +13141,7 @@ Oxelosund,London,1883,3,3,deals,1
 Oxelosund,London,1885,4,4,deals and battens,2
 Oxelosund,London,1887,1,1,deals,1
 Oxelosund,London,1889,2,3,deals,3
-Oxelosund,Newport,1889,1,1,deals &,1
+Oxelosund,Newport,1889,1,1,deals,1
 Oxelosund,Poole,1891,2,3,deals,2
 Oxelosund,Poole,1899,1,1,deals and battens,1
 Oxelosund,Tyne,1884,1,1,props,1
@@ -14325,7 +14325,7 @@ Pugwash,Liverpool,1891,1,2,deals,1
 Pugwash,Liverpool,1895,1,2,deals,2
 Pugwash,London,1883,3,8,deals,3
 Pugwash,London,1887,1,2,deals,2
-Pugwash,Lynn,1899,1,4,deals &,1
+Pugwash,Lynn,1899,1,4,deals,2
 Pugwash,Newport,1889,2,2,deals,2
 Pugwash,Newry,1895,2,3,deals and battens,1
 Pugwash,Poole,1893,1,1,fir deals and battens,1
@@ -14371,7 +14371,7 @@ Quebec,Boston,1881,2,2,hewn fir,1
 Quebec,Boston,1889,1,7,hewn oak,1
 Quebec,Boston (Boston Dock),1891,2,0,,0
 Quebec,Bristol,1874,9,32,deals,19
-Quebec,Bristol,1875,18,72,deals,20
+Quebec,Bristol,1875,18,72,deals,21
 Quebec,Bristol,1877,10,28,deals,9
 Quebec,Bristol,1879,24,24,deals,18
 Quebec,Bristol,1881,11,49,deals,10
@@ -14500,7 +14500,7 @@ Quebec,Liverpool,1893,17,56,pine,9
 Quebec,Liverpool,1895,7,14,pine,5
 Quebec,Liverpool,1899,4,6,pine,2
 Quebec,London,1874,37,114,deals,36
-Quebec,London,1875,3,6,deals,3
+Quebec,London,1875,3,6,deals,4
 Quebec,London,1879,84,81,deals,78
 Quebec,London,1881,34,96,deals,46
 Quebec,London,1883,50,146,deals,63
@@ -14696,7 +14696,7 @@ Rafso,Grimsby,1883,2,2,deals,2
 Rafso,Grimsby,1885,4,4,deals,2
 Rafso,Grimsby,1887,17,17,deals,13
 Rafso,Grimsby,1889,13,18,deals,10
-Rafso,Grimsby,1891,2,2,deals &c,1
+Rafso,Grimsby,1891,2,2,deals,2
 Rafso,Grimsby,1893,4,5,deals,2
 Rafso,Grimsby,1895,2,2,deals,1
 Rafso,Grimsby,1899,3,3,firewood,1
@@ -17189,7 +17189,7 @@ Skutskar,PRINCE'S DOCK,1895,1,1,deals,1
 Skutskar,PRINCES DOCK,1899,1,1,firewood,1
 Skutskar,PURFLEET,1889,1,1,deals,1
 Skutskar,Poole,1883,1,1,deals,1
-Skutskar,Poole,1885,4,4,deals,2
+Skutskar,Poole,1885,4,4,deals,3
 Skutskar,Poole,1889,2,2,deals,1
 Skutskar,Poole,1891,2,2,sawn fir,2
 Skutskar,Poole,1893,1,1,sawn fir,1
@@ -17586,7 +17586,7 @@ St. John,Boston,1881,2,5,deals,3
 St. John,Boston,1895,1,1,sawn fir,1
 St. John,Boston,1897,1,1,deals and boards,1
 St. John,Bristol,1879,15,15,deals,15
-St. John,Bristol,1881,6,11,deals,6
+St. John,Bristol,1881,6,11,deals,7
 St. John,Bristol,1883,11,26,deals,16
 St. John,Bristol,1884,2,2,deals,2
 St. John,Bristol,1885,8,12,deals,8
@@ -17663,12 +17663,12 @@ St. John,Limerick,1891,1,1,sawn deal ends,1
 St. John,Limerick,1895,1,1,deals and ends,1
 St. John,Liverpool,1879,34,32,deals,32
 St. John,Liverpool,1880,2,9,scantlings,2
-St. John,Liverpool,1881,36,133,deals,48
+St. John,Liverpool,1881,36,133,deals,49
 St. John,Liverpool,1883,42,151,deals,67
 St. John,Liverpool,1884,2,9,deals,3
 St. John,Liverpool,1885,24,84,deals,30
 St. John,Liverpool,1886,3,11,deals,5
-St. John,Liverpool,1887,22,67,deals,29
+St. John,Liverpool,1887,22,67,deals,30
 St. John,Liverpool,1888,2,7,deals,3
 St. John,Liverpool,1889,41,136,deals,53
 St. John,Liverpool,1891,20,77,deals,22
@@ -17890,7 +17890,7 @@ St. Petersburg,Bristol,1879,2,2,deals,2
 St. Petersburg,Bristol,1883,2,4,deals,2
 St. Petersburg,Bristol,1887,1,2,lathwood,1
 St. Petersburg,Bristol,1893,4,6,rickers,2
-St. Petersburg,Bristol,1897,1,1,deals &c,1
+St. Petersburg,Bristol,1897,1,1,deals,1
 St. Petersburg,COUNTER TOP,1895,1,0,,0
 St. Petersburg,Deptford,1885,1,1,deals,1
 St. Petersburg,Deptford,1889,1,1,lathwood,1
@@ -18692,7 +18692,7 @@ Sundswall,Grimsby,1883,38,35,deals,10
 Sundswall,Grimsby,1885,34,45,deals,19
 Sundswall,Grimsby,1887,27,35,firewood,6
 Sundswall,Grimsby,1889,43,52,deals,17
-Sundswall,Grimsby,1891,11,10,deals,3
+Sundswall,Grimsby,1891,11,10,deals,4
 Sundswall,Grimsby,1893,20,26,fir props,5
 Sundswall,Grimsby,1895,20,19,deals,7
 Sundswall,Grimsby,1897,1,1,deals,1
@@ -19119,7 +19119,7 @@ TimrÃ¥,Liverpool,1883,1,1,firewood,1
 TimrÃ¥,Liverpool,1891,1,1,firewood,1
 TimrÃ¥,Liverpool,1893,2,2,fir deals,1
 TimrÃ¥,Liverpool,1899,1,1,deals,1
-TimrÃ¥,London,1874,1,2,deals and &c,1
+TimrÃ¥,London,1874,1,2,deals and,1
 TimrÃ¥,London,1879,3,3,deals,2
 TimrÃ¥,London,1881,2,4,firewood,1
 TimrÃ¥,London,1883,1,1,firewood,1
@@ -19472,7 +19472,7 @@ Trondheim,Liverpool,1885,1,2,deals,2
 Trondheim,Liverpool,1889,1,5,birch,2
 Trondheim,Liverpool,1891,3,3,wood,1
 Trondheim,Liverpool,1893,2,4,boards,1
-Trondheim,London,1874,1,2,deals &c,1
+Trondheim,London,1874,1,2,deals,1
 Trondheim,London,1881,1,3,laths,1
 Trondheim,London,1883,5,6,deals,3
 Trondheim,London,1884,1,2,splitwood,1
@@ -19868,7 +19868,7 @@ Uleaborg,Grimsby,1883,9,5,deals,3
 Uleaborg,Grimsby,1885,14,15,deals,6
 Uleaborg,Grimsby,1887,2,2,firewood,1
 Uleaborg,Grimsby,1889,8,10,deals,7
-Uleaborg,Grimsby,1891,2,2,deals &c,1
+Uleaborg,Grimsby,1891,2,2,deals,2
 Uleaborg,Grimsby,1893,6,6,fir deals,2
 Uleaborg,Grimsby,1895,4,6,deals and battens,2
 Uleaborg,Grimsby,1899,4,4,sawn fir,1
@@ -20760,7 +20760,7 @@ Wyborg,Grimsby,1893,7,5,sawn fir,2
 Wyborg,Grimsby,1895,10,10,deals,3
 Wyborg,Grimsby,1897,1,1,sawn fir,1
 Wyborg,Grimsby,1899,7,7,deals,2
-Wyborg,Hull (Queen's Dock),1895,2,2,deals &c,1
+Wyborg,Hull (Queen's Dock),1895,2,2,deals,2
 Wyborg,Hull (Queen's Dock),1899,1,2,baulks,1
 Wyborg,Inverness,1895,1,1,deals and battens,1
 Wyborg,Lerwick,1885,1,1,deals,1

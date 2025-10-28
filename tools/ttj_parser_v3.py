@@ -156,8 +156,13 @@ class ShipRecord:
 class TTJContextParser:
     """Parse ship records with context from preceding lines."""
 
-    def __init__(self):
+    def __init__(self, require_destination: bool = False):
         # Ship record patterns
+        # Normalize dash separators across OCR variants: em dash, en dash, hyphen
+        self.dash_sep = r"\s*[—–-]\s*"
+        # Precision control: when True, only return records when a destination port
+        # has been resolved from context (city/dock/port headers)
+        self.require_destination = require_destination
         # Early @ format handles: "April 27. Ship @..." and "Sept. 11 Ship @..."
         # Fixed to handle abbreviations like "St. John, N.B." without truncation
         # Uses lookahead to stop at comma+em-dash or comma+digit
@@ -173,26 +178,31 @@ class TTJContextParser:
         )
 
         self.standard_dash_pattern = re.compile(
-            r'^(?:(?P<month>\w{3,9})\.\s+)?(?P<day>\d{1,2})\s+'
-            r'(?P<ship>[A-Za-z\s\.\&\'\-]+?)\s*'
-            r'(?:\(s\))?\s*-\s*'
-            r'(?P<origin>[A-Za-z\s\.,\'\-]+?)\s*-\s*'
-            r'(?P<cargo>[^-]+?)\s*-\s*'
-            r'(?P<merchant>.+?)$',
+            (
+                r'^(?:(?P<month>\w{3,9})\.\s+)?(?P<day>\d{1,2})\s+'
+                r'(?P<ship>[A-Za-z\s\.\&\'\-]+?)\s*'
+                r'(?:\(s\))?' + self.dash_sep +
+                r'(?P<origin>[A-Za-z\s\.,\'\-]+?)' + self.dash_sep +
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +
+                r'(?P<merchant>.+?)$'
+            ),
             re.IGNORECASE
         )
 
         self.condensed_dash_pattern = re.compile(
-            r'^(?P<ship>[A-Z][A-Za-z\s\.\&\'\-]+?)\s*'
-            r'(?:\(s\))?\s*-\s*'
-            r'(?P<origin>[A-Za-z\s\.,\'\-]+?)\s*-\s*'
-            r'(?P<cargo>[^-]+?)\s*-\s*'
-            r'(?P<merchant>.+?)$',
+            (
+                r'^(?P<ship>[A-Z][A-Za-z\s\.\&\'\-]+?)\s*'
+                r'(?:\(s\))?' + self.dash_sep +
+                r'(?P<origin>[A-Za-z\s\.,\'\-]+?)' + self.dash_sep +
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +
+                r'(?P<merchant>.+?)$'
+            ),
             re.IGNORECASE
         )
 
         # Context extraction patterns
-        self.port_header_pattern = re.compile(r'^([A-Z\s&\.\'\(\)]+)\.\s*$')
+        # Accept headers with or without trailing period (e.g., "LONDON" or "LONDON.")
+        self.port_header_pattern = re.compile(r"^([A-Z\s&\.\'\(\)]+)\.?\s*$")
 
         # Date header patterns (appear above ship records)
         # Example: "April 16." or "Sept. 11" or "Dec. 22"
@@ -320,7 +330,7 @@ class TTJContextParser:
                 format_type = RecordFormat.STANDARD_DASH
 
         # Try condensed dash format
-        if not match and '-' in line:
+        if not match and ('-' in line or '—' in line or '–' in line):
             match = self.condensed_dash_pattern.match(line)
             if match:
                 format_type = RecordFormat.CONDENSED
@@ -410,7 +420,10 @@ class TTJContextParser:
         # No reset - context carries forward from previous files
 
         # Process each line with context
-        for i, line in enumerate(lines):
+        i = 0
+        n = len(lines)
+        while i < n:
+            line = lines[i]
             line_stripped = line.strip()
 
             # Update persistent port/city context if we see a port header
@@ -440,6 +453,7 @@ class TTJContextParser:
                             self.current_port = port_candidate
                             # Reset city context - we've moved to a different port
                             self.current_city = None
+                i += 1
                 continue
 
             # Update persistent date context if we see a date header
@@ -452,7 +466,30 @@ class TTJContextParser:
             context_start = max(0, i - 4)
             context_lines = [lines[j].strip() for j in range(context_start, i)]
 
+            # Try parsing current line
             record = self.parse_line_with_context(line, context_lines, i + 1, year)
+
+            # If not matched, attempt joining with the next line (wrapped records)
+            consumed_extra = 0
+            if not record and (('—' in line or '–' in line or '-' in line) and i + 1 < n):
+                next_line = lines[i + 1].strip()
+                # Avoid joining if the next line is a clear header
+                if not self.port_header_pattern.match(next_line):
+                    joined = (line.strip() + ' ' + next_line).strip()
+                    record = self.parse_line_with_context(joined, context_lines, i + 1, year)
+                    if record:
+                        consumed_extra = 1
+
+            # If still not matched, try joining two lines ahead
+            if not record and (('—' in line or '–' in line or '-' in line) and i + 2 < n):
+                next1 = lines[i + 1].strip()
+                next2 = lines[i + 2].strip()
+                if not self.port_header_pattern.match(next1) and not self.port_header_pattern.match(next2):
+                    joined = (line.strip() + ' ' + next1 + ' ' + next2).strip()
+                    rec2 = self.parse_line_with_context(joined, context_lines, i + 1, year)
+                    if rec2:
+                        record = rec2
+                        consumed_extra = 2
             if record:
                 # Apply persistent context if not found in immediate context
                 if not record.destination_port and self.current_port:
@@ -476,7 +513,14 @@ class TTJContextParser:
                 record.publication_month = pub_month
                 record.publication_day = pub_day
 
+                # Optionally require destination to avoid false positives in ads
+                if self.require_destination and not record.destination_port:
+                    continue
+
                 records.append(record)
+
+            # Advance index by 1 + any consumed extra lines
+            i += 1 + consumed_extra
 
         return records
 

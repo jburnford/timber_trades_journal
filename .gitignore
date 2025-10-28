@@ -74,3 +74,12 @@ Thumbs.db
 tmp/
 temp/
 *.tmp
+
+# BL Newspaper OCR Testing (COPYRIGHTED DATA - NEVER COMMIT)
+bl_ocr_test*/
+ocr_bldata/
+*_ocr_test_results/
+# But DO include scripts and anonymized reports:
+!tools/test_bl_newspaper_ocr.py
+!run_bl_ocr_test.sh
+!BL_OCR_TEST_README.md

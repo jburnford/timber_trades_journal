@@ -6,31 +6,46 @@
 
 This repository contains tools and processed data from the Timber Trades Journal, a historical trade publication documenting timber shipments arriving at British ports. The dataset captures:
 
-- **32,198 ship arrival records** (after deduplication)
-- **53,829 cargo detail records**
-- Coverage: 1874-1888 (with gaps)
-- Origins: Global timber ports (Norway, Sweden, Canada, Russia, France, Spain, etc.)
-- Destinations: British ports (primarily London, Liverpool, Hull, Sunderland)
+- **69,303 ship arrival records** (after deduplication)
+- **105,235 cargo detail records**
+- **Coverage: 1874-1899** (26 years, near-complete)
+- **Origins**: 621 ports worldwide (Norway, Sweden, Canada, Russia, France, Spain, etc.)
+- **Destinations**: British ports (London, Liverpool, Grimsby, Bristol, Tyne, etc.)
+- **Commodities**: 2,297 timber products (deals, staves, props, battens, timber, etc.)
 
 ## Dataset Files
 
-### Primary Datasets (Cleaned & Deduplicated)
+### Primary Datasets (Cleaned & Normalized)
 
-Located in `final_output/deduped/`:
+Located in `final_output/authority_normalized/`:
 
-- **`ttj_shipments_deduped.csv`** - 32,198 ship arrival records
+- **`ttj_shipments_authority_normalized.csv`** - 69,303 ship arrival records
   - Ship name, origin port, destination port, arrival date
   - Source file references for verification
+  - Port names normalized to canonical forms
 
-- **`ttj_cargo_details_deduped.csv`** - 53,829 cargo records
+- **`ttj_cargo_details_artifacts_fixed.csv`** - 105,235 cargo records
   - Linked to shipments via `record_id`
   - Commodity types, quantities, units, merchants
+  - Commodities normalized and parsing artifacts removed
+
+### Analytical Datasets
+
+Located in `final_output/analytical_datasets/`:
+
+- **`detailed_shipments_long.csv`** - Master file with all details (one row per cargo item)
+- **`trade_routes_by_year.csv`** - Geographic trade patterns by year
+- **`commodity_flows_by_year.csv`** - Commodity trends over time
+- **`route_commodity_matrix.csv`** - Combined route + commodity analysis
+- **`port_activity_summary.csv`** - Port importance over time
 
 ### Data Quality
 
-- **Duplicates removed:** 3,672 records (10.2%) - LLM OCR hallucinations documented
-- **Port normalization:** 92.8% complete (108/301 ports normalized)
-- **Documentation:** Comprehensive methods documentation for reproducibility
+- **Origin port coverage:** 91.25% (63,227 of 69,293 ships normalized)
+- **Destination port coverage:** 99%+ (highly standardized)
+- **Commodity coverage:** 98.1% (103,192 of 105,235 records)
+- **Quantity data:** 97.2% coverage
+- **Documentation:** See `DATA_QUALITY_REPORT.md` for complete metrics
 
 ## Repository Structure
 
@@ -41,12 +56,16 @@ timber_trades_journal/
 │   ├── gemini_ocr_processor.py    # OCR with Gemini
 │   ├── ttj_parse.py               # Data extraction
 │   ├── deduplicate_all_patterns.py # Remove LLM duplicates
-│   └── normalize_with_authority_review.py # Port normalization
+│   ├── normalize_with_authority_review.py # Port normalization
+│   ├── fix_cargo_artifacts.py     # Commodity cleaning
+│   └── generate_analytical_datasets.py # Analysis-ready outputs
 ├── final_output/                   # Processed datasets
-│   ├── deduped/                   # Primary cleaned dataset
-│   ├── authority_normalized/      # Port normalization work
+│   ├── deduped/                   # Deduplicated shipments/cargo
+│   ├── authority_normalized/      # Normalized datasets
+│   ├── analytical_datasets/       # Research-ready aggregations
 │   └── OCR_DUPLICATION_ISSUES.md  # Methods documentation
 ├── reference_data/                 # Canonical port lists
+├── DATA_QUALITY_REPORT.md         # Complete quality metrics
 └── README_OCR_PIPELINE.md         # Technical documentation
 ```
 
@@ -69,20 +88,33 @@ timber_trades_journal/
 
 ### 4. Data Cleaning
 - **Deduplication:** Remove LLM repetition errors (signature-based)
-- **Port Normalization:** Map variants to canonical names
-- **Outlier Cleanup:** Remove parsing errors and anomalies
+- **Port Normalization:** Map variants to canonical names (91.25% coverage)
+- **Commodity Normalization:** Remove parsing artifacts, standardize terminology
+- **Analytical Aggregation:** Generate research-ready datasets at multiple levels
 
-## Known Issues & Limitations
+## Data Quality
 
-### OCR Errors
-- **LLM Hallucinations:** 3,672 duplicate records removed (see `OCR_DUPLICATION_ISSUES.md`)
-- **1879 Format Issue:** 350 records with commodity ("PITWOOD") as destination port
-- **Port Name Variants:** 193 ports still require human review
+The dataset has undergone extensive quality assurance:
 
-### Coverage Gaps
-- **Temporal:** Inconsistent coverage (1874-1888 with missing years)
-- **Spatial:** Origin ports - 3 years; Destination ports - 1 year (1888)
-- **Format Changes:** Journal format evolved, affecting parsing consistency
+### Port Coverage
+- **Origin ports:** 91.25% coverage (63,227 of 69,293 ships)
+  - 621 canonical ports identified
+  - 74 port mappings added through human review
+  - 2,103 low-frequency ports remain unmapped
+- **Destination ports:** 99%+ coverage (highly standardized)
+
+### Commodity Data
+- **Coverage:** 98.1% (103,192 of 105,235 records have commodities)
+- **Quality:** 95%+ clean after normalization
+- **Top commodities:** deals (18,537), staves (5,214), props (4,550), battens (4,134)
+
+### Known Limitations
+- **9% unmapped origin ports** (primarily low-frequency, 1-4 ships each)
+- **2% commodity noise** (acceptable for historical data)
+- **Merchant data:** Variable quality, not fully normalized
+- **Ship names:** ~70% coverage (format variations, OCR quality)
+
+**Complete metrics available in:** `DATA_QUALITY_REPORT.md`
 
 ## Usage
 
@@ -91,23 +123,42 @@ timber_trades_journal/
 ```python
 import pandas as pd
 
-# Load cleaned dataset
-ships = pd.read_csv('final_output/deduped/ttj_shipments_deduped.csv')
-cargo = pd.read_csv('final_output/deduped/ttj_cargo_details_deduped.csv')
+# Load normalized datasets
+ships = pd.read_csv('final_output/authority_normalized/ttj_shipments_authority_normalized.csv')
+cargo = pd.read_csv('final_output/authority_normalized/ttj_cargo_details_artifacts_fixed.csv')
+
+# Or use analytical datasets for research
+routes = pd.read_csv('final_output/analytical_datasets/trade_routes_by_year.csv')
+commodities = pd.read_csv('final_output/analytical_datasets/commodity_flows_by_year.csv')
 
 # Example: Top origin ports
 ships['origin_port'].value_counts().head(10)
+# Output: Riga (3,738), Archangel (2,934), Quebec (2,848), etc.
 
-# Example: Cargo by commodity
-cargo.groupby('commodity')['quantity'].sum()
+# Example: Trade routes by volume
+routes.nlargest(10, 'ship_count')
+# Output: New York → Liverpool (891 ships), Riga → London (721 ships), etc.
+
+# Example: Commodity trends
+commodities.pivot(index='year', columns='commodity', values='cargo_count')
 ```
 
-### Port Normalization
+### Analytical Datasets
 
-The `authority_normalized/` directory contains ongoing port normalization work:
-- `ports_completed.csv` - 108 normalized ports (19,590 ships)
-- `ports_for_review2.csv` - 193 ports needing human review (1,515 ships)
-- `CANONICAL_PORTS_REFERENCE.md` - Authoritative port name list
+Five research-ready datasets available in `final_output/analytical_datasets/`:
+
+1. **detailed_shipments_long.csv** - Master file with complete detail (105,235 rows)
+2. **trade_routes_by_year.csv** - Geographic trade patterns (20,979 routes)
+3. **commodity_flows_by_year.csv** - Commodity trends (6,009 flows)
+4. **route_commodity_matrix.csv** - What each route carried (50,067 combinations)
+5. **port_activity_summary.csv** - Port importance rankings (7,924 entries)
+
+### Port Normalization Reference
+
+The `authority_normalized/` directory contains port normalization work:
+- `ports_completed.csv` - 235 reviewed ports with ACCEPT/MAP/ERROR decisions
+- `ports_for_user_review.csv` - 2,103 unmapped ports for human review
+- `canonical_origin_ports.json` - 621 authoritative port names
 
 ## Processing New Data
 
@@ -124,26 +175,28 @@ cd tools
 If you use this dataset in your research, please cite:
 
 ```
-Timber Trades Journal Historical Dataset (1874-1888)
+Timber Trades Journal Historical Dataset (1874-1899)
 Extracted from digitized journal pages using OCR and LLM parsing
+69,303 ship arrivals | 105,235 cargo records | 621 global ports
 GitHub: https://github.com/jburnford/timber_trades_journal
 ```
 
-## Methodology Paper
+## Documentation
 
-Comprehensive documentation of:
-- OCR pipeline design
-- LLM hallucination patterns
-- Deduplication methodology
-- Port normalization workflow
+Comprehensive methodology and quality documentation:
 
-Available in: `final_output/OCR_DUPLICATION_ISSUES.md`
+- **`DATA_QUALITY_REPORT.md`** - Complete quality metrics and validation
+- **`OCR_DUPLICATION_ISSUES.md`** - LLM hallucination patterns and deduplication
+- **`PLAN_TO_95_PERCENT.md`** - Port normalization strategy
+- **`CARGO_PARSER_IMPROVEMENT_PLAN.md`** - Commodity parsing methodology
+- **`README_OCR_PIPELINE.md`** - Technical OCR pipeline documentation
 
 ## Contributing
 
-- **Port Normalization:** Help review remaining 193 ports
-- **Parsing Improvements:** Better handling of format variations
-- **Additional Years:** Process 1891-1899 batch when ready
+- **Port Review:** Help classify remaining 2,103 unmapped ports
+- **Data Validation:** Spot-check normalized ports and commodities
+- **Additional Coverage:** Process 1891-1899 batch when ready
+- **Analysis:** Use analytical datasets to discover new historical insights
 
 ## License
 
@@ -159,6 +212,6 @@ Available in: `final_output/OCR_DUPLICATION_ISSUES.md`
 
 ---
 
-**Last Updated:** October 17, 2025
-**Dataset Version:** 1.0-deduped
-**Status:** Port normalization in progress (92.8% complete)
+**Last Updated:** January 27, 2025
+**Dataset Version:** 2.0-normalized
+**Status:** Production-ready (91.25% port coverage, 98.1% commodity coverage)

@@ -423,7 +423,9 @@ class TTJContextParser:
                     # Check if this is a city header (major UK port city)
                     if port_upper in self.uk_cities:
                         self.current_city = port_candidate
-                        # Don't set current_port for city headers - wait for dock name
+                        # ALSO set current_port - most ships list under city name directly
+                        # If a dock subdivision follows, it will override this
+                        self.current_port = port_candidate
                     else:
                         # Check if this is a dock name that needs city context
                         if any(keyword in port_upper for keyword in self.dock_keywords):

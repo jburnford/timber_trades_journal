@@ -139,6 +139,10 @@ def process_all_files(ocr_dir: Path, output_dir: Path):
         'records_with_date': 0,
     }
 
+    # Create SINGLE parser for ALL files to preserve port context across document boundaries
+    # This fixes issue where port sections span multiple document groups
+    parser = TTJContextParser()
+
     # Process each group
     for group_idx, file_group in enumerate(file_groups, 1):
         group_name = file_group[0].name[:60]
@@ -147,8 +151,7 @@ def process_all_files(ocr_dir: Path, output_dir: Path):
 
         print(f"[{group_idx}/{len(file_groups)}] Processing {group_name}...")
 
-        # Create new parser for each document group (fresh context)
-        parser = TTJContextParser()
+        # Reuse same parser instance - maintains port context across ALL documents
 
         # Process group
         records = process_file_group(parser, file_group, stats)

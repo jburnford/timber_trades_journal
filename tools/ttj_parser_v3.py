@@ -311,6 +311,42 @@ class TTJContextParser:
             re.IGNORECASE
         )
 
+        # Missing ship name patterns - OCR failed to capture ship name
+        # Format: "Date OriginPort-Cargo-Merchant" (ship name missing)
+        self.missing_ship_standard_pattern = re.compile(
+            (
+                r'^(?P<month>\w{3,9})\.\s+(?P<day>\d{1,2})\s+'  # Date required
+                rf'(?P<origin>[A-Z][{origin_chars}]+?)' + self.dash_sep +  # Origin (no ship name before it)
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +  # Cargo
+                r'(?P<merchant>.+?)'  # Merchant
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
+        # Missing ship name, no date: "OriginPort-Cargo-Merchant"
+        self.missing_ship_pattern = re.compile(
+            (
+                r'^(?:\d+\s+)?'  # Optional line number
+                rf'(?P<origin>[A-Z][{origin_chars}]+?)' + self.dash_sep +  # Origin (no ship name before it)
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +  # Cargo
+                r'(?P<merchant>.+?)'  # Merchant
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
+        # Missing ship name, no merchant: "OriginPort-Cargo"
+        self.missing_ship_no_merchant_pattern = re.compile(
+            (
+                r'^(?:\d+\s+)?'  # Optional line number
+                rf'(?P<origin>[A-Z][{origin_chars}]+?)' + self.dash_sep +  # Origin (no ship name before it)
+                r'(?P<cargo>.+?)'  # Cargo to end
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
         # Context extraction patterns
         # Accept headers with or without trailing period (e.g., "LONDON" or "LONDON.")
         self.port_header_pattern = re.compile(r"^([A-Z\s&\.\'\(\)]+)\.?\s*$")
@@ -500,6 +536,23 @@ class TTJContextParser:
                 if match:
                     format_type = RecordFormat.CONDENSED
 
+            # Try missing ship name patterns (OCR failed to capture ship name)
+            # These extract origin, cargo, merchant but use placeholder for ship name
+            if not match and re.match(r'^\w+\.\s+\d{1,2}\s+', fragment):
+                match = self.missing_ship_standard_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.missing_ship_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.missing_ship_no_merchant_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
             if not match:
                 # If no match at current position but we have @ or dash in the fragment,
                 # try to skip forward to find the next potential ship
@@ -531,6 +584,10 @@ class TTJContextParser:
             cargo = groups.get('cargo', '').strip()
             merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
 
+            # If ship name is missing (OCR failed to capture it), use placeholder
+            if not ship_name:
+                ship_name = "MISSING_FROM_OCR"
+
             # Filter out false positives: skip if ship name starts with common English words
             # that appear in commentary text but never in actual ship names
             first_word = ship_name.split()[0].lower() if ship_name else ""
@@ -543,40 +600,42 @@ class TTJContextParser:
                 continue
 
             # Clean ship name: remove merchant names/terms from start
-            # Iteratively remove patterns until no more matches
-            ship_name_cleaned = ship_name
-            for _ in range(3):  # Max 3 iterations to handle nested patterns
-                before = ship_name_cleaned
-                # Remove simple merchant terms
-                ship_name_cleaned = re.sub(
-                    r'^(?:Order|Ditto|Bond|Nil|Co\.|Ltd\.|&|and)\.?\s+',
-                    '', ship_name_cleaned, flags=re.IGNORECASE
-                ).strip()
-                # Remove "Name & Name." or "Name & Co." patterns (with period at end)
-                ship_name_cleaned = re.sub(
-                    r'^(?:[A-Z][A-Za-z]*\.?\s*)+(?:&|and)\s+(?:[A-Z][A-Za-z]*\.?\s*)*[A-Z][A-Za-z]*\.\s+',
-                    '', ship_name_cleaned
-                ).strip()
-                # Remove single "Name. " pattern
-                ship_name_cleaned = re.sub(
-                    r'^[A-Z][A-Za-z]+\.\s+',
-                    '', ship_name_cleaned
-                ).strip()
-                if ship_name_cleaned == before:
-                    break  # No more changes
+            # Skip cleaning for placeholder names
+            if ship_name != "MISSING_FROM_OCR":
+                # Iteratively remove patterns until no more matches
+                ship_name_cleaned = ship_name
+                for _ in range(3):  # Max 3 iterations to handle nested patterns
+                    before = ship_name_cleaned
+                    # Remove simple merchant terms
+                    ship_name_cleaned = re.sub(
+                        r'^(?:Order|Ditto|Bond|Nil|Co\.|Ltd\.|&|and)\.?\s+',
+                        '', ship_name_cleaned, flags=re.IGNORECASE
+                    ).strip()
+                    # Remove "Name & Name." or "Name & Co." patterns (with period at end)
+                    ship_name_cleaned = re.sub(
+                        r'^(?:[A-Z][A-Za-z]*\.?\s*)+(?:&|and)\s+(?:[A-Z][A-Za-z]*\.?\s*)*[A-Z][A-Za-z]*\.\s+',
+                        '', ship_name_cleaned
+                    ).strip()
+                    # Remove single "Name. " pattern
+                    ship_name_cleaned = re.sub(
+                        r'^[A-Z][A-Za-z]+\.\s+',
+                        '', ship_name_cleaned
+                    ).strip()
+                    if ship_name_cleaned == before:
+                        break  # No more changes
 
-            if ship_name_cleaned and len(ship_name_cleaned) > 0 and ship_name_cleaned[0].isupper():
-                ship_name = ship_name_cleaned
+                if ship_name_cleaned and len(ship_name_cleaned) > 0 and ship_name_cleaned[0].isupper():
+                    ship_name = ship_name_cleaned
 
-            normalized_ship_name = normalize_header_token(ship_name)
-            if normalized_ship_name and normalized_ship_name in SKIP_HEADER_TOKENS:
-                fragment = fragment[match.end():]
-                continue
+                normalized_ship_name = normalize_header_token(ship_name)
+                if normalized_ship_name and normalized_ship_name in SKIP_HEADER_TOKENS:
+                    fragment = fragment[match.end():]
+                    continue
 
-            # Skip obvious advertisement headers and non-ship lines that slip through
-            if ship_name and not any(ch.islower() for ch in ship_name):
-                fragment = fragment[match.end():]
-                continue
+                # Skip obvious advertisement headers and non-ship lines that slip through
+                if ship_name and not any(ch.islower() for ch in ship_name):
+                    fragment = fragment[match.end():]
+                    continue
 
             if self._origin_is_commodity(origin_port):
                 cargo = f"{origin_port} {cargo}".strip(' ,;')

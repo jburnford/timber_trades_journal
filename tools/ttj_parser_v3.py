@@ -253,6 +253,64 @@ class TTJContextParser:
             re.IGNORECASE
         )
 
+        # Condensed format with no merchant field: "Ship-Origin-cargo" (common in 1899)
+        # This handles records like "Kelso (s)-Stockholm-2,051 doors, deals, etc."
+        self.condensed_no_merchant_pattern = re.compile(
+            (
+                r'^(?:\d+\s+)?'  # Optional index number or day
+                rf'(?P<ship>[A-Z][{text_chars}]+?)\s*'
+                r'(?:\(s\))?' + self.dash_sep +
+                rf'(?P<origin>[{origin_chars}]+?)' + self.dash_sep +
+                r'(?P<cargo>.+?)'  # Cargo to end of record
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
+        # Space-separated format: "Ship Name OriginPort-Cargo-Merchant" (OCR missing dash)
+        # Handles cases like "Emily Rickert Tornea-546 lds..." or "Hardi Skelleftea-521 lds..."
+        # where space appears instead of dash between ship and origin
+        # Use lookahead to ensure we capture multi-word ship names correctly
+        self.space_separated_pattern = re.compile(
+            (
+                r'^(?:\d+\s+)?'  # Optional day number
+                rf'(?P<ship>(?:[A-Z][{text_chars}]+\s+)+?)'  # Ship name (one or more words)
+                rf'(?P<origin>[A-Z][{origin_chars}]+?)(?=' + self.dash_sep + r')'  # Origin word before dash
+                + self.dash_sep +
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +  # Cargo
+                r'(?P<merchant>.+?)'  # Merchant
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
+        # Space-separated format without merchant: "Ship Name OriginPort-Cargo"
+        self.space_separated_no_merchant_pattern = re.compile(
+            (
+                r'^(?:\d+\s+)?'  # Optional day number
+                rf'(?P<ship>(?:[A-Z][{text_chars}]+\s+)+?)'  # Ship name (one or more words)
+                rf'(?P<origin>[A-Z][{origin_chars}]+?)(?=' + self.dash_sep + r')'  # Origin word before dash
+                + self.dash_sep +
+                r'(?P<cargo>.+?)'  # Cargo to end
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
+        # Space-separated standard format with date: "Aug. 8 Ship Name OriginPort-Cargo-Merchant"
+        self.space_separated_standard_pattern = re.compile(
+            (
+                r'^(?P<month>\w{3,9})\.\s+(?P<day>\d{1,2})\s+'  # Date required
+                rf'(?P<ship>(?:[A-Z][{text_chars}]+\s+)+?)'  # Ship name (one or more words)
+                rf'(?P<origin>[A-Z][{origin_chars}]+?)(?=' + self.dash_sep + r')'  # Origin word before dash
+                + self.dash_sep +
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +  # Cargo
+                r'(?P<merchant>.+?)'  # Merchant
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
         # Context extraction patterns
         # Accept headers with or without trailing period (e.g., "LONDON" or "LONDON.")
         self.port_header_pattern = re.compile(r"^([A-Z\s&\.\'\(\)]+)\.?\s*$")
@@ -406,6 +464,12 @@ class TTJContextParser:
                 if match:
                     format_type = RecordFormat.STANDARD_DASH
 
+            # Try space-separated standard format (date with space instead of dash)
+            if not match and re.match(r'^\w+\.\s+\d{1,2}\s+', fragment):
+                match = self.space_separated_standard_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.STANDARD_DASH
+
             # Try condensed dash format (with date)
             if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
                 match = self.condensed_dash_pattern.match(fragment)
@@ -415,6 +479,24 @@ class TTJContextParser:
             # Try condensed dash format without date (fallback)
             if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
                 match = self.condensed_no_date_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
+            # Try condensed format with no merchant field (common in 1899)
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.condensed_no_merchant_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
+            # Try space-separated format (OCR missing dash between ship and origin)
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.space_separated_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
+            # Try space-separated format without merchant
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.space_separated_no_merchant_pattern.match(fragment)
                 if match:
                     format_type = RecordFormat.CONDENSED
 
@@ -448,6 +530,17 @@ class TTJContextParser:
             origin_port = groups.get('origin', '').strip()
             cargo = groups.get('cargo', '').strip()
             merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
+
+            # Filter out false positives: skip if ship name starts with common English words
+            # that appear in commentary text but never in actual ship names
+            first_word = ship_name.split()[0].lower() if ship_name else ""
+            if first_word in ('at', 'the', 'our', 'there', 'this', 'that', 'these', 'those',
+                              'in', 'on', 'from', 'to', 'for', 'with', 'by', 'as', 'but',
+                              'if', 'when', 'where', 'who', 'what', 'which', 'how', 'why',
+                              'all', 'some', 'any', 'many', 'most', 'such', 'other'):
+                # Skip this match, it's likely commentary text
+                fragment = fragment[match.end():].lstrip(' ,;.')
+                continue
 
             # Clean ship name: remove merchant names/terms from start
             # Iteratively remove patterns until no more matches

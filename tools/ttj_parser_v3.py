@@ -179,12 +179,14 @@ class TTJContextParser:
         # Normalize dash separators across OCR variants: em dash, en dash, hyphen
         self.dash_sep = r"\s*[—–-]\s*"
         # Lookahead used to detect the start of another ship entry within the same line.
-        # Matches delimiters (comma/semicolon) followed by an optional numeric index and a ship
-        # name that eventually hits another dash. This prevents one match from swallowing
+        # Matches delimiters (comma/semicolon/period) followed by an optional numeric index and a ship
+        # name that eventually hits a dash or @ sign. This prevents one match from swallowing
         # subsequent ships when OCR failed to insert newlines.
-        base_name_class = r"[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\(\)\.\'&\s-]{0,40}[—–-]"
+        base_name_class_dash = r"[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\(\)\.\'&\s-]{0,40}[—–-]"
+        base_name_class_at = r"[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\(\)\.\'&\s-]{0,40}@"
         self.next_ship_lookahead = (
-            rf'(?=(?:\s*[;,]\s*(?:\d+\s+)?{base_name_class})|(?:\s+(?:\d+\s+)?{base_name_class})|$)'
+            rf'(?=(?:\s*[;,\.]\s*(?:\d+\s+)?(?:{base_name_class_dash}|{base_name_class_at}))'
+            rf'|(?:\s+(?:\d+\s+)?(?:{base_name_class_dash}|{base_name_class_at}))|$)'
         )
         # Precision control: when True, only return records when a destination port
         # has been resolved from context (city/dock/port headers)
@@ -222,9 +224,25 @@ class TTJContextParser:
             re.IGNORECASE
         )
 
+        # Condensed dash format with date: "Dec. 24 Cleveland-Mobile-cargo-merchant" or "25 Patent-Sundswall-cargo-merchant"
         self.condensed_dash_pattern = re.compile(
             (
-                r'^(?:\d+\s+)?'
+                r'^(?:(?P<month>\w{3,9})\.\s+)?'  # Optional month
+                r'(?P<day>\d{1,2})\s+'  # Day (required in this pattern)
+                rf'(?P<ship>[A-Z][{text_chars}]+?)\s*'
+                r'(?:\(s\))?' + self.dash_sep +
+                rf'(?P<origin>[{origin_chars}]+?)' + self.dash_sep +
+                r'(?P<cargo>[^—–-]+?)' + self.dash_sep +
+                r'(?P<merchant>.+?)'
+                + self.next_ship_lookahead
+            ),
+            re.IGNORECASE
+        )
+
+        # Condensed dash format without date: "Ship-Origin-cargo-merchant" (fallback for records with no date)
+        self.condensed_no_date_pattern = re.compile(
+            (
+                r'^(?:\d+\s+)?'  # Optional index number
                 rf'(?P<ship>[A-Z][{text_chars}]+?)\s*'
                 r'(?:\(s\))?' + self.dash_sep +
                 rf'(?P<origin>[{origin_chars}]+?)' + self.dash_sep +
@@ -320,12 +338,19 @@ class TTJContextParser:
         Returns:
             Tuple of (month, day) if found
         """
-        # Search backwards through context for date headers
+        # Search backwards through context for date headers or dates at start of lines
         for line in reversed(context_lines):
             line = line.strip()
+            # Try standalone date header first (e.g., "April 16.")
             match = self.date_header_pattern.match(line)
             if match:
                 return match.group('month'), int(match.group('day'))
+
+            # Also try to extract date from beginning of ship record lines (e.g., "Dec. 24 Ship-Origin...")
+            date_prefix = re.match(r'^(?P<month>\w{3,9})\.\s+(?P<day>\d{1,2})\s+', line, re.IGNORECASE)
+            if date_prefix:
+                return date_prefix.group('month'), int(date_prefix.group('day'))
+
         return None, None
 
     def parse_line_with_context(self, line: str, context_lines: List[str],
@@ -381,9 +406,15 @@ class TTJContextParser:
                 if match:
                     format_type = RecordFormat.STANDARD_DASH
 
-            # Try condensed dash format
+            # Try condensed dash format (with date)
             if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
                 match = self.condensed_dash_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
+
+            # Try condensed dash format without date (fallback)
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.condensed_no_date_pattern.match(fragment)
                 if match:
                     format_type = RecordFormat.CONDENSED
 
@@ -482,10 +513,12 @@ class TTJContextParser:
                 fragment = remainder_fragment
                 continue
 
-            remainder = fragment[match.end():]
+            # Get remainder and strip leading delimiters
+            remainder = fragment[match.end():].lstrip(' ,;.')
             if not remainder:
                 break
             fragment = remainder
+            # Continue looping to find more ships on the same line
 
         return records
 

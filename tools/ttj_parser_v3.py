@@ -428,6 +428,32 @@ class TTJContextParser:
             cargo = groups.get('cargo', '').strip()
             merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
 
+            # Clean ship name: remove merchant names/terms from start
+            # Iteratively remove patterns until no more matches
+            ship_name_cleaned = ship_name
+            for _ in range(3):  # Max 3 iterations to handle nested patterns
+                before = ship_name_cleaned
+                # Remove simple merchant terms
+                ship_name_cleaned = re.sub(
+                    r'^(?:Order|Ditto|Bond|Nil|Co\.|Ltd\.|&|and)\.?\s+',
+                    '', ship_name_cleaned, flags=re.IGNORECASE
+                ).strip()
+                # Remove "Name & Name." or "Name & Co." patterns (with period at end)
+                ship_name_cleaned = re.sub(
+                    r'^(?:[A-Z][A-Za-z]*\.?\s*)+(?:&|and)\s+(?:[A-Z][A-Za-z]*\.?\s*)*[A-Z][A-Za-z]*\.\s+',
+                    '', ship_name_cleaned
+                ).strip()
+                # Remove single "Name. " pattern
+                ship_name_cleaned = re.sub(
+                    r'^[A-Z][A-Za-z]+\.\s+',
+                    '', ship_name_cleaned
+                ).strip()
+                if ship_name_cleaned == before:
+                    break  # No more changes
+
+            if ship_name_cleaned and len(ship_name_cleaned) > 0 and ship_name_cleaned[0].isupper():
+                ship_name = ship_name_cleaned
+
             normalized_ship_name = normalize_header_token(ship_name)
             if normalized_ship_name and normalized_ship_name in SKIP_HEADER_TOKENS:
                 fragment = fragment[match.end():]
@@ -624,8 +650,9 @@ class TTJContextParser:
         if not text:
             return False
         snippet = text.lstrip(' ,;')
+        # Match both dash-format and @ format ships
         match = re.match(
-            r'^(?:\d+\s+)?([A-Z][A-Za-zÀ-ÖØ-öø-ÿ\.\'&\s-]{1,60})(?:\(s\))?\s*[—–-]',
+            r'^(?:\d+\s+)?([A-Z][A-Za-zÀ-ÖØ-öø-ÿ\.\'&\s-]{1,60})(?:\(s\))?\s*(?:[—–-]|@)',
             snippet
         )
         if not match:

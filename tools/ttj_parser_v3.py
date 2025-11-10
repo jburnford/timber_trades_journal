@@ -87,7 +87,8 @@ SKIP_HEADERS = {
     'LATHWOOD', 'WEATHERBOARDS', 'SLATING BATTENS', 'MOULDING', 'MOULDINGS',
     'VENEERS', 'SLAB BOARDS', 'POLES', 'SPARS', 'DECK DEALS', 'LATHS',
     'PLASTERERS\' LATHS', 'BEAD', 'TORUS SKIRTING', 'DEAL', 'ERABLE',
-    'HEWN BALK', 'AHOGANY',
+    'HEWN BALK', 'AHOGANY', 'BOARDS', 'BATTENS', 'FIREWOOD', 'TIMBER',
+    'DEALS', 'LOGS', 'STICKS', 'PIECES', 'OARS', 'WOOD PULP',
 
     # Advertisements and misc
     'CONTRACTS OPEN', 'TRADE MARK', 'ILLUSTRATED CATALOGUES FREE ON APPLICATION',
@@ -106,6 +107,11 @@ SKIP_HEADERS = {
     'HORTICULTURAL TIMBER MERCHANT', 'THE STANDARD TIMBER MEASURER',
     'GANDY\'S PATENT COTTON BELTING', 'THE GANDY BELT',
 
+    # Section headings frequently followed by summary tables (no single ship)
+    'STAVES', 'STAVES.', 'THIS IS A WELL-KNOWN AND MUCH APPRECIATED PUBLICATION',
+    'MOULDING.', 'MOULDINGS.', 'DOORS.', 'THE TIMBER TRADES JOURNAL.',
+    'ATLANTA', 'CARL XV', 'OSBORNE', 'PERSIAN MONARCH', 'HIGGS', 'G. E. ARNOLD',
+
     # Company names / abbreviations
     'MAURICE GANDY', 'THOMAS ROEBUCK & COMPANY (LIMITED)',
     'JOSEPH GARDNER & SONS', 'ROBERT PARKER & CO', 'LAVY BROS',
@@ -120,6 +126,18 @@ SKIP_HEADERS = {
     'J. H. ROW... AU', 'B. & F. S. WHARF', 'B. & F. WHARF',
     'Y COMMERCIAL DOCKS', 'COLUMBIA', 'MILWALL'
 }
+
+
+def normalize_header_token(text: Optional[str]) -> str:
+    """Normalize a candidate header token for skip-list comparison."""
+    if not text:
+        return ''
+    normalized = text.upper().replace('—', ' ').replace('–', ' ').replace('-', ' ')
+    normalized = re.sub(r'[^A-Z0-9& ]+', '', normalized)
+    return ' '.join(normalized.split())
+
+
+SKIP_HEADER_TOKENS = {normalize_header_token(token) for token in SKIP_HEADERS}
 
 
 @dataclass
@@ -160,42 +178,59 @@ class TTJContextParser:
         # Ship record patterns
         # Normalize dash separators across OCR variants: em dash, en dash, hyphen
         self.dash_sep = r"\s*[—–-]\s*"
+        # Lookahead used to detect the start of another ship entry within the same line.
+        # Matches delimiters (comma/semicolon) followed by an optional numeric index and a ship
+        # name that eventually hits another dash. This prevents one match from swallowing
+        # subsequent ships when OCR failed to insert newlines.
+        base_name_class = r"[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\(\)\.\'&\s-]{0,40}[—–-]"
+        self.next_ship_lookahead = (
+            rf'(?=(?:\s*[;,]\s*(?:\d+\s+)?{base_name_class})|(?:\s+(?:\d+\s+)?{base_name_class})|$)'
+        )
         # Precision control: when True, only return records when a destination port
         # has been resolved from context (city/dock/port headers)
         self.require_destination = require_destination
         # Early @ format handles: "April 27. Ship @..." and "Sept. 11 Ship @..."
         # Fixed to handle abbreviations like "St. John, N.B." without truncation
         # Uses lookahead to stop at comma+em-dash or comma+digit
+        name_chars = r"A-Za-zÀ-ÖØ-öø-ÿ"
+        text_chars = r"A-Za-zÀ-ÖØ-öø-ÿ\s\.\&\'\-"
+        origin_chars = r"A-Za-zÀ-ÖØ-öø-ÿ\s\.,\'\-&"
+
         self.early_at_pattern = re.compile(
             r'^(?:(?P<month>\w{3,9})\.?\s+(?P<day>\d{1,2})\.?\s+)?'
-            r'(?P<ship>[A-Za-z\s\.\&\'\-]+?)\s*'
+            rf'(?P<ship>[{text_chars}]+?)\s*'
             r'(?:\(s\))?\s*'
             r'@\s*'
-            r'(?P<origin>[A-Za-z\s\.,\-&]+?)'
+            rf'(?P<origin>[{origin_chars}]+?)'
             r',?\s*(?=[—\d])'  # Optional comma, then lookahead for em-dash or digit
-            r'(?P<cargo>.*?)$',
+            r'(?P<cargo>.*?)'
+            + self.next_ship_lookahead,
             re.IGNORECASE
         )
 
         self.standard_dash_pattern = re.compile(
             (
                 r'^(?:(?P<month>\w{3,9})\.\s+)?(?P<day>\d{1,2})\s+'
-                r'(?P<ship>[A-Za-z\s\.\&\'\-]+?)\s*'
+                r'(?:\d+\s+)?'
+                rf'(?P<ship>[{text_chars}]+?)\s*'
                 r'(?:\(s\))?' + self.dash_sep +
-                r'(?P<origin>[A-Za-z\s\.,\'\-]+?)' + self.dash_sep +
+                rf'(?P<origin>[{origin_chars}]+?)' + self.dash_sep +
                 r'(?P<cargo>[^—–-]+?)' + self.dash_sep +
-                r'(?P<merchant>.+?)$'
+                r'(?P<merchant>.+?)'
+                + self.next_ship_lookahead
             ),
             re.IGNORECASE
         )
 
         self.condensed_dash_pattern = re.compile(
             (
-                r'^(?P<ship>[A-Z][A-Za-z\s\.\&\'\-]+?)\s*'
+                r'^(?:\d+\s+)?'
+                rf'(?P<ship>[A-Z][{text_chars}]+?)\s*'
                 r'(?:\(s\))?' + self.dash_sep +
-                r'(?P<origin>[A-Za-z\s\.,\'\-]+?)' + self.dash_sep +
+                rf'(?P<origin>[{origin_chars}]+?)' + self.dash_sep +
                 r'(?P<cargo>[^—–-]+?)' + self.dash_sep +
-                r'(?P<merchant>.+?)$'
+                r'(?P<merchant>.+?)'
+                + self.next_ship_lookahead
             ),
             re.IGNORECASE
         )
@@ -294,7 +329,7 @@ class TTJContextParser:
         return None, None
 
     def parse_line_with_context(self, line: str, context_lines: List[str],
-                               line_number: int = 0, year: int = None) -> Optional[ShipRecord]:
+                               line_number: int = 0, year: int = None) -> List[ShipRecord]:
         """
         Parse a single line with awareness of preceding context.
 
@@ -305,93 +340,268 @@ class TTJContextParser:
             year: Publication year
 
         Returns:
-            ShipRecord if pattern matched, None otherwise
+            List of ShipRecord objects (may be empty if no matches)
         """
-        line = line.strip()
+        original_line = line.strip()
+        records: List[ShipRecord] = []
 
         # Skip empty lines and port headers
-        if not line or self.port_header_pattern.match(line):
-            return None
+        if not original_line or self.port_header_pattern.match(original_line):
+            return records
 
-        # Try each pattern
-        match = None
-        format_type = None
+        fragment = original_line
+        while fragment:
+            fragment = fragment.lstrip(' ,;')
+            if not fragment:
+                break
 
-        # Try early @ format
-        if '@' in line:
-            match = self.early_at_pattern.match(line)
-            if match:
-                format_type = RecordFormat.EARLY_AT
+            previous_fragment = None
+            while fragment and fragment != previous_fragment:
+                previous_fragment = fragment
+                stripped_fragment = self._strip_aggregate_prefix(fragment)
+                if stripped_fragment != fragment:
+                    fragment = stripped_fragment.lstrip(' ,;')
+                    continue
+                break
+            if not fragment:
+                break
 
-        # Try standard dash format (with date)
-        if not match and re.match(r'^\w+\.\s+\d{1,2}\s+', line):
-            match = self.standard_dash_pattern.match(line)
-            if match:
-                format_type = RecordFormat.STANDARD_DASH
+            match = None
+            format_type = None
 
-        # Try condensed dash format
-        if not match and ('-' in line or '—' in line or '–' in line):
-            match = self.condensed_dash_pattern.match(line)
-            if match:
-                format_type = RecordFormat.CONDENSED
+            # Try early @ format
+            if '@' in fragment:
+                match = self.early_at_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.EARLY_AT
 
-        if not match:
-            return None
+            # Try standard dash format (with date)
+            if not match and re.match(r'^\w+\.\s+\d{1,2}\s+', fragment):
+                match = self.standard_dash_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.STANDARD_DASH
 
-        # Build basic record from pattern
-        groups = match.groupdict()
+            # Try condensed dash format
+            if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
+                match = self.condensed_dash_pattern.match(fragment)
+                if match:
+                    format_type = RecordFormat.CONDENSED
 
-        ship_name = groups.get('ship', '').strip()
-        origin_port = groups.get('origin', '').strip()
-        cargo = groups.get('cargo', '').strip()
-        merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
+            if not match:
+                break
 
-        # Fix encoding for origin port (double-encoded UTF-8)
-        origin_port = fix_encoding(origin_port) if origin_port else origin_port
+            groups = match.groupdict()
 
-        # Extract date from line or context
-        day = groups.get('day')
-        month = groups.get('month')
+            ship_name = groups.get('ship', '').strip()
+            origin_port = groups.get('origin', '').strip()
+            cargo = groups.get('cargo', '').strip()
+            merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
 
-        # If no date in line, check context
-        if not day or not month:
-            context_month, context_day = self.extract_date_from_context(context_lines)
-            if not month:
-                month = context_month
-            if not day and context_day:
-                day = context_day
+            normalized_ship_name = normalize_header_token(ship_name)
+            if normalized_ship_name and normalized_ship_name in SKIP_HEADER_TOKENS:
+                fragment = fragment[match.end():]
+                continue
 
-        # Extract destination port from context
-        destination_port = self.extract_port_from_context(context_lines)
+            # Skip obvious advertisement headers and non-ship lines that slip through
+            if ship_name and not any(ch.islower() for ch in ship_name):
+                fragment = fragment[match.end():]
+                continue
 
-        # Fix encoding for destination port (double-encoded UTF-8)
-        destination_port = fix_encoding(destination_port) if destination_port else destination_port
+            if self._origin_is_commodity(origin_port):
+                cargo = f"{origin_port} {cargo}".strip(' ,;')
+                origin_port = None
 
-        # Detect steamship
-        is_steamship = '(s)' in line
+            cargo, merchant, extra_fragment = self._split_order_chain(cargo, merchant)
+            cargo = cargo.strip(' ,;') if cargo else cargo
+            if merchant and not self._is_valid_merchant_value(merchant):
+                merchant = None
 
-        # Clean ship name
-        ship_name = ship_name.replace('(s)', '').strip()
+            if merchant:
+                cargo = f"{cargo}-{merchant}".strip() if cargo else merchant.strip()
 
-        # Build record
-        record = ShipRecord(
-            raw_line=line,
-            line_number=line_number,
-            preceding_context=context_lines[-4:],  # Keep last 4 lines
-            ship_name=ship_name,
-            origin_port=origin_port,
-            destination_port=destination_port,
-            cargo=cargo,
-            merchant=merchant,
-            day=int(day) if day else None,
-            month=month,
-            year=year,
-            is_steamship=is_steamship,
-            format_type=format_type,
-            confidence=1.0 if destination_port else 0.7  # Lower confidence if no port found
+            remainder_fragment = fragment[match.end():].strip()
+            if extra_fragment:
+                extra_fragment = extra_fragment.strip()
+                if remainder_fragment:
+                    remainder_fragment = f"{extra_fragment} {remainder_fragment}"
+                else:
+                    remainder_fragment = extra_fragment
+
+            if remainder_fragment and not self._looks_like_new_ship(remainder_fragment):
+                if cargo:
+                    if remainder_fragment.startswith(';'):
+                        cargo = f"{cargo}{remainder_fragment}"
+                    elif remainder_fragment.startswith(','):
+                        cargo = f"{cargo};{remainder_fragment[1:]}".strip()
+                    else:
+                        cargo = f"{cargo} {remainder_fragment}"
+                else:
+                    cargo = remainder_fragment
+                remainder_fragment = ''
+
+            # Fix encoding for origin port (double-encoded UTF-8)
+            origin_port = fix_encoding(origin_port) if origin_port else origin_port
+
+            # Extract date from line or context
+            day = groups.get('day')
+            month = groups.get('month')
+
+            if not day or not month:
+                context_month, context_day = self.extract_date_from_context(context_lines)
+                if not month:
+                    month = context_month
+                if not day and context_day:
+                    day = context_day
+
+            destination_port = self.extract_port_from_context(context_lines)
+            destination_port = fix_encoding(destination_port) if destination_port else destination_port
+
+            is_steamship = '(s)' in fragment
+            ship_name = ship_name.replace('(s)', '').strip()
+
+            record = ShipRecord(
+                raw_line=fragment,
+                line_number=line_number,
+                preceding_context=context_lines[-4:],
+                ship_name=ship_name,
+                origin_port=origin_port,
+                destination_port=destination_port,
+                cargo=cargo,
+                merchant=merchant,
+                day=int(day) if day else None,
+                month=month,
+                year=year,
+                is_steamship=is_steamship,
+                format_type=format_type,
+                confidence=1.0 if destination_port else 0.7
+            )
+
+            records.append(record)
+
+            if remainder_fragment:
+                fragment = remainder_fragment
+                continue
+
+            remainder = fragment[match.end():]
+            if not remainder:
+                break
+            fragment = remainder
+
+        return records
+
+    def _strip_aggregate_prefix(self, text: str) -> str:
+        fragment = text.lstrip(' ,;')
+        lowered = fragment.lower()
+
+        if lowered.startswith('joinery-'):
+            dash_idx = fragment.find('-')
+            if dash_idx != -1:
+                fragment = fragment[dash_idx + 1:].lstrip(' ,;')
+                lowered = fragment.lower()
+
+        if lowered.startswith('from '):
+            dash_idx = fragment.find('-')
+            if 0 < dash_idx < 60:
+                fragment = fragment[dash_idx + 1:].lstrip(' ,;')
+                lowered = fragment.lower()
+
+        if lowered.startswith('ex '):
+            fragment = fragment[3:].lstrip(' ,;')
+
+        while fragment and not self._looks_like_new_ship(fragment):
+            dash_idx = fragment.find('-')
+            if dash_idx == -1:
+                break
+            fragment = fragment[dash_idx + 1:].lstrip(' ,;')
+
+        if fragment.lower().startswith('order '):
+            candidate = fragment.split(' ', 1)[1].lstrip(' ,;')
+            if self._looks_like_new_ship(candidate):
+                fragment = candidate
+
+        return fragment
+
+    def _is_valid_merchant_value(self, merchant: Optional[str]) -> bool:
+        if not merchant:
+            return False
+        candidate = merchant.strip(' ,;')
+        if not candidate:
+            return False
+        if candidate.lower() in {'order', 'to order', 'in bond', 'nil', 'ditto'}:
+            return False
+        if any(ch.isdigit() for ch in candidate):
+            return False
+        if any(delim in candidate for delim in {';', ':'}):
+            return False
+        normalized = normalize_header_token(candidate)
+        if normalized in SKIP_HEADER_TOKENS:
+            return False
+        return any(ch.isalpha() for ch in candidate)
+
+    def _origin_is_commodity(self, origin: Optional[str]) -> bool:
+        if not origin:
+            return False
+        normalized_origin = normalize_header_token(origin)
+        if normalized_origin and normalized_origin in SKIP_HEADER_TOKENS:
+            return True
+        return not any(ch.isalpha() and ch.isupper() for ch in origin)
+
+    def _split_order_chain(
+        self,
+        cargo: Optional[str],
+        merchant: Optional[str]
+    ) -> Tuple[Optional[str], Optional[str], Optional[str]]:
+        if not cargo:
+            return cargo, merchant, None
+
+        cargo_clean = cargo.strip(' ,;')
+        if not cargo_clean:
+            return cargo_clean, merchant, None
+
+        remainder: Optional[str] = None
+        order_match = re.search(
+            r'\border\b\s+(?P<next>(?:\d+\s+)?[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\.\'&\s\(\)-]{2,})$',
+            cargo_clean,
+            flags=re.IGNORECASE
         )
 
-        return record
+        if order_match:
+            remainder_candidate = order_match.group('next').strip(' ,;')
+            if remainder_candidate:
+                normalized = normalize_header_token(remainder_candidate.split('-')[0])
+                if normalized not in SKIP_HEADER_TOKENS and any(ch.isalpha() for ch in remainder_candidate):
+                    cargo_clean = cargo_clean[:order_match.start()].strip(' ,;')
+                    if not cargo_clean:
+                        cargo_clean = 'Order'
+                    remainder = remainder_candidate
+
+        adjusted_merchant = merchant
+        if remainder:
+            merchant_tail = merchant.strip(' ,;') if merchant else ''
+            if merchant_tail:
+                remainder = f"{remainder}-{merchant_tail}"
+                adjusted_merchant = None
+
+        if adjusted_merchant and not self._is_valid_merchant_value(adjusted_merchant):
+            adjusted_merchant = None
+
+        return cargo_clean, adjusted_merchant, remainder
+
+    def _looks_like_new_ship(self, text: str) -> bool:
+        if not text:
+            return False
+        snippet = text.lstrip(' ,;')
+        match = re.match(
+            r'^(?:\d+\s+)?([A-Z][A-Za-zÀ-ÖØ-öø-ÿ\.\'&\s-]{1,60})(?:\(s\))?\s*[—–-]',
+            snippet
+        )
+        if not match:
+            return False
+        candidate = match.group(1).strip()
+        normalized = normalize_header_token(candidate)
+        if normalized in SKIP_HEADER_TOKENS:
+            return False
+        return True
 
     def parse_file(self, file_path: Path, year: int = None) -> List[ShipRecord]:
         """
@@ -467,57 +677,54 @@ class TTJContextParser:
             context_lines = [lines[j].strip() for j in range(context_start, i)]
 
             # Try parsing current line
-            record = self.parse_line_with_context(line, context_lines, i + 1, year)
+            records_from_line = self.parse_line_with_context(line, context_lines, i + 1, year)
 
             # If not matched, attempt joining with the next line (wrapped records)
             consumed_extra = 0
-            if not record and (('—' in line or '–' in line or '-' in line) and i + 1 < n):
+            if not records_from_line and (('—' in line or '–' in line or '-' in line) and i + 1 < n):
                 next_line = lines[i + 1].strip()
                 # Avoid joining if the next line is a clear header
                 if not self.port_header_pattern.match(next_line):
                     joined = (line.strip() + ' ' + next_line).strip()
-                    record = self.parse_line_with_context(joined, context_lines, i + 1, year)
-                    if record:
+                    records_from_line = self.parse_line_with_context(joined, context_lines, i + 1, year)
+                    if records_from_line:
                         consumed_extra = 1
 
             # If still not matched, try joining two lines ahead
-            if not record and (('—' in line or '–' in line or '-' in line) and i + 2 < n):
+            if not records_from_line and (('—' in line or '–' in line or '-' in line) and i + 2 < n):
                 next1 = lines[i + 1].strip()
                 next2 = lines[i + 2].strip()
                 if not self.port_header_pattern.match(next1) and not self.port_header_pattern.match(next2):
                     joined = (line.strip() + ' ' + next1 + ' ' + next2).strip()
                     rec2 = self.parse_line_with_context(joined, context_lines, i + 1, year)
                     if rec2:
-                        record = rec2
+                        records_from_line = rec2
                         consumed_extra = 2
-            if record:
+            if records_from_line:
                 # Apply persistent context if not found in immediate context
-                if not record.destination_port and self.current_port:
-                    record.destination_port = self.current_port
-                    record.confidence = 0.9  # Slightly lower than immediate context
+                for record in records_from_line:
+                    if not record.destination_port and self.current_port:
+                        record.destination_port = self.current_port
+                        record.confidence = 0.9  # Slightly lower than immediate context
 
-                if not record.month and self.current_month:
-                    record.month = self.current_month
-                if not record.day and self.current_day:
-                    record.day = self.current_day
+                    if not record.month and self.current_month:
+                        record.month = self.current_month
+                    if not record.day and self.current_day:
+                        record.day = self.current_day
 
-                # Update persistent context from this record
-                # (dates in record lines act as context for subsequent records)
-                if record.month:
-                    self.current_month = record.month
-                if record.day:
-                    self.current_day = record.day
+                    if record.month:
+                        self.current_month = record.month
+                    if record.day:
+                        self.current_day = record.day
 
-                # Add publication date from filename
-                record.publication_year = pub_year
-                record.publication_month = pub_month
-                record.publication_day = pub_day
+                    record.publication_year = pub_year
+                    record.publication_month = pub_month
+                    record.publication_day = pub_day
 
-                # Optionally require destination to avoid false positives in ads
-                if self.require_destination and not record.destination_port:
-                    continue
+                    if self.require_destination and not record.destination_port:
+                        continue
 
-                records.append(record)
+                    records.append(record)
 
             # Advance index by 1 + any consumed extra lines
             i += 1 + consumed_extra

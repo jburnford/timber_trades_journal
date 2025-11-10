@@ -10,6 +10,21 @@ from pathlib import Path
 from cargo_parser import CargoParser
 
 
+def _is_valid_merchant(value: str) -> bool:
+    if not value:
+        return False
+    candidate = value.strip(' ,;')
+    if not candidate:
+        return False
+    if candidate.lower() in {'order', 'to order', 'in bond', 'nil', 'ditto'}:
+        return False
+    if any(ch.isdigit() for ch in candidate):
+        return False
+    if any(delim in candidate for delim in {';', ':'}):
+        return False
+    return True
+
+
 def generate_two_csv_output(input_csv: Path, output_dir: Path):
     """
     Generate shipments and cargo_details CSV files.
@@ -86,6 +101,8 @@ def generate_two_csv_output(input_csv: Path, output_dir: Path):
             stats['total_ships'] += 1
 
             # Write shipment record
+            ship_merchant = row['merchant'] if _is_valid_merchant(row['merchant']) else ''
+
             ship_record = {
                 'record_id': record_id,
                 'source_file': row['source_file'],
@@ -93,7 +110,7 @@ def generate_two_csv_output(input_csv: Path, output_dir: Path):
                 'ship_name': row['ship_name'],
                 'origin_port': row['origin_port'],
                 'destination_port': row['destination_port'],
-                'merchant': row['merchant'],  # From parser (standard/condensed formats)
+                'merchant': ship_merchant,  # From parser (standard/condensed formats)
                 'arrival_day': row['arrival_day'],
                 'arrival_month': row['arrival_month'],
                 'arrival_year': row['arrival_year'],
@@ -120,7 +137,7 @@ def generate_two_csv_output(input_csv: Path, output_dir: Path):
                     cargo_id += 1
 
                     # Use merchant from cargo item if available, otherwise from ship record
-                    merchant = item.merchant if item.merchant else row['merchant']
+                    merchant = item.merchant if (item.merchant and _is_valid_merchant(item.merchant)) else ship_merchant
 
                     cargo_record = {
                         'cargo_id': cargo_id,

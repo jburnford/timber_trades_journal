@@ -1,5 +1,5 @@
 port_type,port_name,ship_count
-
+,,
 === DESTINATION PORTS ===,,
 destination,TILBURY DOCK,355
 destination,QUEEN'S DOCK,326
@@ -162,7 +162,7 @@ destination,EX PORT MELBOURNE,1
 destination,DO FEET SUPER,1
 destination,CORRECTION,1
 destination,WEMYSS,1
-
+,,
 === ORIGIN PORTS ===,,
 origin,Riga,3907
 origin,Gothenburg,3216
@@ -1077,7 +1077,7 @@ origin,Asunder,2
 origin,St. Annes des Montes,2
 origin,Hofvid,2
 origin,"Hillbrough, N.S.",2
-origin,-Riga,2
+origin,#NAME?,2
 origin,Monsteraas,2
 origin,Fischer,2
 origin,"Picton, N.S.",2
@@ -2219,7 +2219,7 @@ origin,Wiscer,1
 origin,De Brodre,1
 origin,Norwegian,1
 origin,Gibraltar,1
-origin,-Wifstawarf,1
+origin,#NAME?,1
 origin,Abbola,1
 origin,Uleabo'g,1
 origin,Cape Chat,1

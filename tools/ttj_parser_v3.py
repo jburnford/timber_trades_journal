@@ -775,6 +775,25 @@ class TTJContextParser:
             fragment = remainder
             # Continue looping to find more ships on the same line
 
+        # Deduplicate records from this line (OCR sometimes duplicates text)
+        # Keep only unique records based on ship name, origin, and cargo prefix
+        if len(records) > 1:
+            seen = set()
+            deduped = []
+            for record in records:
+                # Create key: ship name, origin port, first 20 chars of cargo
+                # (20 chars is enough to detect duplicates but not so long that OCR
+                # variations cause different keys)
+                key = (
+                    record.ship_name,
+                    record.origin_port,
+                    record.cargo[:20] if record.cargo else ""
+                )
+                if key not in seen:
+                    seen.add(key)
+                    deduped.append(record)
+            records = deduped
+
         return records
 
     def _strip_aggregate_prefix(self, text: str) -> str:

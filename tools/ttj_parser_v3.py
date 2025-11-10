@@ -378,6 +378,37 @@ class TTJContextParser:
             'DOCK', 'DOCKS', 'WHARF', 'WHARVES', 'PIER', 'QUAY'
         }
 
+        # Known origin ports for validation (to distinguish from ship names)
+        # Used to validate missing_ship patterns - if "origin" is not in this list,
+        # it's likely a ship name being misidentified
+        self.known_origin_ports = {
+            # Scandinavian ports
+            'CHRISTIANIA', 'OSLO', 'DRAMMEN', 'FREDRIKSTAD', 'SKIEN', 'PORSGRUND',
+            'GOTHENBURG', 'STOCKHOLM', 'SUNDSWALL', 'GEFLE', 'KARLSKRONA', 'WARBERG',
+            'HELSINGBORG', 'MALMÖ', 'KALMAR', 'HUDIKSVALL', 'SÖDERHAMN', 'LJUSNE',
+            'SKELLEFTEA', 'RAFSO', 'COPENHAGEN', 'AARHUS',
+            # Finnish/Baltic ports
+            'RIGA', 'LIBAU', 'WINDAU', 'MEMEL', 'DANZIG', 'STETTIN', 'KÖNIGSBERG',
+            'ST. PETERSBURG', 'ARCHANGEL', 'ONEGA', 'KEMI', 'KOTKA', 'BJÖRNEBORG',
+            'HANGÖ', 'HELSINGFORS', 'WYBORG', 'NARVA', 'CRONSTADT',
+            # Canadian ports
+            'QUEBEC', 'MONTREAL', 'THREE RIVERS', 'MIRAMICHI', 'BATHURST',
+            'CAMPBELLTON', 'DALHOUSIE', 'RESTIGOUCHE', 'SHEDIAC', 'PICTOU',
+            'PARRSBORO', 'WINDSOR', 'WEYMOUTH',
+            # US ports
+            'MOBILE', 'PENSACOLA', 'BRUNSWICK', 'SAVANNAH', 'PORTLAND', 'BANGOR',
+            # European ports
+            'HAMBURG', 'BREMEN', 'ROSTOCK', 'AMSTERDAM', 'ROTTERDAM', 'ANTWERP',
+            'BORDEAUX', 'BAYONNE', 'MARSEILLE', 'HAVRE', 'ROUEN', 'DIEPPE',
+            'BREST', 'NANTES', 'LA ROCHELLE', 'TRIESTE', 'FIUME', 'GENOA',
+            # French timber ports
+            "L'ORIENT", 'LORIENT', 'VANNES', 'AURAY', 'HENNEBONT', 'ARCACHON',
+            'BLAYE', 'FIGUEIRI', 'LA TREMBLADE', 'ST. ESTEPHE',
+            # Other
+            'RANGOON', 'CALCUTTA', 'BOMBAY', 'MADRAS', 'COLOMBO', 'SINGAPORE',
+            'MELBOURNE', 'SYDNEY', 'AUCKLAND', 'WELLINGTON'
+        }
+
     def extract_port_from_context(self, context_lines: List[str]) -> Optional[str]:
         """
         Extract destination port from preceding lines.
@@ -538,20 +569,36 @@ class TTJContextParser:
 
             # Try missing ship name patterns (OCR failed to capture ship name)
             # These extract origin, cargo, merchant but use placeholder for ship name
+            # IMPORTANT: Validate that "origin" is actually a known port, not a ship name
             if not match and re.match(r'^\w+\.\s+\d{1,2}\s+', fragment):
                 match = self.missing_ship_standard_pattern.match(fragment)
                 if match:
-                    format_type = RecordFormat.CONDENSED
+                    # Validate: if "origin" is not a known port, this might be a ship name
+                    origin_candidate = match.group('origin').upper()
+                    if origin_candidate not in self.known_origin_ports:
+                        match = None  # Reject - likely a ship name, not missing
+                    else:
+                        format_type = RecordFormat.CONDENSED
 
             if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
                 match = self.missing_ship_pattern.match(fragment)
                 if match:
-                    format_type = RecordFormat.CONDENSED
+                    # Validate: if "origin" is not a known port, this might be a ship name
+                    origin_candidate = match.group('origin').upper()
+                    if origin_candidate not in self.known_origin_ports:
+                        match = None  # Reject - likely a ship name, not missing
+                    else:
+                        format_type = RecordFormat.CONDENSED
 
             if not match and ('-' in fragment or '—' in fragment or '–' in fragment):
                 match = self.missing_ship_no_merchant_pattern.match(fragment)
                 if match:
-                    format_type = RecordFormat.CONDENSED
+                    # Validate: if "origin" is not a known port, this might be a ship name
+                    origin_candidate = match.group('origin').upper()
+                    if origin_candidate not in self.known_origin_ports:
+                        match = None  # Reject - likely a ship name, not missing
+                    else:
+                        format_type = RecordFormat.CONDENSED
 
             if not match:
                 # If no match at current position but we have @ or dash in the fragment,
@@ -585,7 +632,16 @@ class TTJContextParser:
             merchant = groups.get('merchant', '').strip() if 'merchant' in groups else None
 
             # If ship name is missing (OCR failed to capture it), use placeholder
+            # But first check if this is an advertisement header, not a ship record
             if not ship_name:
+                # Filter out advertisements: check cargo field for ad patterns
+                if cargo and any(pattern in cargo for pattern in ['{', '...', 'AKTIEBOLAGET', 'LIMITED',
+                                                                    'COMPANY', 'CHAMBERS', 'TELEPHONE',
+                                                                    'TELEGRAPHIC', '[crown]', 'Bank of']):
+                    # This is an advertisement header, skip it
+                    fragment = fragment[match.end():].lstrip(' ,;.')
+                    continue
+
                 ship_name = "MISSING_FROM_OCR"
 
             # Filter out false positives: skip if ship name starts with common English words

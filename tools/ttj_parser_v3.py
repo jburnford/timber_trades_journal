@@ -419,7 +419,28 @@ class TTJContextParser:
                     format_type = RecordFormat.CONDENSED
 
             if not match:
-                break
+                # If no match at current position but we have @ or dash in the fragment,
+                # try to skip forward to find the next potential ship
+                if '@' in fragment or ('-' in fragment or '—' in fragment or '–' in fragment):
+                    # Look for next ship pattern: Capital letter followed by @ or dash
+                    # Use same character class as base_name_class to match all ship name patterns
+                    # Skip forward to next occurrence
+                    next_at = fragment.find('@', 1)  # Start from position 1 to skip current @
+                    next_cap_at = re.search(r'[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\(\)\.\'&\s-]+@', fragment[1:])
+                    next_cap_dash = re.search(r'[A-Z][A-Za-zÀ-ÖØ-öø-ÿ\(\)\.\'&\s-]+\s*[—–-]', fragment[1:])
+
+                    positions = []
+                    if next_cap_at:
+                        positions.append(next_cap_at.start() + 1)  # +1 for offset
+                    if next_cap_dash:
+                        positions.append(next_cap_dash.start() + 1)
+
+                    if positions:
+                        skip_to = min(positions)
+                        fragment = fragment[skip_to:].lstrip(' ,;.')
+                        continue  # Try matching again from new position
+
+                break  # No match and can't find next ship, exit loop
 
             groups = match.groupdict()
 
@@ -552,6 +573,13 @@ class TTJContextParser:
         fragment = text.lstrip(' ,;')
         lowered = fragment.lower()
 
+        # Don't strip if line starts with date pattern (e.g., "April 26. Ship @")
+        # or if it already looks like a ship record
+        if re.match(r'^(?:\w{3,9}\.?\s+\d{1,2}\.?\s+)', fragment, re.IGNORECASE):
+            return fragment
+        if self._looks_like_new_ship(fragment):
+            return fragment
+
         if lowered.startswith('joinery-'):
             dash_idx = fragment.find('-')
             if dash_idx != -1:
@@ -567,11 +595,14 @@ class TTJContextParser:
         if lowered.startswith('ex '):
             fragment = fragment[3:].lstrip(' ,;')
 
-        while fragment and not self._looks_like_new_ship(fragment):
+        # Only do aggressive dash-skipping if it doesn't look like a ship yet
+        iteration_count = 0
+        while fragment and not self._looks_like_new_ship(fragment) and iteration_count < 5:
             dash_idx = fragment.find('-')
             if dash_idx == -1:
                 break
             fragment = fragment[dash_idx + 1:].lstrip(' ,;')
+            iteration_count += 1
 
         if fragment.lower().startswith('order '):
             candidate = fragment.split(' ', 1)[1].lstrip(' ,;')

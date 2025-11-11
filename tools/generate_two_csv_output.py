@@ -172,7 +172,7 @@ def generate_two_csv_output(input_csv: Path, output_dir: Path):
 
 
 def main():
-    input_csv = Path("/home/jic823/TTJ Forest of Numbers/parsed_output/ttj_shipments_multipage.csv")
+    input_csv = Path("/home/jic823/TTJ Forest of Numbers/parsed_output/ttj_shipments_final_v2.csv")
     output_dir = Path("/home/jic823/TTJ Forest of Numbers/final_output")
 
     print("=" * 80)

@@ -1,0 +1,2723 @@
+year,origin_port,ship_count
+1874.0,Quebec,37
+1874.0,Cronstadt,28
+1874.0,Soderhamn,22
+1874.0,Riga,20
+1874.0,Gefle,19
+1874.0,Dram,17
+1874.0,Memel,16
+1874.0,Sundswall,15
+1874.0,Danzig,11
+1874.0,Gothenburg,11
+1874.0,Jamaica,11
+1874.0,Fredrikstad,8
+1874.0,Husum,7
+1874.0,Bjorneborg,6
+1874.0,New York,6
+1874.0,St. Petersburg,6
+1874.0,Libau,5
+1874.0,Stockholm,5
+1874.0,Christiania,4
+1874.0,Sandarne,4
+1874.0,Three Rivers,4
+1874.0,Uleaborg,4
+1874.0,Archangel,3
+1874.0,Haparanda,3
+1874.0,Hernosand,3
+1874.0,Hudikswall,3
+1874.0,Ljusne,3
+1874.0,Skelleftea,3
+1874.0,Windau,3
+1874.0,Ahlafors,2
+1874.0,"Chatham, N.B.",2
+1874.0,Colombo,2
+1874.0,Drammen,2
+1874.0,"Halifax, N.S.",2
+1874.0,Krageroe,2
+1874.0,Lulea,2
+1874.0,Magdalen River,2
+1874.0,Narva,2
+1874.0,Ny Carleby,2
+1874.0,Nyhamn,2
+1874.0,Nyvik,2
+1874.0,Pensacola,2
+1874.0,Rangoon,2
+1874.0,Stolpemunde,2
+1874.0,Sund,2
+1874.0,Svartwik,2
+1874.0,"Three Rivers, Quebec",2
+1874.0,Umea,2
+1874.0,Akyab,1
+1874.0,Belize,1
+1874.0,"Belize, etc.",1
+1874.0,Bermuda,1
+1874.0,Bremen,1
+1874.0,Cape Lopez,1
+1874.0,Charlestown,1
+1874.0,Christinestad,1
+1874.0,Cochin,1
+1874.0,Constantinople,1
+1874.0,Corfu,1
+1874.0,Dantzic,1
+1874.0,Darien,1
+1874.0,Demerara,1
+1874.0,Dohlkarsla,1
+1874.0,Drontheim,1
+1874.0,Fernandina,1
+1874.0,Gamla Carleby,1
+1874.0,Grand Bay,1
+1874.0,Helsingfors,1
+1874.0,Hernefors,1
+1874.0,Hobart Town,1
+1874.0,Holmstad,1
+1874.0,Holmsund,1
+1874.0,Honduras,1
+1874.0,Iggesund,1
+1874.0,Jacobstad,1
+1874.0,"John, N.B.",1
+1874.0,Kramfors,1
+1874.0,Kungsbacka,1
+1874.0,Laguna,1
+1874.0,Lovisa,1
+1874.0,Madras,1
+1874.0,Malmo,1
+1874.0,Minatitlan,1
+1874.0,Miramichi,1
+1874.0,Narrkoping,1
+1874.0,Norrkoping,1
+1874.0,Nyland,1
+1874.0,Nynamn,1
+1874.0,Onega,1
+1874.0,Porsgrund,1
+1874.0,Poti,1
+1874.0,Punta Arenas,1
+1874.0,Richibucto,1
+1874.0,Saguenay,1
+1874.0,Sannesund,1
+1874.0,Santa Anna,1
+1874.0,Savannah,1
+1874.0,Singapore,1
+1874.0,Smyrna,1
+1874.0,Soraka,1
+1874.0,"St. John's, N.B.",1
+1874.0,"St. Mary's, Georgia",1
+1874.0,St. Petersburg Town,1
+1874.0,St. Petersburgh,1
+1874.0,Stocka,1
+1874.0,Stromnas,1
+1874.0,Swartwik,1
+1874.0,Sydney,1
+1874.0,Taganrog,1
+1874.0,Trinidad,1
+1874.0,Truxillo,1
+1874.0,Uddevalla,1
+1874.0,Wasa,1
+1874.0,Whyncomah,1
+1874.0,Wifstavarf,1
+1874.0,Wifstawarf,1
+1874.0,Wyborg,1
+1874.0,Wyburg,1
+1874.0,Zanzibar,1
+1875.0,Riga,39
+1875.0,New York,28
+1875.0,Gothenburg,21
+1875.0,Quebec,21
+1875.0,Christiania,19
+1875.0,Memel,19
+1875.0,Gefle,18
+1875.0,Cronstadt,16
+1875.0,Drammen,14
+1875.0,Sannesund,12
+1875.0,Sundswall,12
+1875.0,Dram,10
+1875.0,Laurvig,9
+1875.0,Pensacola,9
+1875.0,St. John,9
+1875.0,Jamaica,8
+1875.0,New Orleans,8
+1875.0,Windau,8
+1875.0,Bjorneborg,7
+1875.0,Minatitlan,7
+1875.0,Danzig,6
+1875.0,"St. John, N.B.",5
+1875.0,Boston,4
+1875.0,Christiansand,4
+1875.0,Colombo,4
+1875.0,Fredrikstad,4
+1875.0,Rangoon,4
+1875.0,Skien,4
+1875.0,Abo,3
+1875.0,Bahia,3
+1875.0,Belize,3
+1875.0,Constantinople,3
+1875.0,Helsingfors,3
+1875.0,Hudikswall,3
+1875.0,Ljusne,3
+1875.0,Melbourne,3
+1875.0,Miramichi,3
+1875.0,Nyvik,3
+1875.0,Pascagoula,3
+1875.0,Porsgrund,3
+1875.0,Richibucto,3
+1875.0,Skutskar,3
+1875.0,Soderhamn,3
+1875.0,St. Petersburg,3
+1875.0,Stockholm,3
+1875.0,W. C. Africa,3
+1875.0,Amsterdam,2
+1875.0,"Christiania, &c.",2
+1875.0,Darien,2
+1875.0,Fredrickshamn,2
+1875.0,Fredrickstad,2
+1875.0,Hambro,2
+1875.0,Kotka,2
+1875.0,Lulea,2
+1875.0,Marseilles,2
+1875.0,"Minatitlan, and cedar",2
+1875.0,Nynhamn,2
+1875.0,Tlatocalpan,2
+1875.0,Trieste,2
+1875.0,Uddevalla,2
+1875.0,Vefsen,2
+1875.0,Archangel,1
+1875.0,Arendal,1
+1875.0,Axmar,1
+1875.0,Bangor,1
+1875.0,Bathurst,1
+1875.0,Bollsta,1
+1875.0,Brevig,1
+1875.0,Buctouche,1
+1875.0,Calmar,1
+1875.0,"Champion Bay, &c.",1
+1875.0,Charlotte Town,1
+1875.0,Dantzig,1
+1875.0,Danzic,1
+1875.0,Draget,1
+1875.0,Drebak,1
+1875.0,Drontheim,1
+1875.0,East Port,1
+1875.0,Ferdinandina,1
+1875.0,Fernandina,1
+1875.0,Finland,1
+1875.0,Fort Cortes,1
+1875.0,Frederikshall,1
+1875.0,Frederikstadt,1
+1875.0,Fredrikshald,1
+1875.0,"Halifax, N.S.",1
+1875.0,Havre,1
+1875.0,Haynasch,1
+1875.0,Holmsund,1
+1875.0,Iggesund,1
+1875.0,Kemi,1
+1875.0,Kingston,1
+1875.0,Konigsberg,1
+1875.0,Krageroe,1
+1875.0,Kramfors,1
+1875.0,"Lagunade, Terminos, &c.",1
+1875.0,Landskrona,1
+1875.0,Mediterranean,1
+1875.0,Mobile,1
+1875.0,Moulmein,1
+1875.0,Nedercalix,1
+1875.0,Norrkoping,1
+1875.0,Nossi Be,1
+1875.0,Onega,1
+1875.0,Ornskolksvik,1
+1875.0,Oscarshamn,1
+1875.0,Ostrand,1
+1875.0,Pillau,1
+1875.0,Rio Hacha,1
+1875.0,Russoar,1
+1875.0,Saltock,1
+1875.0,Sandarne,1
+1875.0,Sandefiord,1
+1875.0,Sandefjord,1
+1875.0,Ship Harbour N.S.,1
+1875.0,Skonvik,1
+1875.0,Slite,1
+1875.0,St. Marc,1
+1875.0,"St. Mary's, Georgia",1
+1875.0,Sunnas,1
+1875.0,Sydney,1
+1875.0,Tapilco,1
+1875.0,Three Islands,1
+1875.0,Three Rivers,1
+1875.0,Tonala,1
+1875.0,Truxillo,1
+1875.0,Uddewalla,1
+1875.0,Vegesack,1
+1875.0,Vesta,1
+1875.0,Wava,1
+1875.0,Wifstawarf,1
+1875.0,Wistawarf,1
+1875.0,chiefly Quebec,1
+1879.0,Cronstadt,104
+1879.0,Quebec,87
+1879.0,Riga,78
+1879.0,Gefle,76
+1879.0,Soderhamn,60
+1879.0,Memel,56
+1879.0,Danzig,49
+1879.0,Archangel,47
+1879.0,G'burg,40
+1879.0,Sundswall,39
+1879.0,Uleaborg,35
+1879.0,Bjorneborg,28
+1879.0,Kotka,26
+1879.0,Lulea,24
+1879.0,Konigsberg,22
+1879.0,P'burg,21
+1879.0,Drammen,20
+1879.0,Sandarne,19
+1879.0,Saguenay,17
+1879.0,Ljusne,16
+1879.0,Pitea,15
+1879.0,Skelleftea,15
+1879.0,Xiania,15
+1879.0,Hudikswall,14
+1879.0,Belize,12
+1879.0,Holmsund,11
+1879.0,St. John,11
+1879.0,Windau,11
+1879.0,Skonvik,10
+1879.0,F'stad,9
+1879.0,Onega,9
+1879.0,Three Rivers,9
+1879.0,Tornea,9
+1879.0,F'shald,8
+1879.0,Miramichi,8
+1879.0,St. P'burg,8
+1879.0,Swartwik,8
+1879.0,Gothenburg,7
+1879.0,Kramfors,7
+1879.0,Metis,7
+1879.0,Santa Ana,7
+1879.0,Simo,7
+1879.0,Stockholm,7
+1879.0,Halmstad,6
+1879.0,Krageroe,6
+1879.0,Nyhamn,6
+1879.0,Swartwick,6
+1879.0,Ahlafors,5
+1879.0,Antwerp,5
+1879.0,Helsingfors,5
+1879.0,Hernosand,5
+1879.0,Iggesund,5
+1879.0,Montreal,5
+1879.0,Nordmaling,5
+1879.0,Pensacola,5
+1879.0,Svartvik,5
+1879.0,Tonala,5
+1879.0,Wyborg,5
+1879.0,Wyburg,5
+1879.0,Xinestad,5
+1879.0,Abo,4
+1879.0,Bollsta,4
+1879.0,Chatham,4
+1879.0,F'stadt,4
+1879.0,Halifax,4
+1879.0,Kopmanholmen,4
+1879.0,Narva,4
+1879.0,Neder Calix,4
+1879.0,Skutskar,4
+1879.0,Soroka,4
+1879.0,St. Ignace,4
+1879.0,Christiania,3
+1879.0,Dalhousie,3
+1879.0,Dram,3
+1879.0,Holmstad,3
+1879.0,Kemi,3
+1879.0,Laurvig,3
+1879.0,Nederkalix,3
+1879.0,New York,3
+1879.0,Norrkoping,3
+1879.0,Ornskoldsvik,3
+1879.0,Porsgrund,3
+1879.0,Umea,3
+1879.0,Wifstawarf,3
+1879.0,Asbacka,2
+1879.0,Attu,2
+1879.0,Bathurst,2
+1879.0,Betsiamitz,2
+1879.0,Bollsta Bruk,2
+1879.0,Borga,2
+1879.0,Domsjo,2
+1879.0,Halsoen,2
+1879.0,Husum,2
+1879.0,Kungsgarten,2
+1879.0,Langror,2
+1879.0,Marieberg,2
+1879.0,Minatitlan,2
+1879.0,Muhlgraben,2
+1879.0,Neder Kalix,2
+1879.0,Ornskjoldsvik,2
+1879.0,Pillau,2
+1879.0,Puerto Cortes,2
+1879.0,Randers,2
+1879.0,Sault au Cochon,2
+1879.0,Skien,2
+1879.0,Stettin,2
+1879.0,Stockasag,2
+1879.0,Sund,2
+1879.0,Swartvik,2
+1879.0,Uddevalla,2
+1879.0,Aarhuus,1
+1879.0,Ahlators,1
+1879.0,Alfredshamn,1
+1879.0,Arendal,1
+1879.0,Axmar,1
+1879.0,Bahia,1
+1879.0,Betsiamites,1
+1879.0,Bolls a Bruk,1
+1879.0,Brahestadt,1
+1879.0,C. Heaven Mercur,1
+1879.0,Calmar,1
+1879.0,Cardenas,1
+1879.0,"Chatham, N.B.",1
+1879.0,Chiltepec,1
+1879.0,Christinestad,1
+1879.0,Christinestadt,1
+1879.0,Churchill Racer,1
+1879.0,Darien,1
+1879.0,Demerara,1
+1879.0,Doboy,1
+1879.0,Dronning,1
+1879.0,Essviken,1
+1879.0,Esurken,1
+1879.0,Frano,1
+1879.0,Fredrikstad,1
+1879.0,Fritzoe,1
+1879.0,Galway,1
+1879.0,Gamla Karleby,1
+1879.0,Gedeabuella,1
+1879.0,Gidebacha,1
+1879.0,Gustafsberg,1
+1879.0,Harne,1
+1879.0,Hernossand,1
+1879.0,Hernösand,1
+1879.0,Jemtosund,1
+1879.0,Kallio,1
+1879.0,Karhula,1
+1879.0,Kungsorden,1
+1879.0,Kylom,1
+1879.0,Lockno,1
+1879.0,Luguvik,1
+1879.0,Magdalen River,1
+1879.0,Matane,1
+1879.0,Mobile,1
+1879.0,Moss,1
+1879.0,Moulmein,1
+1879.0,N. York,1
+1879.0,Naso,1
+1879.0,Nedercalix,1
+1879.0,Norrsundet,1
+1879.0,North Sydney,1
+1879.0,Nuevitas,1
+1879.0,Nykoping,1
+1879.0,Nynhamn,1
+1879.0,Oak Bay,1
+1879.0,Order Altofts,1
+1879.0,Order Amelie,1
+1879.0,Order Betty,1
+1879.0,Order Fritz Schmidt,1
+1879.0,Order Gesine,1
+1879.0,Order Josephine,1
+1879.0,Order Normanden,1
+1879.0,Order Odin,1
+1879.0,Order Sorata,1
+1879.0,Order Trafalgar,1
+1879.0,Ornskjoldvik,1
+1879.0,Oscarshamn,1
+1879.0,P. Rolt Arethusa,1
+1879.0,Petersburg,1
+1879.0,Picton,1
+1879.0,Rafso,1
+1879.0,Rangoon,1
+1879.0,Raumea,1
+1879.0,Riisoer,1
+1879.0,Risoer,1
+1879.0,Ruthula,1
+1879.0,S. Domingo,1
+1879.0,"Sackville , N.B.",1
+1879.0,Saltkallan,1
+1879.0,Sandvik,1
+1879.0,Sandviken,1
+1879.0,Santa Cruz,1
+1879.0,Santirago de Cuba,1
+1879.0,Sarpsborg,1
+1879.0,Sault,1
+1879.0,Schippswick,1
+1879.0,Sguenay,1
+1879.0,Shediac,1
+1879.0,Skeppevik,1
+1879.0,Skeppsvik,1
+1879.0,Skippevik,1
+1879.0,Sprangsviken,1
+1879.0,St. Ana,1
+1879.0,St. Petersburg,1
+1879.0,St. Thomas,1
+1879.0,Stromnas,1
+1879.0,Svartvick,1
+1879.0,Swartvick,1
+1879.0,Torefors,1
+1879.0,Trieste,1
+1879.0,Vancouver I.,1
+1879.0,Waya,1
+1879.0,Weymouth,1
+1879.0,Wiborg,1
+1879.0,Wifsta Warf,1
+1879.0,Xiansand,1
+1879.0,Ytlersfors,1
+1880.0,New York,10
+1880.0,Jamaica,5
+1880.0,Quebec,5
+1880.0,Riga,5
+1880.0,Dieppe,2
+1880.0,G'burg,2
+1880.0,Gothenburg,2
+1880.0,Havre,2
+1880.0,Madras,2
+1880.0,Memel,2
+1880.0,Singapore,2
+1880.0,Uddewalla,2
+1880.0,Antwerp,1
+1880.0,Bangkok,1
+1880.0,Dalhousie,1
+1880.0,Danzig,1
+1880.0,Gothenberg,1
+1880.0,Lulea,1
+1880.0,Miramichi,1
+1880.0,Nassau,1
+1880.0,Order Carmen,1
+1880.0,Order Celeste,1
+1880.0,Paramaribo,1
+1880.0,Pensacola,1
+1880.0,Stockholm,1
+1880.0,Trieste,1
+1880.0,Truxillo,1
+1880.0,Xnia,1
+1881.0,New York,108
+1881.0,Cronstadt,86
+1881.0,Riga,78
+1881.0,Gothenburg,58
+1881.0,Christiania,45
+1881.0,Quebec,43
+1881.0,Dantzic,37
+1881.0,Memel,37
+1881.0,Drammen,34
+1881.0,Sundswall,34
+1881.0,Gefle,31
+1881.0,Fredrikstadt,29
+1881.0,Kotka,29
+1881.0,Soderhamn,29
+1881.0,Pensacola,19
+1881.0,Stettin,19
+1881.0,St. Petersburg,18
+1881.0,Danzig,16
+1881.0,Stockholm,16
+1881.0,Bordeaux,13
+1881.0,Rotterdam,13
+1881.0,Archangel,12
+1881.0,Laurvig,12
+1881.0,Boston,11
+1881.0,Fredrikstad,11
+1881.0,Leghorn,11
+1881.0,Konigsberg,10
+1881.0,Odessa,10
+1881.0,"St. John, N.B.",10
+1881.0,Arendal,9
+1881.0,Colombo,9
+1881.0,Fredrikshald,9
+1881.0,Halmstad,9
+1881.0,Hambro',9
+1881.0,Minatitlan,9
+1881.0,Skien,9
+1881.0,Trieste,9
+1881.0,Bahia,8
+1881.0,Ljusne,8
+1881.0,Marseilles,8
+1881.0,Miramichi,8
+1881.0,Three Rivers,8
+1881.0,Abo,7
+1881.0,Bjorneborg,7
+1881.0,Brisbane,7
+1881.0,Dram,7
+1881.0,Hambro,7
+1881.0,Havre,7
+1881.0,Kragero,7
+1881.0,Montreal,7
+1881.0,Moulmein,7
+1881.0,Skonvik,7
+1881.0,Venice,7
+1881.0,Belize,6
+1881.0,Dieppe,6
+1881.0,Helsingfors,6
+1881.0,Nyhamn,6
+1881.0,Porsgrund,6
+1881.0,Uleaborg,6
+1881.0,Darien,5
+1881.0,Holmsund,5
+1881.0,Saguenay,5
+1881.0,Sandarne,5
+1881.0,Santa Ana,5
+1881.0,Skelleftea,5
+1881.0,Soroka,5
+1881.0,Swartwik,5
+1881.0,Antwerp,4
+1881.0,Baltimore,4
+1881.0,Bollsta,4
+1881.0,Calcutta,4
+1881.0,Husum,4
+1881.0,Jamaica,4
+1881.0,Libau,4
+1881.0,Mesane,4
+1881.0,Narva,4
+1881.0,Ornskjoldsvik,4
+1881.0,Ornskoldsvik,4
+1881.0,Oxelosund,4
+1881.0,Pitea,4
+1881.0,Rangoon,4
+1881.0,Amsterdam,3
+1881.0,Auckland,3
+1881.0,Charlotte Town,3
+1881.0,Dantzig,3
+1881.0,Doboy,3
+1881.0,Finnklippan,3
+1881.0,Frederickstadt,3
+1881.0,Frederikstad,3
+1881.0,"Halifax, N.S.",3
+1881.0,Hernosand,3
+1881.0,Hobart Town,3
+1881.0,Kingston,3
+1881.0,Lulea,3
+1881.0,Madras,3
+1881.0,Neder Kalix,3
+1881.0,Nordmaling,3
+1881.0,Nuevitas,3
+1881.0,Rafso,3
+1881.0,Risoer,3
+1881.0,Swartvik,3
+1881.0,Twedestrand,3
+1881.0,Umea,3
+1881.0,Wyborg,3
+1881.0,Ahlafors,2
+1881.0,Asbacka,2
+1881.0,Borga,2
+1881.0,Bremen,2
+1881.0,Brussels,2
+1881.0,Carlskrona,2
+1881.0,"Chatham, N.B.",2
+1881.0,Cochin,2
+1881.0,Domsjo,2
+1881.0,Drontheim,2
+1881.0,Fiume,2
+1881.0,Frederickshald,2
+1881.0,Frederikstadt,2
+1881.0,Ghent,2
+1881.0,Gideabacka,2
+1881.0,"Guysborough, N.S.",2
+1881.0,Halifax,2
+1881.0,Hamburg,2
+1881.0,Hudikswall,2
+1881.0,Iggesund,2
+1881.0,Kristinestad,2
+1881.0,Langror,2
+1881.0,Livingston,2
+1881.0,"Madras, &c.",2
+1881.0,Metis,2
+1881.0,Mobile,2
+1881.0,Moss,2
+1881.0,Norrkoping,2
+1881.0,Puerto Cortes,2
+1881.0,Ranea,2
+1881.0,Sandvik,2
+1881.0,Santos,2
+1881.0,Sarpsborg,2
+1881.0,Singapore,2
+1881.0,Skutskar,2
+1881.0,"St. John's, N.F.",2
+1881.0,St. Mary's,2
+1881.0,St. Petersburg Town,2
+1881.0,Swartwick,2
+1881.0,Trinidad de Cuba,2
+1881.0,Uddewalla,2
+1881.0,Vancouver's Island,2
+1881.0,Waija,2
+1881.0,Ablafors,1
+1881.0,Annapolis,1
+1881.0,Apalachicola,1
+1881.0,Arcachon,1
+1881.0,Attu,1
+1881.0,"Auckland, N.Z.",1
+1881.0,Baddeck,1
+1881.0,"Baddeck, N.S.",1
+1881.0,Baraharia,1
+1881.0,Bathurst,1
+1881.0,Batiscan,1
+1881.0,Bayonne,1
+1881.0,"Beaufort, S.C.",1
+1881.0,"Belize, &c.",1
+1881.0,Bersiamitz,1
+1881.0,Bersimis,1
+1881.0,Bjornsborg,1
+1881.0,Black River,1
+1881.0,Bolsiamitz,1
+1881.0,Bombay,1
+1881.0,"Brisbane, &c.",1
+1881.0,Bruges,1
+1881.0,Brunswick,1
+1881.0,"Brunswick, Ga.",1
+1881.0,"Brunswick, Georgia",1
+1881.0,Bstaiamitz,1
+1881.0,"Calcutta, &c.",1
+1881.0,Canterbury,1
+1881.0,"Caraquet, N.B.",1
+1881.0,"Chatham, N. B.",1
+1881.0,Chicontimi,1
+1881.0,Christinestad,1
+1881.0,Cienfuegos,1
+1881.0,"Coatzcoalcos, Mexico",1
+1881.0,Cocanada,1
+1881.0,Colon,1
+1881.0,"Colon, &c.",1
+1881.0,Constantinople,1
+1881.0,Copenhagen,1
+1881.0,Corne,1
+1881.0,"Cornwallis, N.S.",1
+1881.0,Dahlsbruk,1
+1881.0,Dalhousie,1
+1881.0,Danzig and Konigsberg,1
+1881.0,Dobo,1
+1881.0,Dordrecht,1
+1881.0,Dunedin,1
+1881.0,Eggesund,1
+1881.0,Elsfleth,1
+1881.0,Escoumani,1
+1881.0,Fredrickshald,1
+1881.0,Fredrickstad,1
+1881.0,Fredrickstadt,1
+1881.0,G. Jewitt President,1
+1881.0,Galle,1
+1881.0,Galveston,1
+1881.0,Genoa,1
+1881.0,Gibara,1
+1881.0,"Gibara, Cuba",1
+1881.0,Gothenburc,1
+1881.0,Grimstad,1
+1881.0,Gulstrom,1
+1881.0,Helsingfors and Kotka,1
+1881.0,Hernösand,1
+1881.0,Holmstad,1
+1881.0,Jacobstad,1
+1881.0,Jacobstadt,1
+1881.0,Kalix,1
+1881.0,Kalmar,1
+1881.0,Kemi,1
+1881.0,Kingsgar,1
+1881.0,Kingsgarden,1
+1881.0,"Kingston, &c.",1
+1881.0,Kopmansholmen,1
+1881.0,Krageroe,1
+1881.0,Kurrachee,1
+1881.0,Kylorn,1
+1881.0,Laguna,1
+1881.0,Landerneau,1
+1881.0,Lang,1
+1881.0,Langesund,1
+1881.0,Langoer,1
+1881.0,"Libau, &c.",1
+1881.0,Ljurne,1
+1881.0,Magdalen River,1
+1881.0,Manilla,1
+1881.0,Mauritius,1
+1881.0,Mecca,1
+1881.0,Mediterranean,1
+1881.0,Morlaix,1
+1881.0,Musquodoboit,1
+1881.0,Nantes,1
+1881.0,Neder Calix,1
+1881.0,Nevis,1
+1881.0,Norfolk,1
+1881.0,Nykoping,1
+1881.0,"Odessa, &c.",1
+1881.0,Oessen,1
+1881.0,Onega,1
+1881.0,Ostend,1
+1881.0,Paramaribo,1
+1881.0,Penang,1
+1881.0,Philadelphia,1
+1881.0,Pillau,1
+1881.0,Port Launay,1
+1881.0,Porto Plata,1
+1881.0,Richibucto,1
+1881.0,Richmond,1
+1881.0,Rimouski,1
+1881.0,River Ouelle,1
+1881.0,River Quelle,1
+1881.0,Rounshy,1
+1881.0,Ruetouche,1
+1881.0,Saltvik,1
+1881.0,San Domingo,1
+1881.0,Sannesund,1
+1881.0,Sardarne,1
+1881.0,Sault,1
+1881.0,Savannah,1
+1881.0,"Savannah, Georgia",1
+1881.0,Shediac,1
+1881.0,Simo,1
+1881.0,Sprangsviken,1
+1881.0,St. George's,1
+1881.0,St. Jago de Cuba,1
+1881.0,St. John N.B.,1
+1881.0,St. John's,1
+1881.0,St. Lucia,1
+1881.0,"St. Mary's, Georgia",1
+1881.0,"St. Mary's, N.S.",1
+1881.0,Stenkjoer,1
+1881.0,Stockasag,1
+1881.0,Stockavik,1
+1881.0,"Stockholm, &c.",1
+1881.0,Stocksviken,1
+1881.0,Stromnas,1
+1881.0,Sydney,1
+1881.0,"Tignish, P.E.I.",1
+1881.0,Tonala,1
+1881.0,"Tonala, &c.",1
+1881.0,Torefors,1
+1881.0,Tornea,1
+1881.0,Treport,1
+1881.0,Tresukstea,1
+1881.0,Trondjem,1
+1881.0,Uddevalla,1
+1881.0,Victor,1
+1881.0,Warberg,1
+1881.0,West Indies,1
+1881.0,"Weymouth, N.S.",1
+1881.0,"Weymouth, U.S.",1
+1881.0,Wifstawarf,1
+1881.0,Wilmington,1
+1881.0,Windau,1
+1881.0,Wyburg,1
+1881.0,Xiania,1
+1882.0,New York,4
+1882.0,Christiania,2
+1882.0,Colombo,2
+1882.0,Dantzic,2
+1882.0,Laurvig,2
+1882.0,Stockholm,2
+1882.0,Amsterdam,1
+1882.0,Archangel,1
+1882.0,Borga,1
+1882.0,Hambro',1
+1882.0,Holmstad,1
+1882.0,Lappvik,1
+1882.0,Norrkoping,1
+1882.0,Skutskar,1
+1882.0,Sundswall,1
+1883.0,New York,98
+1883.0,Cronstadt,88
+1883.0,Memel,71
+1883.0,Riga,64
+1883.0,Quebec,59
+1883.0,Gothenburg,47
+1883.0,Sundswall,43
+1883.0,Danzig,42
+1883.0,Fredrikstadt,37
+1883.0,Drammen,33
+1883.0,Soderhamn,33
+1883.0,Christiania,32
+1883.0,Montreal,29
+1883.0,Pensacola,29
+1883.0,Gefle,25
+1883.0,Archangel,22
+1883.0,Kotka,22
+1883.0,Fredrikstad,19
+1883.0,Laurvig,19
+1883.0,Abo,18
+1883.0,St. Petersburg,17
+1883.0,Boston,16
+1883.0,Dantzic,16
+1883.0,Stockholm,16
+1883.0,Bremen,15
+1883.0,Uleaborg,14
+1883.0,Dantzig,13
+1883.0,Miramichi,13
+1883.0,Fredrikshald,12
+1883.0,Hambro',12
+1883.0,Jamaica,12
+1883.0,Baltimore,11
+1883.0,Belize,11
+1883.0,Rangoon,11
+1883.0,Stettin,11
+1883.0,Amsterdam,10
+1883.0,Hudikswall,10
+1883.0,Ljusne,10
+1883.0,Porsgrund,10
+1883.0,"St. John, N.B.",10
+1883.0,Libau,9
+1883.0,Arendal,8
+1883.0,Bordeaux,8
+1883.0,Krageroe,8
+1883.0,Skien,8
+1883.0,Three Rivers,8
+1883.0,Uddevalla,8
+1883.0,Chicontimi,7
+1883.0,Havre,7
+1883.0,Konigsberg,7
+1883.0,Moulmein,7
+1883.0,New Orleans,7
+1883.0,Odessa,7
+1883.0,Pitea,7
+1883.0,Swartvik,7
+1883.0,Windau,7
+1883.0,Antwerp,6
+1883.0,Bjorneborg,6
+1883.0,Finklippan,6
+1883.0,Halifax,6
+1883.0,Nyhamn,6
+1883.0,Rotterdam,6
+1883.0,Sandarne,6
+1883.0,Genoa,5
+1883.0,Helsingfors,5
+1883.0,Hernosand,5
+1883.0,Hernösand,5
+1883.0,Metis,5
+1883.0,Narva,5
+1883.0,Santa Ana,5
+1883.0,Swartwik,5
+1883.0,Tornea,5
+1883.0,Bayonne,4
+1883.0,Calcutta,4
+1883.0,Catania,4
+1883.0,Dieppe,4
+1883.0,Langror,4
+1883.0,Mobile,4
+1883.0,Oscarshamn,4
+1883.0,Pascagoula,4
+1883.0,Philadelphia,4
+1883.0,Redon,4
+1883.0,Sandvik,4
+1883.0,Shanghai,4
+1883.0,Torefors,4
+1883.0,Venice,4
+1883.0,Bangkok,3
+1883.0,Bathurst,3
+1883.0,Brevig,3
+1883.0,Dram,3
+1883.0,Halmstad,3
+1883.0,Kramfors,3
+1883.0,Leghorn,3
+1883.0,Madras,3
+1883.0,Marseilles,3
+1883.0,Minatitlan,3
+1883.0,Munksund,3
+1883.0,Neder Kalix,3
+1883.0,Norrkoping,3
+1883.0,Nuevitas,3
+1883.0,Oxelosund,3
+1883.0,Puerto Cortez,3
+1883.0,Pugwash,3
+1883.0,Richibucto,3
+1883.0,Rimouski,3
+1883.0,River Ouelle,3
+1883.0,Savannah,3
+1883.0,Skonvik,3
+1883.0,Skutskar,3
+1883.0,Soroka,3
+1883.0,Wyborg,3
+1883.0,Auckland,2
+1883.0,"Bathurst, N.B.",2
+1883.0,Bersimis,2
+1883.0,Bollsta Bruk,2
+1883.0,Borga,2
+1883.0,Burea,2
+1883.0,Cardenas,2
+1883.0,Christiansand,2
+1883.0,Christinestadt,2
+1883.0,Dalhousie,2
+1883.0,Dantzie,2
+1883.0,Domsjo,2
+1883.0,Dordt,2
+1883.0,Drontheim,2
+1883.0,Falkenburg,2
+1883.0,"Guysboro', N.S.",2
+1883.0,"Halifax, N.S.",2
+1883.0,Hamburg,2
+1883.0,Lulea,2
+1883.0,Magdalen River,2
+1883.0,Mandal,2
+1883.0,Matane,2
+1883.0,Mexico,2
+1883.0,Moss,2
+1883.0,Musquash,2
+1883.0,Nassau,2
+1883.0,Nordmaling,2
+1883.0,Ornskjoldsvik,2
+1883.0,Raumo,2
+1883.0,Reval,2
+1883.0,Risoer,2
+1883.0,Santos,2
+1883.0,Sault,2
+1883.0,Shediac,2
+1883.0,Skelleftea,2
+1883.0,Skönvik,2
+1883.0,St. Ana,2
+1883.0,St. Brieux,2
+1883.0,Stockaviken,2
+1883.0,Trieste,2
+1883.0,Uddewalla,2
+1883.0,Wifstawarf,2
+1883.0,Wyburg,2
+1883.0,-New York,1
+1883.0,Aastrup,1
+1883.0,Alvarado,1
+1883.0,Attu,1
+1883.0,Augusta,1
+1883.0,Bangsund,1
+1883.0,Barbadoes,1
+1883.0,Bari,1
+1883.0,Bay de Verte,1
+1883.0,Berbice,1
+1883.0,Bermuda,1
+1883.0,Betsiamitz,1
+1883.0,Bombay,1
+1883.0,"Bridgwater, N.S.",1
+1883.0,Brunswick,1
+1883.0,Buctouche,1
+1883.0,"Buctouche, N.B.",1
+1883.0,Calabar,1
+1883.0,Calmar,1
+1883.0,Calmo,1
+1883.0,Campbeltown,1
+1883.0,Carlscrona,1
+1883.0,Carlsvik,1
+1883.0,"Catania, &c.",1
+1883.0,Catterina,1
+1883.0,"Charlotte Town, P.E.I.",1
+1883.0,"Chatham, N.B.",1
+1883.0,Chicoutimi,1
+1883.0,Chittagong,1
+1883.0,Christinestad,1
+1883.0,Cienfuegos,1
+1883.0,Cochin,1
+1883.0,Colombo,1
+1883.0,Constantinople,1
+1883.0,Cornelius,1
+1883.0,Danzic,1
+1883.0,Demerara,1
+1883.0,Engelhart Quito,1
+1883.0,Essvik,1
+1883.0,Falkenberg,1
+1883.0,Franceville,1
+1883.0,Fredikshald,1
+1883.0,Fredrikshamn,1
+1883.0,Fredriksvaern,1
+1883.0,Fredriksval,1
+1883.0,Furnogrund,1
+1883.0,Furuogrund,1
+1883.0,Gideabacka,1
+1883.0,Girl,1
+1883.0,Grand Pablos,1
+1883.0,Grand Pabos,1
+1883.0,Grand Palios,1
+1883.0,"Guysborough, N.S.",1
+1883.0,Halmstadt,1
+1883.0,Halsoen,1
+1883.0,Halsoer,1
+1883.0,Hamnholmen,1
+1883.0,Hanko,1
+1883.0,Haparanda,1
+1883.0,Hennebont,1
+1883.0,Higge,1
+1883.0,Holmestrand,1
+1883.0,Holmsund,1
+1883.0,Hussein,1
+1883.0,Husum,1
+1883.0,Idefjord,1
+1883.0,Isla Maria,1
+1883.0,Jacobstadt,1
+1883.0,Johannadal,1
+1883.0,Klampenburg,1
+1883.0,Kraeroe,1
+1883.0,Kragero,1
+1883.0,Krasko,1
+1883.0,Kungagarden,1
+1883.0,Kungsgarden,1
+1883.0,La Rochelle,1
+1883.0,Laguna,1
+1883.0,Laguna de Termanos,1
+1883.0,Laguna de Terminos,1
+1883.0,Lappvik,1
+1883.0,Lero,1
+1883.0,Limo,1
+1883.0,Liscomb,1
+1883.0,Ljuene,1
+1883.0,Lovisa,1
+1883.0,Lund,1
+1883.0,Mazzarelli,1
+1883.0,Mediterranean,1
+1883.0,Memeil,1
+1883.0,Mesane,1
+1883.0,Messina,1
+1883.0,Mestis,1
+1883.0,"Miramichi, N.B.",1
+1883.0,Norfolk,1
+1883.0,"Norfolk, Va.",1
+1883.0,"Norfolk, Var.",1
+1883.0,Ny Karleby,1
+1883.0,Nykoping,1
+1883.0,Nyland,1
+1883.0,Onega,1
+1883.0,Oplo,1
+1883.0,Order Delta,1
+1883.0,Order Prima,1
+1883.0,Order Salween,1
+1883.0,Ornskoldsvik,1
+1883.0,Owari,1
+1883.0,Pabos,1
+1883.0,Patras,1
+1883.0,Petersburg,1
+1883.0,Pictou,1
+1883.0,"Pictou, N.S.",1
+1883.0,Pillau,1
+1883.0,Pont l'Abbe,1
+1883.0,Poti,1
+1883.0,"Poti, &c.",1
+1883.0,"Pugwash, N.S.",1
+1883.0,Quimper,1
+1883.0,Qvartvik,1
+1883.0,Rafso,1
+1883.0,Ramno,1
+1883.0,Rangsound,1
+1883.0,Rennes,1
+1883.0,Reunion,1
+1883.0,Rosso,1
+1883.0,Roytta,1
+1883.0,Rugenwalde,1
+1883.0,Rusoer,1
+1883.0,Saguenay,1
+1883.0,Salsaker,1
+1883.0,Sandviken,1
+1883.0,Sannesund,1
+1883.0,Santa Anna,1
+1883.0,Santana,1
+1883.0,Santaria,1
+1883.0,Sarpsborg,1
+1883.0,Sault au,1
+1883.0,Savanilla,1
+1883.0,Secumkali,1
+1883.0,"Sherbrooke, N.S.",1
+1883.0,Simo,1
+1883.0,Skeppvik,1
+1883.0,Skutvik,1
+1883.0,Snarven,1
+1883.0,Sprangsviken,1
+1883.0,St. Jago de Cuba,1
+1883.0,St. John,1
+1883.0,St. John's,1
+1883.0,St. John. N.B.,1
+1883.0,St. Lawrence,1
+1883.0,St. Nazaire,1
+1883.0,St. Simon's Island,1
+1883.0,Stocka,1
+1883.0,Stocksviken,1
+1883.0,Stoka,1
+1883.0,Stugsund,1
+1883.0,Sundarne,1
+1883.0,Sunderland,1
+1883.0,Sydney,1
+1883.0,Tabasco,1
+1883.0,Taganrog,1
+1883.0,Tlacotalpam,1
+1883.0,Torekow,1
+1883.0,Trinidad de Cuba,1
+1883.0,Tromso,1
+1883.0,Trondhjem,1
+1883.0,Truxillo,1
+1883.0,Tupilco,1
+1883.0,Tvedestrand,1
+1883.0,Vancouver,1
+1883.0,Vancouver's Island,1
+1883.0,Vefsen,1
+1883.0,Vizagapatam,1
+1883.0,W. Indies,1
+1883.0,"West Bay, N.S.",1
+1883.0,Wisby,1
+1883.0,Wiswall,1
+1883.0,Ytterafors,1
+1883.0,Ytterfors,1
+1883.0,Zara,1
+1883.0,von Platen,1
+1884.0,New York,10
+1884.0,Belize,4
+1884.0,Madras,4
+1884.0,Bremen,3
+1884.0,Christiania,3
+1884.0,Gothenburg,3
+1884.0,Riga,3
+1884.0,Danzig,2
+1884.0,Genoa,2
+1884.0,Laurvig,2
+1884.0,Memel,2
+1884.0,Amsterdam,1
+1884.0,Antwerp,1
+1884.0,Baltimore,1
+1884.0,Bangkok,1
+1884.0,Batoum,1
+1884.0,Bjorneborg,1
+1884.0,Boston,1
+1884.0,Brahestad,1
+1884.0,Burrard's Inlet,1
+1884.0,Drontheim,1
+1884.0,Fredrickstadt,1
+1884.0,Fredrikstad,1
+1884.0,Fredrikstadt,1
+1884.0,"Guysborough, N.S.",1
+1884.0,Halifax,1
+1884.0,Halmstad,1
+1884.0,Hudikswall,1
+1884.0,Konigsberg,1
+1884.0,Kotka,1
+1884.0,Libau,1
+1884.0,Nuevitas,1
+1884.0,Odessa,1
+1884.0,Skien,1
+1884.0,St. Domingo,1
+1884.0,"St. John, N.B.",1
+1884.0,Stettin,1
+1884.0,Sundswall,1
+1884.0,Swartvik,1
+1884.0,Uddevalla,1
+1884.0,Uleaborg,1
+1884.0,Venice,1
+1884.0,Westervik,1
+1885.0,Gothenburg,85
+1885.0,New York,85
+1885.0,Cronstadt,80
+1885.0,Riga,67
+1885.0,Danzig,59
+1885.0,Quebec,48
+1885.0,Christiania,42
+1885.0,Sundswall,35
+1885.0,Memel,33
+1885.0,Fredrikstad,27
+1885.0,Soderhamn,27
+1885.0,Stettin,25
+1885.0,Gefle,24
+1885.0,Archangel,21
+1885.0,Boston,20
+1885.0,Bremen,20
+1885.0,Kotka,20
+1885.0,Montreal,20
+1885.0,Baltimore,14
+1885.0,Rotterdam,14
+1885.0,Stockholm,14
+1885.0,Trieste,13
+1885.0,Pensacola,12
+1885.0,St. Petersburg,12
+1885.0,Odessa,11
+1885.0,Porsgrund,11
+1885.0,Uleaborg,11
+1885.0,Bordeaux,10
+1885.0,Drammen,10
+1885.0,Ljusne,10
+1885.0,Skelleftea,10
+1885.0,Skien,10
+1885.0,Abo,9
+1885.0,Bjorneborg,9
+1885.0,Konigsberg,9
+1885.0,Mobile,9
+1885.0,Sandarne,9
+1885.0,Uddevalla,8
+1885.0,Wyborg,8
+1885.0,Fredrikshald,7
+1885.0,Krageroe,7
+1885.0,Philadelphia,7
+1885.0,Skonvik,7
+1885.0,Halmstad,6
+1885.0,Hernosand,6
+1885.0,Hudikswall,6
+1885.0,Risoer,6
+1885.0,Soroka,6
+1885.0,Swartvik,6
+1885.0,Domsjo,5
+1885.0,Fiume,5
+1885.0,Holmsund,5
+1885.0,Metis,5
+1885.0,Narva,5
+1885.0,New Orleans,5
+1885.0,Onega,5
+1885.0,Tornea,5
+1885.0,Arendal,4
+1885.0,Christiansand,4
+1885.0,Fritzoe,4
+1885.0,Gefle & Stockholm,4
+1885.0,Kramfors,4
+1885.0,Libau,4
+1885.0,Lulea,4
+1885.0,Oxelosund,4
+1885.0,Saguenay,4
+1885.0,Sevastopol,4
+1885.0,"St. John, N.B.",4
+1885.0,Blaye,3
+1885.0,Dram,3
+1885.0,Drontheim,3
+1885.0,Falkenberg,3
+1885.0,Fredrikshamn,3
+1885.0,Halmstadt,3
+1885.0,Hambro',3
+1885.0,Helsingfors,3
+1885.0,Konigsburg,3
+1885.0,Miramichi,3
+1885.0,Ornskjoldsvik,3
+1885.0,Pitea,3
+1885.0,Rafso,3
+1885.0,Tvedestrand,3
+1885.0,Wifstawarf,3
+1885.0,Brevig,2
+1885.0,Chicontimi,2
+1885.0,Chicoutimi,2
+1885.0,Christinestad,2
+1885.0,Darien,2
+1885.0,Finklippan,2
+1885.0,Fredrikstadt,2
+1885.0,Furuogrund,2
+1885.0,Haparanda,2
+1885.0,Koping,2
+1885.0,Langesund,2
+1885.0,Laurvig,2
+1885.0,Mesane,2
+1885.0,Monsteras,2
+1885.0,Neder Kalix,2
+1885.0,Nordmaling,2
+1885.0,Norrkoping,2
+1885.0,Oscarshamn,2
+1885.0,Pernau,2
+1885.0,Pictou,2
+1885.0,Pierreville and Quebec,2
+1885.0,Skutskar,2
+1885.0,St. John,2
+1885.0,Sydney,2
+1885.0,Umea,2
+1885.0,Wisby,2
+1885.0,Wyburg,2
+1885.0,Apalachicola,1
+1885.0,Asbacka,1
+1885.0,Batoum,1
+1885.0,Bay de Verte,1
+1885.0,Bersimis,1
+1885.0,Bolsta,1
+1885.0,Borga,1
+1885.0,Brest,1
+1885.0,Brunswick,1
+1885.0,Buenos Ayres,1
+1885.0,Bure,1
+1885.0,Burrard Inlet,1
+1885.0,Byake,1
+1885.0,Canada Dock,1
+1885.0,Canada yard Sandvik,1
+1885.0,Carlscrona,1
+1885.0,Charente,1
+1885.0,"Chatham, N.B.",1
+1885.0,Christiansund,1
+1885.0,Copenhagen,1
+1885.0,D'anzig,1
+1885.0,Derby,1
+1885.0,Domsjo and Nordmaling,1
+1885.0,Domsjo and Nordsmalings,1
+1885.0,F. Fredrikstad,1
+1885.0,Fairwater,1
+1885.0,Fikilippa,1
+1885.0,Finnklippan,1
+1885.0,Frederikstad,1
+1885.0,Gefle & Soderhamn,1
+1885.0,Gravesend,1
+1885.0,"Guysboro,' N.S.",1
+1885.0,Hallsta,1
+1885.0,Hamburg,1
+1885.0,Hamstad,1
+1885.0,Hernösand,1
+1885.0,Hobart,1
+1885.0,Holmstadt,1
+1885.0,Hommelvik,1
+1885.0,Husum,1
+1885.0,Jacobstad,1
+1885.0,K. Tor,1
+1885.0,Kalix,1
+1885.0,Kemi,1
+1885.0,Kimovski,1
+1885.0,Kon'gsberg,1
+1885.0,Kylorn,1
+1885.0,Langror,1
+1885.0,Leopold,1
+1885.0,Lugnvik,1
+1885.0,Marseilles,1
+1885.0,Mon'real,1
+1885.0,Montrose,1
+1885.0,Munksund,1
+1885.0,Nantes,1
+1885.0,New Richmond,1
+1885.0,"Newport News, V.",1
+1885.0,"Ny, Karleby",1
+1885.0,Nyhamn,1
+1885.0,Nystad,1
+1885.0,O xe osund,1
+1885.0,Ostend,1
+1885.0,Paimpol,1
+1885.0,"Parrsboro', N.S.",1
+1885.0,Pascagoula,1
+1885.0,"Pictou, N.S.",1
+1885.0,Portland,1
+1885.0,"Portland, Maine",1
+1885.0,Quebec and Montreal,1
+1885.0,Raffso,1
+1885.0,Railway sheds Europa,1
+1885.0,Railway sleepers,1
+1885.0,Risor,1
+1885.0,Rockabema,1
+1885.0,Saints,1
+1885.0,Salsaker,1
+1885.0,Sarpsborg,1
+1885.0,Sault,1
+1885.0,Savannah,1
+1885.0,Savenas,1
+1885.0,Ship Island,1
+1885.0,Simo,1
+1885.0,Singapore,1
+1885.0,Skutakar,1
+1885.0,"St. John, N.B., deals",1
+1885.0,Station yard Persia,1
+1885.0,Stave yard Alpha,1
+1885.0,Stocka,1
+1885.0,Stromnas,1
+1885.0,Sunderland,1
+1885.0,Svartvik,1
+1885.0,Swedish yard Aljuca,1
+1885.0,Swedish yard Margaretha,1
+1885.0,Swedish yard Preussen,1
+1885.0,Taganrog,1
+1885.0,Three Rivers,1
+1885.0,Torefors,1
+1885.0,Trieste & Fiume,1
+1885.0,Uddewalla,1
+1885.0,Ursviken,1
+1885.0,Venice,1
+1885.0,"West Point, Virginia",1
+1885.0,Westervik,1
+1885.0,Windau,1
+1886.0,Fredrikstad,3
+1886.0,New York,3
+1886.0,Christiania,2
+1886.0,Odessa,2
+1886.0,Boston,1
+1886.0,Brevig,1
+1886.0,Campbeltown,1
+1886.0,Gothenburg,1
+1886.0,Halifax,1
+1886.0,Hommelvik,1
+1886.0,Krageroe,1
+1886.0,Memel,1
+1886.0,Riga,1
+1886.0,Savannah,1
+1886.0,Skutskar,1
+1886.0,St. John,1
+1886.0,Trieste,1
+1886.0,Uddevalla,1
+1887.0,Gothenburg,85
+1887.0,St. Petersburg,79
+1887.0,Riga,63
+1887.0,New York,59
+1887.0,Sundswall,51
+1887.0,Christiania,50
+1887.0,Cronstadt,45
+1887.0,Fredrikstad,42
+1887.0,Stettin,41
+1887.0,Memel,37
+1887.0,Soderhamn,37
+1887.0,Danzig,34
+1887.0,Gefle,26
+1887.0,Montreal,25
+1887.0,Quebec,23
+1887.0,Kotka,22
+1887.0,Drammen,18
+1887.0,Archangel,17
+1887.0,Boston,13
+1887.0,Baltimore,12
+1887.0,Bjorneborg,12
+1887.0,Fredrikshald,11
+1887.0,Hudikswall,11
+1887.0,Skelleftea,11
+1887.0,Arendal,10
+1887.0,Ljusne,10
+1887.0,Stockholm,10
+1887.0,Trieste,10
+1887.0,Laurvig,9
+1887.0,Skien,9
+1887.0,Three Rivers,9
+1887.0,Uddevalla,9
+1887.0,Hernosand,8
+1887.0,Lulea,8
+1887.0,Pensacola,8
+1887.0,Sandarne,8
+1887.0,Hambro',7
+1887.0,Onega,7
+1887.0,Saguenay,7
+1887.0,Swartvik,7
+1887.0,Bordeaux,6
+1887.0,Helsingfors,6
+1887.0,Rotterdam,6
+1887.0,Skutskar,6
+1887.0,Wyborg,6
+1887.0,Bremen,5
+1887.0,Domsjo,5
+1887.0,Holmsund,5
+1887.0,Narva,5
+1887.0,Norrkoping,5
+1887.0,Pitea,5
+1887.0,Sevastopol,5
+1887.0,Antwerp,4
+1887.0,Hommelvik,4
+1887.0,Krageroe,4
+1887.0,Libau,4
+1887.0,Monsteras,4
+1887.0,Neder Kalix,4
+1887.0,New Orleans,4
+1887.0,Newport News,4
+1887.0,Norway,4
+1887.0,Nyhamn,4
+1887.0,Odessa,4
+1887.0,Porsgrund,4
+1887.0,"St. John, N.B.",4
+1887.0,Abo,3
+1887.0,Drontheim,3
+1887.0,Finnklippan,3
+1887.0,Fiume,3
+1887.0,Halifax,3
+1887.0,Hernösand,3
+1887.0,Pentecost,3
+1887.0,Stugsund,3
+1887.0,Torefors,3
+1887.0,Amsterdam,2
+1887.0,Anga,2
+1887.0,Bermuda,2
+1887.0,Blaye,2
+1887.0,Borga,2
+1887.0,Bure,2
+1887.0,Calmar,2
+1887.0,Carlscrona,2
+1887.0,"Chatham, N.B.",2
+1887.0,Christiansand,2
+1887.0,Djupvik,2
+1887.0,Grimstad,2
+1887.0,Halmstad,2
+1887.0,Husum,2
+1887.0,Konigsberg,2
+1887.0,Kramfors,2
+1887.0,Lovisa,2
+1887.0,Mesane,2
+1887.0,Metis,2
+1887.0,Miramichi,2
+1887.0,Mobile,2
+1887.0,Oscarshamn,2
+1887.0,Oxelosund,2
+1887.0,Pascagoula,2
+1887.0,Philadelphia,2
+1887.0,Rafso,2
+1887.0,Rimouski,2
+1887.0,Sandvik,2
+1887.0,Sannesund,2
+1887.0,St. John,2
+1887.0,Swartwik,2
+1887.0,Tornea,2
+1887.0,Tvedestrand,2
+1887.0,Aarhuus,1
+1887.0,Acorn yard Birger,1
+1887.0,Ahla,1
+1887.0,Alfredshamn,1
+1887.0,"Annapolis, N.S.",1
+1887.0,Arcachon,1
+1887.0,Arthur,1
+1887.0,Asbacka,1
+1887.0,Atu,1
+1887.0,Batekarnas,1
+1887.0,"Bay Verte, Montreal",1
+1887.0,Bayonne,1
+1887.0,Bollsta,1
+1887.0,Bredvik,1
+1887.0,Brevig,1
+1887.0,Brisbane,1
+1887.0,Chatham,1
+1887.0,Chicontimi,1
+1887.0,Colombo,1
+1887.0,Dram,1
+1887.0,Dronthiem,1
+1887.0,Elsinore,1
+1887.0,Escoumains,1
+1887.0,Farosund,1
+1887.0,Fide,1
+1887.0,Frederikstad,1
+1887.0,Fredrikstadt,1
+1887.0,Furugrund,1
+1887.0,Furuogrund,1
+1887.0,Gefle and Sandarne,1
+1887.0,Guttstrom,1
+1887.0,Guysboro',1
+1887.0,"Halifax, N.B.",1
+1887.0,"Halifax, N.S.",1
+1887.0,Helmsund,1
+1887.0,Hennebont,1
+1887.0,Hernossand,1
+1887.0,Hull,1
+1887.0,Iggesund,1
+1887.0,Italy,1
+1887.0,Kaipara,1
+1887.0,Koja,1
+1887.0,Kragero,1
+1887.0,Krageroc,1
+1887.0,Kristinestadt,1
+1887.0,Kylorn,1
+1887.0,Langror,1
+1887.0,Marseilles,1
+1887.0,Metane,1
+1887.0,Minde,1
+1887.0,Moss,1
+1887.0,Namsos,1
+1887.0,"New Richmond, N.B.",1
+1887.0,Nordmaling,1
+1887.0,Norfolk,1
+1887.0,Norfolk and Newport News,1
+1887.0,"Norfolk, Va.",1
+1887.0,"North Port, N.S.",1
+1887.0,Ny Karleby,1
+1887.0,Nyland,1
+1887.0,Oplo,1
+1887.0,Orotastadt,1
+1887.0,"Parrsboro', N.S.",1
+1887.0,Pat,1
+1887.0,Pictou,1
+1887.0,Port Launay,1
+1887.0,Pugwash,1
+1887.0,Raiso,1
+1887.0,Rilgedahl,1
+1887.0,Risoer,1
+1887.0,Rosetta,1
+1887.0,Royetta,1
+1887.0,Salsaker,1
+1887.0,Sanda,1
+1887.0,Sandarne and Ljusne,1
+1887.0,Sault,1
+1887.0,Simo,1
+1887.0,Skonvik,1
+1887.0,Skouvik,1
+1887.0,Skutekar,1
+1887.0,Skönvik,1
+1887.0,Slite,1
+1887.0,Sodorhamn,1
+1887.0,Soroka,1
+1887.0,Stocka,1
+1887.0,Stockholm and Soderhamn,1
+1887.0,Strommas,1
+1887.0,Sund,1
+1887.0,Svartvik,1
+1887.0,Trangssund,1
+1887.0,Trangsund,1
+1887.0,Treport,1
+1887.0,Trinidad,1
+1887.0,Uleaborg,1
+1887.0,Ullanger,1
+1887.0,Umea,1
+1887.0,Uto,1
+1887.0,Wergeland,1
+1887.0,Westerwik,1
+1887.0,Wisby,1
+1888.0,New York,3
+1888.0,Gothenburg,2
+1888.0,Christiania,1
+1888.0,Danzig,1
+1888.0,Stettin,1
+1888.0,Trieste,1
+1889.0,Riga,63
+1889.0,St. Petersburg,58
+1889.0,New York,48
+1889.0,Sundswall,41
+1889.0,Fredrikstad,37
+1889.0,Gothenburg,37
+1889.0,Gefle,29
+1889.0,Cronstadt,27
+1889.0,Memel,27
+1889.0,Danzig,25
+1889.0,Christiania,23
+1889.0,Montreal,23
+1889.0,Quebec,23
+1889.0,Kotka,19
+1889.0,Stettin,15
+1889.0,Soderhamn,14
+1889.0,Baltimore,13
+1889.0,Boston,13
+1889.0,Drammen,11
+1889.0,Ljusne,11
+1889.0,Skutskar,11
+1889.0,Trieste,11
+1889.0,Archangel,10
+1889.0,Hernosand,10
+1889.0,Laurvig,10
+1889.0,Nyhamn,10
+1889.0,Stockholm,10
+1889.0,Uddevalla,10
+1889.0,Libau,9
+1889.0,Pensacola,9
+1889.0,Sandarne,9
+1889.0,Abo,7
+1889.0,Bjorneborg,7
+1889.0,Hernösand,7
+1889.0,Hudikswall,7
+1889.0,Wyborg,7
+1889.0,Konigsberg,6
+1889.0,Miramichi,6
+1889.0,Pitea,6
+1889.0,Porsgrund,6
+1889.0,Skelleftea,6
+1889.0,Skien,6
+1889.0,Skonvik,6
+1889.0,Fiume,5
+1889.0,Helsingfors,5
+1889.0,New Orleans,5
+1889.0,Rotterdam,5
+1889.0,Saguenay,5
+1889.0,Drontheim,4
+1889.0,Halifax,4
+1889.0,Oscarshamn,4
+1889.0,Swartvik,4
+1889.0,Tvedestrand,4
+1889.0,Uleaborg,4
+1889.0,Bay Verte,3
+1889.0,Bordeaux,3
+1889.0,Bremen,3
+1889.0,Finnklippan,3
+1889.0,Fredrikshald,3
+1889.0,Holmsund,3
+1889.0,Hommelvik,3
+1889.0,Iggesund,3
+1889.0,Krageroe,3
+1889.0,Langror,3
+1889.0,Mesane,3
+1889.0,Mobile,3
+1889.0,Narva,3
+1889.0,Norrkoping,3
+1889.0,Odessa,3
+1889.0,Philadelphia,3
+1889.0,St. John,3
+1889.0,Windau,3
+1889.0,Batvik,2
+1889.0,Brunne,2
+1889.0,Buctouche,2
+1889.0,Christinestad,2
+1889.0,Darien,2
+1889.0,Domsjo,2
+1889.0,Fredrikshamn,2
+1889.0,Harnas,2
+1889.0,Hudiksvall,2
+1889.0,Kemi,2
+1889.0,Lulea,2
+1889.0,Matane,2
+1889.0,Munksund,2
+1889.0,Onega,2
+1889.0,Oxelosund,2
+1889.0,Pascagoula,2
+1889.0,Raumo,2
+1889.0,Risoer,2
+1889.0,Sandvik,2
+1889.0,"Shediac, N.B.",2
+1889.0,St. Etienne,2
+1889.0,"St. John, N.B.",2
+1889.0,Stugsund,2
+1889.0,Swartwik,2
+1889.0,Three Rivers,2
+1889.0,Trangsund,2
+1889.0,Wifstawarf,2
+1889.0,Amsterdam,1
+1889.0,Apalachicola,1
+1889.0,Arendal,1
+1889.0,Astoria,1
+1889.0,Attu,1
+1889.0,Bathurst,1
+1889.0,"Bathurst, Gulf of St. Lawrence",1
+1889.0,Batiscan,1
+1889.0,Batiscan & Quebec,1
+1889.0,Batoum,1
+1889.0,"Bay Verte, N.B.",1
+1889.0,Black River,1
+1889.0,Boulogne,1
+1889.0,Brandholmen,1
+1889.0,Brussels,1
+1889.0,Byske,1
+1889.0,Calmar,1
+1889.0,"Chatham, N.B.",1
+1889.0,Chicoutimi,1
+1889.0,Christiansand,1
+1889.0,Colon,1
+1889.0,Dalhousie,1
+1889.0,Djupvik,1
+1889.0,Doboy,1
+1889.0,Dram,1
+1889.0,Dunkirk,1
+1889.0,Finklippan,1
+1889.0,Finland,1
+1889.0,Forsby,1
+1889.0,Frano,1
+1889.0,Fredikshald,1
+1889.0,Fredrikshald & Fredrikstad,1
+1889.0,Fredriksstad,1
+1889.0,Fredrikstadt,1
+1889.0,Furnogrund,1
+1889.0,Furuogrund,1
+1889.0,"Gefle, &c.",1
+1889.0,Hallsta,1
+1889.0,Haparanda,1
+1889.0,Havre,1
+1889.0,Husum,1
+1889.0,Idefjord & Drammen,1
+1889.0,Jacobstad,1
+1889.0,Kallero,1
+1889.0,Kaunissaari,1
+1889.0,Klintsham,1
+1889.0,Kramfors,1
+1889.0,La Tremblade,1
+1889.0,Landvik,1
+1889.0,Larva,1
+1889.0,Liverpool,1
+1889.0,Malmo,1
+1889.0,Mandal,1
+1889.0,Marieberg,1
+1889.0,Metis,1
+1889.0,Neder Kalix,1
+1889.0,Nedercalix,1
+1889.0,"Newcastle, N.B.",1
+1889.0,Newfairwater,1
+1889.0,Nordmaling,1
+1889.0,Norfolk,1
+1889.0,Oporto,1
+1889.0,Orange Bluff,1
+1889.0,Orkedalsoren,1
+1889.0,Pictou,1
+1889.0,Pillau,1
+1889.0,"Port Plakeley, W.I.",1
+1889.0,Richibucto,1
+1889.0,Riser,1
+1889.0,Sault au Cochon,1
+1889.0,Ship Harbour,1
+1889.0,Skein,1
+1889.0,St Petersburg,1
+1889.0,St. Malo,1
+1889.0,St. Peter,1
+1889.0,Stocka and Skelleftea,1
+1889.0,Stromfars,1
+1889.0,Sundarne,1
+1889.0,Suudswall,1
+1889.0,Söderhamn,1
+1889.0,Tacoma,1
+1889.0,Thisted,1
+1889.0,Tornea,1
+1889.0,Uddovalla,1
+1889.0,Warberg,1
+1889.0,Westervik,1
+1889.0,Wiborg,1
+1889.0,Wifsta Warf,1
+1890.0,Riga,5
+1890.0,Gothenburg,3
+1890.0,Odessa,2
+1890.0,Danzig,1
+1890.0,Darien,1
+1890.0,Drammen,1
+1890.0,Fredrikstad,1
+1890.0,Kotka,1
+1890.0,Laurvig,1
+1890.0,Memel,1
+1890.0,Uddevalla,1
+1891.0,Riga,52
+1891.0,St. Petersburg,38
+1891.0,Gothenburg,35
+1891.0,Sundswall,31
+1891.0,Fredrikstad,28
+1891.0,New York,27
+1891.0,Christiania,26
+1891.0,Drammen,16
+1891.0,Memel,15
+1891.0,Gefle,13
+1891.0,Kotka,13
+1891.0,Danzig,12
+1891.0,Stettin,12
+1891.0,Montreal,11
+1891.0,Baltimore,10
+1891.0,Cronstadt,10
+1891.0,Hernosand,10
+1891.0,Soderhamn,10
+1891.0,Quebec,9
+1891.0,Skutskar,9
+1891.0,Arendal,8
+1891.0,Bjorneborg,8
+1891.0,Boston,8
+1891.0,Libau,8
+1891.0,Uddevalla,8
+1891.0,Halmstad,7
+1891.0,Krageroe,7
+1891.0,Rotterdam,7
+1891.0,Skien,7
+1891.0,Belize,6
+1891.0,Bordeaux,6
+1891.0,Hernösand,6
+1891.0,Ljusne,6
+1891.0,Pensacola,6
+1891.0,Stockholm,6
+1891.0,Archangel,5
+1891.0,Batoum,5
+1891.0,Dieppe,5
+1891.0,Domsjo,5
+1891.0,Hambro',5
+1891.0,Laurvig,5
+1891.0,Norrkoping,5
+1891.0,Rangoon,5
+1891.0,Skelleftea,5
+1891.0,Abo,4
+1891.0,Bayonne,4
+1891.0,Borga,4
+1891.0,Fredrikshald,4
+1891.0,Helsingfors,4
+1891.0,Hudikswall,4
+1891.0,Konigsberg,4
+1891.0,Laguna,4
+1891.0,Narva,4
+1891.0,Nyhamn,4
+1891.0,Pascagoula,4
+1891.0,Sandarne,4
+1891.0,Wyborg,4
+1891.0,Bangkok,3
+1891.0,Bremen,3
+1891.0,Drontheim,3
+1891.0,Freemantle,3
+1891.0,Havre,3
+1891.0,Hommelvik,3
+1891.0,Kemi,3
+1891.0,Marseille,3
+1891.0,Miramichi,3
+1891.0,Mobile,3
+1891.0,Newport News,3
+1891.0,Oscarshamn,3
+1891.0,Philadelphia,3
+1891.0,Risoer,3
+1891.0,Rosario,3
+1891.0,Stugsund,3
+1891.0,Uleaborg,3
+1891.0,Wanevik,3
+1891.0,Wederlaks,3
+1891.0,Windau,3
+1891.0,Batvik,2
+1891.0,Calcutta,2
+1891.0,Calicut,2
+1891.0,Christiansand,2
+1891.0,Cologne,2
+1891.0,Fiume,2
+1891.0,Genoa,2
+1891.0,Hamburg,2
+1891.0,Holmsund,2
+1891.0,Iggesund,2
+1891.0,Lu'ea,2
+1891.0,Munksund,2
+1891.0,Pitea,2
+1891.0,Porsgrund,2
+1891.0,Rafso,2
+1891.0,Saguenay,2
+1891.0,Singapore,2
+1891.0,St. Nazaire,2
+1891.0,Torefors,2
+1891.0,Tornea,2
+1891.0,Trieste,2
+1891.0,Tunas de Zaza,2
+1891.0,Umea,2
+1891.0,Aarhus,1
+1891.0,Ablana,1
+1891.0,Alfredshemn,1
+1891.0,Alger,1
+1891.0,Arcachon,1
+1891.0,Aroachon,1
+1891.0,Assinee,1
+1891.0,Attu,1
+1891.0,Batiscan,1
+1891.0,Belise,1
+1891.0,Bergqvara,1
+1891.0,Bio,1
+1891.0,Blaye,1
+1891.0,Boulogne,1
+1891.0,Buenos Ayres,1
+1891.0,Cagliari,1
+1891.0,Cap Lopez,1
+1891.0,Carlsvik,1
+1891.0,Charente,1
+1891.0,Charles,1
+1891.0,Chatham,1
+1891.0,"Chatham, N.B.",1
+1891.0,Chicoutimi,1
+1891.0,Chri,1
+1891.0,Coatzacoalcos,1
+1891.0,Colon,1
+1891.0,Dalhousie,1
+1891.0,Demerara,1
+1891.0,Dordt,1
+1891.0,Drama,1
+1891.0,Essvik,1
+1891.0,Falkenberg,1
+1891.0,Flushing,1
+1891.0,Fredrickstadt,1
+1891.0,Fredrikshamn,1
+1891.0,Fredriksværn,1
+1891.0,Furuogrund,1
+1891.0,Gothenberg,1
+1891.0,Grand Bassam,1
+1891.0,Halifax,1
+1891.0,Halmstadt,1
+1891.0,Halsc,1
+1891.0,Haparanda,1
+1891.0,Hennebont,1
+1891.0,Hernosaud,1
+1891.0,Hernossand,1
+1891.0,Husum,1
+1891.0,Kisoer,1
+1891.0,Krageros,1
+1891.0,Kramfors,1
+1891.0,La Roche Bernard,1
+1891.0,Langesund,1
+1891.0,Langror,1
+1891.0,Larvik,1
+1891.0,Liverpool,1
+1891.0,Macane,1
+1891.0,Madagascar,1
+1891.0,Maija,1
+1891.0,Malja,1
+1891.0,Malmo,1
+1891.0,Manila,1
+1891.0,Maracaibo,1
+1891.0,Marseilles,1
+1891.0,Marstrand,1
+1891.0,Masane,1
+1891.0,Metis,1
+1891.0,Minatitlan,1
+1891.0,Monte Christi,1
+1891.0,Monte Cristi,1
+1891.0,Morlaix,1
+1891.0,Muolsund,1
+1891.0,Namsos,1
+1891.0,Nantes,1
+1891.0,Newfoundland,1
+1891.0,Newport,1
+1891.0,Norfolk,1
+1891.0,"Norfolk, Va.",1
+1891.0,Nuevitas,1
+1891.0,Nybamn,1
+1891.0,Odessa,1
+1891.0,Oporto,1
+1891.0,Ostend,1
+1891.0,Pataholm,1
+1891.0,Pentecost,1
+1891.0,Port Blakeley,1
+1891.0,Port Natal,1
+1891.0,Porto Cabello,1
+1891.0,Porto Plata,1
+1891.0,Punta Arenas,1
+1891.0,Rio Janeiro,1
+1891.0,Saigon,1
+1891.0,Sanda,1
+1891.0,Santa Cruz,1
+1891.0,Santa Eugenia,1
+1891.0,Sault,1
+1891.0,Savenas,1
+1891.0,Skonvik,1
+1891.0,Soroka,1
+1891.0,St. Domingo,1
+1891.0,St. John,1
+1891.0,St. Simons,1
+1891.0,Storfors,1
+1891.0,Sundsvall,1
+1891.0,Swartvik,1
+1891.0,Syske,1
+1891.0,Tecolutla,1
+1891.0,Tlacotalpam,1
+1891.0,Torsfors,1
+1891.0,Trangsund,1
+1891.0,Treport,1
+1891.0,Trondhjeim,1
+1891.0,Uddewalla,1
+1891.0,Vannes,1
+1891.0,Vera Cruz,1
+1891.0,Villagarcia,1
+1891.0,W. C. Africa,1
+1891.0,W. C. of Africa,1
+1891.0,W. O. of Africa,1
+1891.0,Waneviken,1
+1891.0,Westervik,1
+1892.0,Riga,6
+1892.0,Gothenburg,5
+1892.0,Stockholm,4
+1892.0,Christiania,3
+1892.0,Fredrikstad,3
+1892.0,Fredrikshald,2
+1892.0,Memel,2
+1892.0,Risoer,2
+1892.0,Stettin,2
+1892.0,Abo,1
+1892.0,Gefle,1
+1892.0,Havre,1
+1892.0,Hudikswall,1
+1892.0,Libau,1
+1892.0,Marseille,1
+1892.0,Oscarshamn,1
+1892.0,Pensacola,1
+1892.0,Poti,1
+1892.0,Skien,1
+1892.0,Skutskar,1
+1892.0,Uddevalla,1
+1893.0,Riga,32
+1893.0,Gothenburg,26
+1893.0,Fredrikstad,21
+1893.0,Gefle,21
+1893.0,Christiania,19
+1893.0,Montreal,19
+1893.0,St. Petersburg,15
+1893.0,Archangel,13
+1893.0,Cronstadt,13
+1893.0,Danzig,13
+1893.0,Bordeaux,12
+1893.0,New York,11
+1893.0,Memel,10
+1893.0,Sundswall,10
+1893.0,Skutskar,9
+1893.0,Soderhamn,9
+1893.0,Norrkoping,8
+1893.0,Quebec,8
+1893.0,Uddevalla,8
+1893.0,Boston,7
+1893.0,Pensacola,7
+1893.0,Frano,6
+1893.0,Hudikswall,6
+1893.0,Stockholm,6
+1893.0,Swartvik,6
+1893.0,Drammen,5
+1893.0,Helsingfors,5
+1893.0,Hernosand,5
+1893.0,New Orleans,5
+1893.0,Rafso,5
+1893.0,Fredrikshald,4
+1893.0,Halmstad,4
+1893.0,Konigsberg,4
+1893.0,Kotka,4
+1893.0,Nyhamn,4
+1893.0,Philadelphia,4
+1893.0,Pitea,4
+1893.0,Redon,4
+1893.0,"St. John, N.B.",4
+1893.0,Stettin,4
+1893.0,Wyborg,4
+1893.0,Abo,3
+1893.0,Arendal,3
+1893.0,Bjorneborg,3
+1893.0,Brevig,3
+1893.0,Christiansand,3
+1893.0,Fiume,3
+1893.0,Halifax,3
+1893.0,Miramichi,3
+1893.0,Rangoon,3
+1893.0,Skien,3
+1893.0,Trieste,3
+1893.0,Uleaborg,3
+1893.0,Baltimore,2
+1893.0,Byske,2
+1893.0,Copenhagen,2
+1893.0,Fredrikshamn,2
+1893.0,Hambro',2
+1893.0,Hennebont,2
+1893.0,Hernösand,2
+1893.0,Holmsund,2
+1893.0,Husum,2
+1893.0,Kramfors,2
+1893.0,Laurvig,2
+1893.0,Libau,2
+1893.0,Munksund,2
+1893.0,Nederkalix,2
+1893.0,Nuevitas,2
+1893.0,Porsgrund,2
+1893.0,Port Blair,2
+1893.0,Sandarne,2
+1893.0,Skonvik,2
+1893.0,Sundsvall,2
+1893.0,Svartvik,2
+1893.0,Umea,2
+1893.0,Vannes,2
+1893.0,Albany,1
+1893.0,Amsterdam,1
+1893.0,Arcachon,1
+1893.0,Auckland,1
+1893.0,Bahia,1
+1893.0,Bangkok,1
+1893.0,Bergen,1
+1893.0,Bilbao,1
+1893.0,Blankaholm,1
+1893.0,Blaye,1
+1893.0,Botwoodville,1
+1893.0,Brabestad and Rafso,1
+1893.0,Bremen,1
+1893.0,Bure,1
+1893.0,Calcutta,1
+1893.0,Calmar,1
+1893.0,Cartagena,1
+1893.0,"Chatham, N.B.",1
+1893.0,Chicoutimi,1
+1893.0,Colon,1
+1893.0,Drangsund,1
+1893.0,Drontheim,1
+1893.0,E. Indies,1
+1893.0,Edense,1
+1893.0,"Gen. Charles Alexander Sim, in place of the late Mr. Oliphant, and Mr. William Forrest Malcolm in place of Mr. Park resigned. The directors have to regret the death, during the past half",1
+1893.0,Ghent,1
+1893.0,Hallsta,1
+1893.0,Hambourg,1
+1893.0,Hambro,1
+1893.0,Havre,1
+1893.0,Hernosaud,1
+1893.0,Hofund,1
+1893.0,Hommelvik,1
+1893.0,Hornefors,1
+1893.0,Jamaica,1
+1893.0,Jokikyla,1
+1893.0,Kalmar,1
+1893.0,Kem,1
+1893.0,Kragero,1
+1893.0,Kragerö,1
+1893.0,Kristinestad,1
+1893.0,Lervik,1
+1893.0,Lisbon,1
+1893.0,Lulea,1
+1893.0,Marseille,1
+1893.0,Mauritzberg,1
+1893.0,Mesane,1
+1893.0,Mobile,1
+1893.0,Moss,1
+1893.0,Mr. Graham Mur,1
+1893.0,Namsos,1
+1893.0,Neder Calix,1
+1893.0,Neder Kalix,1
+1893.0,Newcastle,1
+1893.0,"Newcastle, N.B.",1
+1893.0,Nordkoping,1
+1893.0,Onega,1
+1893.0,Ornskjoldsvik,1
+1893.0,Oscarsham,1
+1893.0,Oscarshamn,1
+1893.0,Pascagoula,1
+1893.0,Picton,1
+1893.0,Pont Neuf,1
+1893.0,Port Blakeley,1
+1893.0,Portland,1
+1893.0,Reval,1
+1893.0,Risoer,1
+1893.0,Rosario,1
+1893.0,Sagunay,1
+1893.0,San Francisco,1
+1893.0,Sandvik,1
+1893.0,Sapilo,1
+1893.0,Savannah,1
+1893.0,Shediac,1
+1893.0,Skelleftea,1
+1893.0,Smartvik,1
+1893.0,Smidt,1
+1893.0,St. Etienne,1
+1893.0,St. Lucia,1
+1893.0,Storfors,1
+1893.0,Sundsvik,1
+1893.0,Timas de Zaza,1
+1893.0,Tonsberg,1
+1893.0,Tunas de Zaza,1
+1893.0,Warberg,1
+1893.0,Westeroek,1
+1893.0,Westerwik,1
+1893.0,Windau,1
+1893.0,from San Domingo,1
+1893.0,grown timber will be found in our advertising pages. BERKSHIRE.,1
+1893.0,"known and much appreciated publication, well bound, carefully compiled, and conveniently arranged. The information given is very comprehensive, being especially serviceable to the professions mentioned above, and to those in the building trades having interests beyond their own circle it is also of interest and value. The paper is of excellent quality, and one page is provided for each day's notes. An alphabetical index is also provided, and a reference to the table of contents is proof of the value of the diary to commercial men generally.  LOAD",1
+1895.0,Riga,22
+1895.0,St. Petersburg,20
+1895.0,Gefle,16
+1895.0,Gothenburg,16
+1895.0,Montreal,16
+1895.0,Cronstadt,15
+1895.0,Fredrikstad,12
+1895.0,Hernosand,11
+1895.0,Archangel,10
+1895.0,Quebec,10
+1895.0,Soderhamn,10
+1895.0,Sundswall,10
+1895.0,Abo,8
+1895.0,Boston,8
+1895.0,Christiania,7
+1895.0,Hudikswall,7
+1895.0,Memel,7
+1895.0,Danzig,6
+1895.0,Helsingfors,6
+1895.0,Kotka,6
+1895.0,Stockholm,6
+1895.0,Uleaborg,6
+1895.0,New York,5
+1895.0,Newport News,5
+1895.0,Sandarne,5
+1895.0,Skutskar,5
+1895.0,Drammen,4
+1895.0,Hernösand,4
+1895.0,Konigsberg,4
+1895.0,Sydney,4
+1895.0,Brahestad,3
+1895.0,Calmar,3
+1895.0,Carlscrona,3
+1895.0,Drontheim,3
+1895.0,Fredrikshald,3
+1895.0,Halmstad,3
+1895.0,Hamburg,3
+1895.0,Iggesund,3
+1895.0,Libau,3
+1895.0,Narva,3
+1895.0,Nederkalix,3
+1895.0,Rafso,3
+1895.0,Savannah,3
+1895.0,Wyborg,3
+1895.0,Bordeaux,2
+1895.0,Colon,2
+1895.0,Falkenberg,2
+1895.0,Fredrikshamn,2
+1895.0,Halifax,2
+1895.0,Husum,2
+1895.0,Kem,2
+1895.0,Mesane,2
+1895.0,Munksund,2
+1895.0,New Orleans,2
+1895.0,Norrkoping,2
+1895.0,Onega,2
+1895.0,Ornskoldsvik,2
+1895.0,Oscarshamn,2
+1895.0,Pernoviken,2
+1895.0,Pitea,2
+1895.0,Stettin,2
+1895.0,Sundsvall,2
+1895.0,Three Rivers,2
+1895.0,Trangsund,2
+1895.0,Trieste,2
+1895.0,Windau,2
+1895.0,-The public examination of the above,1
+1895.0,Albany,1
+1895.0,Alne,1
+1895.0,Arendal,1
+1895.0,Bassam,1
+1895.0,"Beaver Point, N.S.",1
+1895.0,Borga,1
+1895.0,Brandshamn,1
+1895.0,Brevig,1
+1895.0,Bufve,1
+1895.0,Byske,1
+1895.0,Carlsvik,1
+1895.0,Christiansand,1
+1895.0,Dalhousie,1
+1895.0,Darien,1
+1895.0,Djupvik,1
+1895.0,Domsjo,1
+1895.0,Falkenburg,1
+1895.0,Fernandina,1
+1895.0,Figeholm,1
+1895.0,Gamleby,1
+1895.0,"Gander Bay, N.F.",1
+1895.0,Hallsta,1
+1895.0,Halsta,1
+1895.0,Hango,1
+1895.0,He'singfors,1
+1895.0,Herncsand,1
+1895.0,Holmsund,1
+1895.0,Hommelvik,1
+1895.0,Husbyvik,1
+1895.0,J. Scott & Son Memel,1
+1895.0,Kangsund,1
+1895.0,Kaunissaari,1
+1895.0,Keret,1
+1895.0,Kovda,1
+1895.0,Kowda,1
+1895.0,Kragero,1
+1895.0,Kramfors,1
+1895.0,Laurvig,1
+1895.0,Ljusne,1
+1895.0,Lovisa,1
+1895.0,Lulea,1
+1895.0,Melbourne,1
+1895.0,Metes,1
+1895.0,Mobile,1
+1895.0,Morlaix,1
+1895.0,Nedarkalix,1
+1895.0,Norkoping,1
+1895.0,Nuevitas,1
+1895.0,Nykarbley,1
+1895.0,Obbola,1
+1895.0,"Parrsboro', N.S.",1
+1895.0,Pascagoula,1
+1895.0,Pataholm,1
+1895.0,Pensacola,1
+1895.0,Pentecost,1
+1895.0,Pitea and Munksund,1
+1895.0,Porsgrund,1
+1895.0,Port Blakeley,1
+1895.0,Port Neuf,1
+1895.0,Rordeaux,1
+1895.0,Rugenwalde,1
+1895.0,Sagua,1
+1895.0,Sandvik,1
+1895.0,Sapelo,1
+1895.0,Sikea,1
+1895.0,Simo,1
+1895.0,Skelleftea,1
+1895.0,Skonvik,1
+1895.0,Skönvik,1
+1895.0,Solstadstrom,1
+1895.0,St. John,1
+1895.0,"St. John, N.B.",1
+1895.0,Stugsund,1
+1895.0,Svartvik,1
+1895.0,Swartvik,1
+1895.0,Swartwik,1
+1895.0,To,1
+1895.0,Tornea,1
+1895.0,Torngberg,1
+1895.0,Uddevalla,1
+1895.0,Uddevella,1
+1895.0,Wanevik,1
+1895.0,Warberg,1
+1895.0,Westervik,1
+1895.0,fifth vessel constructed by Messrs. William Simons & Co. for the Mersey Docks and Harbour Board.  MODERN WOOD,1
+1895.0,l'Orient,1
+1896.0,Boston,3
+1896.0,Gothenburg,3
+1896.0,Fredrikstad,2
+1896.0,Gefle,2
+1896.0,Helsingfors,2
+1896.0,New York,2
+1896.0,Baltimore,1
+1896.0,Christiania,1
+1896.0,Danzig,1
+1896.0,"Halifax, N.S.",1
+1896.0,Knysna,1
+1896.0,Libau,1
+1896.0,Memel,1
+1896.0,Port Blair,1
+1896.0,Riga,1
+1896.0,Sydney,1
+1897.0,Gothenburg,17
+1897.0,New York,12
+1897.0,Fredrikstad,9
+1897.0,Boston,6
+1897.0,Christiania,6
+1897.0,Danzig,6
+1897.0,Montreal,6
+1897.0,Bordeaux,5
+1897.0,Dieppe,5
+1897.0,Libau,4
+1897.0,Soderhamn,4
+1897.0,Stockholm,4
+1897.0,Uddevalla,4
+1897.0,Arendal,3
+1897.0,Bayonne,3
+1897.0,Christiansand,3
+1897.0,Flushing,3
+1897.0,Hambro,3
+1897.0,Memel,3
+1897.0,Newport News,3
+1897.0,Oscarshamn,3
+1897.0,Porsgrund,3
+1897.0,Riga,3
+1897.0,St. Petersburg,3
+1897.0,Baltimore,2
+1897.0,Boulogne,2
+1897.0,Cologne,2
+1897.0,Fredrikshald,2
+1897.0,Halmstad,2
+1897.0,Hango,2
+1897.0,Helsingfors,2
+1897.0,Konigsberg,2
+1897.0,Kotka,2
+1897.0,Pensacola,2
+1897.0,St. Nazaire,2
+1897.0,Abo,1
+1897.0,Amsterdam,1
+1897.0,Auray,1
+1897.0,Bjorneborg,1
+1897.0,Blaye,1
+1897.0,Bollsta,1
+1897.0,Bremen,1
+1897.0,Brevig,1
+1897.0,Brunswick,1
+1897.0,Carlscrona,1
+1897.0,Chailles,1
+1897.0,Christiana,1
+1897.0,Darien,1
+1897.0,Domsjo,1
+1897.0,Drobak,1
+1897.0,Drontheim,1
+1897.0,Frederikstad,1
+1897.0,Fredrikstadt,1
+1897.0,Fredriksvaern,1
+1897.0,Gamleby,1
+1897.0,Gefle,1
+1897.0,Grimstad,1
+1897.0,Grindstone Island,1
+1897.0,Hamburg,1
+1897.0,Havre,1
+1897.0,Hennebont,1
+1897.0,Hernosand,1
+1897.0,Hommelvik,1
+1897.0,Iraskjoldsvik,1
+1897.0,Karlskrona,1
+1897.0,Laguna de Terminos,1
+1897.0,Lisbon,1
+1897.0,Marieberg,1
+1897.0,Mo,1
+1897.0,N.B.,1
+1897.0,Norrkoping,1
+1897.0,Nyhamn,1
+1897.0,Pauillac,1
+1897.0,Philadelphia,1
+1897.0,Pitea,1
+1897.0,Porsholm,1
+1897.0,Portland,1
+1897.0,"Portland, M.",1
+1897.0,"Portland, Me.",1
+1897.0,Quebec,1
+1897.0,Risoer,1
+1897.0,Risor,1
+1897.0,"St. John, N B.",1
+1897.0,Stettin,1
+1897.0,Sydney,1
+1897.0,To Order C. Calder & Co. Wm. Harkess,1
+1897.0,Trinidad,1
+1897.0,Vannes,1
+1897.0,Venice,1
+1897.0,Wilmington,1
+1897.0,Windau,1
+1898.0,New York,4
+1898.0,Gothenburg,3
+1898.0,Danzig,2
+1898.0,Hamburg,2
+1898.0,"An application was made, at the Hanley Bankruptcy Court, last week, before his Honour Judge Jordan, for the discharge of the above",1
+1898.0,Boston,1
+1898.0,Drontheim,1
+1898.0,Fredriks'ad,1
+1898.0,Fredrikshald,1
+1898.0,Gegrund,1
+1898.0,Got,1
+1898.0,Iggesund,1
+1898.0,Lapwing Hamburg,1
+1898.0,Libau,1
+1898.0,Limau,1
+1898.0,Lovisa,1
+1898.0,Natal,1
+1898.0,Newort News,1
+1898.0,Oscarshamn,1
+1898.0,Paasacola,1
+1898.0,Riga,1
+1898.0,Sornas,1
+1898.0,Stockholm,1
+1899.0,Gothenburg,39
+1899.0,Riga,25
+1899.0,Montreal,20
+1899.0,Fredrikstad,19
+1899.0,Libau,18
+1899.0,New York,16
+1899.0,Boston,14
+1899.0,Bordeaux,12
+1899.0,Christiania,12
+1899.0,Stockholm,11
+1899.0,Drammen,10
+1899.0,Gefle,10
+1899.0,Newport News,8
+1899.0,Kotka,7
+1899.0,Memel,7
+1899.0,Archangel,6
+1899.0,St. Petersburg,6
+1899.0,Stettin,6
+1899.0,Uddevalla,6
+1899.0,Uleaborg,6
+1899.0,Baltimore,5
+1899.0,Fremantle,5
+1899.0,Hambro,5
+1899.0,Philadelphia,5
+1899.0,Skelleftea,5
+1899.0,Sundswall,5
+1899.0,Bayonne,4
+1899.0,Brussels,4
+1899.0,Christiansand,4
+1899.0,Fredrikshald,4
+1899.0,Konigsberg,4
+1899.0,Nederkalix,4
+1899.0,Nordmaling,4
+1899.0,Soderhamn,4
+1899.0,Abo,3
+1899.0,Copenhagen,3
+1899.0,Danzig,3
+1899.0,Hennebont,3
+1899.0,Hernösand,3
+1899.0,Kemi,3
+1899.0,Melbourne,3
+1899.0,New Orleans,3
+1899.0,Pitea,3
+1899.0,Risoer,3
+1899.0,Rotterdam,3
+1899.0,Singapore,3
+1899.0,Svartvik,3
+1899.0,Trieste,3
+1899.0,Wasa,3
+1899.0,Westervik,3
+1899.0,Albany,2
+1899.0,Amsterdam,2
+1899.0,Arendal,2
+1899.0,Bremen,2
+1899.0,Bunbury,2
+1899.0,Dieppe,2
+1899.0,Fiume,2
+1899.0,Flushing,2
+1899.0,Halifax,2
+1899.0,Halmstad,2
+1899.0,Haparanda,2
+1899.0,Holmsund,2
+1899.0,Hudiksvall,2
+1899.0,Hudikswall,2
+1899.0,Karlskrona,2
+1899.0,Kramfors,2
+1899.0,L'Orient,2
+1899.0,Ljusne,2
+1899.0,Lovisa,2
+1899.0,Lulea,2
+1899.0,Mesane,2
+1899.0,Norfolk,2
+1899.0,Norrkoping,2
+1899.0,Onega,2
+1899.0,Oscarshamn,2
+1899.0,Pauillac,2
+1899.0,Portland,2
+1899.0,Rafso,2
+1899.0,Skien,2
+1899.0,Skutskar,2
+1899.0,Soroka,2
+1899.0,St. John,2
+1899.0,"St. John, N.B.",2
+1899.0,Söderhamn,2
+1899.0,Trangsund,2
+1899.0,Wicklow,2
+1899.0,Windau,2
+1899.0,Anna,1
+1899.0,Auray,1
+1899.0,Batiscan,1
+1899.0,Batskarsnas,1
+1899.0,Bic,1
+1899.0,Borga,1
+1899.0,Boulogne,1
+1899.0,Brussel,1
+1899.0,Burria,1
+1899.0,Calcutta,1
+1899.0,Charleston,1
+1899.0,Christinestad,1
+1899.0,Cologne,1
+1899.0,Corinto,1
+1899.0,Cork,1
+1899.0,Cornwall,1
+1899.0,Courton Sheiry,1
+1899.0,Cronstadt,1
+1899.0,Crosshaven,1
+1899.0,Delagoa Bay,1
+1899.0,Derry,1
+1899.0,Djupvik,1
+1899.0,Domsjo,1
+1899.0,Dublin,1
+1899.0,East London,1
+1899.0,Fredrikstadt,1
+1899.0,Fritzoe,1
+1899.0,Frome,1
+1899.0,Ghent,1
+1899.0,Gothenberg,1
+1899.0,Grand Pabos,1
+1899.0,Harnosand,1
+1899.0,Harparanda,1
+1899.0,Helsingfors,1
+1899.0,Hernosand,1
+1899.0,Holmstad,1
+1899.0,Iggesund,1
+1899.0,Jacobstad,1
+1899.0,Johannedal,1
+1899.0,Johannédal,1
+1899.0,Jokohama,1
+1899.0,Kalmar,1
+1899.0,Karlsborg,1
+1899.0,Konigsburg,1
+1899.0,Kopmanholmen,1
+1899.0,Kragero,1
+1899.0,L' Orient,1
+1899.0,Laurvig,1
+1899.0,Lofvik,1
+1899.0,Malmo,1
+1899.0,Marieburg,1
+1899.0,Marseilles,1
+1899.0,Matane,1
+1899.0,Miramichi,1
+1899.0,Mo,1
+1899.0,Mo & Domsjo,1
+1899.0,Mo.,1
+1899.0,Mobile,1
+1899.0,Munksund,1
+1899.0,"Norfolk, Va.",1
+1899.0,Norrsundet,1
+1899.0,Nyhamn,1
+1899.0,Obbola,1
+1899.0,Odessa,1
+1899.0,Ornskoldsvik,1
+1899.0,Ostend,1
+1899.0,Pascagoula,1
+1899.0,Pensacola,1
+1899.0,Pentecost,1
+1899.0,Pernoviken,1
+1899.0,Porsgrund,1
+1899.0,"Port Hill, P.E.J.",1
+1899.0,Portland Me.,1
+1899.0,"Portland, Me.",1
+1899.0,Poti,1
+1899.0,Quebec,1
+1899.0,Reval,1
+1899.0,Saltkallan,1
+1899.0,San Francisco,1
+1899.0,Sandarne,1
+1899.0,Sando,1
+1899.0,Sandvik,1
+1899.0,Skein,1
+1899.0,Skonvik,1
+1899.0,Sprangsviken,1
+1899.0,St. Firmin,1
+1899.0,Stugsund,1
+1899.0,Sund,1
+1899.0,Sundsvall,1
+1899.0,Swartvik,1
+1899.0,The sitting for the adjourned public examination of this bankrupt was held at the Kingston,1
+1899.0,Three Rivers,1
+1899.0,Tornea,1
+1899.0,Trinidad,1
+1899.0,Trois Pistoles,1
+1899.0,Tvedestrand,1
+1899.0,Uddewalla,1
+1899.0,Umea,1
+1899.0,Vannes,1
+1899.0,Venice,1
+1899.0,W C Africa,1
+1899.0,Westerwick,1
+1899.0,Westerwik,1
+1899.0,Wifsta,1
+1899.0,Wifsta Warf,1
+1899.0,Wifstawarf,1
+1899.0,Withy,1
+1899.0,Wyborg,1
+1899.0,Wyburg,1

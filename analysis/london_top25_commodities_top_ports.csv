@@ -1,0 +1,3962 @@
+commodity,year,origin_port,cargo_rows,rank
+deals,1874,Quebec,27,1
+deals,1874,Soderhamn,21,2
+deals,1874,Gefle,16,3
+deals,1874,Cronstadt,14,4
+deals,1874,Sundswall,9,5
+deals,1874,Gothenburg,9,6
+deals,1874,Riga,8,7
+deals,1874,Zanzibar,7,8
+deals,1874,Danzig,6,9
+deals,1874,Husum,6,10
+deals,1874,Dram,5,11
+deals,1874,Memel,4,12
+deals,1874,Bjorneborg,4,13
+deals,1874,Archangel,3,14
+deals,1874,Uleaborg,3,15
+deals,1874,Libau,3,16
+deals,1874,St. Petersburg,3,17
+deals,1874,Skelleftea,3,18
+deals,1874,Sandarne,3,19
+deals,1874,Stockholm,2,20
+deals,1875,Drammen,14,1
+deals,1875,Quebec,12,2
+deals,1875,Gefle,11,3
+deals,1875,Christiania,9,4
+deals,1875,Memel,9,5
+deals,1875,Gothenburg,7,6
+deals,1875,Pensacola,7,7
+deals,1875,Skien,6,8
+deals,1875,Cronstadt,6,9
+deals,1875,Riga,6,10
+deals,1875,Bjorneborg,6,11
+deals,1875,Laurvig,6,12
+deals,1875,Nyvik,4,13
+deals,1875,St. John,4,14
+deals,1875,Havre,3,15
+deals,1875,Richibucto,3,16
+deals,1875,"St. John, N.B.",3,17
+deals,1875,Miramichi,3,18
+deals,1875,Dram,3,19
+deals,1875,Pascagoula,3,20
+deals,1879,Quebec,80,1
+deals,1879,Gefle,64,2
+deals,1879,Archangel,46,3
+deals,1879,Soderhamn,44,4
+deals,1879,Uleaborg,29,5
+deals,1879,Cronstadt,27,6
+deals,1879,Riga,18,7
+deals,1879,Saguenay,17,8
+deals,1879,Sandarne,16,9
+deals,1879,Lulea,13,10
+deals,1879,Sundswall,12,11
+deals,1879,Bjorneborg,12,12
+deals,1879,St. John,11,13
+deals,1879,Pitea,10,14
+deals,1879,G'burg,9,15
+deals,1879,Ljusne,9,16
+deals,1879,Hudikswall,9,17
+deals,1879,Kotka,8,18
+deals,1879,Miramichi,8,19
+deals,1879,Three Rivers,8,20
+deals,1880,Quebec,5,1
+deals,1880,Dalhousie,1,2
+deals,1881,Quebec,39,1
+deals,1881,Cronstadt,33,2
+deals,1881,Gothenburg,29,3
+deals,1881,Gefle,21,4
+deals,1881,Soderhamn,20,5
+deals,1881,Sundswall,18,6
+deals,1881,Pensacola,17,7
+deals,1881,Riga,13,8
+deals,1881,Stockholm,13,9
+deals,1881,"St. John, N.B.",10,10
+deals,1881,Miramichi,10,11
+deals,1881,Three Rivers,8,12
+deals,1881,Memel,7,13
+deals,1881,Montreal,7,14
+deals,1881,Archangel,7,15
+deals,1881,Dantzic,5,16
+deals,1881,Christiania,5,17
+deals,1881,Abo,5,18
+deals,1881,Nyhamn,5,19
+deals,1881,Ljusne,5,20
+deals,1882,Stockholm,2,1
+deals,1882,Lappvik,1,2
+deals,1882,Skutskar,1,3
+deals,1882,Sundswall,1,4
+deals,1882,Holmstad,1,5
+deals,1882,Archangel,1,6
+deals,1882,Christiania,1,7
+deals,1883,Quebec,56,1
+deals,1883,Gothenburg,43,2
+deals,1883,Cronstadt,30,3
+deals,1883,Soderhamn,28,4
+deals,1883,Montreal,27,5
+deals,1883,Pensacola,25,6
+deals,1883,Riga,20,7
+deals,1883,Gefle,20,8
+deals,1883,Archangel,20,9
+deals,1883,Sundswall,17,10
+deals,1883,Miramichi,15,11
+deals,1883,Stockholm,13,12
+deals,1883,"St. John, N.B.",12,13
+deals,1883,Abo,10,14
+deals,1883,Christiania,9,15
+deals,1883,Drammen,9,16
+deals,1883,Memel,9,17
+deals,1883,Hudikswall,7,18
+deals,1883,Three Rivers,7,19
+deals,1883,Chicontimi,6,20
+deals,1884,"St. John, N.B.",1,1
+deals,1884,Gothenburg,1,2
+deals,1884,Westervik,1,3
+deals,1884,Halmstad,1,4
+deals,1884,Brahestad,1,5
+deals,1884,"Guysborough, N.S.",1,6
+deals,1884,Swartvik,1,7
+deals,1885,Gothenburg,49,1
+deals,1885,Cronstadt,45,2
+deals,1885,Riga,39,3
+deals,1885,Quebec,33,4
+deals,1885,Montreal,29,5
+deals,1885,Soderhamn,26,6
+deals,1885,Archangel,18,7
+deals,1885,Gefle,17,8
+deals,1885,Sundswall,14,9
+deals,1885,Mobile,9,10
+deals,1885,Pensacola,9,11
+deals,1885,Danzig,8,12
+deals,1885,Ljusne,8,13
+deals,1885,Soroka,7,14
+deals,1885,Memel,7,15
+deals,1885,Abo,6,16
+deals,1885,Onega,6,17
+deals,1885,Sandarne,6,18
+deals,1885,Stockholm,6,19
+deals,1885,Skelleftea,6,20
+deals,1886,Memel,2,1
+deals,1886,Hommelvik,1,2
+deals,1886,Krageroe,1,3
+deals,1886,Campbeltown,1,4
+deals,1886,St. John,1,5
+deals,1886,Riga,1,6
+deals,1886,Uddevalla,1,7
+deals,1887,Riga,43,1
+deals,1887,Cronstadt,40,2
+deals,1887,Montreal,27,3
+deals,1887,Gothenburg,26,4
+deals,1887,Soderhamn,25,5
+deals,1887,Gefle,16,6
+deals,1887,Quebec,15,7
+deals,1887,Archangel,13,8
+deals,1887,Sundswall,12,9
+deals,1887,Three Rivers,11,10
+deals,1887,St. Petersburg,8,11
+deals,1887,Memel,6,12
+deals,1887,Swartvik,6,13
+deals,1887,Pensacola,6,14
+deals,1887,Hudikswall,6,15
+deals,1887,Saguenay,6,16
+deals,1887,Onega,5,17
+deals,1887,Stockholm,5,18
+deals,1887,Ljusne,5,19
+deals,1887,Drammen,5,20
+deals,1888,Gothenburg,1,1
+deals,1889,Riga,29,1
+deals,1889,Gefle,23,2
+deals,1889,Cronstadt,21,3
+deals,1889,Montreal,19,4
+deals,1889,St. Petersburg,18,5
+deals,1889,Gothenburg,13,6
+deals,1889,Sundswall,13,7
+deals,1889,Quebec,13,8
+deals,1889,Skutskar,8,9
+deals,1889,Archangel,8,10
+deals,1889,Memel,7,11
+deals,1889,Soderhamn,7,12
+deals,1889,Ljusne,7,13
+deals,1889,Saguenay,6,14
+deals,1889,Miramichi,6,15
+deals,1889,Pensacola,5,16
+deals,1889,Nyhamn,5,17
+deals,1889,Halifax,4,18
+deals,1889,Skelleftea,4,19
+deals,1889,Sandarne,4,20
+deals,1890,Riga,3,1
+deals,1890,Darien,1,2
+deals,1890,Gothenburg,1,3
+deals,1891,Riga,25,1
+deals,1891,Sundswall,16,2
+deals,1891,Gefle,11,3
+deals,1891,Montreal,9,4
+deals,1891,Quebec,8,5
+deals,1891,Gothenburg,7,6
+deals,1891,St. Petersburg,7,7
+deals,1891,Drammen,6,8
+deals,1891,Cronstadt,6,9
+deals,1891,Soderhamn,6,10
+deals,1891,Pensacola,5,11
+deals,1891,Stockholm,5,12
+deals,1891,Archangel,5,13
+deals,1891,Skutskar,5,14
+deals,1891,Hernosand,5,15
+deals,1891,Nyhamn,4,16
+deals,1891,Helsingfors,4,17
+deals,1891,Mobile,3,18
+deals,1891,Ljusne,3,19
+deals,1891,Norrkoping,3,20
+deals,1892,Stockholm,2,1
+deals,1892,Gothenburg,2,2
+deals,1892,Riga,2,3
+deals,1892,Gefle,1,4
+deals,1892,Hudikswall,1,5
+deals,1892,Uddevalla,1,6
+deals,1892,Pensacola,1,7
+deals,1893,Montreal,27,1
+deals,1893,Riga,21,2
+deals,1893,Gefle,17,3
+deals,1893,Gothenburg,14,4
+deals,1893,Cronstadt,13,5
+deals,1893,Archangel,11,6
+deals,1893,Soderhamn,10,7
+deals,1893,Quebec,7,8
+deals,1893,Sundswall,6,9
+deals,1893,Skutskar,6,10
+deals,1893,Pensacola,5,11
+deals,1893,Nyhamn,4,12
+deals,1893,Swartvik,4,13
+deals,1893,Rafso,4,14
+deals,1893,Stockholm,4,15
+deals,1893,Memel,4,16
+deals,1893,Norrkoping,4,17
+deals,1893,"St. John, N.B.",4,18
+deals,1893,Pitea,4,19
+deals,1893,Hudikswall,3,20
+deals,1895,Montreal,17,1
+deals,1895,Cronstadt,15,2
+deals,1895,Riga,14,3
+deals,1895,Gefle,12,4
+deals,1895,Soderhamn,7,5
+deals,1895,Archangel,7,6
+deals,1895,Uleaborg,6,7
+deals,1895,Quebec,6,8
+deals,1895,Sandarne,6,9
+deals,1895,Hernosand,5,10
+deals,1895,Skutskar,4,11
+deals,1895,Stockholm,4,12
+deals,1895,Sundswall,3,13
+deals,1895,St. Petersburg,3,14
+deals,1895,Three Rivers,3,15
+deals,1895,Sundsvall,3,16
+deals,1895,Onega,3,17
+deals,1895,Halifax,2,18
+deals,1895,"St. John, N.B.",2,19
+deals,1895,Kem,2,20
+deals,1896,Helsingfors,2,1
+deals,1896,Riga,2,2
+deals,1897,Gothenburg,7,1
+deals,1897,Montreal,4,2
+deals,1897,Stockholm,3,3
+deals,1897,Soderhamn,3,4
+deals,1897,Gamleby,2,5
+deals,1897,Nyhamn,2,6
+deals,1897,Danzig,1,7
+deals,1897,Hernosand,1,8
+deals,1897,Portland,1,9
+deals,1897,Libau,1,10
+deals,1897,Hommelvik,1,11
+deals,1897,Riga,1,12
+deals,1897,Oscarshamn,1,13
+deals,1897,Boulogne,1,14
+deals,1897,Grindstone Island,1,15
+deals,1897,Abo,1,16
+deals,1897,St. Petersburg,1,17
+deals,1897,Domsjo,1,18
+deals,1897,Quebec,1,19
+deals,1897,N.B.,1,20
+deals,1898,Gegrund,1,1
+deals,1898,Iggesund,1,2
+deals,1898,Gothenburg,1,3
+deals,1898,Halmstad,1,4
+deals,1899,Montreal,25,1
+deals,1899,Riga,13,2
+deals,1899,Archangel,10,3
+deals,1899,Cronstadt,10,4
+deals,1899,Gothenburg,7,5
+deals,1899,Stockholm,7,6
+deals,1899,Gefle,7,7
+deals,1899,St. John,7,8
+deals,1899,Soderhamn,6,9
+deals,1899,Quebec,5,10
+deals,1899,Christiania,5,11
+deals,1899,Rafso,5,12
+deals,1899,Svartvik,4,13
+deals,1899,Norrkoping,3,14
+deals,1899,Drammen,3,15
+deals,1899,Miramichi,3,16
+deals,1899,Hudiksvall,3,17
+deals,1899,Uleaborg,3,18
+deals,1899,Onega,3,19
+deals,1899,St. Petersburg,3,20
+battens,1874,Soderhamn,13,1
+battens,1874,Dram,11,2
+battens,1874,Sundswall,9,3
+battens,1874,Gefle,8,4
+battens,1874,Cronstadt,6,5
+battens,1874,Gothenburg,4,6
+battens,1874,Bjorneborg,4,7
+battens,1874,Zanzibar,4,8
+battens,1874,Sandarne,3,9
+battens,1874,Ny Carleby,2,10
+battens,1874,Lulea,2,11
+battens,1874,Uleaborg,2,12
+battens,1874,Ahlafors,2,13
+battens,1874,Nyvik,2,14
+battens,1874,Three Rivers,2,15
+battens,1874,Husum,2,16
+battens,1874,Riga,2,17
+battens,1874,Drammen,1,18
+battens,1874,Narva,1,19
+battens,1874,St. Petersburg Town,1,20
+battens,1875,Drammen,12,1
+battens,1875,Skien,5,2
+battens,1875,Christiansand,5,3
+battens,1875,Gothenburg,4,4
+battens,1875,Cronstadt,4,5
+battens,1875,Dram,4,6
+battens,1875,Laurvig,4,7
+battens,1875,Christiania,3,8
+battens,1875,Amsterdam,3,9
+battens,1875,Sundswall,3,10
+battens,1875,Bjorneborg,3,11
+battens,1875,Nedercalix,3,12
+battens,1875,Gefle,3,13
+battens,1875,Lulea,2,14
+battens,1875,Nynhamn,2,15
+battens,1875,Vefsen,2,16
+battens,1875,Riga,2,17
+battens,1875,Nyvik,2,18
+battens,1875,Porsgrund,2,19
+battens,1875,Stockholm,1,20
+battens,1879,Gefle,20,1
+battens,1879,G'burg,10,2
+battens,1879,Bjorneborg,8,3
+battens,1879,Lulea,7,4
+battens,1879,Ljusne,5,5
+battens,1879,Halmstad,3,6
+battens,1879,Sundswall,3,7
+battens,1879,Drammen,3,8
+battens,1879,Kotka,3,9
+battens,1879,Cronstadt,3,10
+battens,1879,Archangel,3,11
+battens,1879,Hudikswall,3,12
+battens,1879,Wyborg,2,13
+battens,1879,Dram,2,14
+battens,1879,Soderhamn,2,15
+battens,1879,Uleaborg,2,16
+battens,1879,Skelleftea,2,17
+battens,1879,Porsgrund,2,18
+battens,1879,Simo,2,19
+battens,1879,Narva,2,20
+battens,1881,Gothenburg,42,1
+battens,1881,Gefle,24,2
+battens,1881,Drammen,21,3
+battens,1881,Cronstadt,21,4
+battens,1881,Sundswall,19,5
+battens,1881,Christiania,11,6
+battens,1881,Stockholm,10,7
+battens,1881,Soderhamn,9,8
+battens,1881,Fredrikstadt,9,9
+battens,1881,Dram,7,10
+battens,1881,Fredrikstad,7,11
+battens,1881,Ljusne,5,12
+battens,1881,Uleaborg,5,13
+battens,1881,"St. John, N.B.",4,14
+battens,1881,Kotka,4,15
+battens,1881,Abo,4,16
+battens,1881,Laurvig,3,17
+battens,1881,Bjorneborg,3,18
+battens,1881,Pitea,3,19
+battens,1881,Archangel,3,20
+battens,1882,Archangel,1,1
+battens,1883,Cronstadt,21,1
+battens,1883,Soderhamn,21,2
+battens,1883,Gothenburg,17,3
+battens,1883,Gefle,15,4
+battens,1883,Drammen,14,5
+battens,1883,Sundswall,12,6
+battens,1883,Stockholm,10,7
+battens,1883,Abo,8,8
+battens,1883,Archangel,8,9
+battens,1883,Christiania,7,10
+battens,1883,Hudikswall,7,11
+battens,1883,Arendal,5,12
+battens,1883,Fredrikstad,5,13
+battens,1883,Laurvig,5,14
+battens,1883,Fredrikstadt,5,15
+battens,1883,Nyhamn,5,16
+battens,1883,Finklippan,5,17
+battens,1883,Kramfors,4,18
+battens,1883,Riga,4,19
+battens,1883,Oxelosund,3,20
+battens,1884,"St. John, N.B.",1,1
+battens,1884,Halmstad,1,2
+battens,1884,Laurvig,1,3
+battens,1885,Gothenburg,26,1
+battens,1885,Soderhamn,16,2
+battens,1885,Cronstadt,12,3
+battens,1885,Riga,12,4
+battens,1885,Gefle,12,5
+battens,1885,Sundswall,10,6
+battens,1885,Stockholm,7,7
+battens,1885,Uleaborg,6,8
+battens,1885,Fredrikstad,5,9
+battens,1885,Abo,5,10
+battens,1885,Christiania,5,11
+battens,1885,Hudikswall,4,12
+battens,1885,Soroka,4,13
+battens,1885,Oxelosund,4,14
+battens,1885,Tornea,4,15
+battens,1885,Archangel,4,16
+battens,1885,Skelleftea,4,17
+battens,1885,Gefle & Stockholm,4,18
+battens,1885,Arendal,3,19
+battens,1885,Skonvik,3,20
+battens,1886,Hommelvik,1,1
+battens,1886,St. John,1,2
+battens,1886,Fredrikstad,1,3
+battens,1886,Uddevalla,1,4
+battens,1887,Gothenburg,23,1
+battens,1887,Riga,17,2
+battens,1887,Cronstadt,16,3
+battens,1887,Soderhamn,12,4
+battens,1887,Gefle,9,5
+battens,1887,Fredrikstad,8,6
+battens,1887,Archangel,7,7
+battens,1887,Sundswall,7,8
+battens,1887,Drammen,5,9
+battens,1887,Norrkoping,4,10
+battens,1887,Ljusne,4,11
+battens,1887,Skutskar,4,12
+battens,1887,St. Petersburg,4,13
+battens,1887,Skelleftea,4,14
+battens,1887,Finnklippan,3,15
+battens,1887,Helsingfors,3,16
+battens,1887,Lulea,3,17
+battens,1887,Arendal,3,18
+battens,1887,Holmsund,3,19
+battens,1887,Onega,2,20
+battens,1889,Riga,28,1
+battens,1889,Gefle,19,2
+battens,1889,Cronstadt,17,3
+battens,1889,Gothenburg,16,4
+battens,1889,St. Petersburg,16,5
+battens,1889,Sundswall,15,6
+battens,1889,Skutskar,7,7
+battens,1889,Ljusne,6,8
+battens,1889,Christiania,5,9
+battens,1889,Soderhamn,5,10
+battens,1889,Abo,5,11
+battens,1889,Stockholm,5,12
+battens,1889,Drammen,4,13
+battens,1889,Fredrikstad,4,14
+battens,1889,Finnklippan,4,15
+battens,1889,Archangel,4,16
+battens,1889,Miramichi,4,17
+battens,1889,Hommelvik,3,18
+battens,1889,Drontheim,3,19
+battens,1889,Tvedestrand,3,20
+battens,1890,Riga,4,1
+battens,1890,Gothenburg,1,2
+battens,1890,Fredrikstad,1,3
+battens,1891,Riga,12,1
+battens,1891,Gothenburg,12,2
+battens,1891,Sundswall,11,3
+battens,1891,Gefle,7,4
+battens,1891,St. Petersburg,5,5
+battens,1891,Skutskar,5,6
+battens,1891,Fredrikstad,3,7
+battens,1891,Arendal,3,8
+battens,1891,Ljusne,3,9
+battens,1891,Cronstadt,3,10
+battens,1891,Stockholm,3,11
+battens,1891,Nyhamn,3,12
+battens,1891,Domsjo,3,13
+battens,1891,Hernosand,3,14
+battens,1891,Wyborg,3,15
+battens,1891,Stugsund,3,16
+battens,1891,Drontheim,2,17
+battens,1891,Christiania,2,18
+battens,1891,Hommelvik,2,19
+battens,1891,Drammen,2,20
+battens,1892,Gothenburg,4,1
+battens,1892,Riga,3,2
+battens,1892,Stockholm,2,3
+battens,1892,Gefle,1,4
+battens,1892,Hudikswall,1,5
+battens,1893,Riga,16,1
+battens,1893,Gefle,14,2
+battens,1893,Cronstadt,13,3
+battens,1893,Gothenburg,9,4
+battens,1893,Soderhamn,9,5
+battens,1893,Archangel,8,6
+battens,1893,Sundswall,6,7
+battens,1893,Norrkoping,6,8
+battens,1893,Skutskar,5,9
+battens,1893,Rafso,5,10
+battens,1893,Helsingfors,5,11
+battens,1893,Nyhamn,4,12
+battens,1893,Fredrikstad,3,13
+battens,1893,Nederkalix,3,14
+battens,1893,Holmsund,3,15
+battens,1893,Hudikswall,2,16
+battens,1893,Blankaholm,2,17
+battens,1893,Swartvik,2,18
+battens,1893,Sandarne,2,19
+battens,1893,Stockholm,2,20
+battens,1895,Cronstadt,15,1
+battens,1895,Gefle,9,2
+battens,1895,Riga,8,3
+battens,1895,Soderhamn,5,4
+battens,1895,Sundswall,4,5
+battens,1895,Sandarne,4,6
+battens,1895,Helsingfors,4,7
+battens,1895,Hernosand,4,8
+battens,1895,Skutskar,3,9
+battens,1895,Uleaborg,3,10
+battens,1895,Archangel,3,11
+battens,1895,Sundsvall,3,12
+battens,1895,Abo,3,13
+battens,1895,Onega,3,14
+battens,1895,Hudikswall,3,15
+battens,1895,Montreal,2,16
+battens,1895,Stockholm,2,17
+battens,1895,Alne,2,18
+battens,1895,St. Petersburg,2,19
+battens,1895,Kovda,2,20
+battens,1896,Helsingfors,4,1
+battens,1896,Riga,2,2
+battens,1897,Gothenburg,6,1
+battens,1897,Stockholm,3,2
+battens,1897,Soderhamn,3,3
+battens,1897,Riga,2,4
+battens,1897,Bollsta,2,5
+battens,1897,Danzig,1,6
+battens,1897,Hernosand,1,7
+battens,1897,Hango,1,8
+battens,1897,Helsingfors,1,9
+battens,1897,Grimstad,1,10
+battens,1897,Fredrikstad,1,11
+battens,1897,Uddevalla,1,12
+battens,1897,Memel,1,13
+battens,1897,Grindstone Island,1,14
+battens,1897,Mo,1,15
+battens,1897,Kotka,1,16
+battens,1897,Konigsberg,1,17
+battens,1897,"St. John, N B.",1,18
+battens,1898,Gegrund,1,1
+battens,1898,Iggesund,1,2
+battens,1898,Drontheim,1,3
+battens,1898,Halmstad,1,4
+battens,1899,Riga,17,1
+battens,1899,Gothenburg,10,2
+battens,1899,Stockholm,7,3
+battens,1899,Fredrikstad,5,4
+battens,1899,Archangel,5,5
+battens,1899,Rafso,4,6
+battens,1899,Hudiksvall,4,7
+battens,1899,Montreal,4,8
+battens,1899,Westervik,3,9
+battens,1899,Nederkalix,3,10
+battens,1899,Wasa,3,11
+battens,1899,Cronstadt,3,12
+battens,1899,Skutskar,2,13
+battens,1899,Christiania,2,14
+battens,1899,Drammen,2,15
+battens,1899,Soderhamn,2,16
+battens,1899,Lovisa,2,17
+battens,1899,Svartvik,2,18
+battens,1899,Libau,2,19
+battens,1899,Gefle,2,20
+firewood,1874,Cronstadt,8,1
+firewood,1874,Soderhamn,4,2
+firewood,1874,Gefle,4,3
+firewood,1874,Fredrikstad,2,4
+firewood,1874,Sund,2,5
+firewood,1874,St. Petersburg,2,6
+firewood,1874,Gothenburg,2,7
+firewood,1874,Haparanda,1,8
+firewood,1874,Hernefors,1,9
+firewood,1874,Sundswall,1,10
+firewood,1874,Uleaborg,1,11
+firewood,1874,Dram,1,12
+firewood,1874,Sandarne,1,13
+firewood,1874,Hudikswall,1,14
+firewood,1874,Krageroe,1,15
+firewood,1874,Drontheim,1,16
+firewood,1874,Stocka,1,17
+firewood,1874,Wifstavarf,1,18
+firewood,1875,Christiania,12,1
+firewood,1875,Dram,10,2
+firewood,1875,Sannesund,4,3
+firewood,1875,Gothenburg,3,4
+firewood,1875,Lulea,3,5
+firewood,1875,Skien,2,6
+firewood,1875,Sundswall,2,7
+firewood,1875,Stockholm,2,8
+firewood,1875,Drammen,2,9
+firewood,1875,Laurvig,2,10
+firewood,1875,Gefle,2,11
+firewood,1875,Bjorneborg,2,12
+firewood,1875,Amsterdam,1,13
+firewood,1875,Sandarne,1,14
+firewood,1875,Cronstadt,1,15
+firewood,1875,"St. Mary's, Georgia",1,16
+firewood,1875,Krageroe,1,17
+firewood,1875,Rangoon,1,18
+firewood,1875,Jamaica,1,19
+firewood,1875,Landskrona,1,20
+firewood,1879,Sundswall,20,1
+firewood,1879,Soderhamn,10,2
+firewood,1879,Kotka,9,3
+firewood,1879,Bjorneborg,8,4
+firewood,1879,Skonvik,6,5
+firewood,1879,Gefle,5,6
+firewood,1879,Ljusne,4,7
+firewood,1879,Lulea,4,8
+firewood,1879,Uleaborg,4,9
+firewood,1879,Krageroe,3,10
+firewood,1879,Skelleftea,3,11
+firewood,1879,Svartvik,3,12
+firewood,1879,Halmstad,2,13
+firewood,1879,Umea,2,14
+firewood,1879,Sund,2,15
+firewood,1879,Bollsta,2,16
+firewood,1879,Domsjo,2,17
+firewood,1879,Kramfors,2,18
+firewood,1879,Hudikswall,2,19
+firewood,1879,G'burg,2,20
+firewood,1881,Sundswall,18,1
+firewood,1881,Kotka,18,2
+firewood,1881,Soderhamn,10,3
+firewood,1881,Christiania,9,4
+firewood,1881,Skien,8,5
+firewood,1881,Gothenburg,7,6
+firewood,1881,Gefle,7,7
+firewood,1881,Fredrikstadt,5,8
+firewood,1881,Fredrikshald,5,9
+firewood,1881,Drammen,4,10
+firewood,1881,Sandarne,4,11
+firewood,1881,Bjorneborg,4,12
+firewood,1881,Ljusne,4,13
+firewood,1881,Stockholm,4,14
+firewood,1881,Riga,4,15
+firewood,1881,Arendal,3,16
+firewood,1881,Twedestrand,3,17
+firewood,1881,Fredrikstad,3,18
+firewood,1881,Dram,3,19
+firewood,1881,Umea,3,20
+firewood,1883,Sundswall,27,1
+firewood,1883,Uleaborg,8,2
+firewood,1883,Laurvig,7,3
+firewood,1883,Christiania,7,4
+firewood,1883,Gothenburg,7,5
+firewood,1883,Stockholm,7,6
+firewood,1883,Skien,6,7
+firewood,1883,Porsgrund,6,8
+firewood,1883,Krageroe,6,9
+firewood,1883,Soderhamn,6,10
+firewood,1883,Cronstadt,5,11
+firewood,1883,Fredrikstadt,5,12
+firewood,1883,Hernosand,5,13
+firewood,1883,Kotka,5,14
+firewood,1883,Bjorneborg,5,15
+firewood,1883,Drammen,4,16
+firewood,1883,Fredrikstad,4,17
+firewood,1883,Fredrikshald,4,18
+firewood,1883,Gefle,4,19
+firewood,1883,Sandvik,4,20
+firewood,1884,Hudikswall,1,1
+firewood,1884,Kotka,1,2
+firewood,1884,Riga,1,3
+firewood,1884,Sundswall,1,4
+firewood,1884,Skien,1,5
+firewood,1885,Sundswall,22,1
+firewood,1885,Cronstadt,21,2
+firewood,1885,Kotka,15,3
+firewood,1885,Gothenburg,15,4
+firewood,1885,Fredrikstad,10,5
+firewood,1885,Uleaborg,7,6
+firewood,1885,Bjorneborg,6,7
+firewood,1885,Skelleftea,6,8
+firewood,1885,Soderhamn,5,9
+firewood,1885,Domsjo,5,10
+firewood,1885,Skien,5,11
+firewood,1885,Riga,5,12
+firewood,1885,Hernosand,5,13
+firewood,1885,Skonvik,4,14
+firewood,1885,Fredrikshamn,4,15
+firewood,1885,Archangel,4,16
+firewood,1885,Stockholm,4,17
+firewood,1885,Sandarne,3,18
+firewood,1885,Kramfors,3,19
+firewood,1885,Neder Kalix,3,20
+firewood,1886,Hommelvik,1,1
+firewood,1886,Skutskar,1,2
+firewood,1887,Sundswall,41,1
+firewood,1887,Cronstadt,21,2
+firewood,1887,Gothenburg,19,3
+firewood,1887,Gefle,16,4
+firewood,1887,Kotka,15,5
+firewood,1887,Soderhamn,14,6
+firewood,1887,Fredrikstad,13,7
+firewood,1887,St. Petersburg,10,8
+firewood,1887,Riga,10,9
+firewood,1887,Bjorneborg,9,10
+firewood,1887,Hudikswall,8,11
+firewood,1887,Skien,8,12
+firewood,1887,Ljusne,8,13
+firewood,1887,Christiania,8,14
+firewood,1887,Sandarne,7,15
+firewood,1887,Hernosand,7,16
+firewood,1887,Fredrikshald,7,17
+firewood,1887,Skelleftea,7,18
+firewood,1887,Archangel,6,19
+firewood,1887,Arendal,6,20
+firewood,1889,Sundswall,35,1
+firewood,1889,Kotka,14,2
+firewood,1889,Gefle,13,3
+firewood,1889,St. Petersburg,13,4
+firewood,1889,Cronstadt,12,5
+firewood,1889,Gothenburg,10,6
+firewood,1889,Soderhamn,10,7
+firewood,1889,Skutskar,10,8
+firewood,1889,Riga,8,9
+firewood,1889,Fredrikstad,8,10
+firewood,1889,Ljusne,8,11
+firewood,1889,Nyhamn,7,12
+firewood,1889,Wyborg,7,13
+firewood,1889,Pitea,7,14
+firewood,1889,Hernosand,7,15
+firewood,1889,Bjorneborg,6,16
+firewood,1889,Sandarne,6,17
+firewood,1889,Skelleftea,5,18
+firewood,1889,Porsgrund,4,19
+firewood,1889,Archangel,4,20
+firewood,1890,Kotka,1,1
+firewood,1890,Gothenburg,1,2
+firewood,1891,Sundswall,15,1
+firewood,1891,Fredrikstad,9,2
+firewood,1891,Hernosand,8,3
+firewood,1891,Kotka,8,4
+firewood,1891,Gothenburg,7,5
+firewood,1891,Riga,7,6
+firewood,1891,Cronstadt,7,7
+firewood,1891,Wanevik,6,8
+firewood,1891,Krageroe,5,9
+firewood,1891,Ljusne,5,10
+firewood,1891,Soderhamn,5,11
+firewood,1891,Skelleftea,5,12
+firewood,1891,Christiania,4,13
+firewood,1891,Gefle,4,14
+firewood,1891,Skutskar,4,15
+firewood,1891,St. Petersburg,4,16
+firewood,1891,Hernösand,4,17
+firewood,1891,Domsjo,4,18
+firewood,1891,Wyborg,4,19
+firewood,1891,Sandarne,4,20
+firewood,1892,Stockholm,1,1
+firewood,1892,Fredrikstad,1,2
+firewood,1892,Gothenburg,1,3
+firewood,1892,Fredrikvoern,1,4
+firewood,1892,Skutskar,1,5
+firewood,1893,Sundswall,9,1
+firewood,1893,Cronstadt,9,2
+firewood,1893,Gefle,7,3
+firewood,1893,Riga,5,4
+firewood,1893,Skutskar,5,5
+firewood,1893,Hernosand,5,6
+firewood,1893,Kotka,5,7
+firewood,1893,Gothenburg,3,8
+firewood,1893,Fredrikstad,3,9
+firewood,1893,Soderhamn,3,10
+firewood,1893,Wyborg,3,11
+firewood,1893,St. Petersburg,3,12
+firewood,1893,Fredriksvoern,3,13
+firewood,1893,Christiansand,2,14
+firewood,1893,Arendal,2,15
+firewood,1893,Christiania,2,16
+firewood,1893,Sundsvall,2,17
+firewood,1893,Fredrikshamn,2,18
+firewood,1893,Swartvik,2,19
+firewood,1893,Archangel,2,20
+firewood,1895,St. Petersburg,6,1
+firewood,1895,Hernosand,5,2
+firewood,1895,Cronstadt,5,3
+firewood,1895,Fredrikstad,5,4
+firewood,1895,Sundswall,4,5
+firewood,1895,Hudikswall,3,6
+firewood,1895,Gothenburg,3,7
+firewood,1895,Gefle,3,8
+firewood,1895,Kotka,3,9
+firewood,1895,Husum,2,10
+firewood,1895,Pernoviken,2,11
+firewood,1895,Stockholm,2,12
+firewood,1895,Sandarne,2,13
+firewood,1895,Helsingfors,2,14
+firewood,1895,Soderhamn,2,15
+firewood,1895,Sundsvall,2,16
+firewood,1895,Iggesund,2,17
+firewood,1895,Uleaborg,1,18
+firewood,1895,Obbola,1,19
+firewood,1895,Christiansand,1,20
+firewood,1896,Fredrikstad,1,1
+firewood,1896,Helsingfors,1,2
+firewood,1897,Christiania,2,1
+firewood,1897,Fredrikstad,2,2
+firewood,1897,Fredrikshald,2,3
+firewood,1897,Christiansand,2,4
+firewood,1897,Kotka,2,5
+firewood,1897,St. Petersburg,2,6
+firewood,1897,Danzig,1,7
+firewood,1897,Wilmington,1,8
+firewood,1897,Riga,1,9
+firewood,1897,Fredriksvaern,1,10
+firewood,1897,Hommelvik,1,11
+firewood,1897,Arendal,1,12
+firewood,1897,Gefle,1,13
+firewood,1897,Bjorneborg,1,14
+firewood,1897,Iraskjoldsvik,1,15
+firewood,1897,Marieberg,1,16
+firewood,1898,Lovisa,1,1
+firewood,1898,Fredrikshald,1,2
+firewood,1898,Hernosand,1,3
+firewood,1899,Kotka,8,1
+firewood,1899,Skelleftea,7,2
+firewood,1899,Fredrikstad,5,3
+firewood,1899,Sundswall,5,4
+firewood,1899,Soderhamn,5,5
+firewood,1899,Nordmaling,4,6
+firewood,1899,Uleaborg,4,7
+firewood,1899,Cronstadt,4,8
+firewood,1899,Kemi,4,9
+firewood,1899,Hernösand,3,10
+firewood,1899,Umea,3,11
+firewood,1899,Nederkalix,3,12
+firewood,1899,Fredrikshald,2,13
+firewood,1899,Riga,2,14
+firewood,1899,Söderhamn,2,15
+firewood,1899,Ljusne,2,16
+firewood,1899,Gothenburg,2,17
+firewood,1899,Ornskoldsvik,2,18
+firewood,1899,Sandarne,2,19
+firewood,1899,Pitea,2,20
+boards,1874,Christiania,5,1
+boards,1874,Cronstadt,5,2
+boards,1874,Fredrikstad,3,3
+boards,1874,Gothenburg,3,4
+boards,1874,Lulea,2,5
+boards,1874,"Chatham, N.B.",2,6
+boards,1874,Riga,2,7
+boards,1874,Bjorneborg,2,8
+boards,1874,Soderhamn,2,9
+boards,1874,Gamla Carleby,1,10
+boards,1874,Haparanda,1,11
+boards,1874,Archangel,1,12
+boards,1874,Ny Carleby,1,13
+boards,1874,Hernefors,1,14
+boards,1874,Sannesund,1,15
+boards,1874,Saguenay,1,16
+boards,1874,Dram,1,17
+boards,1875,Christiania,9,1
+boards,1875,Drammen,7,2
+boards,1875,Gothenburg,4,3
+boards,1875,Fredrikstad,3,4
+boards,1875,Amsterdam,2,5
+boards,1875,Skien,2,6
+boards,1875,Stockholm,2,7
+boards,1875,Sundswall,2,8
+boards,1875,Bjorneborg,2,9
+boards,1875,New York,2,10
+boards,1875,Dram,2,11
+boards,1875,Quebec,2,12
+boards,1875,Nyvik,2,13
+boards,1875,Miramichi,1,14
+boards,1875,Nedercalix,1,15
+boards,1875,Ornskolksvik,1,16
+boards,1875,"St. Mary's, Georgia",1,17
+boards,1875,Pensacola,1,18
+boards,1875,Cronstadt,1,19
+boards,1875,Abo,1,20
+boards,1879,G'burg,11,1
+boards,1879,Drammen,10,2
+boards,1879,Xiania,6,3
+boards,1879,F'stad,5,4
+boards,1879,Sandarne,3,5
+boards,1879,Gothenburg,3,6
+boards,1879,Swartwik,2,7
+boards,1879,F'stadt,2,8
+boards,1879,New York,2,9
+boards,1879,Skien,1,10
+boards,1879,Arendal,1,11
+boards,1879,Sundswall,1,12
+boards,1879,Kallio,1,13
+boards,1879,Fritzoe,1,14
+boards,1879,Christiania,1,15
+boards,1879,Stockholm,1,16
+boards,1879,Riga,1,17
+boards,1879,Dram,1,18
+boards,1879,Kemi,1,19
+boards,1879,Onega,1,20
+boards,1880,Memel,2,1
+boards,1880,Quebec,2,2
+boards,1881,Christiania,25,1
+boards,1881,Gothenburg,24,2
+boards,1881,Fredrikstadt,18,3
+boards,1881,Drammen,11,4
+boards,1881,Gefle,8,5
+boards,1881,Dram,5,6
+boards,1881,New York,4,7
+boards,1881,Fredrikstad,4,8
+boards,1881,Laurvig,4,9
+boards,1881,Quebec,3,10
+boards,1881,Abo,3,11
+boards,1881,Sundswall,3,12
+boards,1881,Rotterdam,3,13
+boards,1881,Skutskar,2,14
+boards,1881,Arendal,2,15
+boards,1881,Frederickstadt,2,16
+boards,1881,Philadelphia,2,17
+boards,1881,Kotka,2,18
+boards,1881,Soroka,2,19
+boards,1881,Swartwik,2,20
+boards,1882,Sundswall,1,1
+boards,1882,Archangel,1,2
+boards,1883,Gothenburg,35,1
+boards,1883,Fredrikstadt,17,2
+boards,1883,Christiania,16,3
+boards,1883,Drammen,13,4
+boards,1883,Cronstadt,13,5
+boards,1883,Fredrikstad,12,6
+boards,1883,Archangel,8,7
+boards,1883,Sundswall,8,8
+boards,1883,Laurvig,6,9
+boards,1883,Soderhamn,5,10
+boards,1883,Montreal,5,11
+boards,1883,Gefle,4,12
+boards,1883,Sandarne,4,13
+boards,1883,Antwerp,3,14
+boards,1883,Swartvik,3,15
+boards,1883,Kotka,2,16
+boards,1883,Fredrikshald,2,17
+boards,1883,Dram,2,18
+boards,1883,Skien,2,19
+boards,1883,Norrkoping,2,20
+boards,1884,Christiania,3,1
+boards,1884,Gothenburg,2,2
+boards,1884,Laurvig,2,3
+boards,1884,New York,1,4
+boards,1884,Fredrickstadt,1,5
+boards,1884,Fredrikstadt,1,6
+boards,1884,Swartvik,1,7
+boards,1884,Skien,1,8
+boards,1885,Gothenburg,40,1
+boards,1885,Christiania,38,2
+boards,1885,Fredrikstad,12,3
+boards,1885,Cronstadt,12,4
+boards,1885,Archangel,10,5
+boards,1885,Sundswall,8,6
+boards,1885,Fredrikshald,8,7
+boards,1885,Drammen,8,8
+boards,1885,New York,6,9
+boards,1885,Gefle,6,10
+boards,1885,Quebec,5,11
+boards,1885,Onega,4,12
+boards,1885,Risoer,3,13
+boards,1885,Sandarne,3,14
+boards,1885,Riga,3,15
+boards,1885,Fritzoe,3,16
+boards,1885,Wyburg,2,17
+boards,1885,Bremen,2,18
+boards,1885,Soderhamn,2,19
+boards,1885,Uleaborg,2,20
+boards,1886,Fredrikstad,9,1
+boards,1886,St. John,1,2
+boards,1886,Trieste,1,3
+boards,1887,Christiania,38,1
+boards,1887,Gothenburg,37,2
+boards,1887,Fredrikstad,28,3
+boards,1887,Cronstadt,16,4
+boards,1887,Drammen,10,5
+boards,1887,Soderhamn,8,6
+boards,1887,Sundswall,8,7
+boards,1887,Gefle,7,8
+boards,1887,Fredrikshald,6,9
+boards,1887,Riga,6,10
+boards,1887,Archangel,5,11
+boards,1887,Montreal,4,12
+boards,1887,Hudikswall,4,13
+boards,1887,St. Petersburg,3,14
+boards,1887,Swartvik,3,15
+boards,1887,Norrkoping,3,16
+boards,1887,Ljusne,3,17
+boards,1887,Laurvig,3,18
+boards,1887,Onega,2,19
+boards,1887,Sandarne,2,20
+boards,1889,Gothenburg,21,1
+boards,1889,Christiania,15,2
+boards,1889,Gefle,13,3
+boards,1889,Fredrikstad,11,4
+boards,1889,Cronstadt,10,5
+boards,1889,St. Petersburg,10,6
+boards,1889,Montreal,6,7
+boards,1889,Skutskar,5,8
+boards,1889,Drammen,4,9
+boards,1889,New York,4,10
+boards,1889,Ljusne,4,11
+boards,1889,Archangel,4,12
+boards,1889,Miramichi,4,13
+boards,1889,Sundswall,4,14
+boards,1889,Porsgrund,3,15
+boards,1889,Laurvig,3,16
+boards,1889,Hernosand,3,17
+boards,1889,Hudikswall,3,18
+boards,1889,Stockholm,3,19
+boards,1889,Pascagoula,2,20
+boards,1890,Gothenburg,2,1
+boards,1890,Laurvig,1,2
+boards,1891,Fredrikstad,18,1
+boards,1891,Christiania,13,2
+boards,1891,Sundswall,12,3
+boards,1891,Gothenburg,9,4
+boards,1891,Gefle,7,5
+boards,1891,Drammen,6,6
+boards,1891,Newport News,3,7
+boards,1891,St. Petersburg,3,8
+boards,1891,Archangel,3,9
+boards,1891,Soderhamn,3,10
+boards,1891,Skutskar,3,11
+boards,1891,Ljusne,3,12
+boards,1891,New York,2,13
+boards,1891,Laurvig,2,14
+boards,1891,Cronstadt,2,15
+boards,1891,Hernösand,2,16
+boards,1891,Boston,2,17
+boards,1891,Stockholm,2,18
+boards,1891,Sandarne,2,19
+boards,1891,Stugsund,2,20
+boards,1892,Gothenburg,4,1
+boards,1892,Fredrikstad,3,2
+boards,1892,Christiania,2,3
+boards,1892,Stockholm,1,4
+boards,1892,Hudikswall,1,5
+boards,1892,Pensacola,1,6
+boards,1892,Danzig,1,7
+boards,1892,Riga,1,8
+boards,1893,Fredrikstad,13,1
+boards,1893,Gefle,12,2
+boards,1893,Gothenburg,10,3
+boards,1893,Christiania,7,4
+boards,1893,Archangel,6,5
+boards,1893,Cronstadt,5,6
+boards,1893,Soderhamn,4,7
+boards,1893,Sundswall,3,8
+boards,1893,Swartvik,3,9
+boards,1893,Stockholm,3,10
+boards,1893,Norrkoping,3,11
+boards,1893,Riga,3,12
+boards,1893,Holmsund,3,13
+boards,1893,Rafso,3,14
+boards,1893,Uddevalla,3,15
+boards,1893,Hudikswall,2,16
+boards,1893,Skutskar,2,17
+boards,1893,Drammen,2,18
+boards,1893,Abo,2,19
+boards,1893,Montreal,2,20
+boards,1895,Cronstadt,15,1
+boards,1895,Fredrikstad,12,2
+boards,1895,Gothenburg,11,3
+boards,1895,Gefle,11,4
+boards,1895,Soderhamn,5,5
+boards,1895,Riga,5,6
+boards,1895,Montreal,4,7
+boards,1895,Skutskar,3,8
+boards,1895,Archangel,3,9
+boards,1895,St. Petersburg,2,10
+boards,1895,Alne,2,11
+boards,1895,Sundswall,2,12
+boards,1895,Kovda,2,13
+boards,1895,Sandarne,2,14
+boards,1895,Abo,2,15
+boards,1895,Hudikswall,2,16
+boards,1895,Iggesund,2,17
+boards,1895,Simo,2,18
+boards,1895,Uleaborg,2,19
+boards,1895,Sundsvall,2,20
+boards,1896,Helsingfors,3,1
+boards,1896,Christiania,1,2
+boards,1896,Libau,1,3
+boards,1897,Gothenburg,10,1
+boards,1897,Hommelvik,2,2
+boards,1897,New York,2,3
+boards,1897,Hernosand,1,4
+boards,1897,Portland,1,5
+boards,1897,Libau,1,6
+boards,1897,Christiania,1,7
+boards,1897,Fredrikshald,1,8
+boards,1897,Drontheim,1,9
+boards,1897,Gamleby,1,10
+boards,1897,Fredrikstad,1,11
+boards,1897,Uddevalla,1,12
+boards,1897,Memel,1,13
+boards,1897,Boston,1,14
+boards,1897,Soderhamn,1,15
+boards,1898,New York,2,1
+boards,1898,Paasacola,1,2
+boards,1898,Gothenburg,1,3
+boards,1898,Halmstad,1,4
+boards,1899,Gothenburg,24,1
+boards,1899,Montreal,12,2
+boards,1899,Riga,8,3
+boards,1899,Christiania,7,4
+boards,1899,Drammen,7,5
+boards,1899,Fredrikstad,5,6
+boards,1899,Gefle,5,7
+boards,1899,Hudiksvall,4,8
+boards,1899,Wasa,4,9
+boards,1899,Stettin,3,10
+boards,1899,Libau,3,11
+boards,1899,Svartvik,3,12
+boards,1899,Rotterdam,2,13
+boards,1899,Westervik,2,14
+boards,1899,Uddevalla,2,15
+boards,1899,Fredrikstadt,2,16
+boards,1899,Archangel,2,17
+boards,1899,Fredrikshald,2,18
+boards,1899,Sundswall,2,19
+boards,1899,Cronstadt,2,20
+staves,1874,Quebec,21,1
+staves,1874,Memel,8,2
+staves,1874,Danzig,4,3
+staves,1874,New York,3,4
+staves,1874,Dram,3,5
+staves,1874,Fredrikstad,2,6
+staves,1874,Gothenburg,2,7
+staves,1874,Cochin,1,8
+staves,1874,Bjorneborg,1,9
+staves,1874,Poti,1,10
+staves,1874,Richibucto,1,11
+staves,1874,Jamaica,1,12
+staves,1874,Cronstadt,1,13
+staves,1874,Corfu,1,14
+staves,1874,Wyburg,1,15
+staves,1874,Riga,1,16
+staves,1874,Krageroe,1,17
+staves,1874,Malmo,1,18
+staves,1874,Husum,1,19
+staves,1874,Gefle,1,20
+staves,1875,New York,10,1
+staves,1875,Christiania,5,2
+staves,1875,Drammen,5,3
+staves,1875,Trieste,4,4
+staves,1875,New Orleans,4,5
+staves,1875,Christiansand,4,6
+staves,1875,Gefle,3,7
+staves,1875,Memel,3,8
+staves,1875,Sundswall,3,9
+staves,1875,Havre,2,10
+staves,1875,Gothenburg,2,11
+staves,1875,Amsterdam,1,12
+staves,1875,Skien,1,13
+staves,1875,Nedercalix,1,14
+staves,1875,Fort Cortes,1,15
+staves,1875,Pillau,1,16
+staves,1875,Jamaica,1,17
+staves,1875,Laurvig,1,18
+staves,1875,Wifstawarf,1,19
+staves,1875,Riga,1,20
+staves,1879,Memel,28,1
+staves,1879,Danzig,17,2
+staves,1879,F'shald,7,3
+staves,1879,Kotka,7,4
+staves,1879,Quebec,6,5
+staves,1879,Drammen,4,6
+staves,1879,Riga,3,7
+staves,1879,Laurvig,2,8
+staves,1879,Pillau,2,9
+staves,1879,Helsingfors,2,10
+staves,1879,Skutskar,2,11
+staves,1879,Krageroe,2,12
+staves,1879,Xiania,2,13
+staves,1879,G'burg,1,14
+staves,1879,F'stad,1,15
+staves,1879,Trieste,1,16
+staves,1879,F'stadt,1,17
+staves,1879,Bjorneborg,1,18
+staves,1879,Lulea,1,19
+staves,1879,Sandarne,1,20
+staves,1880,New York,2,1
+staves,1880,Danzig,1,2
+staves,1880,Order Celeste,1,3
+staves,1880,Gothenberg,1,4
+staves,1881,New York,64,1
+staves,1881,Memel,23,2
+staves,1881,Quebec,15,3
+staves,1881,Dantzic,13,4
+staves,1881,Odessa,12,5
+staves,1881,Kotka,8,6
+staves,1881,Boston,7,7
+staves,1881,Fredrikstadt,7,8
+staves,1881,Venice,7,9
+staves,1881,Danzig,7,10
+staves,1881,Stettin,6,11
+staves,1881,Christiania,6,12
+staves,1881,Drammen,5,13
+staves,1881,Trieste,4,14
+staves,1881,Fredrikshald,3,15
+staves,1881,Three Rivers,2,16
+staves,1881,Konigsberg,2,17
+staves,1881,Dantzig,2,18
+staves,1881,Skien,2,19
+staves,1881,Skonvik,2,20
+staves,1882,Laurvig,2,1
+staves,1882,New York,2,2
+staves,1882,Norrkoping,1,3
+staves,1882,Christiania,1,4
+staves,1882,Amsterdam,1,5
+staves,1883,New York,66,1
+staves,1883,Memel,31,2
+staves,1883,Quebec,22,3
+staves,1883,Boston,13,4
+staves,1883,New Orleans,11,5
+staves,1883,Danzig,11,6
+staves,1883,Kotka,11,7
+staves,1883,Baltimore,10,8
+staves,1883,Fredrikstadt,9,9
+staves,1883,Dantzic,9,10
+staves,1883,Odessa,6,11
+staves,1883,Christiania,5,12
+staves,1883,Fredrikshald,5,13
+staves,1883,Dantzig,5,14
+staves,1883,Philadelphia,4,15
+staves,1883,Drammen,4,16
+staves,1883,Riga,4,17
+staves,1883,Norfolk,2,18
+staves,1883,Libau,2,19
+staves,1883,Skien,2,20
+staves,1884,New York,10,1
+staves,1884,Memel,2,2
+staves,1884,Halifax,1,3
+staves,1884,Danzig,1,4
+staves,1884,Fredrikstad,1,5
+staves,1884,Baltimore,1,6
+staves,1884,Bremen,1,7
+staves,1884,Uleaborg,1,8
+staves,1885,New York,41,1
+staves,1885,Danzig,24,2
+staves,1885,Boston,19,3
+staves,1885,Memel,13,4
+staves,1885,Christiania,8,5
+staves,1885,Odessa,8,6
+staves,1885,Gothenburg,8,7
+staves,1885,Baltimore,8,8
+staves,1885,Philadelphia,7,9
+staves,1885,Quebec,4,10
+staves,1885,Trieste,4,11
+staves,1885,Libau,4,12
+staves,1885,New Orleans,3,13
+staves,1885,Kotka,3,14
+staves,1885,Fiume,2,15
+staves,1885,Riga,2,16
+staves,1885,Skien,2,17
+staves,1885,Sevastopol,2,18
+staves,1885,Fredrikstad,2,19
+staves,1885,Cronstadt,2,20
+staves,1886,Halifax,2,1
+staves,1886,Memel,2,2
+staves,1886,Christiania,1,3
+staves,1886,New York,1,4
+staves,1887,New York,29,1
+staves,1887,Danzig,16,2
+staves,1887,Memel,13,3
+staves,1887,Trieste,10,4
+staves,1887,Christiania,9,5
+staves,1887,Baltimore,7,6
+staves,1887,Gothenburg,4,7
+staves,1887,Skien,4,8
+staves,1887,Quebec,4,9
+staves,1887,Fiume,4,10
+staves,1887,Boston,3,11
+staves,1887,Drammen,3,12
+staves,1887,Fredrikstad,3,13
+staves,1887,Odessa,3,14
+staves,1887,Newport News,2,15
+staves,1887,Kotka,2,16
+staves,1887,Riga,2,17
+staves,1887,Rotterdam,2,18
+staves,1887,New Orleans,2,19
+staves,1887,Bjorneborg,2,20
+staves,1888,New York,1,1
+staves,1889,New York,32,1
+staves,1889,Baltimore,7,2
+staves,1889,Danzig,6,3
+staves,1889,New Orleans,5,4
+staves,1889,Memel,5,5
+staves,1889,Kotka,5,6
+staves,1889,Christiania,3,7
+staves,1889,Gothenburg,3,8
+staves,1889,Fredrikstad,3,9
+staves,1889,Libau,3,10
+staves,1889,Boston,3,11
+staves,1889,Philadelphia,3,12
+staves,1889,Odessa,3,13
+staves,1889,Quebec,3,14
+staves,1889,Montreal,2,15
+staves,1889,Laurvig,2,16
+staves,1889,Drammen,2,17
+staves,1889,Cronstadt,2,18
+staves,1889,Norfolk,2,19
+staves,1889,Mesane,2,20
+staves,1890,Memel,1,1
+staves,1891,New York,15,1
+staves,1891,Memel,9,2
+staves,1891,Danzig,5,3
+staves,1891,Libau,4,4
+staves,1891,Frano,4,5
+staves,1891,Kotka,4,6
+staves,1891,Christiania,3,7
+staves,1891,New Orleans,3,8
+staves,1891,Hamburg,3,9
+staves,1891,Laurvig,3,10
+staves,1891,Boston,2,11
+staves,1891,Hommelvik,2,12
+staves,1891,Soroka,2,13
+staves,1891,Sundswall,2,14
+staves,1891,Mobile,1,15
+staves,1891,Fiume,1,16
+staves,1891,Newport News,1,17
+staves,1891,Fredrikstad,1,18
+staves,1891,Yokohama,1,19
+staves,1891,Philadelphia,1,20
+staves,1892,New York,3,1
+staves,1892,Gefle,1,2
+staves,1892,Memel,1,3
+staves,1892,Christiania,1,4
+staves,1893,New York,8,1
+staves,1893,Memel,6,2
+staves,1893,New Orleans,5,3
+staves,1893,Frano,5,4
+staves,1893,Fredrikstad,3,5
+staves,1893,Christiania,3,6
+staves,1893,Drammen,3,7
+staves,1893,Libau,2,8
+staves,1893,Gefle,2,9
+staves,1893,Bjorneborg,2,10
+staves,1893,Boston,1,11
+staves,1893,Norfolk,1,12
+staves,1893,Portland,1,13
+staves,1893,Hofund,1,14
+staves,1893,Laurvig,1,15
+staves,1893,Montreal,1,16
+staves,1893,Danzig,1,17
+staves,1893,Hornefors,1,18
+staves,1893,Wederlaks,1,19
+staves,1893,Skutskar,1,20
+staves,1895,Abo,4,1
+staves,1895,Newport News,3,2
+staves,1895,Boston,2,3
+staves,1895,Savannah,2,4
+staves,1895,Rafso,1,5
+staves,1895,Kaunissaari,1,6
+staves,1895,Bufve,1,7
+staves,1895,New Orleans,1,8
+staves,1895,Gothenburg,1,9
+staves,1895,Narva,1,10
+staves,1895,Archangel,1,11
+staves,1895,Helsingfors,1,12
+staves,1895,Brahestad,1,13
+staves,1895,Kragero,1,14
+staves,1895,Danzig,1,15
+staves,1895,Mesane,1,16
+staves,1895,New York,1,17
+staves,1895,Libau,1,18
+staves,1895,Gefle,1,19
+staves,1895,Trieste,1,20
+staves,1896,New York,1,1
+staves,1896,Libau,1,2
+staves,1897,New York,3,1
+staves,1897,St. Nazaire,1,2
+staves,1897,Libau,1,3
+staves,1897,Portland,1,4
+staves,1897,Hamburg,1,5
+staves,1897,Uddevalla,1,6
+staves,1899,New York,5,1
+staves,1899,Libau,4,2
+staves,1899,Boston,4,3
+staves,1899,Montreal,4,4
+staves,1899,Kotka,4,5
+staves,1899,Philadelphia,4,6
+staves,1899,Baltimore,2,7
+staves,1899,Gefle,1,8
+staves,1899,Portland,1,9
+staves,1899,Rotterdam,1,10
+staves,1899,Drontheim,1,11
+staves,1899,St. Petersburg,1,12
+staves,1899,Poti,1,13
+staves,1899,Stockholm,1,14
+staves,1899,Mo,1,15
+staves,1899,Rafso,1,16
+staves,1899,Drammen,1,17
+staves,1899,Gothenburg,1,18
+staves,1899,Fredrikstad,1,19
+staves,1899,Trieste,1,20
+lathwood,1874,Cronstadt,10,1
+lathwood,1874,Riga,6,2
+lathwood,1874,St. Petersburg,3,3
+lathwood,1874,Gothenburg,3,4
+lathwood,1874,Soderhamn,2,5
+lathwood,1874,Quebec,2,6
+lathwood,1874,St. Petersburgh,1,7
+lathwood,1874,St. Petersburg Town,1,8
+lathwood,1874,Dram,1,9
+lathwood,1874,Iggesund,1,10
+lathwood,1874,Gefle,1,11
+lathwood,1874,Minatitlan,1,12
+lathwood,1874,Memel,1,13
+lathwood,1874,Fredrikstad,1,14
+lathwood,1874,"Halifax, N.S.",1,15
+lathwood,1875,Riga,7,1
+lathwood,1875,Cronstadt,5,2
+lathwood,1875,Lulea,3,3
+lathwood,1875,Skien,3,4
+lathwood,1875,Skonvik,2,5
+lathwood,1875,Drammen,2,6
+lathwood,1875,Stockholm,1,7
+lathwood,1875,Memel,1,8
+lathwood,1875,Ornskolksvik,1,9
+lathwood,1875,Laurvig,1,10
+lathwood,1875,Windau,1,11
+lathwood,1875,Jamaica,1,12
+lathwood,1875,Sunnas,1,13
+lathwood,1875,Nyvik,1,14
+lathwood,1875,Gefle,1,15
+lathwood,1875,New York,1,16
+lathwood,1875,Charlotte Town,1,17
+lathwood,1875,New Orleans,1,18
+lathwood,1879,Cronstadt,70,1
+lathwood,1879,Riga,23,2
+lathwood,1879,P'burg,20,3
+lathwood,1879,St. P'burg,5,4
+lathwood,1879,Petersburg,1,5
+lathwood,1879,St. Petersburg,1,6
+lathwood,1880,Riga,1,1
+lathwood,1880,Quebec,1,2
+lathwood,1881,Cronstadt,69,1
+lathwood,1881,Riga,32,2
+lathwood,1881,St. Petersburg,16,3
+lathwood,1881,Quebec,4,4
+lathwood,1881,Dantzic,3,5
+lathwood,1881,St. Petersburg Town,2,6
+lathwood,1881,Porsgrund,1,7
+lathwood,1881,Stettin,1,8
+lathwood,1881,Libau,1,9
+lathwood,1881,Helsingfors and Kotka,1,10
+lathwood,1881,"Weymouth, U.S.",1,11
+lathwood,1881,"Weymouth, N.S.",1,12
+lathwood,1881,Danzig,1,13
+lathwood,1881,Wyborg,1,14
+lathwood,1881,River Quelle,1,15
+lathwood,1881,Gothenburg,1,16
+lathwood,1881,Memel,1,17
+lathwood,1881,Nykoping,1,18
+lathwood,1883,Cronstadt,61,1
+lathwood,1883,Riga,32,2
+lathwood,1883,St. Petersburg,13,3
+lathwood,1883,Stettin,2,4
+lathwood,1883,Konigsberg,2,5
+lathwood,1883,Archangel,2,6
+lathwood,1883,Wisby,1,7
+lathwood,1883,Kramfors,1,8
+lathwood,1883,Petersburg,1,9
+lathwood,1883,Oscarshamn,1,10
+lathwood,1884,Riga,2,1
+lathwood,1885,Cronstadt,52,1
+lathwood,1885,Riga,27,2
+lathwood,1885,St. Petersburg,9,3
+lathwood,1885,Gothenburg,2,4
+lathwood,1885,Quebec,1,5
+lathwood,1885,New York,1,6
+lathwood,1885,Christiania,1,7
+lathwood,1885,Memel,1,8
+lathwood,1885,Pernau,1,9
+lathwood,1885,Pensacola,1,10
+lathwood,1885,Railway sleepers,1,11
+lathwood,1887,St. Petersburg,50,1
+lathwood,1887,Riga,25,2
+lathwood,1887,Cronstadt,10,3
+lathwood,1887,Norrkoping,1,4
+lathwood,1887,Cochon,1,5
+lathwood,1887,Orotastadt,1,6
+lathwood,1889,Riga,30,1
+lathwood,1889,St. Petersburg,27,2
+lathwood,1889,Cronstadt,11,3
+lathwood,1889,Gothenburg,1,4
+lathwood,1889,Memel,1,5
+lathwood,1890,Riga,1,1
+lathwood,1891,Riga,19,1
+lathwood,1891,St. Petersburg,19,2
+lathwood,1891,Cronstadt,3,3
+lathwood,1891,Sundswall,1,4
+lathwood,1892,Riga,4,1
+lathwood,1893,St. Petersburg,8,1
+lathwood,1893,Riga,5,2
+lathwood,1893,Cronstadt,2,3
+lathwood,1893,Archangel,2,4
+lathwood,1893,Mesane,1,5
+lathwood,1893,Montreal,1,6
+lathwood,1895,St. Petersburg,6,1
+lathwood,1895,Riga,6,2
+lathwood,1895,Rafso,1,3
+lathwood,1895,Cronstadt,1,4
+lathwood,1897,New York,2,1
+lathwood,1897,N.B.,1,2
+lathwood,1899,St. Petersburg,9,1
+lathwood,1899,Riga,5,2
+lathwood,1899,Cronstadt,2,3
+lathwood,1899,Soroka,1,4
+ends,1874,Quebec,5,1
+ends,1874,Honduras,1,2
+ends,1874,St. Petersburg Town,1,3
+ends,1874,Archangel,1,4
+ends,1874,Cronstadt,1,5
+ends,1874,Onega,1,6
+ends,1874,Wasa,1,7
+ends,1874,Smyrna,1,8
+ends,1874,Bjorneborg,1,9
+ends,1874,Umea,1,10
+ends,1874,Danzig,1,11
+ends,1874,"John, N.B.",1,12
+ends,1874,Wyburg,1,13
+ends,1874,Fredrikstad,1,14
+ends,1874,Zanzibar,1,15
+ends,1874,Soderhamn,1,16
+ends,1874,Gothenburg,1,17
+ends,1875,Minatitlan,3,1
+ends,1875,St. John,3,2
+ends,1875,Riga,2,3
+ends,1875,Quebec,2,4
+ends,1875,Cronstadt,2,5
+ends,1875,"Minatitlan, and cedar",2,6
+ends,1875,New York,2,7
+ends,1875,Gothenburg,2,8
+ends,1875,Three Rivers,1,9
+ends,1875,"Halifax, N.S.",1,10
+ends,1875,Fort Cortes,1,11
+ends,1875,Pensacola,1,12
+ends,1875,Truxillo,1,13
+ends,1875,Bathurst,1,14
+ends,1875,East Port,1,15
+ends,1875,Miramichi,1,16
+ends,1875,Richibucto,1,17
+ends,1875,W. C. Africa,1,18
+ends,1879,Quebec,12,1
+ends,1879,Archangel,9,2
+ends,1879,Riga,8,3
+ends,1879,Onega,4,4
+ends,1879,Metis,3,5
+ends,1879,Soderhamn,2,6
+ends,1879,Cronstadt,2,7
+ends,1879,Kotka,1,8
+ends,1879,Saguenay,1,9
+ends,1879,Montreal,1,10
+ends,1879,Lulea,1,11
+ends,1879,Sandarne,1,12
+ends,1879,Soroka,1,13
+ends,1879,Chatham,1,14
+ends,1880,Quebec,4,1
+ends,1880,Truxillo,1,2
+ends,1880,Dalhousie,1,3
+ends,1881,Minatitlan,9,1
+ends,1881,Quebec,9,2
+ends,1881,Cronstadt,8,3
+ends,1881,Riga,7,4
+ends,1881,Miramichi,5,5
+ends,1881,Archangel,4,6
+ends,1881,"St. John, N.B.",3,7
+ends,1881,Memel,3,8
+ends,1881,Puerto Cortes,2,9
+ends,1881,Dantzic,2,10
+ends,1881,Montreal,2,11
+ends,1881,"Chatham, N.B.",2,12
+ends,1881,Danzig,2,13
+ends,1881,Charlotte Town,2,14
+ends,1881,Saguenay,2,15
+ends,1881,"Coatzcoalcos, Mexico",1,16
+ends,1881,Pensacola,1,17
+ends,1881,Darien,1,18
+ends,1881,Metis,1,19
+ends,1881,"Weymouth, U.S.",1,20
+ends,1883,Archangel,14,1
+ends,1883,Cronstadt,12,2
+ends,1883,Quebec,12,3
+ends,1883,Riga,7,4
+ends,1883,Miramichi,5,5
+ends,1883,"St. John, N.B.",3,6
+ends,1883,Montreal,3,7
+ends,1883,Puerto Cortez,3,8
+ends,1883,Richibucto,3,9
+ends,1883,Santa Ana,3,10
+ends,1883,Bathurst,2,11
+ends,1883,Bersimis,2,12
+ends,1883,Charlotte Town,1,13
+ends,1883,Hanko,1,14
+ends,1883,New York,1,15
+ends,1883,Laguna de Termanos,1,16
+ends,1883,Aastrup,1,17
+ends,1883,Minatitlan,1,18
+ends,1883,Tromso,1,19
+ends,1883,Laguna de Terminos,1,20
+ends,1885,Riga,16,1
+ends,1885,Quebec,15,2
+ends,1885,Archangel,12,3
+ends,1885,Cronstadt,9,4
+ends,1885,Metis,4,5
+ends,1885,Montreal,4,6
+ends,1885,Danzig,3,7
+ends,1885,Soroka,3,8
+ends,1885,Memel,3,9
+ends,1885,Miramichi,3,10
+ends,1885,Pierreville and Quebec,2,11
+ends,1885,"St. John, N.B.",2,12
+ends,1885,"Chatham, N.B.",2,13
+ends,1885,Onega,2,14
+ends,1885,Ljusne,2,15
+ends,1885,Mesane,2,16
+ends,1885,Wyborg,2,17
+ends,1885,Wyburg,1,18
+ends,1885,Bay de Verte,1,19
+ends,1885,"Parrsboro', N.S.",1,20
+ends,1886,Krageroe,1,1
+ends,1886,Campbeltown,1,2
+ends,1887,Montreal,14,1
+ends,1887,Cronstadt,12,2
+ends,1887,Riga,12,3
+ends,1887,Quebec,12,4
+ends,1887,Archangel,11,5
+ends,1887,Three Rivers,7,6
+ends,1887,Memel,4,7
+ends,1887,Saguenay,4,8
+ends,1887,"St. John, N.B.",3,9
+ends,1887,Onega,2,10
+ends,1887,Helsingfors,2,11
+ends,1887,St. Petersburg,2,12
+ends,1887,"Chatham, N.B.",2,13
+ends,1887,Danzig,2,14
+ends,1887,Chicontimi,1,15
+ends,1887,Pierreville,1,16
+ends,1887,Mesane,1,17
+ends,1887,Soroka,1,18
+ends,1887,Stettin,1,19
+ends,1887,Christiania,1,20
+ends,1889,Riga,10,1
+ends,1889,Archangel,9,2
+ends,1889,St. Petersburg,9,3
+ends,1889,Montreal,7,4
+ends,1889,Quebec,5,5
+ends,1889,Cronstadt,5,6
+ends,1889,Mesane,4,7
+ends,1889,Miramichi,4,8
+ends,1889,Saguenay,2,9
+ends,1889,Matane,2,10
+ends,1889,Drontheim,1,11
+ends,1889,Thisted,1,12
+ends,1889,Chicoutimi,1,13
+ends,1889,Onega,1,14
+ends,1889,"Bathurst, Gulf of St. Lawrence",1,15
+ends,1889,Escoumaines,1,16
+ends,1889,Three Rivers,1,17
+ends,1889,Bathurst,1,18
+ends,1889,St. Etienne,1,19
+ends,1889,Holmsund,1,20
+ends,1890,Riga,1,1
+ends,1891,St. Petersburg,6,1
+ends,1891,Riga,5,2
+ends,1891,Archangel,4,3
+ends,1891,Laguna,2,4
+ends,1891,Danzig,2,5
+ends,1891,Cronstadt,2,6
+ends,1891,Saguenay,2,7
+ends,1891,Quebec,2,8
+ends,1891,Wyborg,2,9
+ends,1891,Coatzacoalcos,1,10
+ends,1891,Montreal,1,11
+ends,1891,Tlacotalpam,1,12
+ends,1891,Rafso,1,13
+ends,1891,Minatitlan,1,14
+ends,1891,Storfors,1,15
+ends,1891,Miramichi,1,16
+ends,1891,Dalhousie,1,17
+ends,1891,Belize,1,18
+ends,1891,Narva,1,19
+ends,1891,Chatham,1,20
+ends,1892,Riga,2,1
+ends,1892,Belize,2,2
+ends,1892,Minatitlan,1,3
+ends,1893,Montreal,13,1
+ends,1893,Archangel,9,2
+ends,1893,Riga,7,3
+ends,1893,Cronstadt,6,4
+ends,1893,Quebec,4,5
+ends,1893,"St. John, N.B.",3,6
+ends,1893,Laguna,2,7
+ends,1893,Miramichi,2,8
+ends,1893,Sagunay,2,9
+ends,1893,Minatitlan,1,10
+ends,1893,Pensacola,1,11
+ends,1893,Belize,1,12
+ends,1893,Stettin,1,13
+ends,1893,Labarette,1,14
+ends,1893,Truxillo,1,15
+ends,1893,Memel,1,16
+ends,1893,St. Etienne,1,17
+ends,1893,Mesane,1,18
+ends,1893,Hernosand,1,19
+ends,1893,Onega,1,20
+ends,1895,Cronstadt,11,1
+ends,1895,Montreal,3,2
+ends,1895,Archangel,3,3
+ends,1895,Quebec,2,4
+ends,1895,Riga,2,5
+ends,1895,"Parrsboro', N.S.",1,6
+ends,1895,"St. John, N.B.",1,7
+ends,1895,Mesane,1,8
+ends,1895,"Beaver Point, N.S.",1,9
+ends,1895,St. Petersburg,1,10
+ends,1895,Three Rivers,1,11
+ends,1895,Pentecost,1,12
+ends,1895,Sundsvall,1,13
+ends,1895,Pataholm,1,14
+ends,1897,Portland,1,1
+ends,1897,Gothenburg,1,2
+ends,1897,Laguna de Terminos,1,3
+ends,1897,Montreal,1,4
+ends,1897,"St. John, N B.",1,5
+ends,1899,Montreal,10,1
+ends,1899,St. John,7,2
+ends,1899,Riga,5,3
+ends,1899,Archangel,3,4
+ends,1899,Drammen,2,5
+ends,1899,Soderhamn,1,6
+ends,1899,Skelleftea,1,7
+ends,1899,West Bay,1,8
+ends,1899,Quebec,1,9
+ends,1899,St. Etienne,1,10
+ends,1899,Northport,1,11
+ends,1899,"St. John, N.B.",1,12
+ends,1899,Miramichi,1,13
+ends,1899,Halifax,1,14
+ends,1899,Belize,1,15
+timber,1874,Memel,4,1
+timber,1874,Gothenburg,3,2
+timber,1874,Quebec,2,3
+timber,1874,Sund,2,4
+timber,1874,Madras,1,5
+timber,1874,Dram,1,6
+timber,1874,Danzig,1,7
+timber,1874,Poti,1,8
+timber,1874,Cronstadt,1,9
+timber,1874,Gefle,1,10
+timber,1874,Soderhamn,1,11
+timber,1874,Haparanda,1,12
+timber,1874,Riga,1,13
+timber,1874,Nynamn,1,14
+timber,1874,Pensacola,1,15
+timber,1874,Nyvik,1,16
+timber,1875,Memel,10,1
+timber,1875,Pensacola,9,2
+timber,1875,Quebec,6,3
+timber,1875,Gothenburg,5,4
+timber,1875,Danzig,5,5
+timber,1875,Christiania,3,6
+timber,1875,Stockholm,3,7
+timber,1875,Drammen,3,8
+timber,1875,Riga,3,9
+timber,1875,Darien,2,10
+timber,1875,Lulea,2,11
+timber,1875,Pillau,2,12
+timber,1875,Gefle,2,13
+timber,1875,New Orleans,2,14
+timber,1875,"Champion Bay, &c.",1,15
+timber,1875,"St. John, N.B.",1,16
+timber,1875,Skonvik,1,17
+timber,1875,Skien,1,18
+timber,1875,Vesta,1,19
+timber,1875,Dram,1,20
+timber,1879,Danzig,15,1
+timber,1879,Memel,12,2
+timber,1879,Quebec,3,3
+timber,1879,Skelleftea,2,4
+timber,1879,Pensacola,1,5
+timber,1879,Skutskar,1,6
+timber,1879,Stockholm,1,7
+timber,1879,Riga,1,8
+timber,1879,Doboy,1,9
+timber,1879,Galway,1,10
+timber,1880,Quebec,2,1
+timber,1881,Memel,20,1
+timber,1881,Dantzic,18,2
+timber,1881,Quebec,11,3
+timber,1881,Pensacola,10,4
+timber,1881,Danzig,9,5
+timber,1881,Auckland,4,6
+timber,1881,Darien,4,7
+timber,1881,Brisbane,2,8
+timber,1881,Antwerp,2,9
+timber,1881,Mobile,2,10
+timber,1881,Stettin,2,11
+timber,1881,"Guysborough, N.S.",2,12
+timber,1881,Calcutta,2,13
+timber,1881,Gothenburg,2,14
+timber,1881,Dunedin,1,15
+timber,1881,Odessa,1,16
+timber,1881,"Beaufort, S.C.",1,17
+timber,1881,Fiume,1,18
+timber,1881,Doboy,1,19
+timber,1881,Savannah,1,20
+timber,1882,Dantzic,1,1
+timber,1882,Borga,1,2
+timber,1883,Memel,33,1
+timber,1883,Danzig,15,2
+timber,1883,Pensacola,14,3
+timber,1883,Dantzic,10,4
+timber,1883,Dantzig,8,5
+timber,1883,Quebec,7,6
+timber,1883,New York,4,7
+timber,1883,Mobile,3,8
+timber,1883,"St. John, N.B.",2,9
+timber,1883,Stettin,2,10
+timber,1883,Dantzie,1,11
+timber,1883,Berbice,1,12
+timber,1883,Bombay,1,13
+timber,1883,Rusoer,1,14
+timber,1883,Mandal,1,15
+timber,1883,Christiansand,1,16
+timber,1883,Chittagong,1,17
+timber,1883,Auckland,1,18
+timber,1883,Tromso,1,19
+timber,1883,Konigsberg,1,20
+timber,1884,Konigsberg,1,1
+timber,1884,Christiania,1,2
+timber,1884,Memel,1,3
+timber,1885,Danzig,19,1
+timber,1885,Memel,12,2
+timber,1885,Pensacola,6,3
+timber,1885,Mobile,3,4
+timber,1885,Bremen,3,5
+timber,1885,Stettin,3,6
+timber,1885,Christiania,3,7
+timber,1885,Quebec,2,8
+timber,1885,Wisby,2,9
+timber,1885,D'anzig,1,10
+timber,1885,Buenos Ayres,1,11
+timber,1885,Darien,1,12
+timber,1885,New York,1,13
+timber,1885,Sydney,1,14
+timber,1885,Cronstadt,1,15
+timber,1885,Apalachicola,1,16
+timber,1885,Burrard Inlet,1,17
+timber,1885,Swedish yard Aljuca,1,18
+timber,1885,Sundswall,1,19
+timber,1885,Stockholm,1,20
+timber,1886,Campbeltown,1,1
+timber,1887,Danzig,13,1
+timber,1887,Memel,12,2
+timber,1887,Stettin,7,3
+timber,1887,Pensacola,3,4
+timber,1887,Newport News,2,5
+timber,1887,Riga,2,6
+timber,1887,Fredrikstad,1,7
+timber,1887,Libau,1,8
+timber,1887,Hernosand,1,9
+timber,1887,Montreal,1,10
+timber,1887,Three Rivers,1,11
+timber,1887,Brisbane,1,12
+timber,1887,Tvedestrand,1,13
+timber,1887,Christiania,1,14
+timber,1887,Gothenburg,1,15
+timber,1887,Kaipara,1,16
+timber,1887,Pictou,1,17
+timber,1887,Treport,1,18
+timber,1887,Quebec,1,19
+timber,1887,New York,1,20
+timber,1889,Danzig,9,1
+timber,1889,Memel,6,2
+timber,1889,Gothenburg,3,3
+timber,1889,Pascagoula,2,4
+timber,1889,New York,2,5
+timber,1889,Mobile,2,6
+timber,1889,Pensacola,2,7
+timber,1889,Montreal,2,8
+timber,1889,Libau,1,9
+timber,1889,Laurvig,1,10
+timber,1889,Darien,1,11
+timber,1889,Langsund,1,12
+timber,1889,Apalachicola,1,13
+timber,1889,Stockholm,1,14
+timber,1889,Pictou,1,15
+timber,1889,New Orleans,1,16
+timber,1889,Pitea,1,17
+timber,1889,Doboy,1,18
+timber,1889,Sandarne,1,19
+timber,1889,Matane,1,20
+timber,1890,Darien,1,1
+timber,1890,Sydney,1,2
+timber,1891,Danzig,10,1
+timber,1891,Memel,6,2
+timber,1891,Mobile,4,3
+timber,1891,Pensacola,2,4
+timber,1891,Freemantle,2,5
+timber,1891,Montreal,2,6
+timber,1891,Boston,1,7
+timber,1891,Havre,1,8
+timber,1891,Singapore,1,9
+timber,1891,West Indies,1,10
+timber,1891,Auckland,1,11
+timber,1891,Halifax,1,12
+timber,1891,Riga,1,13
+timber,1891,Pascagoula,1,14
+timber,1891,Rangoon,1,15
+timber,1891,Cagliari,1,16
+timber,1891,Quebec,1,17
+timber,1891,Stettin,1,18
+timber,1891,Fredrikshald,1,19
+timber,1891,Narva,1,20
+timber,1892,Pensacola,1,1
+timber,1892,Danzig,1,2
+timber,1893,Danzig,8,1
+timber,1893,Pensacola,7,2
+timber,1893,Memel,6,3
+timber,1893,Sydney,2,4
+timber,1893,Montreal,2,5
+timber,1893,New York,2,6
+timber,1893,Riga,2,7
+timber,1893,Albany,1,8
+timber,1893,Brevig,1,9
+timber,1893,Arendal,1,10
+timber,1893,Kragerö,1,11
+timber,1893,Norrkoping,1,12
+timber,1893,Mobile,1,13
+timber,1893,Stettin,1,14
+timber,1893,Philadelphia,1,15
+timber,1893,Sapilo,1,16
+timber,1893,"St. John, N.B.",1,17
+timber,1893,Auckland,1,18
+timber,1893,Lervik,1,19
+timber,1893,Quebec,1,20
+timber,1895,Sydney,4,1
+timber,1895,Skutskar,4,2
+timber,1895,Danzig,3,3
+timber,1895,Quebec,3,4
+timber,1895,Melbourne,2,5
+timber,1895,Montreal,1,6
+timber,1895,Helsingfors,1,7
+timber,1895,Pensacola,1,8
+timber,1895,St. Petersburg,1,9
+timber,1895,Munksund,1,10
+timber,1895,Mobile,1,11
+timber,1895,Darien,1,12
+timber,1896,Gefle,1,1
+timber,1896,Sydney,1,2
+timber,1897,"Portland, Me.",1,1
+timber,1897,Danzig,1,2
+timber,1897,Newport News,1,3
+timber,1897,Christiania,1,4
+timber,1899,Mobile,2,1
+timber,1899,Fremantle,1,2
+timber,1899,Odessa,1,3
+timber,1899,Demerara,1,4
+timber,1899,Windau,1,5
+timber,1899,New Orleans,1,6
+timber,1899,from Old Calabar,1,7
+timber,1899,Riga,1,8
+timber,1899,Cronstadt,1,9
+timber,1899,Drammen,1,10
+timber,1899,Sydney,1,11
+timber,1899,Christiansand,1,12
+sleepers,1874,Riga,7,1
+sleepers,1874,Windau,2,2
+sleepers,1874,Soderhamn,2,3
+sleepers,1874,Sundswall,1,4
+sleepers,1874,Narrkoping,1,5
+sleepers,1874,Quebec,1,6
+sleepers,1874,Gothenburg,1,7
+sleepers,1874,Narva,1,8
+sleepers,1874,Libau,1,9
+sleepers,1875,Riga,12,1
+sleepers,1875,Windau,7,2
+sleepers,1875,Danzig,3,3
+sleepers,1875,Gothenburg,3,4
+sleepers,1875,Dram,2,5
+sleepers,1875,Memel,2,6
+sleepers,1875,Laurvig,2,7
+sleepers,1875,Christiania,2,8
+sleepers,1875,Drammen,1,9
+sleepers,1875,Cronstadt,1,10
+sleepers,1875,Gefle,1,11
+sleepers,1875,St. Petersburg,1,12
+sleepers,1875,Helsingfors,1,13
+sleepers,1875,New York,1,14
+sleepers,1875,Quebec,1,15
+sleepers,1879,Riga,32,1
+sleepers,1879,Konigsberg,21,2
+sleepers,1879,Memel,16,3
+sleepers,1879,Danzig,15,4
+sleepers,1879,Windau,11,5
+sleepers,1879,Muhlgraben,2,6
+sleepers,1879,Cronstadt,2,7
+sleepers,1879,Ljusne,1,8
+sleepers,1879,St. P'burg,1,9
+sleepers,1879,Quebec,1,10
+sleepers,1880,Riga,4,1
+sleepers,1880,Memel,2,2
+sleepers,1880,Quebec,1,3
+sleepers,1881,Riga,32,1
+sleepers,1881,Dantzic,14,2
+sleepers,1881,Memel,6,3
+sleepers,1881,Danzig,6,4
+sleepers,1881,Konigsberg,4,5
+sleepers,1881,Danzig and Konigsberg,1,6
+sleepers,1881,Windau,1,7
+sleepers,1881,Rotterdam,1,8
+sleepers,1881,Stettin,1,9
+sleepers,1881,Quebec,1,10
+sleepers,1881,New York,1,11
+sleepers,1881,Venice,1,12
+sleepers,1882,Dantzic,1,1
+sleepers,1882,Borga,1,2
+sleepers,1883,Riga,20,1
+sleepers,1883,Danzig,19,2
+sleepers,1883,Memel,9,3
+sleepers,1883,Konigsberg,8,4
+sleepers,1883,Libau,6,5
+sleepers,1883,Windau,6,6
+sleepers,1883,Dantzig,4,7
+sleepers,1883,Dantzic,3,8
+sleepers,1883,Dantzie,2,9
+sleepers,1883,Pillau,1,10
+sleepers,1883,St. Petersburg,1,11
+sleepers,1883,Montreal,1,12
+sleepers,1883,Narva,1,13
+sleepers,1883,Pensacola,1,14
+sleepers,1884,Danzig,1,1
+sleepers,1884,Memel,1,2
+sleepers,1885,Riga,10,1
+sleepers,1885,Danzig,7,2
+sleepers,1885,Memel,5,3
+sleepers,1885,Konigsburg,2,4
+sleepers,1885,Konigsberg,2,5
+sleepers,1885,D'anzig,1,6
+sleepers,1885,Stettin,1,7
+sleepers,1885,Christiania,1,8
+sleepers,1885,Windau,1,9
+sleepers,1885,Christiansand,1,10
+sleepers,1887,Memel,5,1
+sleepers,1887,Danzig,5,2
+sleepers,1887,Riga,3,3
+sleepers,1887,Drammen,1,4
+sleepers,1887,Christiania,1,5
+sleepers,1889,Riga,12,1
+sleepers,1889,Memel,5,2
+sleepers,1889,Konigsberg,5,3
+sleepers,1889,Danzig,3,4
+sleepers,1889,Windau,2,5
+sleepers,1889,New Orleans,2,6
+sleepers,1889,Gothenburg,1,7
+sleepers,1889,Cronstadt,1,8
+sleepers,1889,Laurvig,1,9
+sleepers,1889,New York,1,10
+sleepers,1889,Sundswall,1,11
+sleepers,1890,Memel,1,1
+sleepers,1891,Riga,8,1
+sleepers,1891,Danzig,5,2
+sleepers,1891,Konigsberg,3,3
+sleepers,1891,Libau,2,4
+sleepers,1891,Windau,1,5
+sleepers,1892,Memel,1,1
+sleepers,1893,Libau,4,1
+sleepers,1893,Danzig,2,2
+sleepers,1893,Antwerp,1,3
+sleepers,1893,Pillan,1,4
+sleepers,1893,Riga,1,5
+sleepers,1893,Konigsberg,1,6
+sleepers,1893,Memel,1,7
+sleepers,1893,Windau,1,8
+sleepers,1893,Skien,1,9
+sleepers,1895,Riga,10,1
+sleepers,1895,Fredrikshald,1,2
+sleepers,1895,Munksund,1,3
+sleepers,1895,Windau,1,4
+sleepers,1895,Narva,1,5
+sleepers,1895,Norrkoping,1,6
+sleepers,1897,Gothenburg,2,1
+sleepers,1897,Memel,1,2
+sleepers,1897,Konigsberg,1,3
+sleepers,1898,Limau,1,1
+sleepers,1898,Memel,1,2
+sleepers,1899,Riga,9,1
+sleepers,1899,Gothenburg,5,2
+sleepers,1899,Memel,4,3
+sleepers,1899,Libau,4,4
+sleepers,1899,Narva,3,5
+sleepers,1899,Windau,2,6
+sleepers,1899,Reval,1,7
+sleepers,1899,Hambro,1,8
+sleepers,1899,Brussels,1,9
+laths,1874,Fredrikstad,2,1
+laths,1874,Gothenburg,1,2
+laths,1875,Gothenburg,3,1
+laths,1875,Christiania,2,2
+laths,1875,Fredrikstad,1,3
+laths,1875,Cronstadt,1,4
+laths,1875,Stockholm,1,5
+laths,1875,Abo,1,6
+laths,1879,G'burg,6,1
+laths,1879,F'stad,2,2
+laths,1879,Gothenburg,2,3
+laths,1879,Oscarshamn,1,4
+laths,1879,Kramfors,1,5
+laths,1879,Danzig,1,6
+laths,1880,Gothenberg,1,1
+laths,1881,Gothenburg,23,1
+laths,1881,Fredrikstadt,6,2
+laths,1881,Fredrikstad,1,3
+laths,1881,Frederikstad,1,4
+laths,1881,Drontheim,1,5
+laths,1881,Memel,1,6
+laths,1881,Fredrikshald,1,7
+laths,1881,Gefle,1,8
+laths,1881,Frederikstadt,1,9
+laths,1881,Leghorn,1,10
+laths,1881,Venice,1,11
+laths,1883,Gothenburg,30,1
+laths,1883,Fredrikstad,5,2
+laths,1883,Fredrikstadt,3,3
+laths,1883,Christiania,1,4
+laths,1883,Memel,1,5
+laths,1883,Windau,1,6
+laths,1883,Gefle,1,7
+laths,1883,Musquash,1,8
+laths,1883,Amsterdam,1,9
+laths,1883,Montreal,1,10
+laths,1883,Cronstadt,1,11
+laths,1883,Drammen,1,12
+laths,1883,Pensacola,1,13
+laths,1884,Gothenburg,2,1
+laths,1884,Fredrickstadt,1,2
+laths,1885,Gothenburg,58,1
+laths,1885,Cronstadt,5,2
+laths,1885,Christiania,5,3
+laths,1885,Fredrikstad,2,4
+laths,1885,Drontheim,1,5
+laths,1885,Konigsberg,1,6
+laths,1885,Archangel,1,7
+laths,1885,Bjorneborg,1,8
+laths,1885,New York,1,9
+laths,1886,Fredrikstad,3,1
+laths,1886,Gothenburg,1,2
+laths,1887,Gothenburg,23,1
+laths,1887,Fredrikstad,5,2
+laths,1887,Christiania,3,3
+laths,1887,Stettin,2,4
+laths,1887,Cronstadt,2,5
+laths,1887,New York,2,6
+laths,1887,Uddevalla,2,7
+laths,1887,St. Petersburg,2,8
+laths,1887,Husum,1,9
+laths,1887,Domsjo,1,10
+laths,1887,Gefle,1,11
+laths,1887,Anga,1,12
+laths,1887,Bjorneborg,1,13
+laths,1888,Gothenburg,1,1
+laths,1889,Gothenburg,16,1
+laths,1889,Fredrikstad,7,2
+laths,1889,Uddevalla,4,3
+laths,1889,Gefle,4,4
+laths,1889,Christiania,3,5
+laths,1889,New York,1,6
+laths,1889,Uddovalla,1,7
+laths,1889,Riga,1,8
+laths,1889,Iggesund,1,9
+laths,1889,Sundswall,1,10
+laths,1890,Fredrikstad,1,1
+laths,1891,Gothenburg,26,1
+laths,1891,Fredrikstad,6,2
+laths,1891,Hamburg,2,3
+laths,1891,Ostend,1,4
+laths,1891,Bremen,1,5
+laths,1891,Guernsey,1,6
+laths,1891,Bjorneborg,1,7
+laths,1891,Kramfors,1,8
+laths,1891,Christiania,1,9
+laths,1891,Drammen,1,10
+laths,1891,Hernosand,1,11
+laths,1892,Gothenburg,1,1
+laths,1892,Fredrikstad,1,2
+laths,1893,Gothenburg,17,1
+laths,1893,Gefle,3,2
+laths,1893,Christiania,2,3
+laths,1893,Bjorneborg,2,4
+laths,1893,Fredrikstad,1,5
+laths,1893,Uddevalla,1,6
+laths,1893,Hernösand,1,7
+laths,1893,Hernosand,1,8
+laths,1893,Nordkoping,1,9
+laths,1895,Gothenburg,27,1
+laths,1895,Montreal,2,2
+laths,1895,St. Petersburg,2,3
+laths,1895,Gefle,2,4
+laths,1895,Fredrikstad,1,5
+laths,1895,Skutskar,1,6
+laths,1895,Abo,1,7
+laths,1895,Riga,1,8
+laths,1897,Gothenburg,8,1
+laths,1897,Norrkoping,2,2
+laths,1897,Pensacola,2,3
+laths,1897,Libau,1,4
+laths,1897,Stockholm,1,5
+laths,1899,Gothenburg,28,1
+laths,1899,Stockholm,7,2
+laths,1899,Libau,6,3
+laths,1899,Riga,5,4
+laths,1899,Portland Me.,5,5
+laths,1899,Copenhagen,3,6
+laths,1899,Stettin,2,7
+laths,1899,Norrkoping,2,8
+laths,1899,Gothenberg,2,9
+laths,1899,St. Petersburg,2,10
+laths,1899,Rafso,2,11
+laths,1899,Montreal,2,12
+laths,1899,Konigsberg,2,13
+laths,1899,Ghent,1,14
+laths,1899,Christiania,1,15
+laths,1899,Munksund,1,16
+laths,1899,Westervik,1,17
+doors,1879,G'burg,1,1
+doors,1879,Gothenburg,1,2
+doors,1880,New York,4,1
+doors,1880,Gothenburg,2,2
+doors,1880,Stockholm,1,3
+doors,1881,New York,27,1
+doors,1881,Gothenburg,16,2
+doors,1881,Boston,6,3
+doors,1881,Stockholm,3,4
+doors,1881,Gothenburc,1,5
+doors,1881,Dantzic,1,6
+doors,1881,Porsgrund,1,7
+doors,1881,Fredrikstadt,1,8
+doors,1881,Montreal,1,9
+doors,1882,New York,4,1
+doors,1882,Christiania,1,2
+doors,1883,Gothenburg,37,1
+doors,1883,New York,20,2
+doors,1883,Boston,1,3
+doors,1883,Memel,1,4
+doors,1883,Montreal,1,5
+doors,1883,Amsterdam,1,6
+doors,1884,Gothenburg,4,1
+doors,1884,New York,2,2
+doors,1885,Gothenburg,47,1
+doors,1885,New York,8,2
+doors,1885,Stockholm,3,3
+doors,1885,Fredrikshald,2,4
+doors,1885,Montreal,1,5
+doors,1885,Uddevalla,1,6
+doors,1887,Gothenburg,14,1
+doors,1887,Uddevalla,7,2
+doors,1887,New York,6,3
+doors,1887,Stockholm,3,4
+doors,1887,Boston,1,5
+doors,1887,Memel,1,6
+doors,1888,New York,1,1
+doors,1889,Gothenburg,13,1
+doors,1889,Uddevalla,7,2
+doors,1889,Stockholm,7,3
+doors,1889,New York,4,4
+doors,1889,Uddovalla,1,5
+doors,1889,Skien,1,6
+doors,1889,Christiania,1,7
+doors,1890,New York,2,1
+doors,1890,Uddevalla,1,2
+doors,1890,Gothenburg,1,3
+doors,1891,Uddevalla,6,1
+doors,1891,Gothenburg,5,2
+doors,1891,Halifax,3,3
+doors,1891,Hamburg,2,4
+doors,1891,Stockholm,2,5
+doors,1891,New York,1,6
+doors,1891,Boston,1,7
+doors,1891,Archangel,1,8
+doors,1891,Fredrikstad,1,9
+doors,1891,Uddewalla,1,10
+doors,1892,Uddevalla,1,1
+doors,1892,Stockholm,1,2
+doors,1893,Gothenburg,12,1
+doors,1893,Uddevalla,6,2
+doors,1893,Stockholm,5,3
+doors,1893,Halifax,1,4
+doors,1893,Christiania,1,5
+doors,1893,Drammen,1,6
+doors,1893,Helsingfors,1,7
+doors,1893,"St. John, N.B.",1,8
+doors,1895,Gothenburg,8,1
+doors,1895,Stockholm,7,2
+doors,1895,Helsingfors,1,3
+doors,1895,Archangel,1,4
+doors,1895,Soderhamn,1,5
+doors,1895,Uddevella,1,6
+doors,1895,Gefle,1,7
+doors,1895,Hamburg,1,8
+doors,1896,Gothenburg,1,1
+doors,1896,Boston,1,2
+doors,1897,Gothenburg,6,1
+doors,1897,Uddevalla,2,2
+doors,1897,Konigsberg,2,3
+doors,1897,Norrkoping,1,4
+doors,1897,Boston,1,5
+doors,1898,Gothenburg,2,1
+doors,1898,Stockholm,1,2
+doors,1899,Gothenburg,22,1
+doors,1899,Stockholm,14,2
+doors,1899,Montreal,8,3
+doors,1899,Uddevalla,7,4
+doors,1899,Philadelphia,6,5
+doors,1899,St. Petersburg,4,6
+doors,1899,Boston,3,7
+doors,1899,Norrkoping,3,8
+doors,1899,Newport News,2,9
+doors,1899,Libau,2,10
+doors,1899,Gothenberg,2,11
+doors,1899,Riga,2,12
+doors,1899,Stettin,1,13
+doors,1899,Portland Me.,1,14
+doors,1899,Christiania,1,15
+doors,1899,"Norfolk, Va",1,16
+doors,1899,Baltimore,1,17
+doors,1899,Rotterdaan,1,18
+doors,1899,New York,1,19
+doors,1899,Ljusne,1,20
+deal ends,1874,Quebec,17,1
+deal ends,1874,Cronstadt,7,2
+deal ends,1874,Three Rivers,2,3
+deal ends,1874,Magdalen River,2,4
+deal ends,1874,Gothenburg,2,5
+deal ends,1874,Riga,1,6
+deal ends,1874,Grand Bay,1,7
+deal ends,1874,"Chatham, N.B.",1,8
+deal ends,1874,Stolpemunde,1,9
+deal ends,1874,Iggesund,1,10
+deal ends,1874,Memel,1,11
+deal ends,1874,Husum,1,12
+deal ends,1874,Danzig,1,13
+deal ends,1874,Saguenay,1,14
+deal ends,1874,Libau,1,15
+deal ends,1874,Zanzibar,1,16
+deal ends,1874,"St. John's, N.B.",1,17
+deal ends,1875,Quebec,4,1
+deal ends,1875,Cronstadt,3,2
+deal ends,1875,Riga,3,3
+deal ends,1875,Gothenburg,3,4
+deal ends,1875,Memel,2,5
+deal ends,1875,Drammen,1,6
+deal ends,1875,Danzig,1,7
+deal ends,1875,Laurvig,1,8
+deal ends,1875,Dram,1,9
+deal ends,1875,Soderhamn,1,10
+deal ends,1875,Three Islands,1,11
+deal ends,1875,St. John,1,12
+deal ends,1875,"St. John, N.B.",1,13
+deal ends,1879,Quebec,1,1
+deal ends,1881,Quebec,21,1
+deal ends,1881,Cronstadt,10,2
+deal ends,1881,Riga,3,3
+deal ends,1881,"St. John, N.B.",3,4
+deal ends,1881,Three Rivers,3,5
+deal ends,1881,Saguenay,3,6
+deal ends,1881,"Halifax, N.S.",2,7
+deal ends,1881,"Cornwallis, N.S.",1,8
+deal ends,1881,Annapolis,1,9
+deal ends,1881,Pensacola,1,10
+deal ends,1881,Helsingfors,1,11
+deal ends,1881,Bordeaux,1,12
+deal ends,1881,Dalhousie,1,13
+deal ends,1881,Bathurst,1,14
+deal ends,1881,Miramichi,1,15
+deal ends,1881,Chicontimi,1,16
+deal ends,1881,Magdalen River,1,17
+deal ends,1881,Soroka,1,18
+deal ends,1881,Archangel,1,19
+deal ends,1881,Escoumani,1,20
+deal ends,1883,Quebec,26,1
+deal ends,1883,Cronstadt,10,2
+deal ends,1883,Montreal,8,3
+deal ends,1883,Three Rivers,7,4
+deal ends,1883,Chicontimi,6,5
+deal ends,1883,"St. John, N.B.",5,6
+deal ends,1883,Riga,5,7
+deal ends,1883,Memel,4,8
+deal ends,1883,Metis,3,9
+deal ends,1883,Miramichi,3,10
+deal ends,1883,Abo,2,11
+deal ends,1883,Magdalen River,2,12
+deal ends,1883,Soroka,2,13
+deal ends,1883,Savanilla,1,14
+deal ends,1883,St. John,1,15
+deal ends,1883,St. John. N.B.,1,16
+deal ends,1883,Lappvik,1,17
+deal ends,1883,St. Petersburg,1,18
+deal ends,1883,Calmo,1,19
+deal ends,1883,Finklippan,1,20
+deal ends,1884,"St. John, N.B.",1,1
+deal ends,1885,Quebec,9,1
+deal ends,1885,Riga,7,2
+deal ends,1885,Montreal,5,3
+deal ends,1885,Cronstadt,4,4
+deal ends,1885,Saguenay,2,5
+deal ends,1885,Wyborg,2,6
+deal ends,1885,Soroka,1,7
+deal ends,1885,Danzig,1,8
+deal ends,1885,Uleaborg,1,9
+deal ends,1886,St. John,1,1
+deal ends,1887,Riga,8,1
+deal ends,1887,Cronstadt,2,2
+deal ends,1887,Memel,2,3
+deal ends,1887,Quebec,1,4
+deal ends,1887,Montreal,1,5
+deal ends,1887,Pugwash,1,6
+deal ends,1887,Miramichi,1,7
+deal ends,1887,Rafso,1,8
+deal ends,1887,Halifax,1,9
+deal ends,1887,Trangsund,1,10
+deal ends,1887,Mesane,1,11
+deal ends,1887,Cochon,1,12
+deal ends,1887,"St. John, N.B.",1,13
+deal ends,1887,St. Petersburg,1,14
+deal ends,1887,Saguenay,1,15
+deal ends,1887,Gefle,1,16
+deal ends,1887,Escoumains,1,17
+deal ends,1887,Rosetta,1,18
+deal ends,1889,Cronstadt,7,1
+deal ends,1889,Riga,6,2
+deal ends,1889,Quebec,6,3
+deal ends,1889,St. Petersburg,5,4
+deal ends,1889,Halifax,4,5
+deal ends,1889,Bay Verte,3,6
+deal ends,1889,Saguenay,3,7
+deal ends,1889,Buctouche,2,8
+deal ends,1889,"Shediac, N.B.",2,9
+deal ends,1889,Memel,1,10
+deal ends,1889,Montreal,1,11
+deal ends,1889,"Newcastle, N.B.",1,12
+deal ends,1889,Ship Harbour,1,13
+deal ends,1889,Metis,1,14
+deal ends,1889,"St. John, N.B.",1,15
+deal ends,1889,Black River,1,16
+deal ends,1889,Three Rivers,1,17
+deal ends,1889,St. Etienne,1,18
+deal ends,1889,Gothenburg,1,19
+deal ends,1889,Boston,1,20
+deal ends,1891,Montreal,8,1
+deal ends,1891,Riga,6,2
+deal ends,1891,Quebec,5,3
+deal ends,1891,Cronstadt,3,4
+deal ends,1891,St. Petersburg,2,5
+deal ends,1891,Hernösand,1,6
+deal ends,1891,Nyhamn,1,7
+deal ends,1891,"Chatham, N.B.",1,8
+deal ends,1891,Masane,1,9
+deal ends,1891,Metis,1,10
+deal ends,1891,Bio,1,11
+deal ends,1893,Montreal,6,1
+deal ends,1893,Riga,3,2
+deal ends,1893,Quebec,3,3
+deal ends,1893,Cronstadt,3,4
+deal ends,1893,Chicoutimi,1,5
+deal ends,1893,Memel,1,6
+deal ends,1893,Helsingfors,1,7
+deal ends,1893,Halifax,1,8
+deal ends,1893,Picton,1,9
+deal ends,1893,Botwoodville,1,10
+deal ends,1895,Montreal,3,1
+deal ends,1895,Riga,2,2
+deal ends,1895,Stockholm,1,3
+deal ends,1895,Quebec,1,4
+deal ends,1895,Gefle,1,5
+deal ends,1895,Sundsvall,1,6
+deal ends,1895,Ljusne,1,7
+deal ends,1897,Stockholm,1,1
+deal ends,1898,Fredriks'ad,1,1
+deal ends,1899,Riga,2,1
+deal ends,1899,St. John N.B.,2,2
+deal ends,1899,Parrsboro,1,3
+deal ends,1899,Libau,1,4
+deal ends,1899,West Bay,1,5
+deal ends,1899,Cape Tormentine,1,6
+deal ends,1899,Montreal,1,7
+mouldings,1874,Uddevalla,2,1
+mouldings,1875,Gothenburg,2,1
+mouldings,1875,Uddewalla,1,2
+mouldings,1875,Fredrikshald,1,3
+mouldings,1875,Cronstadt,1,4
+mouldings,1879,Uddevalla,2,1
+mouldings,1879,F'stad,1,2
+mouldings,1879,New York,1,3
+mouldings,1880,New York,3,1
+mouldings,1880,Uddewalla,2,2
+mouldings,1880,Gothenburg,1,3
+mouldings,1881,Gothenburg,11,1
+mouldings,1881,New York,6,2
+mouldings,1881,Uddewalla,2,3
+mouldings,1881,Fredrikstadt,2,4
+mouldings,1881,Christiania,1,5
+mouldings,1881,Memel,1,6
+mouldings,1881,Laurvig,1,7
+mouldings,1881,Uddevalla,1,8
+mouldings,1882,New York,2,1
+mouldings,1882,Christiania,1,2
+mouldings,1883,Gothenburg,32,1
+mouldings,1883,New York,10,2
+mouldings,1883,Uddevalla,5,3
+mouldings,1883,Uddewalla,2,4
+mouldings,1883,Drammen,1,5
+mouldings,1883,Cronstadt,1,6
+mouldings,1883,Fredrikstad,1,7
+mouldings,1884,Gothenburg,7,1
+mouldings,1884,Uddevalla,1,2
+mouldings,1885,Gothenburg,50,1
+mouldings,1885,New York,6,2
+mouldings,1885,Uddevalla,6,3
+mouldings,1885,Stockholm,4,4
+mouldings,1885,Fredrikshald,3,5
+mouldings,1885,St. Petersburg,2,6
+mouldings,1885,Fredrikstad,1,7
+mouldings,1885,Uddewalla,1,8
+mouldings,1885,Drammen,1,9
+mouldings,1885,Montreal,1,10
+mouldings,1886,New York,1,1
+mouldings,1886,Riga,1,2
+mouldings,1887,Gothenburg,20,1
+mouldings,1887,Uddevalla,6,2
+mouldings,1887,New York,4,3
+mouldings,1887,Fredrikstad,2,4
+mouldings,1887,Stockholm,2,5
+mouldings,1887,Gefle,1,6
+mouldings,1887,Cronstadt,1,7
+mouldings,1887,Fredrikshald,1,8
+mouldings,1889,Uddevalla,9,1
+mouldings,1889,Gothenburg,9,2
+mouldings,1889,Stockholm,7,3
+mouldings,1889,New York,3,4
+mouldings,1889,Skutskar,3,5
+mouldings,1889,Halifax,1,6
+mouldings,1889,Fredrikstad,1,7
+mouldings,1889,Uddovalla,1,8
+mouldings,1889,Mesane,1,9
+mouldings,1889,Danzig,1,10
+mouldings,1889,Baltimore,1,11
+mouldings,1889,Christiania,1,12
+mouldings,1890,Uddevalla,1,1
+mouldings,1891,Gothenburg,10,1
+mouldings,1891,Uddevalla,6,2
+mouldings,1891,Fredrikstad,2,3
+mouldings,1891,Halifax,2,4
+mouldings,1891,Stockholm,2,5
+mouldings,1891,Skutskar,2,6
+mouldings,1891,Archangel,1,7
+mouldings,1891,Danzig,1,8
+mouldings,1891,Uddewalla,1,9
+mouldings,1892,Stockholm,2,1
+mouldings,1892,Uddevalla,1,2
+mouldings,1892,Gothenburg,1,3
+mouldings,1893,Gothenburg,10,1
+mouldings,1893,Stockholm,6,2
+mouldings,1893,Uddevalla,5,3
+mouldings,1893,"St. John, N.B.",2,4
+mouldings,1893,Skutskar,1,5
+mouldings,1893,New York,1,6
+mouldings,1893,Bremen,1,7
+mouldings,1893,Norrkoping,1,8
+mouldings,1893,Christiania,1,9
+mouldings,1893,Gefle,1,10
+mouldings,1895,Gothenburg,5,1
+mouldings,1895,Stockholm,4,2
+mouldings,1895,Gefle,3,3
+mouldings,1895,Fredrikstad,2,4
+mouldings,1895,Dalhousie,1,5
+mouldings,1895,St. Petersburg,1,6
+mouldings,1895,Cronstadt,1,7
+mouldings,1895,Swartwik,1,8
+mouldings,1895,Uddevalla,1,9
+mouldings,1896,Helsingfors,1,1
+mouldings,1896,Christiania,1,2
+mouldings,1897,Uddevalla,3,1
+mouldings,1897,Gothenburg,2,2
+mouldings,1897,Danzig,1,3
+mouldings,1897,Pensacola,1,4
+mouldings,1897,Libau,1,5
+mouldings,1897,Montreal,1,6
+mouldings,1898,Stockholm,1,1
+mouldings,1898,Gothenburg,1,2
+mouldings,1898,New York,1,3
+mouldings,1899,Gothenburg,20,1
+mouldings,1899,Stockholm,10,2
+mouldings,1899,Uddevalla,6,3
+mouldings,1899,Libau,5,4
+mouldings,1899,St. Petersburg,5,5
+mouldings,1899,Riga,4,6
+mouldings,1899,Christiania,4,7
+mouldings,1899,Fredrikstad,3,8
+mouldings,1899,Newport News,2,9
+mouldings,1899,Montreal,2,10
+mouldings,1899,Uleaborg,2,11
+mouldings,1899,Hambro,1,12
+mouldings,1899,Stettin,1,13
+mouldings,1899,Fredrikstadt,1,14
+mouldings,1899,Portland Me.,1,15
+mouldings,1899,Kotka,1,16
+mouldings,1899,Boston,1,17
+mouldings,1899,Norrkoping,1,18
+mouldings,1899,Uddewalla,1,19
+mouldings,1899,Sydney,1,20
+lumber,1879,New York,1,1
+lumber,1881,New York,10,1
+lumber,1881,Vancouver's Island,2,2
+lumber,1881,"St. Mary's, N.S.",1,3
+lumber,1881,"Brunswick, Ga.",1,4
+lumber,1881,"Tignish, P.E.I.",1,5
+lumber,1882,New York,1,1
+lumber,1883,New York,8,1
+lumber,1883,Boston,3,2
+lumber,1883,Halifax,3,3
+lumber,1883,Fernandina,1,4
+lumber,1883,Baltimore,1,5
+lumber,1883,Pensacola,1,6
+lumber,1883,Norfolk,1,7
+lumber,1883,Vancouver,1,8
+lumber,1883,Vancouver's Island,1,9
+lumber,1884,Burrard's Inlet,1,1
+lumber,1884,New York,1,2
+lumber,1885,New York,18,1
+lumber,1885,Boston,2,2
+lumber,1885,Baltimore,1,3
+lumber,1885,Philadelphia,1,4
+lumber,1886,Halifax,2,1
+lumber,1886,Boston,1,2
+lumber,1886,New York,1,3
+lumber,1887,New York,26,1
+lumber,1887,Boston,4,2
+lumber,1887,Newport News,3,3
+lumber,1887,Baltimore,2,4
+lumber,1887,Cronstadt,1,5
+lumber,1887,"Norfolk, Va.",1,6
+lumber,1887,Halifax,1,7
+lumber,1887,Stettin,1,8
+lumber,1887,Bermuda,1,9
+lumber,1889,New York,44,1
+lumber,1889,Baltimore,10,2
+lumber,1889,Boston,6,3
+lumber,1889,Montreal,3,4
+lumber,1889,Philadelphia,1,5
+lumber,1889,"St. John, N.B.",1,6
+lumber,1889,Orange Bluff,1,7
+lumber,1890,New York,2,1
+lumber,1890,Baltimore,1,2
+lumber,1891,New York,16,1
+lumber,1891,Baltimore,8,2
+lumber,1891,Newport News,3,3
+lumber,1891,Philadelphia,3,4
+lumber,1891,Boston,2,5
+lumber,1891,Quebec,1,6
+lumber,1891,Port Natal,1,7
+lumber,1891,Port Blakeley,1,8
+lumber,1891,Halifax,1,9
+lumber,1892,New York,4,1
+lumber,1892,Newport News,2,2
+lumber,1892,"Halifax, N.S.",1,3
+lumber,1893,Baltimore,14,1
+lumber,1893,New York,13,2
+lumber,1893,Boston,10,3
+lumber,1893,Philadelphia,6,4
+lumber,1893,Norfolk,3,5
+lumber,1893,New Orleans,3,6
+lumber,1893,Port Blakeley,1,7
+lumber,1893,Montreal,1,8
+lumber,1893,Skien,1,9
+lumber,1893,San Francisco,1,10
+lumber,1893,"St. John, N.B.",1,11
+lumber,1895,Newport News,15,1
+lumber,1895,New York,8,2
+lumber,1895,Boston,4,3
+lumber,1895,New Orleans,1,4
+lumber,1896,Boston,1,1
+lumber,1896,New York,1,2
+lumber,1897,Boston,8,1
+lumber,1897,"Portland, Me.",1,2
+lumber,1897,Montreal,1,3
+lumber,1897,Newport News,1,4
+lumber,1897,Brunswick,1,5
+lumber,1897,New York,1,6
+lumber,1898,New York,5,1
+lumber,1898,Newort News,1,2
+lumber,1898,Boston,1,3
+lumber,1899,Newport News,10,1
+lumber,1899,Boston,8,2
+lumber,1899,Baltimore,7,3
+lumber,1899,New York,5,4
+lumber,1899,"Portland, Me.",5,5
+lumber,1899,Montreal,3,6
+lumber,1899,Philadelphia,3,7
+lumber,1899,New Orleans,2,8
+lumber,1899,Portland,2,9
+lumber,1899,San Francisco,1,10
+lumber,1899,Norfolk,1,11
+lumber,1899,"Norfolk, Va",1,12
+lumber,1899,Ship Island,1,13
+wood,1874,Sundswall,1,1
+wood,1874,Gothenburg,1,2
+wood,1874,Stockholm,1,3
+wood,1874,Demerara,1,4
+wood,1875,Memel,3,1
+wood,1875,Amsterdam,2,2
+wood,1875,Marseilles,2,3
+wood,1875,Havre,1,4
+wood,1875,Dram,1,5
+wood,1875,Pensacola,1,6
+wood,1875,Drammen,1,7
+wood,1875,Colombo,1,8
+wood,1880,New York,1,1
+wood,1880,Havre,1,2
+wood,1880,Dieppe,1,3
+wood,1881,Marseilles,14,1
+wood,1881,Bordeaux,8,2
+wood,1881,New York,5,3
+wood,1881,Hambro',3,4
+wood,1881,Amsterdam,2,5
+wood,1881,San Domingo,2,6
+wood,1881,"Colon, &c.",2,7
+wood,1881,Moss,1,8
+wood,1881,Havre,1,9
+wood,1881,Boston,1,10
+wood,1881,Treport,1,11
+wood,1881,Gothenburg,1,12
+wood,1881,Hamburg,1,13
+wood,1881,Drontheim,1,14
+wood,1881,Antwerp,1,15
+wood,1881,Brussels,1,16
+wood,1881,St. Petersburg,1,17
+wood,1881,Venice,1,18
+wood,1881,"Odessa, &c.",1,19
+wood,1881,Leghorn,1,20
+wood,1883,New York,8,1
+wood,1883,Boston,4,2
+wood,1883,Hambro',4,3
+wood,1883,Havre,2,4
+wood,1883,Gothenburg,1,5
+wood,1883,Rotterdam,1,6
+wood,1883,Barbadoes,1,7
+wood,1883,Marseilles,1,8
+wood,1883,Mexico,1,9
+wood,1883,Poti,1,10
+wood,1883,St. Petersburg,1,11
+wood,1885,Gothenburg,15,1
+wood,1885,Christiania,3,2
+wood,1885,Gefle,2,3
+wood,1885,Krageroe,1,4
+wood,1885,Frederikstad,1,5
+wood,1885,Holmsund,1,6
+wood,1885,Tvedestrand,1,7
+wood,1885,Marseilles,1,8
+wood,1885,Trieste,1,9
+wood,1885,New York,1,10
+wood,1885,Rotterdam,1,11
+wood,1886,New York,2,1
+wood,1887,Gothenburg,28,1
+wood,1887,New York,8,2
+wood,1887,Hambro',5,3
+wood,1887,Bordeaux,4,4
+wood,1887,Christiania,4,5
+wood,1887,Stettin,4,6
+wood,1887,St. Petersburg,3,7
+wood,1887,Norway,2,8
+wood,1887,Trieste,2,9
+wood,1887,Antwerp,1,10
+wood,1887,Cronstadt,1,11
+wood,1887,Rotterdam,1,12
+wood,1887,Uleaborg,1,13
+wood,1887,"Norfolk, Va.",1,14
+wood,1887,Skien,1,15
+wood,1887,Gefle,1,16
+wood,1887,Sundswall,1,17
+wood,1887,Narva,1,18
+wood,1887,Fiume,1,19
+wood,1887,Trinidad,1,20
+wood,1888,Savanilla,1,1
+wood,1888,Christiania,1,2
+wood,1889,Gothenburg,4,1
+wood,1889,Bordeaux,4,2
+wood,1889,New York,3,3
+wood,1889,Trieste,1,4
+wood,1889,Odessa,1,5
+wood,1889,Havre,1,6
+wood,1889,Bremen,1,7
+wood,1889,Christiania,1,8
+wood,1889,Riga,1,9
+wood,1890,Hambro',1,1
+wood,1890,Odessa,1,2
+wood,1890,Fredrikstad,1,3
+wood,1891,Gothenburg,7,1
+wood,1891,New York,3,2
+wood,1891,Riga,3,3
+wood,1891,Flushing,2,4
+wood,1891,Christiania,2,5
+wood,1891,Marseilles,2,6
+wood,1891,St. Petersburg,2,7
+wood,1891,Tunas de Zaza,2,8
+wood,1891,Valencia,1,9
+wood,1891,Bordeaux,1,10
+wood,1891,Baltimore,1,11
+wood,1891,Palermo,1,12
+wood,1891,Bo deaux,1,13
+wood,1891,Boulogne,1,14
+wood,1891,Dunkirk,1,15
+wood,1891,St. Vincent,1,16
+wood,1891,Rangoon,1,17
+wood,1891,Santa Cruz,1,18
+wood,1891,Sundswall,1,19
+wood,1891,Kotka,1,20
+wood,1892,Flushing,2,1
+wood,1892,Gothenburg,2,2
+wood,1892,Bordeaux,1,3
+wood,1892,Colon,1,4
+wood,1892,Algiers,1,5
+wood,1892,Stettin,1,6
+wood,1892,Havre,1,7
+wood,1892,Dieppe,1,8
+wood,1893,Christiania,3,1
+wood,1893,Reval,1,2
+wood,1893,Gefle,1,3
+wood,1893,Hambro',1,4
+wood,1893,Fredrikshald,1,5
+wood,1895,Christiania,2,1
+wood,1895,Helsingfors,2,2
+wood,1895,St. Petersburg,1,3
+wood,1895,Bassam,1,4
+wood,1895,Riga,1,5
+wood,1895,Sundswall,1,6
+wood,1895,Gothenburg,1,7
+wood,1897,New York,2,1
+wood,1897,Gothenburg,2,2
+wood,1897,Flushing,2,3
+wood,1897,Venice,1,4
+wood,1898,Limau,1,1
+wood,1898,Natal,1,2
+wood,1898,New York,1,3
+wood,1899,Gothenburg,12,1
+wood,1899,Riga,5,2
+wood,1899,Christiania,5,3
+wood,1899,Stockholm,2,4
+wood,1899,Memel,1,5
+wood,1899,Hambro,1,6
+wood,1899,Flushing,1,7
+wood,1899,Libau,1,8
+wood,1899,Gothenberg,1,9
+wood,1899,St. Petersburg,1,10
+wood,1899,Stettin,1,11
+wood,1899,Copenhagen,1,12
+oak,1874,Quebec,6,1
+oak,1874,Magdalen River,1,2
+oak,1874,Danzig,1,3
+oak,1874,Fernandina,1,4
+oak,1875,Quebec,1,1
+oak,1875,Pillau,1,2
+oak,1875,Danzig,1,3
+oak,1875,Konigsberg,1,4
+oak,1875,Bjorneborg,1,5
+oak,1875,Memel,1,6
+oak,1875,Nyvik,1,7
+oak,1879,Danzig,3,1
+oak,1879,Stettin,1,2
+oak,1879,Memel,1,3
+oak,1879,Riga,1,4
+oak,1880,New York,1,1
+oak,1881,New York,5,1
+oak,1881,Quebec,3,2
+oak,1881,Stettin,2,3
+oak,1881,Odessa,1,4
+oak,1881,Ostend,1,5
+oak,1881,Hambro',1,6
+oak,1881,Dantzic,1,7
+oak,1881,Trieste,1,8
+oak,1881,"Libau, &c.",1,9
+oak,1881,Havre,1,10
+oak,1881,Venice,1,11
+oak,1883,New York,11,1
+oak,1883,Quebec,8,2
+oak,1883,Dantzic,1,3
+oak,1883,Boston,1,4
+oak,1883,Danzig,1,5
+oak,1883,Mobile,1,6
+oak,1883,Libau,1,7
+oak,1884,New York,2,1
+oak,1885,Quebec,10,1
+oak,1885,Stettin,7,2
+oak,1885,Danzig,5,3
+oak,1885,New York,5,4
+oak,1885,Trieste,3,5
+oak,1885,Fiume,2,6
+oak,1885,Boston,1,7
+oak,1885,New Orleans,1,8
+oak,1885,Memel,1,9
+oak,1885,Odessa,1,10
+oak,1885,Baltimore,1,11
+oak,1885,Wyborg,1,12
+oak,1885,Cronstadt,1,13
+oak,1887,Stettin,8,1
+oak,1887,Danzig,7,2
+oak,1887,New York,6,3
+oak,1887,Quebec,3,4
+oak,1887,Baltimore,3,5
+oak,1887,Odessa,2,6
+oak,1887,Gothenburg,1,7
+oak,1887,Memel,1,8
+oak,1887,"Norfolk, Va.",1,9
+oak,1887,Arendal,1,10
+oak,1887,Gefle,1,11
+oak,1887,Newport News,1,12
+oak,1888,New York,2,1
+oak,1888,Trieste,1,2
+oak,1889,Baltimore,17,1
+oak,1889,New York,6,2
+oak,1889,Quebec,4,3
+oak,1889,Trieste,2,4
+oak,1889,Boston,2,5
+oak,1889,New Orleans,2,6
+oak,1889,Montreal,1,7
+oak,1889,Memel,1,8
+oak,1889,Odessa,1,9
+oak,1889,Stettin,1,10
+oak,1889,Stockholm,1,11
+oak,1889,Konigsberg,1,12
+oak,1890,Odessa,1,1
+oak,1891,Philadelphia,5,1
+oak,1891,Baltimore,2,2
+oak,1891,Stettin,2,3
+oak,1891,Trieste,1,4
+oak,1891,New York,1,5
+oak,1891,Norfolk,1,6
+oak,1891,Libau,1,7
+oak,1891,Quebec,1,8
+oak,1892,Philadelphia,1,1
+oak,1892,Newport News,1,2
+oak,1893,Baltimore,5,1
+oak,1893,New York,4,2
+oak,1893,Boston,2,3
+oak,1893,Sundsvall,1,4
+oak,1893,Philadelphia,1,5
+oak,1893,Montreal and Three Rivers,1,6
+oak,1893,Fiume,1,7
+oak,1895,New York,1,1
+oak,1897,New York,9,1
+oak,1897,Libau,1,2
+oak,1897,St. Petersburg,1,3
+oak,1898,New York,1,1
+oak,1899,Baltimore,6,1
+oak,1899,Norfolk,5,2
+oak,1899,Boston,4,3
+oak,1899,Montreal,4,4
+oak,1899,"Norfolk, Va",4,5
+oak,1899,"Norfolk, Va.",4,6
+oak,1899,Libau,3,7
+oak,1899,Philadelphia,3,8
+oak,1899,Fiume,3,9
+oak,1899,New York,3,10
+oak,1899,New Orleans,3,11
+oak,1899,Venice,2,12
+oak,1899,Newport News,2,13
+oak,1899,Pensacola,1,14
+oak,1899,Sydney,1,15
+rickers,1874,Cronstadt,1,1
+rickers,1874,Gothenburg,1,2
+rickers,1874,St. Petersburg,1,3
+rickers,1874,Krageroe,1,4
+rickers,1875,Skonvik,2,1
+rickers,1875,Cronstadt,1,2
+rickers,1879,P'burg,1,1
+rickers,1879,Cronstadt,1,2
+rickers,1881,Cronstadt,21,1
+rickers,1881,St. Petersburg,13,2
+rickers,1881,St. Petersburg Town,2,3
+rickers,1881,Gothenburg,1,4
+rickers,1881,Christiania,1,5
+rickers,1881,Odessa,1,6
+rickers,1881,Leghorn,1,7
+rickers,1883,Cronstadt,22,1
+rickers,1883,St. Petersburg,5,2
+rickers,1883,Gothenburg,1,3
+rickers,1883,Christiania,1,4
+rickers,1883,Sundswall,1,5
+rickers,1884,Gothenburg,1,1
+rickers,1885,Cronstadt,18,1
+rickers,1885,Gothenburg,9,2
+rickers,1885,St. Petersburg,4,3
+rickers,1887,St. Petersburg,37,1
+rickers,1887,Cronstadt,6,2
+rickers,1887,Gothenburg,5,3
+rickers,1887,Christiania,2,4
+rickers,1887,New York,1,5
+rickers,1887,Trieste,1,6
+rickers,1889,St. Petersburg,27,1
+rickers,1889,Gothenburg,3,2
+rickers,1889,Cronstadt,3,3
+rickers,1889,Porsgrund,1,4
+rickers,1889,St Petersburg,1,5
+rickers,1889,Christiania,1,6
+rickers,1890,Gothenburg,1,1
+rickers,1891,St. Petersburg,18,1
+rickers,1891,Christiania,4,2
+rickers,1891,Gothenburg,2,3
+rickers,1891,Fredrikshald,1,4
+rickers,1893,St. Petersburg,11,1
+rickers,1893,Gothenburg,2,2
+rickers,1893,Riga,1,3
+rickers,1893,Helsingfors,1,4
+rickers,1895,St. Petersburg,9,1
+rickers,1895,Gothenburg,2,2
+rickers,1895,Cronstadt,1,3
+rickers,1897,Libau,1,1
+rickers,1897,Gothenburg,1,2
+rickers,1899,St. Petersburg,4,1
+rickers,1899,Gothenburg,2,2
+rickers,1899,Riga,2,3
+rickers,1899,Falkenburg,1,4
+rickers,1899,Trieste,1,5
+mahogany,1874,Honduras,1,1
+mahogany,1874,Quebec,1,2
+mahogany,1874,Laguna,1,3
+mahogany,1874,Belize,1,4
+mahogany,1874,Punta Arenas,1,5
+mahogany,1874,Truxillo,1,6
+mahogany,1874,Santa Anna,1,7
+mahogany,1874,Danzig,1,8
+mahogany,1874,Jamaica,1,9
+mahogany,1875,Minatitlan,4,1
+mahogany,1875,Belize,2,2
+mahogany,1875,Gothenburg,2,3
+mahogany,1875,Havre,1,4
+mahogany,1875,Tonala,1,5
+mahogany,1875,Hambro,1,6
+mahogany,1875,New Orleans,1,7
+mahogany,1875,Boston,1,8
+mahogany,1875,Wava,1,9
+mahogany,1875,Pascagoula,1,10
+mahogany,1875,Jamaica,1,11
+mahogany,1875,Laurvig,1,12
+mahogany,1875,Truxillo,1,13
+mahogany,1875,Tlatocalpan,1,14
+mahogany,1879,Belize,9,1
+mahogany,1879,Tonala,5,2
+mahogany,1879,Santa Ana,5,3
+mahogany,1879,Minatitlan,2,4
+mahogany,1879,Cardenas,1,5
+mahogany,1879,Chiltepec,1,6
+mahogany,1879,Santa Cruz,1,7
+mahogany,1879,Nuevitas,1,8
+mahogany,1879,Puerto Cortes,1,9
+mahogany,1879,St. Ana,1,10
+mahogany,1879,S. Domingo,1,11
+mahogany,1880,Nassau,1,1
+mahogany,1880,Truxillo,1,2
+mahogany,1880,Havre,1,3
+mahogany,1881,Belize,11,1
+mahogany,1881,Minatitlan,10,2
+mahogany,1881,Nuevitas,3,3
+mahogany,1881,New York,3,4
+mahogany,1881,Trinidad de Cuba,2,5
+mahogany,1881,"Belize, &c.",2,6
+mahogany,1881,Havre,2,7
+mahogany,1881,Santa Ana,2,8
+mahogany,1881,Livingston,2,9
+mahogany,1881,"Coatzcoalcos, Mexico",1,10
+mahogany,1881,Puerto Cortes,1,11
+mahogany,1881,Cienfuegos,1,12
+mahogany,1881,St. Jago de Cuba,1,13
+mahogany,1881,"Gibara, Cuba",1,14
+mahogany,1881,Colon,1,15
+mahogany,1881,Stettin,1,16
+mahogany,1883,Belize,11,1
+mahogany,1883,Santa Ana,6,2
+mahogany,1883,Puerto Cortez,5,3
+mahogany,1883,Havre,3,4
+mahogany,1883,Nuevitas,3,5
+mahogany,1883,Minatitlan,3,6
+mahogany,1883,Santaria,3,7
+mahogany,1883,New York,2,8
+mahogany,1883,Mexico,2,9
+mahogany,1883,Nassau,2,10
+mahogany,1883,Truxillo,2,11
+mahogany,1883,Alvarado,2,12
+mahogany,1883,Halsoer,1,13
+mahogany,1883,Laguna de Termanos,1,14
+mahogany,1883,Hambro',1,15
+mahogany,1883,Savanilla,1,16
+mahogany,1883,Cardenas,1,17
+mahogany,1883,Zara,1,18
+mahogany,1883,Tlacotalpam,1,19
+mahogany,1883,Trinidad de Cuba,1,20
+mahogany,1884,Belize,10,1
+mahogany,1884,St. Domingo,1,2
+mahogany,1891,Belize,9,1
+mahogany,1891,W. O. of Africa,4,2
+mahogany,1891,Laguna,3,3
+mahogany,1891,Minatitlan,3,4
+mahogany,1891,Assinee,2,5
+mahogany,1891,New York,2,6
+mahogany,1891,Havre,2,7
+mahogany,1891,Coatzacoalcos,1,8
+mahogany,1891,Tunas de Zaza,1,9
+mahogany,1891,Belise,1,10
+mahogany,1891,Montego Bay,1,11
+mahogany,1891,W. C. of Africa,1,12
+mahogany,1891,Tlacotalpam,1,13
+mahogany,1891,Alvarado,1,14
+mahogany,1891,Maracaibo,1,15
+mahogany,1891,Colon,1,16
+mahogany,1891,Santana,1,17
+mahogany,1891,Hambro',1,18
+mahogany,1892,Minatitlan,1,1
+mahogany,1892,Colon,1,2
+mahogany,1893,Belize,6,1
+mahogany,1893,New York,2,2
+mahogany,1893,Tunas de Zaza,2,3
+mahogany,1893,Laguna,2,4
+mahogany,1893,Nuevitas,2,5
+mahogany,1893,Colon,2,6
+mahogany,1893,Minatitlan,1,7
+mahogany,1893,Manzanillo,1,8
+mahogany,1893,Hambro',1,9
+mahogany,1893,Valparaiso,1,10
+mahogany,1893,Boston,1,11
+mahogany,1893,Timas de Zaza,1,12
+mahogany,1895,Nuevitas,1,1
+mahogany,1895,Colon,1,2
+mahogany,1896,Laguna de Terminos,1,1
+mahogany,1896,Riga,1,2
+mahogany,1897,St. Nazaire,2,1
+mahogany,1897,Boston,2,2
+mahogany,1897,Laguna de Terminos,1,3
+mahogany,1897,New York,1,4
+mahogany,1897,Newport News,1,5
+mahogany,1897,Brunswick,1,6
+mahogany,1899,Boston,5,1
+mahogany,1899,New York,2,2
+mahogany,1899,Hambro,1,3
+mahogany,1899,Philadelphia,1,4
+mahogany,1899,Chiltepec,1,5
+mahogany,1899,Laguna,1,6
+props,1875,Drammen,2,1
+props,1875,Laurvig,2,2
+props,1875,Christiansand,1,3
+props,1875,Sundswall,1,4
+props,1875,Sandefiord,1,5
+props,1875,Fredrikstad,1,6
+props,1881,Gothenburg,4,1
+props,1881,Kragero,1,2
+props,1881,Porsgrund,1,3
+props,1883,Gothenburg,4,1
+props,1883,Oscarshamn,3,2
+props,1883,Christiania,2,3
+props,1883,Bayonne,2,4
+props,1883,Mandal,1,5
+props,1883,Christiansand,1,6
+props,1883,Pensacola,1,7
+props,1883,Holmestrand,1,8
+props,1883,Stettin,1,9
+props,1883,Sundswall,1,10
+props,1883,Porsgrund,1,11
+props,1883,Hambro',1,12
+props,1883,Hamburg,1,13
+props,1883,Uddevalla,1,14
+props,1883,Nyland,1,15
+props,1883,Goteborg,1,16
+props,1883,Arendal,1,17
+props,1883,Bordeaux,1,18
+props,1883,Oldenburg,1,19
+props,1883,Bjorneborg,1,20
+props,1885,Porsgrund,7,1
+props,1885,Falkenberg,3,2
+props,1885,Bordeaux,2,3
+props,1885,Gothenburg,2,4
+props,1885,Stockholm,2,5
+props,1885,Brevig,2,6
+props,1885,Monsteras,2,7
+props,1885,Christiania,1,8
+props,1885,Christiansund,1,9
+props,1885,Risoer,1,10
+props,1885,Stettin,1,11
+props,1885,Danzig,1,12
+props,1885,Ostend,1,13
+props,1885,Hamstad,1,14
+props,1885,Dram,1,15
+props,1885,Sundswall,1,16
+props,1885,Westervik,1,17
+props,1885,Krageroe,1,18
+props,1885,Langesund,1,19
+props,1885,Kotka,1,20
+props,1886,Brevig,1,1
+props,1887,Gothenburg,4,1
+props,1887,Christiania,3,2
+props,1887,Oscarshamn,2,3
+props,1887,Riga,2,4
+props,1887,Fredrikstad,1,5
+props,1887,Holmestrand,1,6
+props,1887,Danzig,1,7
+props,1887,Atu,1,8
+props,1887,Minde,1,9
+props,1887,Skien,1,10
+props,1887,Laurvig,1,11
+props,1887,Moss,1,12
+props,1889,Gothenburg,12,1
+props,1889,St. Petersburg,7,2
+props,1889,Christiania,3,3
+props,1889,Laurvig,2,4
+props,1889,St. Peter,2,5
+props,1889,Tvedestrand,1,6
+props,1889,Mandal,1,7
+props,1889,Christiansand,1,8
+props,1889,Arendal,1,9
+props,1889,Fredrikstad,1,10
+props,1889,Halmstad,1,11
+props,1889,Dantzig,1,12
+props,1889,Tonsberg,1,13
+props,1889,Cronstadt,1,14
+props,1889,St Petersburg,1,15
+props,1891,St. Petersburg,8,1
+props,1891,Hamburg,6,2
+props,1891,Gothenburg,5,3
+props,1891,Riga,3,4
+props,1891,Fredrikshald,2,5
+props,1891,Porsgrund,1,6
+props,1891,Christiania,1,7
+props,1891,Laurvig,1,8
+props,1891,Arendal,1,9
+props,1891,Sorel,1,10
+props,1891,Halmstadt,1,11
+props,1891,Marstrand,1,12
+props,1891,Husum,1,13
+props,1893,Halmstad,2,1
+props,1893,Christiania,1,2
+props,1893,Brevig,1,3
+props,1893,Oscarshamn,1,4
+props,1893,Holmstrand,1,5
+props,1893,Tonsberg,1,6
+props,1893,Gothenburg,1,7
+props,1893,Stettin,1,8
+props,1893,Uddevalla,1,9
+props,1893,St. Petersburg,1,10
+props,1893,Konigsberg,1,11
+props,1893,Ornskjoldsvik,1,12
+props,1895,Hernösand,3,1
+props,1895,Brevig,2,2
+props,1895,Wyborg,2,3
+props,1895,Carlscrona,2,4
+props,1895,Hamburg,2,5
+props,1895,Halmstad,2,6
+props,1895,Stettin,2,7
+props,1895,Bufve,1,8
+props,1895,Fredrikshald,1,9
+props,1895,Falkenberg,1,10
+props,1895,Calmar,1,11
+props,1895,Ornskoldsvik,1,12
+props,1895,Hernosand,1,13
+props,1895,Falkenburg,1,14
+props,1895,Fredrikshamn,1,15
+props,1895,Rugenwalde,1,16
+props,1895,Porsgrund,1,17
+props,1895,Solstadstrom,1,18
+props,1895,Warberg,1,19
+props,1896,Gothenburg,2,1
+props,1897,Carlscrona,1,1
+props,1897,Bordeaux,1,2
+props,1897,Gothenburg,1,3
+props,1897,Brevig,1,4
+props,1897,Halmstad,1,5
+props,1899,Gothenburg,6,1
+props,1899,Halmstad,1,2
+props,1899,Christiania,1,3
+props,1899,Jacobstad,1,4
+planks,1874,Quebec,2,1
+planks,1874,Norrkoping,1,2
+planks,1874,Akyab,1,3
+planks,1874,Rangoon,1,4
+planks,1874,Danzig,1,5
+planks,1874,Sundswall,1,6
+planks,1874,Wyburg,1,7
+planks,1874,Uleaborg,1,8
+planks,1874,Saguenay,1,9
+planks,1874,Constantinople,1,10
+planks,1874,Zanzibar,1,11
+planks,1874,Gothenburg,1,12
+planks,1875,Christiania,1,1
+planks,1875,Rangoon,1,2
+planks,1875,Nedercalix,1,3
+planks,1875,Fredrikstad,1,4
+planks,1875,Riga,1,5
+planks,1879,Danzig,1,1
+planks,1879,Halmstad,1,2
+planks,1879,Tornea,1,3
+planks,1879,Uleaborg,1,4
+planks,1879,Skeppsvik,1,5
+planks,1879,Schippswick,1,6
+planks,1879,Sprangsviken,1,7
+planks,1879,Norrsundet,1,8
+planks,1881,Abo,1,1
+planks,1881,Colombo,1,2
+planks,1881,Baltimore,1,3
+planks,1881,Moulmein,1,4
+planks,1881,Drammen,1,5
+planks,1881,Richmond,1,6
+planks,1881,Saguenay,1,7
+planks,1881,Bersimis,1,8
+planks,1881,Rangoon,1,9
+planks,1881,Stettin,1,10
+planks,1881,Ornskoldsvik,1,11
+planks,1881,Gefle,1,12
+planks,1881,Cochin,1,13
+planks,1881,Bjorneborg,1,14
+planks,1881,Holmstad,1,15
+planks,1881,New York,1,16
+planks,1881,Quebec,1,17
+planks,1881,Venice,1,18
+planks,1881,Stockholm,1,19
+planks,1881,Kotka,1,20
+planks,1883,Baltimore,5,1
+planks,1883,New York,4,2
+planks,1883,Christiania,2,3
+planks,1883,Memel,2,4
+planks,1883,Libau,2,5
+planks,1883,Uleaborg,2,6
+planks,1883,Ljusne,2,7
+planks,1883,Trieste,1,8
+planks,1883,Leghorn,1,9
+planks,1883,Mediterranean,1,10
+planks,1883,"Norfolk, Var.",1,11
+planks,1883,Moss,1,12
+planks,1883,Arendal,1,13
+planks,1883,Catania,1,14
+planks,1883,"Poti, &c.",1,15
+planks,1883,Odessa,1,16
+planks,1883,Halmstadt,1,17
+planks,1883,Dantzic,1,18
+planks,1883,Wiswall,1,19
+planks,1883,Savannah,1,20
+planks,1884,New York,1,1
+planks,1884,Bremen,1,2
+planks,1884,Drontheim,1,3
+planks,1885,Danzig,9,1
+planks,1885,Odessa,3,2
+planks,1885,Bremen,3,3
+planks,1885,Soderhamn,2,4
+planks,1885,Singapore,1,5
+planks,1885,Wyburg,1,6
+planks,1885,Bjorneborg,1,7
+planks,1885,Risoer,1,8
+planks,1885,Risor,1,9
+planks,1885,Trieste,1,10
+planks,1885,Sundswall,1,11
+planks,1885,Furuogrund,1,12
+planks,1885,Skutakar,1,13
+planks,1885,Arendal,1,14
+planks,1885,Simo,1,15
+planks,1885,New York,1,16
+planks,1885,Abo,1,17
+planks,1885,Cronstadt,1,18
+planks,1885,Hudikswall,1,19
+planks,1885,Savannah,1,20
+planks,1886,Odessa,2,1
+planks,1886,Trieste,1,2
+planks,1887,Sevastopol,4,1
+planks,1887,Odessa,2,2
+planks,1887,Guysboro',1,3
+planks,1887,Ljusne,1,4
+planks,1887,Baltimore,1,5
+planks,1887,Newport News,1,6
+planks,1887,"Chatham, N.B.",1,7
+planks,1887,Nyhamn,1,8
+planks,1887,Christiania,1,9
+planks,1887,Sundswall,1,10
+planks,1887,Anga,1,11
+planks,1887,Pensacola,1,12
+planks,1887,Bollsta,1,13
+planks,1887,Pictou,1,14
+planks,1887,Trieste,1,15
+planks,1889,Trieste,3,1
+planks,1889,Baltimore,2,2
+planks,1889,Odessa,2,3
+planks,1889,Sundswall,2,4
+planks,1889,Tvedestrand,1,5
+planks,1889,Darien,1,6
+planks,1889,New York,1,7
+planks,1889,Fiume,1,8
+planks,1889,Riga,1,9
+planks,1889,Libau,1,10
+planks,1889,Abo,1,11
+planks,1889,"St. John, N.B.",1,12
+planks,1889,Pensacola,1,13
+planks,1891,Rangoon,3,1
+planks,1891,New York,2,2
+planks,1891,Bangkok,2,3
+planks,1891,Iggesund,2,4
+planks,1891,Calcutta,2,5
+planks,1891,Trieste,1,6
+planks,1891,Pataholm,1,7
+planks,1891,Ljusne,1,8
+planks,1891,Chicoutimi,1,9
+planks,1891,Christiania,1,10
+planks,1891,Pentecost,1,11
+planks,1892,Libau,1,1
+planks,1892,Danzig,1,2
+planks,1893,Trieste,4,1
+planks,1893,New York,2,2
+planks,1893,Cartagena,1,3
+planks,1893,Stettin,1,4
+planks,1893,Helsingfors,1,5
+planks,1893,Kristinestad,1,6
+planks,1893,Quebec,1,7
+planks,1893,Fiume,1,8
+planks,1895,Trieste,2,1
+planks,1895,Sydney,1,2
+planks,1895,Pitea and Munksund,1,3
+planks,1895,Quebec,1,4
+planks,1895,Memel,1,5
+planks,1895,Husbyvik,1,6
+planks,1895,Christiania,1,7
+planks,1897,Christiania,1,1
+planks,1899,Fiume,2,1
+planks,1899,Trieste,2,2
+planks,1899,Danzig,1,3
+planks,1899,New York,1,4
+planks,1899,Haparanda,1,5
+planks,1899,Westervik,1,6
+pit props,1875,Gothenburg,4,1
+pit props,1875,Bjorneborg,3,2
+pit props,1875,Drammen,3,3
+pit props,1875,Laurvig,3,4
+pit props,1875,Christiansand,3,5
+pit props,1875,Nyvik,3,6
+pit props,1875,Skien,2,7
+pit props,1875,Uddevalla,2,8
+pit props,1875,Sundswall,2,9
+pit props,1875,Porsgrund,2,10
+pit props,1875,Lulea,1,11
+pit props,1875,Stockholm,1,12
+pit props,1875,Vegesack,1,13
+pit props,1875,Nedercalix,1,14
+pit props,1875,Brevig,1,15
+pit props,1875,Christiania,1,16
+pit props,1875,Arendal,1,17
+pit props,1875,Calmar,1,18
+pit props,1875,Oscarshamn,1,19
+pit props,1875,Constantinople,1,20
+pit props,1889,Tonsberg,4,1
+pit props,1889,Moss,2,2
+pit props,1889,Laurvig,2,3
+pit props,1889,Drammen,2,4
+pit props,1889,Gothenburg,2,5
+pit props,1889,Holmestrand,1,6
+pit props,1889,Fredriksstad,1,7
+pit props,1889,Aasgaardstrand,1,8
+pit props,1889,Uddevalla,1,9
+pit props,1889,Christiansand,1,10
+pit props,1889,Christiania,1,11
+pit props,1889,Falkenberg,1,12
+pit props,1889,Sandefjord,1,13
+pit props,1889,Windau,1,14
+pit props,1889,Porsgrund,1,15
+pit props,1889,Carlskrona,1,16
+pit props,1891,Halmstad,8,1
+pit props,1891,Skien,5,2
+pit props,1891,Gothenburg,4,3
+pit props,1891,Oscarshamn,4,4
+pit props,1891,Windau,4,5
+pit props,1891,Christiania,3,6
+pit props,1891,Falkenberg,3,7
+pit props,1891,Arendal,3,8
+pit props,1891,Langesund,2,9
+pit props,1891,Drammen,2,10
+pit props,1891,Risoer,2,11
+pit props,1891,Riga,2,12
+pit props,1891,Warberg,2,13
+pit props,1891,Bayonne,1,14
+pit props,1891,Bergqvara,1,15
+pit props,1891,Bjorneborg,1,16
+pit props,1891,Chri,1,17
+pit props,1891,Moss,1,18
+pit props,1891,Pernau,1,19
+pit props,1891,Brevig,1,20
+pit props,1892,Fredrikshald,2,1
+pit props,1892,Risoer,2,2
+pit props,1892,Windau,1,3
+pit props,1892,Christiania,1,4
+pit props,1892,Stettin,1,5
+pit props,1892,Falkenberg,1,6
+pit props,1892,Skien,1,7
+pit props,1893,Halmstad,8,1
+pit props,1893,Gothenburg,3,2
+pit props,1893,Fredrikshald,3,3
+pit props,1893,Bordeaux,3,4
+pit props,1893,Oscarshamn,2,5
+pit props,1893,Konigsberg,2,6
+pit props,1893,Oscarsham,1,7
+pit props,1893,Calmar,1,8
+pit props,1893,Sandefjord,1,9
+pit props,1893,Moss,1,10
+pit props,1893,Bergqvara,1,11
+pit props,1893,Carlscrona,1,12
+pit props,1893,Tormo,1,13
+pit props,1893,Falkenberg,1,14
+pit props,1893,Windau,1,15
+pit props,1893,Hennebont,1,16
+pit props,1893,"St. John, N.B.",1,17
+pit props,1895,Gothenburg,3,1
+pit props,1895,Fredrikshald,1,2
+pit props,1895,Torngberg,1,3
+pit props,1895,Figeholm,1,4
+pit props,1895,Westervik,1,5
+pit props,1895,Arendal,1,6
+pit props,1895,Hudikswall,1,7
+pit props,1897,Gothenburg,2,1
+pit props,1897,Bayonne,1,2
+pit props,1897,Risoer,1,3
+pit props,1897,Hennebont,1,4
+pit props,1897,Porsgrund,1,5
+pit props,1897,Risor,1,6
+pit props,1897,Arendal,1,7
+pit props,1897,Halmstad,1,8
+pit props,1897,Fredrikshald,1,9
+pit props,1897,Uddevalla,1,10
+pit props,1899,Gothenburg,13,1
+pit props,1899,Risoer,2,2
+pit props,1899,Skien,2,3
+pit props,1899,Pauillac,1,4
+pit props,1899,Stettin,1,5
+pit props,1899,Riga,1,6
+pit props,1899,Oscarhamn,1,7
+pit props,1899,Brevig,1,8
+pit props,1899,Gråker,1,9
+pit props,1899,Tonsberg,1,10
+pit props,1899,Porsgrund,1,11
+pit props,1899,Soderhamn,1,12
+pit props,1899,Gefle,1,13
+pit props,1899,Ludvig,1,14
+scantlings,1874,Wasa,1,1
+scantlings,1875,Richibucto,3,1
+scantlings,1875,Quebec,2,2
+scantlings,1875,Mobile,1,3
+scantlings,1875,"St. John, N.B.",1,4
+scantlings,1880,Memel,1,1
+scantlings,1881,Christiania,8,1
+scantlings,1881,"St. John, N.B.",5,2
+scantlings,1881,Dantzic,3,3
+scantlings,1881,Dram,2,4
+scantlings,1881,Drammen,2,5
+scantlings,1881,Arendal,1,6
+scantlings,1881,Fredrikstadt,1,7
+scantlings,1881,Frederikstad,1,8
+scantlings,1881,Fredrikstad,1,9
+scantlings,1881,Miramichi,1,10
+scantlings,1881,Ruetouche,1,11
+scantlings,1881,Shediac,1,12
+scantlings,1881,Danzig,1,13
+scantlings,1881,St. John's,1,14
+scantlings,1881,St. John N.B.,1,15
+scantlings,1883,Christiania,4,1
+scantlings,1883,"St. John, N.B.",4,2
+scantlings,1883,Drammen,2,3
+scantlings,1883,Laurvig,2,4
+scantlings,1883,Arendal,1,5
+scantlings,1883,Fredrikstadt,1,6
+scantlings,1883,Danzig,1,7
+scantlings,1883,Abo,1,8
+scantlings,1883,Dantzig,1,9
+scantlings,1883,Richibucto,1,10
+scantlings,1883,Musquash,1,11
+scantlings,1883,"West Bay, N.S.",1,12
+scantlings,1883,Shediac,1,13
+scantlings,1883,Buctouche,1,14
+scantlings,1883,Miramichi,1,15
+scantlings,1883,Campbeltown,1,16
+scantlings,1883,Pugwash,1,17
+scantlings,1884,Christiania,2,1
+scantlings,1884,"St. John, N.B.",1,2
+scantlings,1885,Christiania,8,1
+scantlings,1885,Danzig,4,2
+scantlings,1885,"Parrsboro', N.S.",1,3
+scantlings,1885,Drammen,1,4
+scantlings,1885,Baltimore,1,5
+scantlings,1885,Drontheim,1,6
+scantlings,1885,Skelleftea,1,7
+scantlings,1886,Campbeltown,1,1
+scantlings,1886,St. John,1,2
+scantlings,1887,Christiania,6,1
+scantlings,1887,Danzig,3,2
+scantlings,1887,Arendal,3,3
+scantlings,1887,Fredrikstad,2,4
+scantlings,1887,Quebec,1,5
+scantlings,1887,Montreal,1,6
+scantlings,1887,Gothenburg,1,7
+scantlings,1887,Drammen,1,8
+scantlings,1887,Abo,1,9
+scantlings,1887,"St. John, N.B.",1,10
+scantlings,1887,St. John,1,11
+scantlings,1887,Wyborg,1,12
+scantlings,1889,Christiania,9,1
+scantlings,1889,Danzig,2,2
+scantlings,1889,Buctouche,2,3
+scantlings,1889,"St. John, N.B.",2,4
+scantlings,1889,Helsingfors,2,5
+scantlings,1889,Laurvig,1,6
+scantlings,1889,Fredrikstad,1,7
+scantlings,1889,"Bathurst, Gulf of St. Lawrence",1,8
+scantlings,1889,"Newcastle, N.B.",1,9
+scantlings,1889,Bay Verte,1,10
+scantlings,1889,Porsgrund,1,11
+scantlings,1889,Konigsberg,1,12
+scantlings,1889,Stocka and Skelleftea,1,13
+scantlings,1889,Oscarshamn,1,14
+scantlings,1889,Drammen,1,15
+scantlings,1889,"Shediac, N.B.",1,16
+scantlings,1889,Norrkoping,1,17
+scantlings,1890,Drammen,1,1
+scantlings,1891,Rangoon,5,1
+scantlings,1891,Christiania,4,2
+scantlings,1891,Fredrikstad,3,3
+scantlings,1891,Abo,3,4
+scantlings,1891,Drammen,2,5
+scantlings,1891,Leghorn,1,6
+scantlings,1891,"Chatham, N.B.",1,7
+scantlings,1891,Danzig,1,8
+scantlings,1891,Miramichi,1,9
+scantlings,1892,Oscarshamn,1,1
+scantlings,1892,Pensacola,1,2
+scantlings,1892,Abo,1,3
+scantlings,1893,Christiania,2,1
+scantlings,1893,Helsingfors,2,2
+scantlings,1893,Fredrikstad,1,3
+scantlings,1893,Danzig,1,4
+scantlings,1893,Quebec,1,5
+scantlings,1893,Drontheim,1,6
+scantlings,1895,Uleaborg,2,1
+scantlings,1895,"Parrsboro', N.S.",1,2
+scantlings,1896,Helsingfors,1,1
+scantlings,1897,Helsingfors,2,1
+scantlings,1897,Fredrikstadt,1,2
+scantlings,1897,Christiansand,1,3
+scantlings,1897,Fredrikstad,1,4
+scantlings,1897,Abo,1,5
+scantlings,1898,New York,1,1
+scantlings,1899,Christiania,2,1
+scantlings,1899,Riga,2,2
+scantlings,1899,Libau,2,3
+scantlings,1899,Westervik,1,4
+scantlings,1899,Calmar,1,5
+scantlings,1899,Drontheim,1,6
+scantlings,1899,Parrsboro,1,7
+scantlings,1899,Sando,1,8
+scantlings,1899,St. John N.B.,1,9
+scantlings,1899,Drammen,1,10
+scantlings,1899,Cape Tormentine,1,11
+scantlings,1899,Domsjo,1,12
+scantlings,1899,Sund,1,13
+scantlings,1899,Shediac,1,14
+scantlings,1899,Gothenburg,1,15
+scantlings,1899,Rafso,1,16
+oak staves,1874,Memel,3,1
+oak staves,1874,Danzig,2,2
+oak staves,1874,Libau,1,3
+oak staves,1874,Charlestown,1,4
+oak staves,1874,Sundswall,1,5
+oak staves,1874,Savannah,1,6
+oak staves,1875,Amsterdam,1,1
+oak staves,1875,Christiania,1,2
+oak staves,1875,Pillau,1,3
+oak staves,1881,Memel,5,1
+oak staves,1881,Dantzic,3,2
+oak staves,1881,Trieste,3,3
+oak staves,1881,Fiume,2,4
+oak staves,1881,Odessa,1,5
+oak staves,1881,Copenhagen,1,6
+oak staves,1881,Christiania,1,7
+oak staves,1881,Gothenburg,1,8
+oak staves,1881,Konigsberg,1,9
+oak staves,1881,"Odessa, &c.",1,10
+oak staves,1881,Rotterdam,1,11
+oak staves,1881,Venice,1,12
+oak staves,1883,Memel,10,1
+oak staves,1883,Danzig,7,2
+oak staves,1883,Venice,3,3
+oak staves,1883,Trieste,2,4
+oak staves,1883,Bari,2,5
+oak staves,1883,Oscarshamn,1,6
+oak staves,1883,Patras,1,7
+oak staves,1883,Fredriksvaern,1,8
+oak staves,1883,Odessa,1,9
+oak staves,1883,Stettin,1,10
+oak staves,1883,Catania,1,11
+oak staves,1883,Dantzig,1,12
+oak staves,1883,Mobile,1,13
+oak staves,1883,Abo,1,14
+oak staves,1883,Libau,1,15
+oak staves,1884,Odessa,1,1
+oak staves,1884,Venice,1,2
+oak staves,1885,Danzig,7,1
+oak staves,1885,Trieste,7,2
+oak staves,1885,Memel,6,3
+oak staves,1885,Odessa,3,4
+oak staves,1885,Arendal,2,5
+oak staves,1885,Sevastopol,2,6
+oak staves,1885,Mobile,1,7
+oak staves,1885,"West Point, Virginia",1,8
+oak staves,1886,Trieste,1,1
+oak staves,1886,Odessa,1,2
+oak staves,1887,Memel,15,1
+oak staves,1887,Trieste,7,2
+oak staves,1887,Danzig,6,3
+oak staves,1887,Sevastopol,3,4
+oak staves,1887,Odessa,2,5
+oak staves,1887,Rotterdam,1,6
+oak staves,1887,Italy,1,7
+oak staves,1887,Newport News,1,8
+oak staves,1888,New York,1,1
+oak staves,1889,Memel,10,1
+oak staves,1889,Danzig,6,2
+oak staves,1889,Trieste,2,3
+oak staves,1889,New Orleans,2,4
+oak staves,1889,Bordeaux,1,5
+oak staves,1889,Savannah,1,6
+oak staves,1889,Fiume,1,7
+oak staves,1889,Libau,1,8
+oak staves,1889,New York,1,9
+oak staves,1889,Sundswall,1,10
+oak staves,1889,Riga,1,11
+oak staves,1890,Danzig,1,1
+oak staves,1890,Riga,1,2
+oak staves,1891,Memel,6,1
+oak staves,1891,Stettin,2,2
+oak staves,1891,Mobile,1,3
+oak staves,1891,Danzig,1,4
+oak staves,1891,New York,1,5
+oak staves,1891,Trieste,1,6
+oak staves,1892,Memel,2,1
+oak staves,1892,Libau,1,2
+oak staves,1892,Danzig,1,3
+oak staves,1895,Memel,1,1
+oak staves,1896,Memel,3,1
+oak staves,1896,New York,1,2
+oak staves,1897,Libau,1,1
+oak staves,1899,Libau,2,1
+oak staves,1899,Trieste,2,2
+oak staves,1899,Charleston,1,3
+oak staves,1899,Fiume,1,4
+floorings,1879,Drammen,2,1
+floorings,1879,F'stad,2,2
+floorings,1879,F'shald,1,3
+floorings,1881,Gothenburg,4,1
+floorings,1881,Drammen,2,2
+floorings,1881,Porsgrund,1,3
+floorings,1881,Laurvig,1,4
+floorings,1881,Skien,1,5
+floorings,1881,Fredrikstadt,1,6
+floorings,1881,Kragero,1,7
+floorings,1883,Fredrikstadt,4,1
+floorings,1883,Gothenburg,4,2
+floorings,1883,Drammen,2,3
+floorings,1883,Catania,2,4
+floorings,1883,Fredrikstad,1,5
+floorings,1883,Christiania,1,6
+floorings,1883,Skien,1,7
+floorings,1883,Stockholm,1,8
+floorings,1885,Gothenburg,7,1
+floorings,1885,Drammen,6,2
+floorings,1885,Christiania,3,3
+floorings,1885,Swartvik,1,4
+floorings,1885,Sundswall,1,5
+floorings,1885,Christiansand,1,6
+floorings,1887,Drammen,5,1
+floorings,1887,Gothenburg,3,2
+floorings,1887,Fredrikstad,2,3
+floorings,1887,Skien,1,4
+floorings,1887,Stocka,1,5
+floorings,1887,Uddevalla,1,6
+floorings,1887,Soderhamn,1,7
+floorings,1887,Holmsund,1,8
+floorings,1887,Laurvig,1,9
+floorings,1887,Stockholm and Soderhamn,1,10
+floorings,1889,Fredrikstad,9,1
+floorings,1889,Christiania,5,2
+floorings,1889,Drammen,4,3
+floorings,1889,Iggesund,2,4
+floorings,1889,Fredrikshald & Fredrikstad,1,5
+floorings,1889,Skien,1,6
+floorings,1889,Fredikshald,1,7
+floorings,1889,Fredrikstadt,1,8
+floorings,1889,Sundswall,1,9
+floorings,1890,Drammen,1,1
+floorings,1890,Fredrikstad,1,2
+floorings,1891,Fredrikstad,4,1
+floorings,1891,Christiania,4,2
+floorings,1891,Drammen,3,3
+floorings,1891,Iggesund,2,4
+floorings,1891,Porsgrund,1,5
+floorings,1891,Maracaibo,1,6
+floorings,1891,Gothenburg,1,7
+floorings,1891,Skutskar,1,8
+floorings,1893,Fredrikstad,6,1
+floorings,1893,Christiania,1,2
+floorings,1893,Fiume,1,3
+floorings,1893,Helsingfors,1,4
+floorings,1895,Fredrikstad,10,1
+floorings,1895,Dalhousie,2,2
+floorings,1895,Drammen,2,3
+floorings,1895,Helsingfors,1,4
+floorings,1895,Gefle,1,5
+floorings,1895,Iggesund,1,6
+floorings,1896,Fredrikstad,3,1
+floorings,1896,Helsingfors,2,2
+floorings,1897,Fredrikstad,3,1
+floorings,1897,Gothenburg,2,2
+floorings,1897,Brunswick,2,3
+floorings,1897,Danzig,1,4
+floorings,1897,Christiania,1,5
+floorings,1897,Fredrikstadt,1,6
+floorings,1897,Drammen,1,7
+floorings,1897,Helsingfors,1,8
+floorings,1898,Paasacola,2,1
+floorings,1898,Sornas,1,2
+floorings,1899,Fredrikstad,11,1
+floorings,1899,Fredrikstadt,3,2
+floorings,1899,Uddevalla,1,3
+floorings,1899,Drammen,1,4
+floorings,1899,Borga,1,5
+floorings,1899,Christiania,1,6
+floorings,1899,Moser River,1,7
+floorings,1899,Darien,1,8
+floorings,1899,Gothenberg,1,9
+floorings,1899,Riga,1,10
+floorings,1899,Gothenburg,1,11
+floorings,1899,Kopmanholmen,1,12
+floorings,1899,Kramfors,1,13
+pieces,1874,"Belize, etc.",1,1
+pieces,1874,Stockholm,1,2
+pieces,1874,Riga,1,3
+pieces,1874,Pensacola,1,4
+pieces,1875,Cronstadt,1,1
+pieces,1875,Moulmein,1,2
+pieces,1875,Helsingfors,1,3
+pieces,1875,Pensacola,1,4
+pieces,1879,Belize,2,1
+pieces,1880,Nassau,1,1
+pieces,1881,New York,3,1
+pieces,1881,Livingston,2,2
+pieces,1881,Nuevitas,1,3
+pieces,1881,"Belize, &c.",1,4
+pieces,1881,Moulmein,1,5
+pieces,1881,Belize,1,6
+pieces,1881,Marseilles,1,7
+pieces,1881,Gothenburg,1,8
+pieces,1881,Helsingfors,1,9
+pieces,1881,Konigsberg,1,10
+pieces,1882,New York,1,1
+pieces,1883,New York,8,1
+pieces,1883,Nassau,4,2
+pieces,1883,Rotterdam,1,3
+pieces,1883,Santaria,1,4
+pieces,1883,Halifax,1,5
+pieces,1883,Belize,1,6
+pieces,1883,Gefle,1,7
+pieces,1884,New York,2,1
+pieces,1884,Belize,2,2
+pieces,1885,New York,3,1
+pieces,1885,Riga,1,2
+pieces,1885,"Chatham, N.B.",1,3
+pieces,1885,Gothenburg,1,4
+pieces,1885,Fiume,1,5
+pieces,1887,New York,14,1
+pieces,1887,Gothenburg,2,2
+pieces,1887,Baltimore,2,3
+pieces,1887,Trieste,2,4
+pieces,1887,Memel,1,5
+pieces,1887,St. Petersburg,1,6
+pieces,1887,Riga,1,7
+pieces,1887,Quebec,1,8
+pieces,1888,Trieste,1,1
+pieces,1889,New York,4,1
+pieces,1889,Trieste,2,2
+pieces,1889,Mobile,1,3
+pieces,1889,Baltimore,1,4
+pieces,1889,Gothenburg,1,5
+pieces,1890,New York,1,1
+pieces,1891,Philadelphia,3,1
+pieces,1891,New York,2,2
+pieces,1891,Rangoon,2,3
+pieces,1891,Christiania,1,4
+pieces,1891,Tecolutla,1,5
+pieces,1891,Montreal,1,6
+pieces,1892,Belize,1,1
+pieces,1893,Boston,5,1
+pieces,1893,St. Domingo,2,2
+pieces,1893,Belize,2,3
+pieces,1893,Libau,1,4
+pieces,1893,Gothenburg,1,5
+pieces,1893,New York,1,6
+pieces,1893,Kristinestad,1,7
+pieces,1893,Philadelphia,1,8
+pieces,1893,Konigsberg,1,9
+pieces,1893,Mauritzberg,1,10
+pieces,1893,Lulea,1,11
+pieces,1893,Uddevalla,1,12
+pieces,1893,New Orleans,1,13
+pieces,1895,Skutskar,1,1
+pieces,1895,Calmar,1,2
+pieces,1895,Sandarne,1,3
+pieces,1895,Newport News,1,4
+pieces,1895,New York,1,5
+pieces,1896,Helsingfors,1,1
+pieces,1896,Boston,1,2
+pieces,1897,Hommelvik,1,1
+pieces,1897,Boston,1,2
+pieces,1897,Philadelphia,1,3
+pieces,1897,Gothenburg,1,4
+pieces,1897,Trinidad,1,5
+pieces,1897,Havre,1,6
+pieces,1898,Boston,2,1
+pieces,1898,Newort News,1,2
+pieces,1899,Newport News,8,1
+pieces,1899,Boston,7,2
+pieces,1899,Stockholm,3,3
+pieces,1899,New York,3,4
+pieces,1899,Baltimore,2,5
+pieces,1899,Montreal,2,6
+pieces,1899,Wasa,2,7
+pieces,1899,New Orleans,2,8
+pieces,1899,Fredrikstad,2,9
+pieces,1899,"Norfolk, Va.",2,10
+pieces,1899,Norfolk,1,11
+pieces,1899,Libau,1,12
+pieces,1899,St. Petersburg,1,13
+pieces,1899,Riga,1,14
+pieces,1899,Konigsburg,1,15
+pieces,1899,Venice,1,16
+pieces,1899,Kemi,1,17
+pieces,1899,Trieste,1,18
+pieces,1899,Philadelphia,1,19
+pieces,1899,Sydney,1,20

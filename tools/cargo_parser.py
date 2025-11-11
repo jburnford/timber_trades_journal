@@ -101,6 +101,44 @@ class CargoParser:
             'co', 'co.', 'sons', 'brothers', 'bros', 'ltd', 'limited', 'company',
             'son', 'sis', 'jr', 'sr'
         }
+
+        # Patterns to filter out from commodities
+        self.invalid_commodity_patterns = [
+            re.compile(r'@\s+\w+', re.IGNORECASE),  # Ship @ Port patterns
+            re.compile(r'\(.+\)', re.IGNORECASE),   # Parenthetical notes
+            re.compile(r'^\d+$'),                    # Pure numbers
+            re.compile(r'^[&,;\-\.]+$'),             # Pure punctuation
+        ]
+
+        # Merchant name fragments that shouldn't be commodities
+        self.merchant_fragments = {
+            'tagart', 'boysen', 'erlundsen', 'dahl', 'sadler', 'duus', 'brown',
+            'cossery', 'pelly', 'thurn', 'im', 'hall', 'atkinson', 'osbeck',
+            'lindquist', 'frater', 'southern', 'harding', 'johanson', 'marr',
+            'watt', 'love', 'adams', 'carbas', 'farnworth', 'bland', 'mackay',
+            'pierce', 'denniston', 'guy', 'ross', 'harrison', 'sandbach',
+            'nickols', 'colven', 'fowler', 'oppenheimer', 'spicer', 'neck',
+            'arnold', 'jewson', 'palgrave', 'johnston', 'bellas', 'eustace',
+            'mcdonnell', 'calder', 'dixon', 'spaight', 'burt', 'boulton',
+            'poole', 'baltic', 'quebec', 'timber', 'thornham', 'reynoldson',
+            'norton', 'scott', 'tyne', 'steamship', 'nicholson', 'webster',
+            'hughes', 'silverwood', 'hill', 'thomas', 'lowell', 'myles', 'dobree'
+        }
+
+        # Ship name patterns (common ship names that appear as annotations)
+        self.ship_name_patterns = {
+            'primrose', 'christiana', 'gwalia', 'strang', 'atalanta', 'martha',
+            'nachimoff', 'cosmopolitan', 'albion', 'alette', 'passaroeang',
+            'lillie', 'star', 'tenaco', 'mert', 'frey', 'indiana', 'karen',
+            'prussian', 'alfred', 'pardew', 'alexandria', 'viola', 'hanna',
+            'dannebrog', 'gumple', 'oscar', 'orion', 'havet', 'hoppet',
+            'harriet', 'emma', 'talisman', 'friede', 'johanna', 'william',
+            'heinrich', 'chippewa', 'morland', 'mercur', 'ophelia', 'najaden',
+            'emily', 'lowther', 'gustava', 'familie', 'christina', 'sebastian',
+            'cecilia', 'haabets', 'anker', 'tonsberg', 'fosnes', 'amelia',
+            'svea', 'ida', 'try', 'salina', 'flid', 'alpha', 'fortuna'
+        }
+
         self.unit_commodity_fallback = {
             'logs': 'logs',
             'log': 'logs',
@@ -345,6 +383,66 @@ class CargoParser:
             segments.extend(subparts)
         return segments
 
+    def _is_valid_commodity(self, commodity: str) -> bool:
+        """Validate that a commodity string is not a ship/port/merchant annotation."""
+        if not commodity:
+            return False
+
+        lower = commodity.lower().strip()
+
+        # Filter out patterns matching invalid commodity patterns
+        for pattern in self.invalid_commodity_patterns:
+            if pattern.search(lower):
+                return False
+
+        # Filter out "@ port" patterns (ship @ port annotations)
+        if '@' in lower:
+            return False
+
+        # Filter out merchant name fragments appearing standalone
+        if lower in self.merchant_fragments:
+            return False
+
+        # Filter out common ship names appearing standalone
+        if lower in self.ship_name_patterns:
+            return False
+
+        # Filter out parenthetical content
+        if lower.startswith('(') or lower.endswith(')'):
+            return False
+
+        # Filter out very short non-whitelisted items
+        if len(lower) < 3 and lower not in self.commodity_whitelist:
+            return False
+
+        # Filter out merchant initial+lastname patterns
+        # Examples: "j neck", "s dobree", "a thomson", "j t salvesen", "c g graham"
+        # Pattern: 1-3 single letters followed by a capitalized surname
+        # BUT: Preserve unit abbreviations like "t logwood" (tons of logwood)
+        common_unit_abbrevs = {'t', 'c', 's', 'm', 'ft', 'yd', 'lb', 'oz', 'qt', 'pt', 'pk', 'bu'}
+        merchant_initial_pattern = re.compile(r'^[a-z](\s+[a-z]){0,2}\s+[a-z]{3,}$', re.IGNORECASE)
+        if merchant_initial_pattern.match(lower):
+            words = lower.split()
+            if len(words) >= 2:
+                last_word = words[-1]
+                # If last word is a known merchant fragment, it's a merchant name - filter it
+                if last_word in self.merchant_fragments:
+                    return False
+                # If first word is unit abbrev BUT last word is also merchant fragment, still filter
+                # Examples: "t hughes" (T. Hughes merchant) vs "t logwood" (tons of logwood)
+                if words[0] in common_unit_abbrevs:
+                    # Check if second word looks like a merchant surname
+                    # If it's in merchant_fragments, filter it
+                    if last_word in self.merchant_fragments:
+                        return False
+                    # Otherwise keep it as valid unit+commodity
+                    return True
+                # Non-unit initial with long surname: filter as merchant
+                if len(last_word) >= 4:
+                    return False
+
+        return True
+
     def _clean_component(self, text: str) -> Optional[str]:
         if not text:
             return None
@@ -398,6 +496,11 @@ class CargoParser:
             return None
         if cleaned in self.merchant_noise_tokens:
             return None
+
+        # Apply validation before returning
+        if not self._is_valid_commodity(cleaned):
+            return None
+
         return cleaned
 
     def _split_commodity_and_merchant(self, text: str) -> (str, Optional[str]):

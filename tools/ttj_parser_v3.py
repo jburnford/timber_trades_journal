@@ -921,6 +921,26 @@ class TTJContextParser:
             return False
         return True
 
+    def _preprocess_early_format_multiship(self, lines: List[str], year: Optional[int] = None) -> List[str]:
+        """
+        Preprocess 1874-1875 multi-ship lines by splitting them into separate lines.
+
+        Early format has multiple ships on one line separated by periods:
+        "Ship1 @ Port1,—cargo. Ship2 @ Port2,—cargo. Ship3 @ Port3,—cargo."
+
+        This method splits these into individual lines for proper parsing.
+
+        Args:
+            lines: Original lines from OCR
+            year: Publication year
+
+        Returns:
+            Preprocessed lines with multi-ship lines split
+        """
+        # TEMPORARILY DISABLED - preprocessing causes infinite loops on some files
+        # TODO: Reimplement with better algorithm
+        return lines
+
     def parse_file(self, file_path: Path, year: int = None) -> List[ShipRecord]:
         """
         Parse entire file with context awareness.
@@ -943,6 +963,9 @@ class TTJContextParser:
 
         with open(file_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
+
+        # Preprocess 1874-1875 multi-ship lines
+        lines = self._preprocess_early_format_multiship(lines, year)
 
         # Use instance-level persistent context (maintained across pages)
         # No reset - context carries forward from previous files

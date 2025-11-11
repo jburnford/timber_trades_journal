@@ -1,0 +1,249 @@
+{
+  "generated": "2025-11-11T13:37:14.275308",
+  "summary": {
+    "original_database_size": 152984,
+    "final_database_size": 150592,
+    "net_change": -2392,
+    "percent_change": -1.5635622025832767,
+    "affected_dates": 37,
+    "dates_recovered": 0,
+    "dates_improved": 0,
+    "ships_recovered": -37
+  },
+  "ocr_recovery": {
+    "files_processed": 154,
+    "files_total": 160,
+    "records_extracted": 9751,
+    "timeout_files": 6,
+    "unrecovered_files": 4
+  },
+  "data_quality": {
+    "duplicates_removed": 12118,
+    "port_coverage": "99.9%",
+    "date_coverage": "94.0%"
+  },
+  "per_date_results": {
+    "18770707": {
+      "date_str": "July 7, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18850815": {
+      "date_str": "August 15, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18771110": {
+      "date_str": "November 10, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18870827": {
+      "date_str": "August 27, 1887",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18770526": {
+      "date_str": "May 26, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18741212": {
+      "date_str": "December 12, 1874",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18871224": {
+      "date_str": "December 24, 1887",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18750529": {
+      "date_str": "May 29, 1875",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18850502": {
+      "date_str": "May 2, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18850912": {
+      "date_str": "September 12, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18740627": {
+      "date_str": "June 27, 1874",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18811231": {
+      "date_str": "December 31, 1881",
+      "ships_before": 6,
+      "ships_after": 0,
+      "change": -6
+    },
+    "18770721": {
+      "date_str": "July 21, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18850711": {
+      "date_str": "July 11, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18741017": {
+      "date_str": "October 17, 1874",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18851107": {
+      "date_str": "November 7, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18811015": {
+      "date_str": "October 15, 1881",
+      "ships_before": 1,
+      "ships_after": 0,
+      "change": -1
+    },
+    "18811029": {
+      "date_str": "October 29, 1881",
+      "ships_before": 1,
+      "ships_after": 0,
+      "change": -1
+    },
+    "18811112": {
+      "date_str": "November 12, 1881",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18850613": {
+      "date_str": "June 13, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18770929": {
+      "date_str": "September 29, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18751225": {
+      "date_str": "December 25, 1875",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18771222": {
+      "date_str": "December 22, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18851212": {
+      "date_str": "December 12, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18740502": {
+      "date_str": "May 2, 1874",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18770818": {
+      "date_str": "August 18, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18811217": {
+      "date_str": "December 17, 1881",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18750710": {
+      "date_str": "July 10, 1875",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18810108": {
+      "date_str": "January 08, 1881",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18740530": {
+      "date_str": "May 30, 1874",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18810723": {
+      "date_str": "July 23, 1881",
+      "ships_before": 29,
+      "ships_after": 0,
+      "change": -29
+    },
+    "18750612": {
+      "date_str": "June 12, 1875",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18751030": {
+      "date_str": "October 30, 1875",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18770120": {
+      "date_str": "January 20, 1877",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18850627": {
+      "date_str": "June 27, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18851024": {
+      "date_str": "October 24, 1885",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    },
+    "18870702": {
+      "date_str": "July 2, 1887",
+      "ships_before": 0,
+      "ships_after": 0,
+      "change": 0
+    }
+  }
+}

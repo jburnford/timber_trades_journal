@@ -1,0 +1,415 @@
+{
+  "generated": "2025-11-11T13:02:19.763891",
+  "total_pages": 40,
+  "total_dates": 37,
+  "pages_by_date": {
+    "May 2, 1874": [
+      {
+        "filename": "1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "full_path": "ocr_ready/1875/1. Timber Trades Journal Vol. 2 - 1875/1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "error_type": "COPYRIGHT",
+        "year": 1874,
+        "month": 5,
+        "day": 2
+      }
+    ],
+    "October 17, 1874": [
+      {
+        "filename": "13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "full_path": "ocr_ready/1875/1. Timber Trades Journal Vol. 2 - 1875/13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "error_type": "COPYRIGHT",
+        "year": 1874,
+        "month": 10,
+        "day": 17
+      }
+    ],
+    "December 12, 1874": [
+      {
+        "filename": "17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.png",
+        "full_path": "ocr_ready/1875/1. Timber Trades Journal Vol. 2 - 1875/17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.png",
+        "error_type": "COPYRIGHT",
+        "year": 1874,
+        "month": 12,
+        "day": 12
+      }
+    ],
+    "May 30, 1874": [
+      {
+        "filename": "3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "full_path": "ocr_ready/1875/1. Timber Trades Journal Vol. 2 - 1875/3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "error_type": "COPYRIGHT",
+        "year": 1874,
+        "month": 5,
+        "day": 30
+      }
+    ],
+    "June 27, 1874": [
+      {
+        "filename": "5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "full_path": "ocr_ready/1875/1. Timber Trades Journal Vol. 2 - 1875/5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+        "error_type": "COPYRIGHT",
+        "year": 1874,
+        "month": 6,
+        "day": 27
+      }
+    ],
+    "October 30, 1875": [
+      {
+        "filename": "14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001.png",
+        "full_path": "ocr_ready/1875/2. Timber Trades Journal Vol. 3 - 1875/14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1875,
+        "month": 10,
+        "day": 30
+      }
+    ],
+    "December 25, 1875": [
+      {
+        "filename": "18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.png",
+        "full_path": "ocr_ready/1875/2. Timber Trades Journal Vol. 3 - 1875/18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1875,
+        "month": 12,
+        "day": 25
+      }
+    ],
+    "May 29, 1875": [
+      {
+        "filename": "3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003.png",
+        "full_path": "ocr_ready/1875/2. Timber Trades Journal Vol. 3 - 1875/3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1875,
+        "month": 5,
+        "day": 29
+      }
+    ],
+    "June 12, 1875": [
+      {
+        "filename": "4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002.png",
+        "full_path": "ocr_ready/1875/2. Timber Trades Journal Vol. 3 - 1875/4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1875,
+        "month": 6,
+        "day": 12
+      }
+    ],
+    "July 10, 1875": [
+      {
+        "filename": "6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.png",
+        "full_path": "ocr_ready/1875_test/2. Timber Trades Journal Vol. 3 - 1875/6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1875,
+        "month": 7,
+        "day": 10
+      }
+    ],
+    "January 20, 1877": [
+      {
+        "filename": "2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 4 1877/2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 1,
+        "day": 20
+      }
+    ],
+    "September 29, 1877": [
+      {
+        "filename": "12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 9,
+        "day": 29
+      }
+    ],
+    "November 10, 1877": [
+      {
+        "filename": "15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 11,
+        "day": 10
+      }
+    ],
+    "December 22, 1877": [
+      {
+        "filename": "18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 12,
+        "day": 22
+      }
+    ],
+    "May 26, 1877": [
+      {
+        "filename": "3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 5,
+        "day": 26
+      }
+    ],
+    "July 7, 1877": [
+      {
+        "filename": "6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 7,
+        "day": 7
+      }
+    ],
+    "July 21, 1877": [
+      {
+        "filename": "7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 7,
+        "day": 21
+      }
+    ],
+    "August 18, 1877": [
+      {
+        "filename": "9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+        "full_path": "ocr_ready/1877/Timber Trades Journal Vol. 5 1877/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1877,
+        "month": 8,
+        "day": 18
+      }
+    ],
+    "January 08, 1881": [
+      {
+        "filename": "18810108p.21_p002.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18810108p.21_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 1,
+        "day": 8
+      }
+    ],
+    "July 23, 1881": [
+      {
+        "filename": "18810723p.64_p004.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18810723p.64_p004.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 7,
+        "day": 23
+      }
+    ],
+    "October 15, 1881": [
+      {
+        "filename": "18811015p.264_p001.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18811015p.264_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 10,
+        "day": 15
+      }
+    ],
+    "October 29, 1881": [
+      {
+        "filename": "18811029p.295_p003.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18811029p.295_p003.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 10,
+        "day": 29
+      }
+    ],
+    "November 12, 1881": [
+      {
+        "filename": "18811112p.324_p003.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18811112p.324_p003.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 11,
+        "day": 12
+      }
+    ],
+    "December 17, 1881": [
+      {
+        "filename": "18811217p.403_p002.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18811217p.403_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 12,
+        "day": 17
+      }
+    ],
+    "December 31, 1881": [
+      {
+        "filename": "18811231p.433_p001.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18811231p.433_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 12,
+        "day": 31
+      },
+      {
+        "filename": "18811231p.433_p002.png",
+        "full_path": "ocr_ready/1881/Imports - The Timber Trades Journal 1881 Vol. 11/18811231p.433_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1881,
+        "month": 12,
+        "day": 31
+      }
+    ],
+    "May 2, 1885": [
+      {
+        "filename": "18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 1/18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 5,
+        "day": 2
+      }
+    ],
+    "August 15, 1885": [
+      {
+        "filename": "11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 8,
+        "day": 15
+      }
+    ],
+    "September 12, 1885": [
+      {
+        "filename": "15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 9,
+        "day": 12
+      }
+    ],
+    "June 13, 1885": [
+      {
+        "filename": "2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p002.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 6,
+        "day": 13
+      }
+    ],
+    "October 24, 1885": [
+      {
+        "filename": "21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 10,
+        "day": 24
+      }
+    ],
+    "November 7, 1885": [
+      {
+        "filename": "23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 11,
+        "day": 7
+      }
+    ],
+    "December 12, 1885": [
+      {
+        "filename": "27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 12,
+        "day": 12
+      }
+    ],
+    "June 27, 1885": [
+      {
+        "filename": "4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 6,
+        "day": 27
+      },
+      {
+        "filename": "4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 6,
+        "day": 27
+      }
+    ],
+    "July 11, 1885": [
+      {
+        "filename": "6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004.png",
+        "full_path": "ocr_ready/1885/Timber Trades Journal 1885 part 2/6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1885,
+        "month": 7,
+        "day": 11
+      }
+    ],
+    "July 2, 1887": [
+      {
+        "filename": "1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001.png",
+        "full_path": "ocr_ready/1887/Timber Trades Journal 1887 part 2/1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1887,
+        "month": 7,
+        "day": 2
+      }
+    ],
+    "December 24, 1887": [
+      {
+        "filename": "26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887.png",
+        "full_path": "ocr_ready/1887/Timber Trades Journal 1887 part 2/26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1887,
+        "month": 12,
+        "day": 24
+      }
+    ],
+    "August 27, 1887": [
+      {
+        "filename": "9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002.png",
+        "full_path": "ocr_ready/1887/Timber Trades Journal 1887 part 2/9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002.png",
+        "error_type": "MAX_TOKENS",
+        "year": 1887,
+        "month": 8,
+        "day": 27
+      }
+    ]
+  },
+  "pages_by_year": {
+    "1874": 5,
+    "1875": 5,
+    "1877": 8,
+    "1881": 8,
+    "1885": 10,
+    "1887": 3
+  },
+  "summary": {
+    "years_affected": [
+      1874,
+      1875,
+      1877,
+      1881,
+      1885,
+      1887
+    ],
+    "date_range": {
+      "earliest": "18740502",
+      "latest": "18871224"
+    }
+  }
+}

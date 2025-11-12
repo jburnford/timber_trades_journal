@@ -1,0 +1,533 @@
+{
+  "generated": "2025-11-11T13:20:28.117146",
+  "database_path": "/home/jic823/TTJ Forest of Numbers/parsed_output/ttj_shipments_final.csv",
+  "total_ships_in_database": 152984,
+  "affected_dates_count": 37,
+  "ships_on_affected_dates": 37,
+  "dates_with_no_ships": 33,
+  "dates_with_low_ships": 3,
+  "coverage_by_date": {
+    "18740502": {
+      "date_str": "May 2, 1874",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18740530": {
+      "date_str": "May 30, 1874",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18740627": {
+      "date_str": "June 27, 1874",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18741017": {
+      "date_str": "October 17, 1874",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18741212": {
+      "date_str": "December 12, 1874",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18750529": {
+      "date_str": "May 29, 1875",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18750612": {
+      "date_str": "June 12, 1875",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18750710": {
+      "date_str": "July 10, 1875",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18751030": {
+      "date_str": "October 30, 1875",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18751225": {
+      "date_str": "December 25, 1875",
+      "ship_count": 0,
+      "gemini_files": 2,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18770120": {
+      "date_str": "January 20, 1877",
+      "ship_count": 0,
+      "gemini_files": 2,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18770526": {
+      "date_str": "May 26, 1877",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18770707": {
+      "date_str": "July 7, 1877",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18770721": {
+      "date_str": "July 21, 1877",
+      "ship_count": 0,
+      "gemini_files": 5,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18770818": {
+      "date_str": "August 18, 1877",
+      "ship_count": 0,
+      "gemini_files": 5,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18770929": {
+      "date_str": "September 29, 1877",
+      "ship_count": 0,
+      "gemini_files": 5,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18771110": {
+      "date_str": "November 10, 1877",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18771222": {
+      "date_str": "December 22, 1877",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18810108": {
+      "date_str": "January 08, 1881",
+      "ship_count": 0,
+      "gemini_files": 2,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18810723": {
+      "date_str": "July 23, 1881",
+      "ship_count": 29,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "NORMAL",
+      "ships": [
+        {
+          "ship_name": "Miss Hunt",
+          "origin_port": "Fredrikstadt",
+          "destination_port": "CARNARVON",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Charlotte",
+          "origin_port": "Stockholm",
+          "destination_port": "EXETER",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Milford",
+          "origin_port": "Pascagoula",
+          "destination_port": "FALMOUTH",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Huntley",
+          "origin_port": "Fredrikshald",
+          "destination_port": "FAVERSHAM",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Windsor",
+          "origin_port": "St. Brieux",
+          "destination_port": "CARDIFF",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Miss Hunt",
+          "origin_port": "Fredrikstadt",
+          "destination_port": "CARNARVON",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Charlotte",
+          "origin_port": "Stockholm",
+          "destination_port": "EXETER",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Milford",
+          "origin_port": "Pascagoula",
+          "destination_port": "FALMOUTH",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Huntley",
+          "origin_port": "Fredrikshald",
+          "destination_port": "FAVERSHAM",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "St. Petersburg",
+          "origin_port": "Dalhousie, N.B.",
+          "destination_port": "FLEETWOOD",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Felix Brandt",
+          "origin_port": "Gefle",
+          "destination_port": "HULL",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "Wyoming",
+          "origin_port": "New York",
+          "destination_port": "LIVERPOOL",
+          "source_file": "18810730p.82_p001.txt"
+        },
+        {
+          "ship_name": "President",
+          "origin_port": "Quebec",
+          "destination_port": "THE TIMBER TRADES JOURNAL",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Cornforth",
+          "origin_port": "Riga",
+          "destination_port": "LOWESTOFT",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Princess Alexandra",
+          "origin_port": "Cronstadt",
+          "destination_port": "LYNN",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Claribel",
+          "origin_port": "Charlotte Town, P.E.I.",
+          "destination_port": "MARYPORT",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Minerve",
+          "origin_port": "Hennebont",
+          "destination_port": "NEWPORT (MON.)",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Fides",
+          "origin_port": "Riga",
+          "destination_port": "SOUTHAMPTON",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Kelso",
+          "origin_port": "Riga",
+          "destination_port": "SUNDERLAND",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Samuel",
+          "origin_port": "Redon",
+          "destination_port": "SWANSEA",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Carolus",
+          "origin_port": "Quebec",
+          "destination_port": "TYNE",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Emilea",
+          "origin_port": "Gefle",
+          "destination_port": "WISBECH",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Black Head",
+          "origin_port": "Riga",
+          "destination_port": "BELFAST",
+          "source_file": "18810730p.82_p002.txt"
+        },
+        {
+          "ship_name": "Richmond",
+          "origin_port": "Quebec",
+          "destination_port": "DUBLIN",
+          "source_file": "18810730p.82_p003.txt"
+        },
+        {
+          "ship_name": "Apollo",
+          "origin_port": "Riga",
+          "destination_port": "DUNDALK",
+          "source_file": "18810730p.82_p003.txt"
+        },
+        {
+          "ship_name": "Silistria",
+          "origin_port": "Quebec",
+          "destination_port": "DUNDEE",
+          "source_file": "18810730p.82_p003.txt"
+        },
+        {
+          "ship_name": "Meta",
+          "origin_port": "Pictou, N.S.",
+          "destination_port": "THE TIMBER TRADES JOURNAL",
+          "source_file": "18810730p.82_p003.txt"
+        },
+        {
+          "ship_name": "Gorm",
+          "origin_port": "Alfredsham",
+          "destination_port": "GRANGEMOUTH",
+          "source_file": "18810730p.82_p003.txt"
+        },
+        {
+          "ship_name": "Amaranth",
+          "origin_port": "Quebec",
+          "destination_port": "GREENOCK",
+          "source_file": "18810730p.82_p003.txt"
+        }
+      ]
+    },
+    "18811015": {
+      "date_str": "October 15, 1881",
+      "ship_count": 1,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "LOW",
+      "ships": [
+        {
+          "ship_name": "Gazelle",
+          "origin_port": "Bjorneborg",
+          "destination_port": "KING'S LYNN",
+          "source_file": "18811029p.295_p002.txt"
+        }
+      ]
+    },
+    "18811029": {
+      "date_str": "October 29, 1881",
+      "ship_count": 1,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "LOW",
+      "ships": [
+        {
+          "ship_name": "John Clarke",
+          "origin_port": "Gefle",
+          "destination_port": "LYNN",
+          "source_file": "18811112p.324_p002.txt"
+        }
+      ]
+    },
+    "18811112": {
+      "date_str": "November 12, 1881",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18811217": {
+      "date_str": "December 17, 1881",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 0,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18811231": {
+      "date_str": "December 31, 1881",
+      "ship_count": 6,
+      "gemini_files": 2,
+      "polaris_files": 2,
+      "status": "LOW",
+      "ships": [
+        {
+          "ship_name": "Rialto",
+          "origin_port": "New York",
+          "destination_port": "HULL",
+          "source_file": "18810108p.21_p001.txt"
+        },
+        {
+          "ship_name": "Mersey",
+          "origin_port": "Quebec",
+          "destination_port": "LANCASTER",
+          "source_file": "18810108p.21_p001.txt"
+        },
+        {
+          "ship_name": "Patriot",
+          "origin_port": "Riga",
+          "destination_port": "LONDON",
+          "source_file": "18810108p.21_p001.txt"
+        },
+        {
+          "ship_name": "Picciola",
+          "origin_port": "Uddevalla",
+          "destination_port": "MIDDLESBROUGH",
+          "source_file": "18810108p.21_p001.txt"
+        },
+        {
+          "ship_name": "Anna M.",
+          "origin_port": "Bordeaux",
+          "destination_port": "NEWPORT (MON.)",
+          "source_file": "18810108p.21_p001.txt"
+        },
+        {
+          "ship_name": "Ungdums Ven",
+          "origin_port": "Stettin",
+          "destination_port": "SUNDERLAND",
+          "source_file": "18810108p.21_p001.txt"
+        }
+      ]
+    },
+    "18850502": {
+      "date_str": "May 2, 1885",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18850613": {
+      "date_str": "June 13, 1885",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 0,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18850627": {
+      "date_str": "June 27, 1885",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 2,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18850711": {
+      "date_str": "July 11, 1885",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18850815": {
+      "date_str": "August 15, 1885",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18850912": {
+      "date_str": "September 12, 1885",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18851024": {
+      "date_str": "October 24, 1885",
+      "ship_count": 0,
+      "gemini_files": 5,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18851107": {
+      "date_str": "November 7, 1885",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18851212": {
+      "date_str": "December 12, 1885",
+      "ship_count": 0,
+      "gemini_files": 2,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18870702": {
+      "date_str": "July 2, 1887",
+      "ship_count": 0,
+      "gemini_files": 3,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18870827": {
+      "date_str": "August 27, 1887",
+      "ship_count": 0,
+      "gemini_files": 4,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    },
+    "18871224": {
+      "date_str": "December 24, 1887",
+      "ship_count": 0,
+      "gemini_files": 1,
+      "polaris_files": 1,
+      "status": "MISSING",
+      "ships": []
+    }
+  }
+}

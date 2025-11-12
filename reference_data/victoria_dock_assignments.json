@@ -1,0 +1,23 @@
+{
+  "description": "Context-based assignments for standalone VICTORIA DOCK records",
+  "methodology": "Proximity analysis (±5 lines) + origin port heuristics",
+  "total_records": 84,
+  "assignments": {
+    "London (Victoria Dock)": 17,
+    "Hull (Victoria Dock)": 67
+  },
+  "breakdown": {
+    "proximity_to_london_docks": 11,
+    "proximity_to_hull_docks": 5,
+    "origin_heuristic_london": 6,
+    "origin_heuristic_hull": 24,
+    "default_hull": 38
+  },
+  "notes": [
+    "Records near Millwall, Tilbury, Royal Albert, Regent's docks → London",
+    "Records near Alexandra Dock → Hull",
+    "Baltic/Scandinavian origins (Riga, Danzig, Kronstadt, etc.) → Hull",
+    "North American origins (Boston, Halifax, Montreal) → London",
+    "Hull was the larger timber Victoria Dock, used as default"
+  ]
+}

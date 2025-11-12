@@ -1,0 +1,207 @@
+Reading CSV and analyzing character counts...
+
+================================================================================
+CHARACTER COUNT DISTRIBUTION
+================================================================================
+Total records: 152,984
+
+Percentiles:
+  Min:  11
+  25%:  43
+  50%:  57
+  75%:  74
+  90%:  106
+  95%:  145
+  99%:  312
+  Max:  176908
+
+Count by range:
+  0-100        :  135,080 (88.30%)
+  100-200      :   13,953 ( 9.12%)
+  200-300      :    2,277 ( 1.49%)
+  300-400      :      758 ( 0.50%)
+  400-500      :      352 ( 0.23%)
+  500-1000     :      409 ( 0.27%)
+  1000+        :      152 ( 0.10%)
+
+================================================================================
+HIGH CHARACTER COUNT EXAMPLES (>300 chars)
+================================================================================
+
+Found 1,664 records with >300 characters
+
+Top 20 longest raw_line entries:
+
+
+[1] Source: 11. 171-173 - September 15 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt
+    Ship: Diamond
+    Chars: 176908
+    Raw line:
+    >>> Indicators: 1389 dashes (—), 1389 @ symbols
+    >>> Text: Diamond @ Riga,—2,647 pcs. deals, H. Sheraton & Co. Baltic @ Oscarshamn,—6,404 pcs. props, C. Berve. Dania @ Gefle,—5,935 pcs. deals and boards. Awio @ Bjorneborg,—15,861 pcs. deals, battens, and boar...
+    >>> ...17 pcs. pipe staves, James Richardson. Hebe @ Quebec,—113 pcs. oak timber, 18 pcs. birch timber, 163
+
+[2] Source: 11. 171-173 - September 15 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt
+    Ship: Etna
+    Chars: 176045
+    Raw line:
+    >>> Indicators: 1377 dashes (—), 1377 @ symbols
+    >>> Text: Etna @ Riga,—22,999 pcs. deals and deal ends. Melita @ Riga,—11,891 pcs. deals and boards, J. Rhodes & Co. Avalanche @ Quebec,—113 pcs. oak timber, 18 pcs. birch timber, 163 pcs. white pine timber, 3,...
+    >>> ...17 pcs. pipe staves, James Richardson. Hebe @ Quebec,—113 pcs. oak timber, 18 pcs. birch timber, 163
+
+[3] Source: 18990128p.121_p001.txt
+    Ship: Toledo
+    Chars: 15235
+    Raw line:
+    >>> Indicators: 0 dashes (—), 0 @ symbols
+    >>> Text: Toledo (s)-Riga-1,715 deals, 1,000 ends-Wilson & Son ; 5,118 deal ends-Wilson & Son ; 1,000 deal ends-Hull & Barnsley Timber Co. ; 1,000 deal ends-Heaven & Kesterton ; 1,000 ends-Hollis Bros. ; 1,000 ...
+    >>> ...e, Sons & Co. ; 1,000 ends-Wade, Sons & Co. ; 1,000 ends-Wade, Sons & Co. ; -wood-Jas. Appleby & Co.
+
+[4] Source: 9. p. 137-140 - August 21 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.txt
+    Ship: Ontario
+    Chars: 4545
+    Raw line:
+    >>> Indicators: 57 dashes (—), 55 @ symbols
+    >>> Text: Ontario (s) @ Montreal, &c.,—300 std. deals, 15,368 pcs. deals, Order. Valkyrie @ Pitea,—3,178 pcs. timber, 1,237 battens, Sutherland & Co. Prince Edward (s) @ Charlotte Town, P.E.I.,—209 bdls. paling...
+    >>> ...lla @ Three Rivers,—8,112 deals, 1,459 deal ends, 2,800 pcs. staves, Order. Hanna @ Chatham, N. B.,—
+
+[5] Source: 7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt
+    Ship: Familien
+    Chars: 4116
+    Raw line:
+    >>> Indicators: 55 dashes (—), 59 @ symbols
+    >>> Text: Familien @ Helsingfors,—7,587 pcs. deals and boards, R. Wade, Sons, & Co. Magna @ Quebec,—136 pcs. oak, 468 white pine timber, and 3,415 pcs. deals, T. Walker & Co. Tre Venner @ Riga,—4,988 deals and ...
+    >>> ...pers, Order. Dacapo (s) @ Sundswall, 2,745 pcs. square timber and 417 pcs. props, E. S. Jobson & Co.
+
+[6] Source: 13. p. 197-200 - October 16 1875 - Timber Trades Journal Vol. 3 1875_p002.txt
+    Ship: San Jacinto
+    Chars: 3879
+    Raw line:
+    >>> Indicators: 49 dashes (—), 50 @ symbols
+    >>> Text: San Jacinto @ Galveston,—6,835 pcs. pitch pine, Order. Ella M. Watts @ Bath,—2,240 deal ends, 11,699 deals, Order. Martha @ Quebec,—75,343 pcs. pine lumber, Order. Plutus @ Quebec,—54,468 boards, 16,2...
+    >>> ...John, N.B.,—33,986 deals, 6,936 ends, 6,776 boards, 2,129 scantlings, 1,775 palings, Farnworth & Co.
+
+[7] Source: 8. p. 116-119 - August 8 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002.txt
+    Ship: Gem of the Nith
+    Chars: 3155
+    Raw line:
+    >>> Indicators: 45 dashes (—), 43 @ symbols
+    >>> Text: Gem of the Nith @ Cronstadt,—5,263 deals, 2,047 deal ends, Order. Mary @ Swartwick,—19,097 pcs. deals, ends, and scantling, 167 bdls. railings, Order. Thomas Cochran @ Chatham, N.B.,—19,049 pcs. deals...
+    >>> ...ine planks, 79 pcs. sundries, Order. Elida @ Christinestad,—7,790 deals, 300 doz. handspikes, Order.
+
+[8] Source: 8. p. 185-187 - Imports - August 20 1887 - Timber Trades Journal 1887_p003.txt
+    Ship: Homerton
+    Chars: 2814
+    Raw line:
+    >>> Indicators: 1 dashes (—), 0 @ symbols
+    >>> Text: Homerton Bridge.—The bankrupts recently applied for their discharge, and on Tuesday Mr. Registrar Linklater gave judgment. The failure occurred in December, 1885, the liabilities to unsecured creditor...
+    >>> ...he hands of the capitalist, in whose favour they positively in five or six cases signed mortgages in
+
+[9] Source: 15. p. 403-404 - Imports - April 9 1887 - Timber Trades Journal 1887_p002.txt
+    Ship: mentioned
+    Chars: 2734
+    Raw line:
+    >>> Indicators: 1 dashes (—), 0 @ symbols
+    >>> Text: mentioned property, and that he was desirous of settling the whole of it upon trust for the benefit of his wife, himself, and his children, and for the purpose of effectuating that interest was about ...
+    >>> ...e shares therefore passed to the trustee under the bankruptcy, and the application would be granted.
+
+[10] Source: 7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt
+    Ship: Minerva
+    Chars: 2729
+    Raw line:
+    >>> Indicators: 42 dashes (—), 37 @ symbols
+    >>> Text: Order. Minerva @ Quebec,—3,587 deals, 28,211 boards, 19,696 pcs. deals and boards, 88 doz. scantlings, Order. Annie M'Navin @ Richibucto,—10,327 deals, &c., 763 scantlings, Order. Lydia @ Richibucto,—...
+    >>> ... staves, 892 pcs. timber, Order. Kate Melick @ Richibucto,—27,441 deals, &c., Order. palings, Order.
+
+[11] Source: 13. p. 197-200 - October 16 1875 - Timber Trades Journal Vol. 3 1875_p002.txt
+    Ship: Nymphe
+    Chars: 2657
+    Raw line:
+    >>> Indicators: 31 dashes (—), 32 @ symbols
+    >>> Text: Nymphe @ Archangel,—10,544 deals, &c., Order. Clara @ Cocagne, N.B.,—10,358 deals, 1,000 palings, J. Malcolm. Abrasia @ Pugwash, N.S.,—6,821 deals, &c., 1,496 ends, Order. M. E. Downer @ Bangor, U.S.,...
+    >>> ...John, N.B.,—33,986 deals, 6,936 ends, 6,776 boards, 2,129 scantlings, 1,775 palings, Farnworth & Co.
+
+[12] Source: 18930729p.3_p002.txt
+    Ship: ONE of the most interesting exhibits on the
+    Chars: 2652
+    Raw line:
+    >>> Indicators: 0 dashes (—), 0 @ symbols
+    >>> Text: ONE of the most interesting exhibits on the show-ground at Aberdeen recently was to be found on Stand No. 50. There Messrs. Reid & Leys had a new oil engine brought out by Messrs. Crossley Brothers, L...
+    >>> ...nts; and, alike in design and workmanship, they more than maintained their previous wide reputation.
+
+[13] Source: 10. 153-157 - September 1 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt
+    Ship: Timour
+    Chars: 2629
+    Raw line:
+    >>> Indicators: 33 dashes (—), 33 @ symbols
+    >>> Text: Timour @ Quebec,—2,340 deals, 8,853 pcs. staves, 1,020 pcs. timber, &c., Order. John Trahey @ Tidnish, N.S.,—40,392 deals, &c., Order. Sleipner @ Gothenburg,—1,689 bdls. laths, 4,709 pcs. pitwood, 4,5...
+    >>> ...r. Willie Reed @ Bath,—3,141 deal ends, 25,795 deals, &c., 2,383 boards, 81,210 palings, Bland & Co.
+
+[14] Source: 21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p001.txt
+    Ship: Newcastle
+    Chars: 2503
+    Raw line:
+    >>> Indicators: 0 dashes (—), 0 @ symbols
+    >>> Text: Newcastle-on-Tyne, 143 pcs. oak, 150 do. birch, 801 do. white pine, 9,070 pine deals, 1,030 do. ends, J. Burstall & Co. ; Hovding, London, 1,181 pcs. pine deals, J. Burstall & Co. ; Maria, Grangemouth...
+    >>> ...ngs, 1,076 1 in. boards, 19 do. ends, 522 3 in. deals, 52 do. ends, 1,388 2 in. planks, 57 do. ends.
+
+[15] Source: 18810205.p.88.txt
+    Ship: Twelve months ago prices for
+    Chars: 2496
+    Raw line:
+    >>> Indicators: 0 dashes (—), 0 @ symbols
+    >>> Text: Twelve months ago prices for pit-props and mining timber stood very high, compared with the low rates ruling during the first nine months of 1879. Shippers abroad, thinking that prices would still fur...
+    >>> ... the heavier dimensions of wood with a good diameter at the top, and upwards, being most in request.
+
+[16] Source: 14. 217-220 - October 27 1877 - Imports of Timbers, &c. - Timber Trades Journal Vol. 5 1877_p003.txt
+    Ship: Enterprise
+    Chars: 2441
+    Raw line:
+    >>> Indicators: 49 dashes (—), 54 @ symbols
+    >>> Text: Enterprise @ New Ross,—50 tons timber, Order. Alert @ Bridg-water,—58 loads elm, Treforest & Co. Emma Marie @ Legue,—96 tons pitwood, Order. Lynet @ Miramichi,—timber, Alexanders & Co. Hestia @ Skonvi...
+    >>> ...ns pitwood, Order. Orpheline @ Landerneau,—145 tons pitwood, Order. Ivo @ Bordeaux,—pitwood, Jessen.
+
+[17] Source: 10. 153-157 - September 1 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt
+    Ship: Ohio
+    Chars: 2334
+    Raw line:
+    >>> Indicators: 35 dashes (—), 34 @ symbols
+    >>> Text: Ohio @ Cronstadt,—5,441 pcs. deals and ends, J. Rhodes & Co. Ojo @ Bergqvara,—2,977 pcs. pit props, E. S. Jobson & Co. Gloria @ Stettin,—181 pcs. hewn oak, and 67 pcs. hewn fir, May & Hassell. Familie...
+    >>> ...Diana @ Bordeaux,—12,830 pcs. pit props, E. S. Jobson & Co. Marmion (s) Riga,—9,500 sleepers, Order.
+
+[18] Source: 10. 153-157 - September 1 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt
+    Ship: Robert and Charlotte
+    Chars: 2286
+    Raw line:
+    >>> Indicators: 37 dashes (—), 34 @ symbols
+    >>> Text: Robert and Charlotte @ Porsgrund,—100 spars, 5 pcs. oars, Grimsby Ice Co. Admiraten @ Wyburg,—13,926 deals and battens, Marshall & Atkinson. Skogman @ Sundswall,—21,868 deals and battens, Order. Ringd...
+    >>> ...otka,—31,088 deals and boards, 64 loads deal ends, Price & Co. Diogenes @ Helsingfors,—11,870 deals,
+
+[19] Source: 14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p002.txt
+    Ship: E. S. Mitchell
+    Chars: 2273
+    Raw line:
+    >>> Indicators: 30 dashes (—), 36 @ symbols
+    >>> Text: E. S. Mitchell @ St. John, 19,145 &c., Vaughan & Co. Diniselaw @ St. John, 20,841 deals, 1,111 boards, 2,334 ends, Guy & Co. Melbourne @ St. John, 27,376 palings, 1,997 scantlings, Farnworth & Co. Pre...
+    >>> ...578 boards, Farnworth & Co. St. John, N.B.,—83,412 deals, 3,499 ends, 5,000 palings, Farnworth & Co.
+
+[20] Source: 14. p. 172-174 - Imports - September 5 1885 - Timber Trades Journal 1885_p001.txt
+    Ship: Channel.
+    Chars: 2270
+    Raw line:
+    >>> Indicators: 2 dashes (—), 0 @ symbols
+    >>> Text: Channel. QUEBEC.—Aug. 14th, Maude, South Shields, 85 pcs. oak, 111 do. elm, 39 do. ash, 81 do. birch, 97 do. walnut, 36 do. whitewood, 400 square pine, 1,000 pine deals, 700 do. ends, J. S. Murphy, & ...
+    >>> ...9 pcs. pine deals, 200 do. ends, 7,473 do. spruce deals, 4,118 spruce ends, Bryant, Powis, & Bryant.
+
+================================================================================
+PATTERN ANALYSIS
+================================================================================
+
+Average indicators per high-count line:
+  Dashes (—):  6.08
+  At symbols (@): 4.75
+  Commas (,):  33.24
+
+Estimated ships per high-count line:
+  Based on @ symbols: 4.75 potential ships per line
+  Total potential missed ships: 6243

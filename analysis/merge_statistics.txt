@@ -1,0 +1,17 @@
+================================================================================
+MERGE AND DEDUPLICATION STATISTICS
+================================================================================
+
+Total extracted ships                         :     14,754
+Duplicates vs original_extracted_ship         :      1,078
+  - Exact name matches                        :        995
+  - Fuzzy matches (>85% similar)              :         83
+Internal duplicates (within extractions)      :      5,987
+Already in main dataset                       :         18
+Total duplicates removed                      :      7,083
+Clean ships added to dataset                  :      7,671
+Original main dataset size                    :    152,984
+Final merged dataset size                     :    160,655
+Net increase                                  :      7,671
+
+================================================================================

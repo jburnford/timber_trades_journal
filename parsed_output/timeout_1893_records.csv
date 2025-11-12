@@ -1,0 +1,871 @@
+source_file,line_number,ship_name,origin_port,destination_port,cargo,merchant,arrival_day,arrival_month,arrival_year,publication_day,publication_month,publication_year,is_steamship,raw_line
+18930218p.303.txt,79,Urania,Port Blakeley,BARROW,40 lds. sawn fir,Master,9,2,1893,18,2,1893,False,Feb. 9 Urania-Port Blakeley-40 lds. sawn fir-Master
+18930218p.303.txt,81,Wells City,New York,BRISTOL,100 lancewood spars,T. Williams,13,2,1893,18,2,1893,True,Feb. 13 Wells City -New York-100 lancewood spars-T. Williams
+18930218p.303.txt,83,Boucan,Bayonne,CARDIFF,"1,100 lds. pitwood",A. Capelle,7,2,1893,18,2,1893,False,"Feb. 7 Boucan-Bayonne-1,100 lds. pitwood-A. Capelle"
+18930218p.303.txt,84,Baron Hambro,Bordeaux,CARDIFF,700 lds. pitwood,"Powley, Thomas, & Co.",8,2,1893,18,2,1893,False,"Feb. 8 Baron Hambro-Bordeaux-700 lds. pitwood-Powley, Thomas, & Co."
+18930218p.303.txt,85,Theophile Marie,Bordeaux,CARDIFF,700 lds. pitwood,"Watts, Ward, & Co.",9,2,1893,18,2,1893,False,"Feb. 9 Theophile Marie-Bordeaux-700 lds. pitwood-Watts, Ward, & Co."
+18930218p.303.txt,86,James Wishart,Bordeaux,CARDIFF,"1,450 lds. pitwood","Watts, Ward, & Co.",13,2,1893,18,2,1893,False,"Feb. 13 James Wishart-Bordeaux-1,450 lds. pitwood-Watts, Ward, & Co."
+18930218p.303.txt,88,Grimsby,Bordeaux,CARDIFF,700 lds. pitwood,L. Gueret,15,2,1893,18,2,1893,False,Feb. 15 Grimsby-Bordeaux-700 lds. pitwood-L. Gueret
+18930218p.303.txt,90,Ingrid,Brevig,HARTLEPOOL (WEST),"1,198 pcs. hewn fir, 1,329 fir props",W. J. Watson & Co.,7,2,1893,18,2,1893,False,"Feb. 7 Ingrid-Brevig-1,198 pcs. hewn fir, 1,329 fir props-W. J. Watson & Co."
+18930218p.303.txt,93,Derwent,Brevig,GRIMSBY,"4 spars, 60 fir oars",Grimsby Ice Co.,7,2,1893,18,2,1893,False,"Feb. 7 Derwent-Brevig-4 spars, 60 fir oars-Grimsby Ice Co."
+18930218p.303.txt,94,Adolf,Gothenburg,GRIMSBY,18 lds. fir props,"C. Nielsen & Son; 40,413 fir props-J. W. Baird & Co.; 4,300 fir props-H. Hammond & Co.; 12,456 fir sleepers-W. Pearson & Co.; 1,552 fir props, 643 fir sleepers-G. Pyman & Co.; 1,000 fir sleepers-J. W.",13,2,1893,18,2,1893,True,"Feb. 13 Adolf -Gothenburg-18 lds. fir props-C. Nielsen & Son; 40,413 fir props-J. W. Baird & Co.; 4,300 fir props-H. Hammond & Co.; 12,456 fir sleepers-W. Pearson & Co.; 1,552 fir props, 643 fir sleepers-G. Pyman & Co.; 1,000 fir sleepers-J. W. Watson & Co."
+18930218p.303.txt,96,Urania,Helsingborg,HULL,862 birch squares,T. W. Allen,9,2,1893,18,2,1893,True,Feb. 9 Urania -Helsingborg - 862 birch squares-T. W. Allen
+18930218p.303.txt,97,Juno,Drontheim,HULL,"7,956 bdls. boards, 4,486 bdls. and 33,000 staves",Wilson & Co.,13,2,1893,18,2,1893,True,"Feb. 13 Juno -Drontheim-7,956 bdls. boards, 4,486 bdls. and 33,000 staves-Wilson & Co."
+18930218p.303.txt,100,Cashmere,Puget Sound,LIVERPOOL,"3,747 pcs. pine lumber","Taylor, Sons, & Co.",3,2,1893,18,2,1893,True,"Feb. 3 Cashmere -Puget Sound-3,747 pcs. pine lumber-Taylor, Sons, & Co."
+18930218p.303.txt,101,Dictator,Apalachicola,LIVERPOOL,"896 pcs. sawn pitch pine, 54 pitch pine deals","D. Roberts & Son; 1,200 staves-E. Chaloner & Co.",9,2,1893,18,2,1893,False,"Feb. 9 Dictator-Apalachicola-896 pcs. sawn pitch pine, 54 pitch pine deals-D. Roberts & Son; 1,200 staves-E. Chaloner & Co."
+18930218p.303.txt,103,Britannic,New York,LIVERPOOL,"5,300 pcs. lumber","Whiteside, Johns, & Co.; 432 lancewood spars-B. Hall & Co.; 1,250 hhd. staves, 259 lancewood spars, 500 bdls. shooks-Order",10,2,1893,18,2,1893,True,"Feb. 10 Britannic -New York-5,300 pcs. lumber-Whiteside, Johns, & Co.; 432 lancewood spars-B. Hall & Co.; 1,250 hhd. staves, 259 lancewood spars, 500 bdls. shooks-Order"
+18930218p.303.txt,104,Philadelphian,Boston,LIVERPOOL,"6,400 staves",Farnworth & Jardine.,11,2,1893,18,2,1893,True,"Feb. 11 Philadelphian -Boston-6,400 staves-Farnworth & Jardine."
+18930218p.303.txt,108,Walter Thomas,Odessa,MILLWALL DOCKS,121 teak logs,Order,6,2,1893,18,2,1893,True,Feb. 6 Walter Thomas -Odessa-121 teak logs-Order
+18930218p.303.txt,110,Mohawk,New York,TILBURY DOCKS,63 crotches mahogany,"C. Leary & Co.; 78 pcs cedar, 175 pcs. lumber-Order",10,2,1893,18,2,1893,True,"Feb. 10 Mohawk -New York-63 crotches mahogany-C. Leary & Co.; 78 pcs cedar, 175 pcs. lumber-Order"
+18930218p.303.txt,112,Leon,Cabarete,WEST INDIA DOCKS,"623 logs, 43 log ends, 287 curls mahogany",M. Ventura,13,2,1893,18,2,1893,False,"Feb. 13 Leon-Cabarete-623 logs, 43 log ends, 287 curls mahogany-M. Ventura"
+18930218p.303.txt,115,Feliciana,Norfolk,VICTORIA AND ALBERT DOCKS,"2,189 walnut boards",Order,13,2,1893,18,2,1893,True,"Feb. 13 Feliciana -Norfolk-2,189 walnut boards-Order"
+18930218p.303.txt,118,Govino,Baltimore,HAVRE,432 pcs. bois,,8,2,1893,18,2,1893,True,Feb. 8 Govino -Baltimore-432 pcs. bois
+18930218p.303.txt,132,Nessmore,Boston,VICTORIA AND ALBERT DOCKS,"329 bdls. poplar boards, 1,482 pcs lumber",Order,10,2,1893,18,2,1893,True,"Feb. 10 Nessmore -Boston-329 bdls. poplar boards, 1,482 pcs lumber-Order"
+18930218p.303.txt,133,Feliciana,Norfolk,VICTORIA AND ALBERT DOCKS,28 logs timber,"Price & Pierce; 70 scantlings, 244 pcs lumber-W. Mallinson; 543 pcs lumber-Browning & Co.",13,2,1893,18,2,1893,True,"Feb. 13 Feliciana -Norfolk-28 logs timber-Price & Pierce; 70 scantlings, 244 pcs lumber-W. Mallinson; 543 pcs lumber-Browning & Co."
+18930218p.303.txt,135,Gleneagles,Singapore,WEST INDIA DOCKS,"41 logs, 13,516 pcs., 176 bdls. timber",Order,13,2,1893,18,2,1893,True,"Feb. 13 Gleneagles -Singapore-41 logs, 13,516 pcs., 176 bdls. timber-Order"
+18930218p.303.txt,137,Hoffnung,Darien,OTHER DOCKS AND WHARVES,"388 pcs. timber, 71 deals",Order,10,2,1893,18,2,1893,False,"Feb. 10 Hoffnung-Darien-388 pcs. timber, 71 deals-Order"
+18930218p.303.txt,139,Marie,Blaye,LLANELLY,138 lds. pitwood,Nevill,10,2,1893,18,2,1893,False,Feb. 10 Marie-Blaye-138 lds. pitwood-Nevill
+18930218p.303.txt,140,Jeune France,Redon,LLANELLY,172 lds. pitwood,Jones,11,2,1893,18,2,1893,False,Feb. 11 Jeune France-Redon-172 lds. pitwood-Jones
+18930218p.303.txt,142,Ingrid,Brevig,MIDDLESBROUGH,"1,198 pcs. hewn fir, 1,329 fir props",W. J. Watson & Co.,7,2,1893,18,2,1893,False,"Feb. 7 Ingrid-Brevig-1,198 pcs. hewn fir, 1,329 fir props-W. J. Watson & Co."
+18930218p.303.txt,145,Fornjot,Risoer,NEWPORT,450 lds. pit props,Jones,7,2,1893,18,2,1893,False,Feb. 7 Fornjot-Risoer-450 lds. pit props-Jones
+18930218p.303.txt,152,Talma,l'Orient,NEWPORT,260 lds. pitwood,Watts,8,2,1893,18,2,1893,False,Feb. 8 Talma-l'Orient-260 lds. pitwood-Watts
+18930218p.303.txt,154,Normand,Villagarcia,NEWPORT,"1,300 lds. pitwood","Watts, Ward, & Co.",9,2,1893,18,2,1893,False,"Feb. 9 Normand-Villagarcia-1,300 lds. pitwood-Watts, Ward, & Co."
+18930218p.303.txt,159,Garonne,Bordeaux,NEWPORT,900 lds. pitwood,Simkin,13,2,1893,18,2,1893,False,Feb. 13 Garonne-Bordeaux-900 lds. pitwood-Simkin
+18930218p.303.txt,165,Astrea,Christiansand,ROCHESTER,356 lds. sawn wood unrated,C. Bessent & Co.,8,2,1893,18,2,1893,False,Feb. 8 Astrea-Christiansand-356 lds. sawn wood unrated-C. Bessent & Co.
+18930218p.303.txt,167,Orinoco,Jamaica,SOUTHAMPTON,253 pcs. satinwood,J. K. Linstead,31,1,1893,18,2,1893,False,Jan. 31 Orinoco-Jamaica-253 pcs. satinwood-J. K. Linstead
+18930218p.303.txt,168,Frigga,Darien,SOUTHAMPTON,"1,854 pcs. sawn fir","Tagart, Morgan, & Coles",13,2,1893,18,2,1893,False,"Feb. 13 Frigga-Darien-1,854 pcs. sawn fir-Tagart, Morgan, & Coles"
+18930218p.303.txt,170,Anna,Brevig,SUNDERLAND,"213 lds. hewn fir mining timber, 12 lds. pit props",Rayner & Moller,8,2,1893,18,2,1893,False,"Feb. 8 Anna-Brevig-213 lds. hewn fir mining timber, 12 lds. pit props-Rayner & Moller"
+18930218p.303.txt,172,Louise Helen,Bordeaux,SWANSEA,70 lds. pitwood,J. Jones & Co.,7,2,1893,18,2,1893,False,Feb. 7 Louise Helen-Bordeaux-70 lds. pitwood-J. Jones & Co.
+18930218p.303.txt,173,Adrien,Vannes,SWANSEA,120 lds. pitwood,Newport Pitwood Co.,8,2,1893,18,2,1893,False,Feb. 8 Adrien-Vannes-120 lds. pitwood-Newport Pitwood Co.
+18930218p.303.txt,175,Alsace,Bordeaux,SWANSEA,80 lds. pitwood,G. Taylor,9,2,1893,18,2,1893,False,Feb. 9 Alsace-Bordeaux-80 lds. pitwood-G. Taylor
+18930218p.303.txt,176,Consolation,Bordeaux,SWANSEA,90 lds. pitwood,Main Coal Co.,10,2,1893,18,2,1893,False,Feb. 10 Consolation-Bordeaux-90 lds. pitwood-Main Coal Co.
+18930218p.303.txt,177,Jeune Emelie,Bordeaux,SWANSEA,124 lds. pitwood,F. E. Vivian,11,2,1893,18,2,1893,False,Feb. 11 Jeune Emelie-Bordeaux-124 lds. pitwood-F. E. Vivian
+18930218p.303.txt,183,Titania,Kragero,TYNE,"23,039 props",Order,1,2,1893,18,2,1893,False,"Feb. 1 Titania-Kragero-23,039 props-Order"
+18930218p.303.txt,184,Clara,Arendal,TYNE,"18,348 props",Order,4,2,1893,18,2,1893,False,"Feb. 4 Clara-Arendal-18,348 props-Order"
+18930225p.323_p001.txt,127,Annie,Bayonne,BRISTOL,300 lds. pitwood,Bedminster Coal Co.,18,2,1893,25,2,1893,True,Feb. 18 Annie -Bayonne-300 lds. pitwood-Bedminster Coal Co.
+18930225p.323_p001.txt,130,Ely,Bordeaux,CARDIFF,700 lds. pitwood,Hooper,15,2,1893,25,2,1893,False,Feb. 15 Ely-Bordeaux-700 lds. pitwood-Hooper
+18930225p.323_p001.txt,133,Garth,Villagarcia,CARDIFF,"1,460 lds. hewn fir",Wood-Ochoa Parker & Co.,16,2,1893,25,2,1893,False,"16 Garth-Villagarcia-1,460 lds. hewn fir-Wood-Ochoa Parker & Co."
+18930225p.323_p001.txt,137,Dordogne,Bordeaux,CARDIFF,900 lds. pitwood,"Hooper, Campbell, & Co.",3,2,1893,25,2,1893,False,"3 Dordogne-Bordeaux-900 lds. pitwood-Hooper, Campbell, & Co."
+18930225p.323_p001.txt,144,K. Carl,Skien,GRIMSBY,"208,420 pcs. sawn fir, 2,171 fir props and poles",Gt. Grimsby Ice Co. and Order,15,2,1893,25,2,1893,False,"Feb. 15 K. Carl-Skien-208,420 pcs. sawn fir, 2,171 fir props and poles-Gt. Grimsby Ice Co. and Order"
+18930225p.323_p001.txt,147,Midas,Pensacola,HARTLEPOOL (WEST),"1,360 pcs. sawn fir, 62 1/2 fir deals",Exors. of late T. Walker,15,2,1893,25,2,1893,False,"Feb. 15 Midas-Pensacola-1,360 pcs. sawn fir, 62 1/2 fir deals-Exors. of late T. Walker"
+18930225p.323_p001.txt,148,Osmo,Pensacola,HARTLEPOOL (WEST),"36,258 deals and boards",Harrison & Singleton,16,2,1893,25,2,1893,False,"16 Osmo-Pensacola-36,258 deals and boards-Harrison & Singleton"
+18930225p.323_p001.txt,149,Khedive,Langesund,HARTLEPOOL (WEST),"2,808 fir props","E. A. Casper & Co.; 1,361 pcs. square fir-G. Bradley & Co.; 1,361 pcs. square fir-Pyman, Bell & Co.",18,2,1893,25,2,1893,False,"18 Khedive-Langesund-2,808 fir props-E. A. Casper & Co.; 1,361 pcs. square fir-G. Bradley & Co.; 1,361 pcs. square fir-Pyman, Bell & Co."
+18930225p.323_p001.txt,152,Tancred,Bordeaux,HULL,"1,250 lds. pitwood",Hooper,15,2,1893,25,2,1893,False,"Feb. 15 Tancred-Bordeaux-1,250 lds. pitwood-Hooper"
+18930225p.323_p001.txt,153,Thule,Gothenburg,HULL,"76 pkgs. turned wood, 5,940 bdls. box boards, 4,500 bdls. blocks, 570 doors",Order,21,2,1893,25,2,1893,True,"21 Thule -Gothenburg-76 pkgs. turned wood, 5,940 bdls. box boards, 4,500 bdls. blocks, 570 doors-Order"
+18930225p.323_p001.txt,154,Argo,Christiania,HULL,360 bgs. brush blocks,J. Keen; 196 bdls. box boards-Order,22,2,1893,25,2,1893,True,Feb. 22 Argo -Christiania-360 bgs. brush blocks-J. Keen; 196 bdls. box boards-Order
+18930225p.323_p001.txt,157,Montezuma,New York,TILBURY DOCKS,170 pcs. lumber,"C. & R. Light; 256 bdls. ash squares, 67 bdls. walnut boards-Order",17,2,1893,25,2,1893,True,"Feb. 17 Montezuma -New York-170 pcs. lumber-C. & R. Light; 256 bdls. ash squares, 67 bdls. walnut boards-Order"
+18930225p.323_p001.txt,158,Maine,Philadelphia,TILBURY DOCKS,"1,600 staves",Churchill & Sim,18,2,1893,25,2,1893,True,"18 Maine -Philadelphia-1,600 staves-Churchill & Sim"
+18930225p.323_p001.txt,161,America,New York,VICTORIA & ALBERT DOCKS,"728 pcs. lumber, 679 bdls. staves",Order,20,2,1893,25,2,1893,True,"Feb. 20 America -New York-728 pcs. lumber, 679 bdls. staves-Order"
+18930225p.323_p001.txt,163,Borderer,Boston,VICTORIA & ALBERT DOCKS,24 crts. lumber,D. Witt,22,2,1893,25,2,1893,True,22 Borderer -Boston-24 crts. lumber-D. Witt
+18930225p.323_p001.txt,166,A. J. Balfour,Philadelphia,WEST INDIA DOCKS,"2,180 bdls. staves, 1,660 bdls. 2.594 pcs. lumber",Churchill & Sim,22,2,1893,25,2,1893,True,"22 A. J. Balfour -Philadelphia-2,180 bdls. staves, 1,660 bdls. 2.594 pcs. lumber-Churchill & Sim"
+18930225p.323_p001.txt,169,Marie,Skien,OTHER DOCKS AND WHARVES,"535,470 staves, 4 1/2 fms. firewood","Duus, Brown, & Co.",20,2,1893,25,2,1893,False,"Feb. 20 Marie-Skien-535,470 staves, 4 1/2 fms. firewood-Duus, Brown, & Co."
+18930225p.323_p001.txt,172,Oskar,Porsgrund,MIDDLESBROUGH,"2,360 pcs. hewn fir, 262 fir props, 1,947 battens",Watson & Co.,17,2,1893,25,2,1893,False,"Feb. 17 Oskar-Porsgrund-2,360 pcs. hewn fir, 262 fir props, 1,947 battens-Watson & Co."
+18930225p.323_p001.txt,173,Agder,Skien,MIDDLESBROUGH,"9,503 props",Watson & Co.,20,2,1893,25,2,1893,True,"20 Agder -Skien-9,503 props-Watson & Co."
+18930225p.323_p001.txt,176,Tancred,Bordeaux,NEWPORT,"1,250 lds. pitwood",Hooper,15,2,1893,25,2,1893,False,"Feb. 15 Tancred-Bordeaux-1,250 lds. pitwood-Hooper"
+18930225p.323_p001.txt,178,Thomas Coats,Bordeaux,NEWPORT,"1,050 lds. hewn fir",Newport Pitwood Co.,18,2,1893,25,2,1893,False,"18 Thomas Coats-Bordeaux-1,050 lds. hewn fir-Newport Pitwood Co."
+18930225p.323_p001.txt,181,Nina,Apalachicola,PLYMOUTH,"1,045 lds. sawn fir","Fox, Eliott, & Co.",14,2,1893,25,2,1893,False,"Feb. 14 Nina-Apalachicola-1,045 lds. sawn fir-Fox, Eliott, & Co."
+18930225p.323_p001.txt,184,Munin,Gothenburg,SUNDERLAND,"65,859 pit props",E. W. Campbell,15,2,1893,25,2,1893,False,"Feb. 15 Munin-Gothenburg-65,859 pit props-E. W. Campbell"
+18930225p.323_p001.txt,187,Freelance,Bordeaux,SWANSEA,"1,150 lds. pitwood","Williams, Cook, & Co.",14,2,1893,25,2,1893,False,"Feb. 14 Freelance-Bordeaux-1,150 lds. pitwood-Williams, Cook, & Co."
+18930225p.323_p001.txt,188,Isbergnes,Bayonne,SWANSEA,"1,280 lds. pitwood",A. Capelle,18,2,1893,25,2,1893,False,"18 Isbergnes-Bayonne-1,280 lds. pitwood-A. Capelle"
+18930225p.323_p001.txt,191,Springhill,Fredrikshald,SOUTHAMPTON,"812 fir skirtings, 849 bdls. fir mouldings, 55,846 floorings and matchings",Driver & Co.,12,1,1893,25,2,1893,True,"Jan. 12 Springhill -Fredrikshald-812 fir skirtings, 849 bdls. fir mouldings, 55,846 floorings and matchings-Driver & Co."
+18930225p.323_p001.txt,192,Hilda,St. Malo,SOUTHAMPTON,6 lds. hoops,E. K. C'orke,16,2,1893,25,2,1893,False,Feb. 16 Hilda-St. Malo-6 lds. hoops-E. K. C'orke
+18930225p.323_p001.txt,193,Griffin,St. Malo 6 lds. hoops,SOUTHAMPTON,E. K. C'orke,,20,2,1893,25,2,1893,False,20 Griffin-St. Malo 6 lds. hoops-E. K. C'orke
+18930225p.323_p001.txt,197,Odin,Christiania,TYNE,"100 lds. mining timber, 125 bales pulp of wood; from Laurvig",100 lds. pit props-Order,7,2,1893,25,2,1893,True,"Feb. 7 Odin -Christiania-100 lds. mining timber, 125 bales pulp of wood; from Laurvig-100 lds. pit props-Order"
+18930325p.425_p002.txt,7,Tour Malakoff,Bordeaux,LLANELLY,198 lds. hewn fir,Trimsaran Co.,14,3,1893,25,3,1893,False,Mar. 14 Tour Malakoff-Bordeaux-198 lds. hewn fir-Trimsaran Co.
+18930325p.425_p002.txt,8,Amelia,Blaye,LLANELLY,186 lds. fir pitwood,Davies & Co.,15,3,1893,25,3,1893,False,15 Amelia-Blaye-186 lds. fir pitwood-Davies & Co.
+18930325p.425_p002.txt,9,Deux Pierres,La Tremblade,LLANELLY,252 lds. fir pitwood,Newport Pitwood Co.,16,3,1893,25,3,1893,False,16 Deux Pierres-La Tremblade-252 lds. fir pitwood-Newport Pitwood Co.
+18930325p.425_p002.txt,12,Emilianne,Hennebont,NEWPORT,173 lds. pit props,Budd & Co.,14,3,1893,25,3,1893,False,Mar. 14 Emilianne-Hennebont-173 lds. pit props-Budd & Co.
+18930325p.425_p002.txt,14,Verena,Risoer,NEWPORT,350 lds. pit props,"Watts, Ward & Co.",15,3,1893,25,3,1893,False,"15 Verena-Risoer-350 lds. pit props-Watts, Ward & Co."
+18930325p.425_p002.txt,16,Emilie,Auray,NEWPORT,240 lds. pit props,A. H. Tapson,16,3,1893,25,3,1893,False,16 Emilie-Auray-240 lds. pit props-A. H. Tapson
+18930325p.425_p002.txt,24,Mahalah,Ostend,RAMSGATE,60 lds. fir split laths,W. Crundall,13,3,1893,25,3,1893,False,Mar. 13 Mahalah-Ostend-60 lds. fir split laths-W. Crundall
+18930325p.425_p002.txt,27,Agir,Gothenburg,SOUTHAMPTON,"204 lds. doors, joinery",Driver & Co.,15,3,1893,25,3,1893,False,"Mar. 15 Agir-Gothenburg-204 lds. doors, joinery-Driver & Co."
+18930325p.425_p002.txt,29,Frigga,Darien,SOUTHAMPTON,3 lds. sawn fir,C. Childs,16,3,1893,25,3,1893,False,16 Frigga-Darien-3 lds. sawn fir-C. Childs
+18930325p.425_p002.txt,32,Clan Mackenzie,San Francisco,SUNDERLAND,20 lds. mining timber,J. H. Munin,20,3,1893,25,3,1893,False,Mar. 20 Clan Mackenzie-San Francisco-20 lds. mining timber-J. H. Munin
+18930325p.425_p002.txt,36,Montbest,Bayonne,SWANSEA,160 lds. pit props,W. Davies & Co.,14,3,1893,25,3,1893,False,Mar. 14 Montbest-Bayonne-160 lds. pit props-W. Davies & Co.
+18930325p.425_p002.txt,41,Maria,Bayonne,SWANSEA,374 lds. pit props,Newport Pitwood Co.,15,3,1893,25,3,1893,False,15 Maria-Bayonne-374 lds. pit props-Newport Pitwood Co.
+18930325p.425_p002.txt,43,Bohallard,Blaye,SWANSEA,145 lds. pit props,Watts,16,3,1893,25,3,1893,False,16 Bohallard-Blaye-145 lds. pit props-Watts
+18930325p.425_p002.txt,44,Bon Pasteur,Vannes,SWANSEA,118 lds. pit props,Watts,17,3,1893,25,3,1893,False,17 Bon Pasteur-Vannes-118 lds. pit props-Watts
+18930325p.425_p002.txt,47,Admiral,Rotterdam,TYNE,"11 cs. woodware, 3 bdls. hoops",Tyne Steam Shipping Co.,16,3,1893,25,3,1893,True,"Mar. 16 Admiral -Rotterdam-11 cs. woodware, 3 bdls. hoops-Tyne Steam Shipping Co."
+18930325p.425_p002.txt,48,Royal Dane,Hamburg,TYNE,3 cs. mouldings,Tyne Steam Shipping Co.,17,3,1893,25,3,1893,True,17 Royal Dane -Hamburg-3 cs. mouldings-Tyne Steam Shipping Co.
+18930325p.425_p002.txt,49,John Ormston,Rotterdam,TYNE,"11 cs. woodwork, 1,220 bdls. hoops",Tyne Steam Shipping Co.,20,3,1893,25,3,1893,True,"20 John Ormston -Rotterdam-11 cs. woodwork, 1,220 bdls. hoops-Tyne Steam Shipping Co."
+18930325p.425_p002.txt,55,City of Hamburg,Rotterdam,BELFAST,"1,101 bdls. hoops",J. C. Pinkerton,15,3,1893,25,3,1893,False,"Mar. 15 City of Hamburg-Rotterdam-1,101 bdls. hoops-J. C. Pinkerton"
+18930325p.425_p002.txt,56,Anna,Pensacola,BELFAST,"2,600 pcs. sawn fir",Cory,17,3,1893,25,3,1893,False,"17 Anna-Pensacola-2,600 pcs. sawn fir-Cory"
+18930325p.425_p002.txt,59,Velox,Apalachicola,CORK,400 lds. sawn fir,N. & J. Cummins & Bros.,13,3,1893,25,3,1893,False,Mar. 13 Velox-Apalachicola-400 lds. sawn fir-N. & J. Cummins & Bros.
+18930325p.425_p002.txt,62,Nordlyset,"Portland, O.",LIMERICK,15 lds. sawn fir,J. Horrigan,17,3,1893,25,3,1893,False,"Mar. 17 Nordlyset-Portland, O.-15 lds. sawn fir-J. Horrigan"
+18930325p.425_p002.txt,67,Massachusetts,New York,TILBURY DOCK,49 walnut logs,Churchill & Sim ; 76 pcs. cedar-Order,17,3,1893,25,3,1893,True,Mar 17 Massachusetts -New York-49 walnut logs-Churchill & Sim ; 76 pcs. cedar-Order
+18930325p.425_p002.txt,70,Oopack,Singapore,WEST INDIA DOCKS,"3,798 pcs. sapanwood",Order,17,3,1893,25,3,1893,True,"Mar. 17 Oopack -Singapore-3,798 pcs. sapanwood-Order"
+18930325p.425_p002.txt,71,Montana,Baltimore,WEST INDIA DOCKS,"163 logs wa'nut, 3,249 pcs. lumber Order",,20,3,1893,25,3,1893,True,"20 Montana -Baltimore-163 logs wa'nut, 3,249 pcs. lumber Order"
+18930325p.425_p002.txt,73,Farvel,Tunas de Zaza,WEST INDIA DOCKS,"849 logs mahogany, 180 logs cedar",Order,22,3,1893,25,3,1893,False,"22 Farvel-Tunas de Zaza-849 logs mahogany, 180 logs cedar-Order"
+18930325p.425_p002.txt,76,Forfarshire,734 pcs. kauri pine,EAST INDIA DOCKS,E. C. Brittan,,17,3,1893,25,3,1893,True,Mar. 17 Forfarshire -734 pcs. kauri pine-E. C. Brittan
+18930325p.425_p002.txt,79,Mongolian,Portland,LIVERPOOL,990 maple blocks,"Moorehouse & Mitchell ; 1,275 maple blocks-T. Mitchell ; 1,391 maple blocks-T. Silverwood",16,3,1893,25,3,1893,True,"Mar. 16 Mongolian -Portland-990 maple blocks-Moorehouse & Mitchell ; 1,275 maple blocks-T. Mitchell ; 1,391 maple blocks-T. Silverwood"
+18930325p.425_p002.txt,82,Good Intent,Demerara,LIVERPOOL,256 logs greenheart,"Sandbach, Tinne, & Co.",17,3,1893,25,3,1893,False,"17 Good Intent-Demerara-256 logs greenheart-Sandbach, Tinne, & Co."
+18930325p.425_p002.txt,84,Engineer,238 pcs. oak,LIVERPOOL,E. Alcott ; 8 logs mahogany,M. T. Grace & Co.,18,3,1893,25,3,1893,True,18 Engineer -238 pcs. oak-E. Alcott ; 8 logs mahogany-M. T. Grace & Co.
+18930325p.425_p002.txt,87,Norge,Puerto Plata,LIVERPOOL,"647 logs, 500 curls, 175 log ends mahogany",E. Chaloner & Co. ; 1 log mahogany-N. Johansen & Dahl,20,3,1893,25,3,1893,False,"20 Norge-Puerto Plata-647 logs, 500 curls, 175 log ends mahogany-E. Chaloner & Co. ; 1 log mahogany-N. Johansen & Dahl"
+18930325p.425_p002.txt,93,Vancouver,"Portland, M.",LIVERPOOL,"4,232 maple blocks","T. Silverwood ; 4,267 maple blocks-Moorehouse & Mitchell ; 2,500 maple blocks-Mitchell Bros. ; 1,316 maple blocks-J. Mitchell",21,3,1893,25,3,1893,True,"21 Vancouver -Portland, M.-4,232 maple blocks-T. Silverwood ; 4,267 maple blocks-Moorehouse & Mitchell ; 2,500 maple blocks-Mitchell Bros. ; 1,316 maple blocks-J. Mitchell"
+18930325p.425_p002.txt,94,Ohio,Philadelphia,LIVERPOOL,"2,295 maple blocks",Churchill & Sim,22,3,1893,25,3,1893,True,"22 Ohio -Philadelphia-2,295 maple blocks-Churchill & Sim"
+18930401p.448.txt,3,Zemit,Corcubion,CARDIFF,500 lds. fir pitwood,"Powley, Thomas, & Co.",21,3,1893,1,4,1893,False,"Mar. 21 Zemit-Corcubion-500 lds. fir pitwood-Powley, Thomas, & Co."
+18930401p.448.txt,5,Isbergues,Bayonne,CARDIFF,"1,300 lds. pitwood",A. Capelle,22,3,1893,1,4,1893,False,"22 Isbergues-Bayonne-1,300 lds. pitwood-A. Capelle"
+18930401p.448.txt,8,Premier,Bordeaux,CARDIFF,"1,100 lds. pitwood",Watts,24,3,1893,1,4,1893,False,"Mar. 24 Premier-Bordeaux-1,100 lds. pitwood-Watts"
+18930401p.448.txt,20,Province,San Francisco,FLEETWOOD,25 lds. sawn W. Thomas & Co.,,24,3,1893,1,4,1893,False,24 Province-San Francisco-25 lds. sawn W. Thomas & Co.
+18930401p.448.txt,22,Triton,Gothenburg,HARTLEPOOL (WEST),"35,690 fir sleepers, 8,630 props, 20,234 splits, 13,286 pcs. firewood","Victor Nilson & Co.; 25,879 props-G. Horsley & Co.",22,3,1893,1,4,1893,True,"Mar. 22 Triton -Gothenburg-35,690 fir sleepers, 8,630 props, 20,234 splits, 13,286 pcs. firewood-Victor Nilson & Co.; 25,879 props-G. Horsley & Co."
+18930401p.448.txt,28,St. George,Gothenburg,HULL,"11,847 sleepers, 17,619 props, H. Smith's & Co., bdls. laths",Order,27,3,1893,1,4,1893,True,"27 St. George -Gothenburg-11,847 sleepers, 17,619 props, H. Smith's & Co., bdls. laths-Order"
+18930401p.448.txt,48,Avena,Uddevalla,SURREY COMMERCIAL DOCKS,"680 doors, 2,894 bdls. mouldings",S. Brown,24,3,1893,1,4,1893,True,"Mar. 24 Avena -Uddevalla-680 doors, 2,894 bdls. mouldings-S. Brown"
+18930401p.448.txt,49,Annona,Uddevalla,SURREY COMMERCIAL DOCKS,"397 bdls. mouldings, 18 crts. trellis, 3,205 doors",S. Brown,25,3,1893,1,4,1893,True,"25 Annona -Uddevalla-397 bdls. mouldings, 18 crts. trellis, 3,205 doors-S. Brown"
+18930401p.448.txt,50,Polykarp,Kragero,SURREY COMMERCIAL DOCKS,160 fms. firewood,"Duus, Brown, & Co.; 15 doz. boards-C. Thorsdal",24,3,1893,1,4,1893,False,"24 Polykarp-Kragero-160 fms. firewood-Duus, Brown, & Co.; 15 doz. boards-C. Thorsdal"
+18930401p.448.txt,52,Kelso,Christiania,MILLWALL DOCKS,202 bgs. brush blocks,"J. Keen; 5,440 bdls. box boards, 4,050 bdls. staves-Order; from Drammen-1,760 bdls. box boards-Duus, Brown, & Co.",24,3,1893,1,4,1893,True,"Mar. 24 Kelso -Christiania-202 bgs. brush blocks-J. Keen; 5,440 bdls. box boards, 4,050 bdls. staves-Order; from Drammen-1,760 bdls. box boards-Duus, Brown, & Co."
+18930401p.448.txt,54,Winestead,Fiume,MILLWALL DOCKS,31 logs,"Churchill & Sim; 4,197 parquets, 424 logs-Order",25,3,1893,1,4,1893,True,"25 Winestead -Fiume-31 logs-Churchill & Sim; 4,197 parquets, 424 logs-Order"
+18930401p.448.txt,55,Thule,Gothenburg,MILLWALL DOCKS,"500 bdls. laths, 1,995 doors, 55 bdls. trellis, 4,521 pkgs. joinery",Order,27,3,1893,1,4,1893,True,"27 Thule -Gothenburg-500 bdls. laths, 1,995 doors, 55 bdls. trellis, 4,521 pkgs. joinery-Order"
+18930401p.448.txt,56,Albano,Christiania,MILLWALL DOCKS,544 bags brush blocks,"J. Keen; 2,600 bdls. staves and battens-Gruner, Molineux, & Co.; 9,600 bdls. staves, 1,911 planed boards-Order",28,3,1893,1,4,1893,True,"28 Albano -Christiania-544 bags brush blocks -J. Keen; 2,600 bdls. staves and battens-Gruner, Molineux, & Co.; 9,600 bdls. staves, 1,911 planed boards-Order"
+18930401p.448.txt,59,Agder,Porsgrund,MIDDLESBROUGH,138 pcs. hewn fir,W. J. Watson & Co.,21,3,1893,1,4,1893,True,Mar. 21 Agder -Porsgrund-138 pcs. hewn fir-W. J. Watson & Co.
+18930401p.448.txt,63,Thomas Coats,Bordeaux,NEWPORT,"1,050 lds. hewn fir",Newport Pitwood Co.,21,3,1893,1,4,1893,False,"Mar. 21 Thomas Coats-Bordeaux-1,050 lds. hewn fir-Newport Pitwood Co."
+18930401p.448.txt,64,Edouard,Redon,NEWPORT,204 lds. pit props,Budd,22,3,1893,1,4,1893,False,22 Edouard-Redon-204 lds. pit props-Budd
+18930401p.448.txt,67,Theophile Marie,l'Orient,NEWPORT,140 lds. pitwood,"Watts, Ward, & Co.",23,3,1893,1,4,1893,False,"23 Theophile Marie-l'Orient-140 lds. pitwood-Watts, Ward, & Co."
+18930401p.448.txt,68,Marie,Donelan,NEWPORT,112 lds. pitwood,Watts,24,3,1893,1,4,1893,False,24 Marie-Donelan-112 lds. pitwood-Watts
+18930401p.448.txt,70,Canute,Mobile,PLYMOUTH,"1,718 pcs. sawn fir, 422 pcs. hewn fir",R. & R. Bayly,21,3,1893,1,4,1893,False,"Mar. 21 Canute-Mobile-1,718 pcs. sawn fir, 422 pcs. hewn fir-R. & R. Bayly"
+18930401p.448.txt,71,Canute,Mobile,PLYMOUTH,"4,291 pcs. sawn fir, 18 pcs. hewn fir",James Bros. & Co.,22,3,1893,1,4,1893,False,"22 Canute-Mobile-4,291 pcs. sawn fir, 18 pcs. hewn fir-James Bros. & Co."
+18930401p.448.txt,72,Flower of Portsoy,Bordeaux,PLYMOUTH,700 bdls. wood hoops,B. J. Weeby & Co.,25,3,1893,1,4,1893,False,25 Flower of Portsoy-Bordeaux-700 bdls. wood hoops-B. J. Weeby & Co.
+18930401p.448.txt,74,Munin,Gothenburg,SUNDERLAND,"55,189 pit props, 17,694 fir sleepers, 5,037 fir battens and boards, 708 fir deals",E. W. Campbell,21,3,1893,1,4,1893,False,"Mar. 21 Munin-Gothenburg-55,189 pit props, 17,694 fir sleepers, 5,037 fir battens and boards, 708 fir deals-E. W. Campbell"
+18930401p.448.txt,75,Marie,Gothenburg,SUNDERLAND,"36,000 pit props",Lindsay,24,3,1893,1,4,1893,False,"24 Marie-Gothenburg-36,000 pit props-Lindsay"
+18930401p.448.txt,78,Adolf,Gothenburg,SUNDERLAND,"450 lds. pit props, 200 lds. fir sleepers",Lindsay & Hall.,25,3,1893,1,4,1893,False,"25 Adolf-Gothenburg-450 lds. pit props, 200 lds. fir sleepers-Lindsay & Hall."
+18930401p.448.txt,80,Louise Ernest,Bayonne,SWANSEA,70 lds. pitwood,J. Jones & Co.,22,3,1893,1,4,1893,False,Mar. 22 Louise Ernest-Bayonne-70 lds. pitwood-J. Jones & Co.
+18930401p.448.txt,81,Espoir,Blaye,SWANSEA,125 lds. pitwood,Margrave,23,3,1893,1,4,1893,False,23 Espoir-Blaye-125 lds. pitwood-Margrave
+18930401p.448.txt,83,Mercur,Bergen,TYNE,77 bales pulp of wood,Order,21,3,1893,1,4,1893,True,Mar. 21 Mercur -Bergen-77 bales pulp of wood-Order
+18930401p.448.txt,85,Royal Dane,Hamburg,TYNE,"756 bdls. box cs., majolica wood",Tyne Steam Shipping Co.,24,3,1893,1,4,1893,True,"24 Royal Dane -Hamburg-756 bdls. box cs., majolica wood-Tyne Steam Shipping Co."
+18930401p.448.txt,87,John Ormston,Rotterdam,TYNE,14 cs. wood,"ware-2,998 pkgs. hoops-Tyne Steam Shipping Co.",27,3,1893,1,4,1893,True,"27 John Ormston -Rotterdam-14 cs. wood-ware-2,998 pkgs. hoops-Tyne Steam Shipping Co."
+18930401p.448.txt,93,Saga,Apalachicola,BELFAST,"110 pcs. hewn fir, 696 pcs. sawn fir",H. Hutton & Co.,22,3,1893,1,4,1893,False,"Mar. 22 Saga-Apalachicola-110 pcs. hewn fir, 696 pcs. sawn fir-H. Hutton & Co."
+18930401p.448.txt,97,Egret,Rotterdam,CORK,500 bdls. hoops,Cork Steamship Co.,20,3,1893,1,4,1893,False,Mar. 20 Egret-Rotterdam-500 bdls. hoops-Cork Steamship Co.
+18930401p.448.txt,101,Cilurnum,New Orleans,MILLWALL DOCKS,"4,462 pcs. lumber, 1,617 oak strips",Order,24,3,1893,1,4,1893,True,"Mar. 24 Cilurnum -New Orleans-4,462 pcs. lumber, 1,617 oak strips-Order"
+18930401p.448.txt,103,Shropshire,Rangoon,TILBURY DOCKS,"493 teak planks, 1,650 oak scantlings",Order,27,3,1893,1,4,1893,True,"Mar. 27 Shropshire -Rangoon-493 teak planks, 1,650 oak scantlings-Order"
+18930401p.448.txt,105,Derwent,Jamaica,VICTORIA AND ALBERT DOCKS,"1,148 lancewood spars",Gillespie Bros. & Co.,28,3,1893,1,4,1893,True,"Mar. 28 Derwent -Jamaica-1,148 lancewood spars-Gillespie Bros. & Co."
+18930401p.448.txt,108,Reiher,Bremen,ST. KATHARINE'S DOCKS,695 logs mahogany,Order,28,3,1893,1,4,1893,True,Mar. 28 Reiher -Bremen-695 logs mahogany-Order
+18930401p.448.txt,110,Costa Rican,Colon,LIVERPOOL,228 logs mahogany,"A. Dobell & Co.; 32 logs hickory-T. Ballen & Co.; 35 logs hickory-A. Dobell & Co.; 38 logs poplar, oak, &c., 447 pcs. oak-Order",24,3,1893,1,4,1893,True,"Mar. 24 Costa Rican -Colon-228 logs mahogany-A. Dobell & Co.; 32 logs hickory-T. Ballen & Co.; 35 logs hickory-A. Dobell & Co.; 38 logs poplar, oak, &c., 447 pcs. oak-Order"
+18930401p.448.txt,111,British Queen,Havre,LIVERPOOL,970 pcs. lignum,vitae-Cunard Steam Shipping Co.,27,3,1893,1,4,1893,True,27 British Queen -Havre-970 pcs. lignum-vitae-Cunard Steam Shipping Co.
+18930401p.448.txt,114,Numidian,Portland,LIVERPOOL,"1,000 maple blocks",Mitchell Bros.,28,3,1893,1,4,1893,True,"28 Numidian -Portland-1,000 maple blocks-Mitchell Bros."
+18930408p.472_p002.txt,4,Fremgang,Egersund,ROCHESTER,"1,085,000 pcs, fir staves",W. Webb & Co.,29,4,1893,8,4,1893,False,"29 Fremgang-Egersund-1,085,000 pcs, fir staves-W. Webb & Co."
+18930408p.472_p002.txt,6,Tyr,Warberg,SUNDERLAND,562 lds. fir props,Wiener,27,4,1893,8,4,1893,False,27 Tyr-Warberg-562 lds. fir props-Wiener
+18930515p.619_p002.txt,7,Jane Clark,Norrkoping,SUNDERLAND,"9,638 pcs. timber",Order,9,5,1893,15,5,1893,True,"9 Jane Clark  - Norrkoping - 9,638 pcs. timber - Order"
+18930515p.619_p002.txt,9,Wilhelm,Fredrikstad,SUNDERLAND,"25,166 bdls. case and flooring boards, 1,528 battens",Order,10,5,1893,15,5,1893,False,"10 Wilhelm - Fredrikstad - 25,166 bdls. case and flooring boards, 1,528 battens - Order"
+18930515p.619_p002.txt,11,Charles Kahl,Stettin,SURREY COMMERCIAL DOCKS,438 pcs. timber,Order,5,5,1893,15,5,1893,False,May 5 Charles Kahl - Stettin - 438 pcs. timber - Order
+18930515p.619_p002.txt,12,Adolf,Gothenburg,SURREY COMMERCIAL DOCKS,"1,635 doors, 228 bdls., 347 doz. matchboards, 1,024 bdls. mouldings, 1,022 doz. battens, 24 doz. deals",Order,6,5,1893,15,5,1893,True,"6 Adolf  - Gothenburg - 1,635 doors, 228 bdls., 347 doz. matchboards, 1,024 bdls. mouldings, 1,022 doz. battens, 24 doz. deals - Order"
+18930515p.619_p002.txt,14,Rhein,Stettin,SURREY COMMERCIAL DOCKS,"11,460 props",Order,8,5,1893,15,5,1893,True,"8 Rhein  - Stettin - 11,460 props - Order"
+18930515p.619_p002.txt,16,Kelso,Christiania,SURREY COMMERCIAL DOCKS,"200 bags brush blocks, 2,667 bdls. boxboards",Order,9,5,1893,15,5,1893,True,"9 Kelso  - Christiania - 200 bags brush blocks, 2,667 bdls. boxboards - Order"
+18930515p.619_p002.txt,17,Nautilus,Stockholm,SURREY COMMERCIAL DOCKS,"3,817 n.o., 36 bdls. doors, 1,008 bdls. mouldings, 20 bdls. woodwork",Order,11,5,1893,15,5,1893,True,"11 Nautilus  - Stockholm - 3,817 n.o., 36 bdls. doors, 1,008 bdls. mouldings, 20 bdls. woodwork - Order"
+18930515p.619_p002.txt,19,Telamon,Singapore,MILLWALL DOCKS,137 logs timber,Order,6,5,1893,15,5,1893,True,May 6 Telamon  - Singapore - 137 logs timber - Order
+18930515p.619_p002.txt,20,Milanese,Boston,MILLWALL DOCKS,775 cs. splints,Bryant & May,8,5,1893,15,5,1893,True,8 Milanese  - Boston - 775 cs. splints - Bryant & May
+18930515p.619_p002.txt,22,Fonar,Philadelphia,VICTORIA AND ALBERT DOCKS,"1,498 pcs. lumber",Order,10,5,1893,15,5,1893,True,"May 10 Fonar  - Philadelphia - 1,498 pcs. lumber - Order"
+18930515p.619_p002.txt,24,Eberstein,Danzig,OTHER DOCKS AND WHARVES,"8,189 sleeper blocks, 1,092 half",sleepers - Order,5,5,1893,15,5,1893,True,"May 5 Eberstein  - Danzig - 8,189 sleeper blocks, 1,092 half-sleepers - Order"
+18930515p.619_p002.txt,25,Johan Smidt,Fredrikstad,OTHER DOCKS AND WHARVES,290 fms. firewood,"Duus, Brown, & Co.",6,5,1893,15,5,1893,False,"6 Johan Smidt - Fredrikstad - 290 fms. firewood - Duus, Brown, & Co."
+18930515p.619_p002.txt,26,Canada,Memel,OTHER DOCKS AND WHARVES,"1,024 pcs. timber, 6,600 staves",Order,8,5,1893,15,5,1893,False,"8 Canada - Memel - 1,024 pcs. timber, 6,600 staves - Order"
+18930515p.619_p002.txt,29,Preference,Westerwik,LOWESTOFT,"428 lds. planed fir boards, deals, and battens",T. Saul & Sons,4,5,1893,15,5,1893,False,"May 4 Preference - Westerwik - 428 lds. planed fir boards, deals, and battens - T. Saul & Sons"
+18930515p.619_p002.txt,33,Bengal,Mobile,LYNN,"526 lds. hewn fir, 1,841 pcs. sawn fir, 212 pcs. fir deals, 254 fir deals",Pitch Pine Co.,4,5,1893,15,5,1893,False,"May 4 Bengal - Mobile - 526 lds. hewn fir, 1,841 pcs. sawn fir, 212 pcs. fir deals, 254 fir deals - Pitch Pine Co."
+18930515p.619_p002.txt,34,Juno,Memel,LYNN,526 lds. hewn fir,"Thompson, Pattrick, & Woodwark",8,5,1893,15,5,1893,False,"8 Juno - Memel - 526 lds. hewn fir - Thompson, Pattrick, & Woodwark"
+18930515p.619_p002.txt,37,Agder,Skien,MIDDLESBROUGH,199 pcs. hewn fir,W. J. Watson & Co.,2,5,1893,15,5,1893,True,May 2 Agder  - Skien - 199 pcs. hewn fir - W. J. Watson & Co.
+18930515p.619_p002.txt,38,Oskar,Skien,MIDDLESBROUGH,262 lds. hewn fir,C. Calder & Co.,5,5,1893,15,5,1893,False,5 Oskar - Skien - 262 lds. hewn fir - C. Calder & Co.
+18930515p.619_p002.txt,41,Chipman,Rangoon,MILFORD,"1,332 lds. teak",Edmiston & Mitchells,4,5,1893,15,5,1893,False,"May 4 Chipman - Rangoon - 1,332 lds. teak - Edmiston & Mitchells"
+18930515p.619_p002.txt,43,Mathilda,Gothenburg,NEWHAVEN,"15,592 fir battens",St. John Hunt & Co.,2,5,1893,15,5,1893,True,"May 2 Mathilda  - Gothenburg - 15,592 fir battens - St. John Hunt & Co."
+18930515p.619_p002.txt,45,Jean Baptiste,Hennebont,PENZANCE,190 lds. pit props,Budd & Co.,2,5,1893,15,5,1893,False,May 2 Jean Baptiste - Hennebont - 190 lds. pit props - Budd & Co.
+18930515p.619_p002.txt,46,Malabar,Pont l'Abbe,PENZANCE,120 lds. pitwood,Watts & Co.,6,5,1893,15,5,1893,False,6 Malabar - Pont l'Abbe - 120 lds. pitwood - Watts & Co.
+18930515p.619_p002.txt,48,Gorina,Gothenburg,PLYMOUTH,"7,031 bdls. fir laths, 172 lds. pitwood, 37 lds. hewn fir poles, 200 lds. pitwood",Harvey & Co.,4,5,1893,15,5,1893,False,"May 4 Gorina - Gothenburg - 7,031 bdls. fir laths, 172 lds. pitwood, 37 lds. hewn fir poles, 200 lds. pitwood - Harvey & Co."
+18930515p.619_p002.txt,50,Theodor,Memel,POOLE,"8,663 pcs. sawn fir",J. T. Sydenham & Co.,5,5,1893,15,5,1893,False,"May 5 Theodor - Memel - 8,663 pcs. sawn fir - J. T. Sydenham & Co."
+18930515p.619_p002.txt,52,Eden,Gothenburg,PRESTON,"427 lds. deals, battens, and boards",T. Batley,1,5,1893,15,5,1893,False,"May 1 Eden - Gothenburg - 427 lds. deals, battens, and boards - T. Batley"
+18930515p.619_p002.txt,54,Carola,Laurvig,ROCHESTER,"50,232 fir boards and ends",Crossfield & Co.,2,5,1893,15,5,1893,False,"May 2 Carola - Laurvig - 50,232 fir boards and ends - Crossfield & Co."
+18930515p.619_p002.txt,58,Toxa,Risoer,SCARBOROUGH,303 lds. firewood,T. Wilkinson,3,5,1893,15,5,1893,False,May 3 Toxa - Risoer - 303 lds. firewood - T. Wilkinson
+18930515p.619_p002.txt,61,Dacapo,Christiania,SHOREHAM,252 lds. fir spars,Beves & Co.,8,5,1893,15,5,1893,False,May 8 Dacapo - Christiania - 252 lds. fir spars - Beves & Co.
+18930515p.619_p002.txt,63,North,Windau,SUNDERLAND,"13,943 hewn fir sleepers","Armstrong & Co.; from Gothenburg - 36,369 sawn fir sleepers - Armstrong & Co.",2,5,1893,15,5,1893,False,"May 2 North - Windau - 13,943 hewn fir sleepers - Armstrong & Co.; from Gothenburg - 36,369 sawn fir sleepers - Armstrong & Co."
+18930515p.619_p002.txt,66,Edith,Uddevalla,SUNDERLAND,"45,266 pit props",Moller,3,5,1893,15,5,1893,False,"3 Edith - Uddevalla - 45,266 pit props - Moller"
+18930515p.619_p002.txt,69,Adelheid,Stettin,SUNDERLAND,325 pcs. hewn oak,Short,4,5,1893,15,5,1893,False,4 Adelheid - Stettin - 325 pcs. hewn oak - Short
+18930515p.619_p002.txt,71,Olga,Halmstad,SUNDERLAND,"33,809 pit props",Pyman,5,5,1893,15,5,1893,False,"5 Olga - Halmstad - 33,809 pit props - Pyman"
+18930515p.619_p002.txt,73,Sirene,Stettin,SUNDERLAND,207 lds. hewn oak,Short,8,5,1893,15,5,1893,False,8 Sirene - Stettin - 207 lds. hewn oak - Short
+18930515p.619_p002.txt,84,Furn,St. Simon's,SOUTHAMPTON,"188 lds. hewn fir, 749 lds. sawn fir, 22 lds. deals",Driver & Co.,2,5,1893,15,5,1893,False,"May 2 Furn - St. Simon's - 188 lds. hewn fir, 749 lds. sawn fir, 22 lds. deals - Driver & Co."
+18930515p.619_p002.txt,85,Durango,Fredrikstad,SOUTHAMPTON,504 lds. sawn fir,South Western Railway Co.,3,5,1893,15,5,1893,False,3 Durango - Fredrikstad - 504 lds. sawn fir - South Western Railway Co.
+18930515p.619_p002.txt,86,Comforter,Tvedestrand,SOUTHAMPTON,393 lds. sawn fir,Sandell Bros.,4,5,1893,15,5,1893,False,4 Comforter - Tvedestrand - 393 lds. sawn fir - Sandell Bros.
+18930515p.619_p002.txt,87,Atrato,Jamaica,SOUTHAMPTON,116 lancewood spars,J. K. Linstead,5,5,1893,15,5,1893,False,5 Atrato - Jamaica - 116 lancewood spars - J. K. Linstead
+18930515p.619_p002.txt,88,Ceres,Fredrikstad,SOUTHAMPTON,"355 lds. planed sawn fir, 17 lds., 240 bdls. sawn fir, 1,618 pcs. mouldings, 200 doors",Order,6,5,1893,15,5,1893,False,"6 Ceres - Fredrikstad - 355 lds. planed sawn fir, 17 lds., 240 bdls. sawn fir, 1,618 pcs. mouldings, 200 doors - Order"
+18930515p.619_p002.txt,90,Hanna,Fredrikstad,SOUTHAMPTON,364 lds. sawn fir,Tagart,8,5,1893,15,5,1893,False,8 Hanna - Fredrikstad - 364 lds. sawn fir - Tagart
+18930515p.619_p002.txt,95,Sirene,Arcachon,SWANSEA,170 lds. pitwood,F. E. Vivian.,2,5,1893,15,5,1893,False,May 2 Sirene - Arcachon - 170 lds. pitwood - F. E. Vivian.
+18930515p.619_p002.txt,98,Ursule,Hennebont,SWANSEA,115 lds. pit props,Main Colliery Co.,4,5,1893,15,5,1893,False,4 Ursule - Hennebont - 115 lds. pit props - Main Colliery Co.
+18930515p.619_p002.txt,99,Paquita Bordeaux,558 lds. pitwood,SWANSEA,W. Fay,,8,5,1893,15,5,1893,False,8 Paquita Bordeaux - 558 lds. pitwood - W. Fay
+18930515p.619_p002.txt,101,Odin,Christiania,TYNE,"75 lds. mining timber, 39 lds. firwood staves, 180 bales pulpwood","Order; from Laurvig - 180 bales pulp wood, 60 lds. pit props - Order",2,5,1893,15,5,1893,True,"May 2 Odin  - Christiania - 75 lds. mining timber, 39 lds. firwood staves, 180 bales pulpwood - Order; from Laurvig - 180 bales pulp wood, 60 lds. pit props - Order"
+18930515p.619_p002.txt,102,Anna,Carlskrona,TYNE,"48,916 lds. pit props",Order,3,5,1893,15,5,1893,False,"3 Anna - Carlskrona - 48,916 lds. pit props - Order"
+18930515p.619_p002.txt,107,Henrich Moll,"Stettin 48,280 props",TYNE,Hall,,4,5,1893,15,5,1893,False,"4 Henrich Moll - Stettin 48,280 props - Hall"
+18930515p.619_p002.txt,110,Royal Dane,Hamburg,TYNE,"2 cases mouldings, 2 packages wood",Tyne Steam Shipping Co.,5,5,1893,15,5,1893,True,"5 Royal Dane  - Hamburg - 2 cases mouldings, 2 packages wood - Tyne Steam Shipping Co."
+18930515p.619_p002.txt,114,Prodano,Baltimore,TYNE,"609 boards, 50 logs, 26,617 pcs. lumber, 1,300 hhd. staves, 33 cases handles",Order,6,5,1893,15,5,1893,True,"6 Prodano  - Baltimore - 609 boards, 50 logs, 26,617 pcs. lumber, 1,300 hhd. staves, 33 cases handles - Order"
+18930515p.619_p002.txt,115,Heldine,Sandefjord,TYNE,"5,234 props, 1,116 pcs timber",Order,8,5,1893,15,5,1893,False,"8 Heldine - Sandefjord - 5,234 props, 1,116 pcs timber - Order"
+18930515p.619_p002.txt,120,City of Oporto,Rotterdam,BELFAST,15 lds. hoops,J. C. Pinkerton,3,5,1893,15,5,1893,False,May 3 City of Oporto - Rotterdam - 15 lds. hoops - J. C. Pinkerton
+18930515p.619_p002.txt,122,Urania,Fredrikstad,CORK,"500 lds. sawn fir, 12 lds. hoops",B. Houghton & Co.,2,5,1893,15,5,1893,False,"May 2 Urania - Fredrikstad - 500 lds. sawn fir, 12 lds. hoops - B. Houghton & Co."
+18930515p.619_p002.txt,127,Maiden City,St. John,DUBLIN,"24,650 deals and ends",T. & C. Martin,4,5,1893,15,5,1893,False,"May 4 Maiden City - St. John - 24,650 deals and ends - T. & C. Martin"
+18930515p.619_p002.txt,131,Mylomene,Tacoma,LIMERICK,30 lds. dunnage sawn fir,The Master,3,5,1893,15,5,1893,False,May 3 Mylomene - Tacoma - 30 lds. dunnage sawn fir - The Master
+18930515p.619_p002.txt,133,Durham,San Francisco,WATERFORD,7 lds. dunnage sawn,J. Reid,3,5,1893,15,5,1893,False,May 3 Durham - San Francisco - 7 lds. dunnage sawn - J. Reid
+18930515p.619_p002.txt,135,Halvmaanan,Fredrikstad,WEXFORD,"26,152 planed fir boards, 7,050 sawn fir boards, 880 deals, 18 hewn fir spars",M. A. Ennis,2,5,1893,15,5,1893,False,"May 2 Halvmaanan - Fredrikstad - 26,152 planed fir boards, 7,050 sawn fir boards, 880 deals, 18 hewn fir spars - M. A. Ennis"
+18930515p.619_p002.txt,138,Buffalo,New York,HULL,969 pcs. walnut,"Wilson, Sons, & Co.",5,5,1893,15,5,1893,True,"May 5 Buffalo  - New York - 969 pcs. walnut - Wilson, Sons, & Co."
+18930515p.619_p002.txt,140,Gallia,New York,LIVERPOOL,77 satinwood spars,B. Hall & Co.,5,5,1893,15,5,1893,True,May 5 Gallia  - New York - 77 satinwood spars - B. Hall & Co.
+18930515p.619_p002.txt,163,Olinde Rodrigues,Bordeaux,FRANCE,"1,000 pcs. billes acajou",,3,5,1893,15,5,1893,False,"May 3 Olinde Rodrigues - Bordeaux - 1,000 pcs. billes acajou"
+18930515p.619_p002.txt,165,Francia,Port au Prince,FRANCE,2 logs mahogany,,4,5,1893,15,5,1893,True,4 Francia  - Port au Prince - 2 logs mahogany
+18930515p.619_p002.txt,167,Glencarn,Tampico,FRANCE,"156 logs cedar, 10 tons sandal; from Cienfuegos",10 tons sandal,8,5,1893,15,5,1893,True,"8 Glencarn  - Tampico - 156 logs cedar, 10 tons sandal; from Cienfuegos - 10 tons sandal"
+18930515p.619_p002.txt,169,Orion,Monte Video,FRANCE,10 tons lignum,"vitae, 156 morceaux bois jaune",9,5,1893,15,5,1893,True,"9 Orion  - Monte Video - 10 tons lignum-vitae, 156 morceaux bois jaune"
+18930515p.619_p003.txt,66,City of Khios,Calcutta,THE TIMBER TRADES JOURNAL,"1,676 walnut squares","Farnworth & Jardine; 1,676 pcs. oak-R. Coltart & Co.; 1,111 oak planks, 3,041 pcs. walnut lumber, 767 oak boards-Order",5,5,1893,15,5,1893,True,"May 5 City of Khios -Calcutta-1,676 walnut squares-Farnworth & Jardine; 1,676 pcs. oak-R. Coltart & Co.; 1,111 oak planks, 3,041 pcs. walnut lumber, 767 oak boards-Order"
+18930515p.619_p003.txt,67,Isla de Mindanas,Manila,THE TIMBER TRADES JOURNAL,Order,,9,5,1893,15,5,1893,True,9 Isla de Mindanas -Manila-Order
+18930515p.619_p003.txt,68,British Prince,"2,496 maple blocks",THE TIMBER TRADES JOURNAL,"Churchill & Sim; 3,811 pcs. oak",A. Dobell & Co.,10,5,1893,15,5,1893,False,"10 British Prince-2,496 maple blocks-Churchill & Sim; 3,811 pcs. oak-A. Dobell & Co."
+18930515p.619_p003.txt,73,City of Khios,Calcutta,TILBURY DOCKS,253 teak planks,Turner & Co.,5,5,1893,15,5,1893,True,May 5 City of Khios -Calcutta-253 teak planks -Turner & Co.
+18930515p.619_p003.txt,76,Swanteivah,Stettin,MILLWALL DOCKS,404 logs oak,Order,6,5,1893,15,5,1893,False,May 6 Swanteivah-Stettin-404 logs oak-Order
+18930515p.619_p003.txt,77,Die Gartenlaube,Stettin,MILLWALL DOCKS,647 logs,Order,10,5,1893,15,5,1893,False,10 Die Gartenlaube-Stettin-647 logs-Order
+18930515p.619_p003.txt,79,Milanese,Boston,VICTORIA AND ALBERT DOCKS,895 walnut logs,"Denny, Mott, & Dickson",8,5,1893,15,5,1893,True,"May 8 Milanese -Boston-895 walnut logs-Denny, Mott, & Dickson"
+18930515p.619_p003.txt,81,Niola,Carnarvon,OTHER DOCKS AND WHARVES,281 lds. jarrah,Order,8,5,1893,15,5,1893,False,May 8 Niola-Carnarvon-281 lds. jarrah-Order
+18930515p.619_p003.txt,83,Fonar,Philadelphia,WEST INDIA DOCKS,"1,072 pcs. oak",Churchill & Sim; 185 pcs. walnut-D. Witt,10,5,1893,15,5,1893,True,"May 10 Fonar -Philadelphia-1,072 pcs. oak-Churchill & Sim; 185 pcs. walnut-D. Witt"
+18930515p.619_p003.txt,85,Olinde Rodrigues,Cap Haitien,HAVRE,4 billes acajou,,3,5,1893,15,5,1893,True,May 3 Olinde Rodrigues -Cap Haitien-4 billes acajou
+18930515p.619_p003.txt,87,Francia,Porto Plata,HAVRE,428 billes acajou,,4,5,1893,15,5,1893,True,4 Francia -Porto Plata-428 billes acajou
+18930515p.619_p003.txt,89,Glencarn,Tellichéry,HAVRE,174 stds. bois de sandal; from Calicut,6 billes bois de rose,8,5,1893,15,5,1893,True,8 Glencarn -Tellichéry-174 stds. bois de sandal; from Calicut-6 billes bois de rose
+18930515p.619_p003.txt,91,Orion,Monte Christi,HAVRE,"4 morceaux gaiac, 156 morceaux acajou",,9,5,1893,15,5,1893,True,"9 Orion -Monte Christi-4 morceaux gaiac, 156 morceaux acajou"
+18930520p.646_p002.txt,4,Bertha Maria,Gothenburg,POOLE,"27,583 fir battens, 1,643 bdls. mouldings",A T. Frampton,10,5,1893,20,5,1893,False,"May 10 Bertha Maria-Gothenburg-27,583 fir battens, 1,643 bdls. mouldings-A T. Frampton"
+18930520p.646_p002.txt,5,Seagull,Fredrikstad,POOLE,"32,778 planed fir boards, 2,569 fir scantlings",J. J. Norton,13,5,1893,20,5,1893,False,"13 Seagull-Fredrikstad - 32,778 planed fir boards, 2,569 fir scantlings-J. J. Norton"
+18930520p.646_p002.txt,7,Eden,Gothenburg,PORTSMOUTH,4 lds. firewood,J. Petersen,11,5,1893,20,5,1893,False,May 11 Eden-Gothenburg-4 lds. firewood-J. Petersen
+18930520p.646_p002.txt,8,Rook,Norrkoping,PORTSMOUTH,"15,249 deals and battens",T. Bailey,11,5,1893,20,5,1893,False,"11 Rook-Norrkoping - 15,249 deals and battens-T. Bailey"
+18930520p.646_p002.txt,10,Drammen,Pascagoula,QUEENBOROUGH,"78 lds. hewn pitch pine, 96 pcs. sawn pitch pine, 984 deals",W. Crundall,15,5,1893,20,5,1893,False,"May 15 Drammen-Pascagoula-78 lds. hewn pitch pine, 96 pcs. sawn pitch pine, 984 deals-W. Crundall"
+18930520p.646_p002.txt,12,Anthon,Drammen,SCARBOROUGH,"16,011 pcs. fir flooring, 2,700 fir deals and scantlings, 212 bdls. laths",Hollis Bros. & Co.,10,5,1893,20,5,1893,False,"May 10 Anthon-Drammen-16,011 pcs. fir flooring, 2,700 fir deals and scantlings, 212 bdls. laths-Hollis Bros. & Co."
+18930520p.646_p002.txt,14,South Western,St. Malo,SOUTHAMPTON,3 lds. sawn hoops,E. K. Corke,9,5,1893,20,5,1893,False,May 9 South Western-St. Malo-3 lds. sawn hoops-E. K. Corke
+18930520p.646_p002.txt,15,Kali Maas,Christiania,SOUTHAMPTON,470 lds. sawn wood,"E. K. Corke; 1,870 hewn oak-Driver & Co.",10,5,1893,20,5,1893,False,"10 Kali Maas-Christiania-470 lds. sawn wood-E. K. Corke; 1,870 hewn oak-Driver & Co."
+18930520p.646_p002.txt,17,Diana,St. Malo,SOUTHAMPTON,2 lds. sawn hoops,E. K. Corke,11,5,1893,20,5,1893,False,11 Diana-St. Malo-2 lds. sawn hoops-E. K. Corke
+18930520p.646_p002.txt,18,Charlotta,Uddevalla,SOUTHAMPTON,"156 lds. sawn fir, 974 doors, 666 bdls. mouldings",J. S. Eliott,12,5,1893,20,5,1893,False,"12 Charlotta-Uddevalla-156 lds. sawn fir, 974 doors, 666 bdls. mouldings-J. S. Eliott"
+18930520p.646_p002.txt,19,Ellida,Gothenburg,SOUTHAMPTON,"21,735 deals, battens, and boards, 272 bdls. fir mouldings and laths, 20 fir doors",Loxton & S. Sandell,13,5,1893,20,5,1893,False,"13 Ellida - Gothenburg - 21,735 deals, battens, and boards, 272 bdls. fir mouldings and laths, 20 fir doors-Loxton & S. Sandell"
+18930520p.646_p002.txt,21,Premier,Pascagoula,SOUTHAMPTON,"987 lds. hewn pitch pine, 253 lds. sawn pitch pine",Burt,15,5,1893,20,5,1893,False,"15 Premier-Pascagoula-987 lds. hewn pitch pine, 253 lds. sawn pitch pine-Burt"
+18930520p.646_p002.txt,23,Vaaren,Drammen,SUNDERLAND,"46,441 pit props",Rayner & Moller,9,5,1893,20,5,1893,False,"May 9 Vaaren - Drammen - 46,441 pit props - Rayner & Moller"
+18930520p.646_p002.txt,25,North,Gothenburg,SUNDERLAND,"25,458 fir pit props","Armstrong, Addison, & Co.",10,5,1893,20,5,1893,False,"10 North-Gothenburg-25,458 fir pit props-Armstrong, Addison, & Co."
+18930520p.646_p002.txt,26,Amaranth,Danzig,SUNDERLAND,"25,895 hewn oak chocks",E. Wiener & Co.,13,5,1893,20,5,1893,False,"13 Amaranth - Danzig - 25,895 hewn oak chocks-E. Wiener & Co."
+18930520p.646_p002.txt,27,Johanna,Monsteras,SUNDERLAND,"9,477 pit props",Order,15,5,1893,20,5,1893,False,"15 Johanna-Monsteras-9,477 pit props-Order"
+18930520p.646_p002.txt,30,Notre Dame de Bon Secours,Arcachon,SWANSEA,170 lds. pitwood,F. E. Vivian,9,5,1893,20,5,1893,False,May 9 Notre Dame de Bon Secours-Arcachon-170 lds. pitwood-F. E. Vivian
+18930520p.646_p002.txt,32,Theophile Felix,Nantes,SWANSEA,120 lds. pitwood,"Williams, Cook, & Co",10,5,1893,20,5,1893,False,"10 Theophile Felix-Nantes-120 lds. pitwood-Williams, Cook, & Co"
+18930520p.646_p002.txt,34,Abdallah La Tremblade,150 lds. pitwood,SWANSEA,Main Colliery Co.,,11,5,1893,20,5,1893,False,11 Abdallah La Tremblade-150 lds. pitwood-Main Colliery Co.
+18930520p.646_p002.txt,36,Maagen,Fredrikstad,SWANSEA,"16,192 fir planed boards, 1,148 fir scantlings, 51 hewn fir spars",Davies & Thomas,13,5,1893,20,5,1893,False,"13 Maagen - Fredrikstad-16,192 fir planed boards, 1,148 fir scantlings, 51 hewn fir spars-Davies & Thomas"
+18930520p.646_p002.txt,40,Torrhamn,Gothenburg,TEIGNMOUTH,"279 lds. battens and planed boards, 416 bdls. mouldings, 2 lds. spars",T. S. Baker,9,5,1893,20,5,1893,False,"May 9 Torrhamn-Gothenburg-279 lds. battens and planed boards, 416 bdls. mouldings, 2 lds. spars-T. S. Baker"
+18930520p.646_p002.txt,42,Haakon Jarl,Bergen,TYNE,"7,511 battens, 400 bales wood pulp",Order,9,5,1893,20,5,1893,True,"May 9 Haakon Jarl -Bergen-7,511 battens, 400 bales wood pulp-Order"
+18930520p.646_p002.txt,44,Artemis,Fredrikshald,TYNE,"46,510 props",Order,10,5,1893,20,5,1893,False,"10 Artemis-Fredrikshald-46,510 props-Order"
+18930520p.646_p002.txt,46,Freia,Namsos,TYNE,"18,939 battens, 8 1/2 fms. fire",wood-James Scott,11,5,1893,20,5,1893,False,"11 Freia-Namsos-18,939 battens, 8 1/2 fms. fire-wood-James Scott"
+18930520p.646_p002.txt,47,Grenadier,Antwerp,TYNE,2 cases mouldings,Tyne Steam Shipping Co.,12,5,1893,20,5,1893,True,12 Grenadier -Antwerp-2 cases mouldings - Tyne Steam Shipping Co.
+18930520p.646_p002.txt,48,John Ormston,Rotterdam,TYNE,"3,100 bdls. hoops",,15,5,1893,20,5,1893,True,"15 John Ormston -Rotterdam-3,100 bdls. hoops"
+18930520p.646_p002.txt,55,Charles,Memel,WISBECH,"785 pcs. hewn fir, 179 deals, 1,474 pcs lathwood",English Bros.,13,5,1893,20,5,1893,False,"May 13 Charles-Memel-785 pcs. hewn fir, 179 deals, 1,474 pcs lathwood-English Bros."
+18930520p.646_p002.txt,57,Gleaner,Christiania,YARMOUTH,"198 lds. spars, poles, rickers, boathooks, and oars, 11 lds. fire",wood-Jewson & Sons,9,5,1893,20,5,1893,False,"May 9 Gleaner-Christiania-198 lds. spars, poles, rickers, boathooks, and oars, 11 lds. fire-wood-Jewson & Sons"
+18930520p.646_p002.txt,58,Gemma,Gefle,YARMOUTH,"34,243 deals, battens, and boards",Jewson & Sons,13,5,1893,20,5,1893,False,"13 Gemma-Gefle - 34,243 deals, battens, and boards-Jewson & Sons"
+18930520p.646_p002.txt,62,City of Bristol,Rotterdam,BELFAST,2 lds. hoops,Pinkerton,9,5,1893,20,5,1893,False,May 9 City of Bristol-Rotterdam-2 lds. hoops-Pinkerton
+18930520p.646_p002.txt,63,Carolina,Gothenburg,BELFAST,"11,603 planed deals and battens, 4,500 bdls. fir laths",J. P. Corry,13,5,1893,20,5,1893,False,"13 Carolina-Gothenburg-11,603 planed deals and battens, 4,500 bdls. fir laths-J. P. Corry"
+18930520p.646_p002.txt,66,Erminia,Christiania,DUBLIN,"58,470 boards, 2,108 scantlings, 580 spars",Locke & Woods,15,5,1893,20,5,1893,False,"May 15 Erminia - Christiania-58,470 boards, 2,108 scantlings, 580 spars-Locke & Woods"
+18930520p.646_p002.txt,67,Geer,Christiania,DUBLIN,"33,790 boards, 704 poles",John McFerran & Co.,16,5,1893,20,5,1893,False,"16 Geer-Christiania-33,790 boards, 704 poles-John McFerran & Co."
+18930520p.646_p002.txt,69,Amanda,Gothenburg,NEWRY,"485 lds. sawn fir deals, 1 ld. sawn fir poles, 2 lds. doors, 4 bdls. mouldings",Carvill Bros.,15,5,1893,20,5,1893,False,"May 15 Amanda-Gothenburg-485 lds. sawn fir deals, 1 ld. sawn fir poles, 2 lds. doors, 4 bdls. mouldings-Carvill Bros."
+18930520p.646_p002.txt,71,Wallis and John,Apalachicola,WATERFORD,"227 lds. sawn fir, 246 lds. sawn fir, 20 lds. sawn fir laths",Cox Bros. & Co.,9,5,1893,20,5,1893,False,"May 9 Wallis and John-Apalachicola-227 lds. sawn fir, 246 lds. sawn fir, 20 lds. sawn fir laths-Cox Bros. & Co."
+18930520p.646_p002.txt,73,Cornelia,Windau,WATERFORD,"1,050 lds. hewn fir",Calder & Co.,13,5,1893,20,5,1893,False,"13 Cornelia - Windau - 1,050 lds. hewn fir-Calder & Co."
+18930520p.646_p002.txt,76,Wells City,New York,BRISTOL,491 cedar planks,G. Adlam & Sons,11,5,1893,20,5,1893,True,May 11 Wells City -New York-491 cedar planks-G. Adlam & Sons
+18930520p.646_p002.txt,77,Lismoy,New York,BRISTOL,383 cedar planks,G. Adlam & Son,17,5,1893,20,5,1893,True,17 Lismoy -New York-383 cedar planks-G. Adlam & Son
+18930520p.646_p002.txt,79,Hidalgo,Fiume,HULL,329 pcs oak,Order,12,5,1893,20,5,1893,True,May 12 Hidalgo -Fiume-329 pcs oak-Order
+18930520p.646_p002.txt,81,Pocasset,"Norfolk, Va.",LIVERPOOL,"372 ash logs, 11 oak logs","Order; 3 poplar logs, 47 walnut logs-Farnworth & Jardine; 429 boards, 454 pcs. persimmon, 31 pcs. oak, 1,191 pcs. ash-Order",12,5,1893,20,5,1893,True,"May 12 Pocasset -Norfolk, Va.-372 ash logs, 11 oak logs-Order; 3 poplar logs, 47 walnut logs-Farnworth & Jardine; 429 boards, 454 pcs. persimmon, 31 pcs. oak, 1,191 pcs. ash-Order"
+18930520p.646_p002.txt,82,Geroman,Boston,LIVERPOOL,119 walnut logs,J. H. Burrell & Co.; 20 hickory logs-Order,13,5,1893,20,5,1893,True,13 Geroman -Boston-119 walnut logs-J. H. Burrell & Co.; 20 hickory logs-Order
+18930520p.646_p002.txt,83,Ashodel,Newport News,LIVERPOOL,"46 walnut logs, 12 pcs. poplar logs",Order,15,5,1893,20,5,1893,True,"15 Ashodel -Newport News-46 walnut logs, 12 pcs. poplar logs-Order"
+18930520p.646_p003.txt,8,Holger Danske,Memel,SURREY COMMERCIAL DOCKS,42 mille oak staves,Order,12,5,1893,20,5,1893,False,May 12 Holger Danske - Memel - 42 mille oak staves-Order
+18930520p.646_p003.txt,15,Maroon,Kingston 24 t. lignum,EAST INDIA DOCKS,vitae [?] & Co.; from Salt River,11½ t. satinwood H. A. Mitchell,17,5,1893,20,5,1893,True,17 Maroon -Kingston 24 t. lignum-vitae [?] & Co.; from Salt River-11½ t. satinwood H. A. Mitchell
+18930520p.646_p003.txt,23,Dom,Pedro,HAVRE,1 grenier 30 billes obre,,12,5,1893,20,5,1893,False,May 12 Dom-Pedro-1 grenier 30 billes obre
+18930520p.646_p003.txt,24,La Bretagne,Rio Janeiro,HAVRE,130 bille,"sandre; from Bahia-33 billes palissandre, 2,431 bleches bois rouge, 29 bûches de rose",16,5,1893,20,5,1893,True,"May 16 La Bretagne -Rio Janeiro-130 bille-sandre; from Bahia-33 billes palissandre, 2,431 bleches bois rouge, 29 bûches de rose"
+18930610p.729_p001.txt,5,Versuch Libau,"6,072 pcs. hewn fir",IMPORTS,Crossfield & Co.,,5,6,1893,10,6,1893,False,"June 5 Versuch Libau-6,072 pcs. hewn fir-Crossfield & Co."
+18930610p.729_p001.txt,7,Elise Both,Pensacola,BEAUMARIS,"2,649 pcs. pitch pine, 2,649 pitch pine deals and boards",P. & H. Lewis,31,5,1893,10,6,1893,False,"May 31 Elise Both-Pensacola-2,649 pcs. pitch pine, 2,649 pitch pine deals and boards-P. & H. Lewis"
+18930610p.729_p001.txt,9,Hygeia,Stockholm,BLYTH,"1,243 bds. laths, tens, and boards sawn fir",Order,31,5,1893,10,6,1893,False,"May 31 Hygeia-Stockholm-1,243 bds. laths, tens, and boards sawn fir-Order"
+18930610p.729_p001.txt,10,John,Gothenburg,BLYTH,"275 lds. deals, bat",timber-Order,2,6,1893,10,6,1893,False,"June 2 John-Gothenburg-275 lds. deals, bat-timber-Order"
+18930610p.729_p001.txt,12,Ludwig Possehl,Danzig,BOSTON,"4,060 sawn fir crossings","Burt, Boulton, & Haywood",2,6,1893,10,6,1893,False,"June 2 Ludwig Possehl-Danzig-4,060 sawn fir crossings-Burt, Boulton, & Haywood"
+18930610p.729_p001.txt,14,Senta,Port Blakely,BRISTOL,"9,855 deals",Price,2,6,1893,10,6,1893,False,"June 2 Senta-Port Blakely-9,855 deals-Price"
+18930610p.729_p001.txt,16,Halden,Fredrikshald,BRISTOL,"57,497 boards, 573 bdls. laths","Fredrikshald-57,497 boards, 573 bdls. laths, 1,128 bdls. mouldings, 1,000 doors-Order",3,6,1893,10,6,1893,False,"3 Halden-Fredrikshald-57,497 boards, 573 bdls. laths-Fredrikshald-57,497 boards, 573 bdls. laths, 1,128 bdls. mouldings, 1,000 doors-Order"
+18930610p.729_p001.txt,17,Moss Rose,Drammen,BRISTOL,"53,486 flooring boards, 5,063 scantlings",Charles Gane & Co.,4,6,1893,10,6,1893,False,"4 Moss Rose-Drammen-53,486 flooring boards, 5,063 scantlings-Charles Gane & Co."
+18930610p.729_p001.txt,18,Nether Holme,Montreal,BRISTOL,"18,957 deals, 3,074 ends, 123 logs birch","May & Bros.; 8,351 deals-May & Co.; 5,272 deals-Lightbound & Rigby; 60 logs waney ash-May & Hassell; 2,667 deals-Order; from Three Rivers-7,609 spruce deals-Order",6,6,1893,10,6,1893,True,"6 Nether Holme -Montreal-18,957 deals, 3,074 ends, 123 logs birch-May & Bros.; 8,351 deals-May & Co.; 5,272 deals-Lightbound & Rigby; 60 logs waney ash-May & Hassell; 2,667 deals-Order; from Three Rivers-7,609 spruce deals-Order"
+18930610p.729_p001.txt,20,Rive de Gier,Bayonne,CARDIFF,"1,120 lds. hewn fir",A. Capelle,30,5,1893,10,6,1893,False,"May 30 Rive de Gier-Bayonne-1,120 lds. hewn fir-A. Capelle"
+18930610p.729_p001.txt,23,Camel,Ghent,CARDIFF,10 lds. sawn teak,Matthews,31,5,1893,10,6,1893,False,31 Camel-Ghent-10 lds. sawn teak-Matthews
+18930610p.729_p001.txt,26,Garrison,Bordeaux,CARDIFF,"1,000 lds. pitwood","Powley, Thomas, & Co.",1,6,1893,10,6,1893,False,"June 1 Garrison-Bordeaux-1,000 lds. pitwood-Powley, Thomas, & Co."
+18930610p.729_p001.txt,28,Isbergues,Bayonne,CARDIFF,"1,400 lds. pitwood",Capelle,2,6,1893,10,6,1893,False,"2 Isbergues-Bayonne-1,400 lds. pitwood-Capelle"
+18930610p.729_p001.txt,29,Artemis,Stettin,CARDIFF,"572 pcs. hewn oak, 196 pcs. hewn fir",J. Bland & Co.,3,6,1893,10,6,1893,False,"3 Artemis-Stettin-572 pcs. hewn oak, 196 pcs. hewn fir-J. Bland & Co."
+18930610p.729_p001.txt,32,Billow,Bordeaux,CARDIFF,"1,790 lds. pitwood",Simkin,5,6,1893,10,6,1893,False,"5 Billow-Bordeaux-1,790 lds. pitwood-Simkin"
+18930610p.729_p001.txt,42,Valkyrien,Porsgrund,CHESTER,"4,501 pit props",Thomas Parry & Co.,31,5,1893,10,6,1893,False,"May 31 Valkyrien-Porsgrund-4,501 pit props-Thomas Parry & Co."
+18930610p.729_p001.txt,43,Geraldine,Fredrikstad,CHESTER,"15,081 planed fir boards, 606 bdls. sawn fir laths",Jones,1,6,1893,10,6,1893,False,"June 1 Geraldine-Fredrikstad-15,081 planed fir boards, 606 bdls. sawn fir laths-Jones"
+18930610p.729_p001.txt,45,Wivenhoe,Norrkoping,COLCHESTER,"9,980 deals and battens","Groom, Daniels, & Co.",31,5,1893,10,6,1893,False,"May 31 Wivenhoe-Norrkoping-9,980 deals and battens-Groom, Daniels, & Co."
+18930610p.729_p001.txt,47,Stambane,Ship Island,FLEETWOOD,"484 pcs. hewn pitch pine, 1,280 pcs. sawn pitch pine",Bass,1,6,1893,10,6,1893,False,"June 1 Stambane-Ship Island-484 pcs. hewn pitch pine, 1,280 pcs. sawn pitch pine-Bass"
+18930610p.729_p001.txt,49,Adonis,Fredrikshald,FOWEY,"1,225 lds. fir staves",W. Chellew,31,5,1893,10,6,1893,False,"May 31 Adonis-Fredrikshald-1,225 lds. fir staves-W. Chellew"
+18930610p.729_p001.txt,51,Mercure,Blaye,LLANELLY,168 lds. pitwood,Nevill,5,6,1893,10,6,1893,False,June 5 Mercure-Blaye-168 lds. pitwood-Nevill
+18930610p.729_p001.txt,53,Tongoy,Mobile,GOOLE,558 lds. deals and boards,"Illingworth, Ingham, & Co.",31,5,1893,10,6,1893,False,"May 31 Tongoy-Mobile-558 lds. deals and boards-Illingworth, Ingham, & Co."
+18930610p.729_p001.txt,54,Otterburn,Gefle,GOOLE,"1,602 lds. hewn fir",Alexander Meek,1,6,1893,10,6,1893,False,"June 1 Otterburn-Gefle-1,602 lds. hewn fir-Alexander Meek"
+18930610p.729_p001.txt,56,Delhi,Pensacola,GRIMSBY,"1,584 lds. hewn fir timber",G. A. Carr & Co.,31,5,1893,10,6,1893,True,"May 31 Delhi -Pensacola-1,584 lds. hewn fir timber-G. A. Carr & Co."
+18930610p.729_p001.txt,58,Vanadis,Gothenburg,GRIMSBY,"32 lds. sleepers, 12 lds. fir props G. Horsley & Co.; 30 lds laths",J. Baird & Co; 64 lds. fir props-T. W. Baird & Co.,31,5,1893,10,6,1893,True,"31 Vanadis -Gothenburg-32 lds. sleepers, 12 lds. fir props G. Horsley & Co.; 30 lds laths-J. Baird & Co; 64 lds. fir props-T. W. Baird & Co."
+18930610p.729_p002.txt,2,Harmonia,Fredrikstad,LYNN,440 lds. prepared floorings and boards,J. T. Stanton,31,5,1893,10,6,1893,False,May 31 Harmonia-Fredrikstad-440 lds. prepared floorings and boards-J. T. Stanton
+18930610p.729_p002.txt,3,Joseph Somes,Sundswall,LYNN,"1,020 lds. fir deals, battens, and boards",J. T. Sydenham & Co.,1,6,1893,10,6,1893,False,"June 1 Joseph Somes-Sundswall-1,020 lds. fir deals, battens, and boards-J. T. Sydenham & Co."
+18930610p.729_p002.txt,4,Mabel,Skonvik,LYNN,"1,310 lds. fir battens, and boards",J. T. Stanton,5,6,1893,10,6,1893,True,"5 Mabel -Skonvik-1,310 lds. fir battens, and boards-J. T. Stanton"
+18930610p.729_p002.txt,7,John,Drammen,LOWESTOFT,"299 lds. firewood, 270 lds. fir staves",W. J. Wilton,30,5,1893,10,6,1893,False,"May 30 John-Drammen-299 lds. firewood, 270 lds. fir staves-W. J. Wilton"
+18930610p.729_p002.txt,8,Olive Branch,Dunkirk,LOWESTOFT,200 lds. hewn fir,F. Spashett,5,6,1893,10,6,1893,False,June 5 Olive Branch-Dunkirk-200 lds. hewn fir -F. Spashett
+18930610p.729_p002.txt,10,Hawthorn,Riga,MIDDLESBROUGH,"1,006 lds. sawn fir sleepers, 108 lds. hewn fir sleepers, 135 lds. fir poles",Calder & Co.,2,6,1893,10,6,1893,False,"June 2 Hawthorn-Riga-1,006 lds. sawn fir sleepers, 108 lds. hewn fir sleepers, 135 lds. fir poles-Calder & Co."
+18930610p.729_p002.txt,13,Desederia,Tvedestrand,NEWPORT,650 lds. hewn fir logs,T. B. Batchelor,31,5,1893,10,6,1893,False,May 31 Desederia-Tvedestrand-650 lds. hewn fir logs-T. B. Batchelor
+18930610p.729_p002.txt,14,Guide,Quimper,NEWPORT,110 lds. pitwood,Newport Pitwood Co.,2,6,1893,10,6,1893,False,June 2 Guide-Quimper-110 lds. pitwood-Newport Pitwood Co.
+18930610p.729_p002.txt,15,Cardinal,Stettin,NEWPORT,478 oak logs,T. B. Batchelor,3,6,1893,10,6,1893,False,3 Cardinal-Stettin-478 oak logs-T. B. Batchelor
+18930610p.729_p002.txt,17,Hebe,Auray,NEWPORT,112 lds. pitwood,Watts & Co.,5,6,1893,10,6,1893,False,5 Hebe-Auray-112 lds. pitwood-Watts & Co.
+18930610p.729_p002.txt,25,Vidar,Christiania,PLYMOUTH,"405 lds. planed fir, 1,201 hewn fir spars",R. & R. Bayly,1,6,1893,10,6,1893,False,"June 1 Vidar-Christiania-405 lds. planed fir, 1,201 hewn fir spars-R. & R. Bayly"
+18930610p.729_p002.txt,26,Oberstlieutenant von Sulsi,Torf,PLYMOUTH,Stettin,380 pcs. hewn oak-R. & R. Bayly,2,6,1893,10,6,1893,False,2 Oberstlieutenant von Sulsi-Torf-Stettin-380 pcs. hewn oak-R. & R. Bayly
+18930610p.729_p002.txt,28,Bethlehem,Riga,POOLE,"408 lds. hewn fir lathwood, 96 pcs. hewn fir",May & Hassell,31,5,1893,10,6,1893,False,"May 31 Bethlehem-Riga-408 lds. hewn fir lathwood, 96 pcs. hewn fir-May & Hassell"
+18930610p.729_p002.txt,30,Olaf Nickelsen,Christiania,PRESTON,"48,961 fir boards and ends","Pierce, Watts, & Co.",29,5,1893,10,6,1893,False,"May 29 Olaf Nickelsen-Christiania-48,961 fir boards and ends-Pierce, Watts, & Co."
+18930610p.729_p002.txt,32,Luz,Langesund,RAMSGATE,170 dressed fir oars,Ramsgate Smackowners' Ice Co.,31,5,1893,10,6,1893,False,May 31 Luz-Langesund-170 dressed fir oars-Ramsgate Smackowners' Ice Co.
+18930610p.729_p002.txt,34,Stjernen,Drammen,SCARBOROUGH,352 lds. firewood,J. W. Bird & Co.,5,6,1893,10,6,1893,False,June 5 Stjernen-Drammen-352 lds. firewood-J. W. Bird & Co.
+18930610p.729_p002.txt,36,Monton,Gefle,SHOREHAM,659 lds. sawn fir,"R. H. Penney; 677 lds. deals, battens, and boards -Beves & Co.",2,6,1893,10,6,1893,False,"June 2 Monton-Gefle-659 lds. sawn fir-R. H. Penney; 677 lds. deals, battens, and boards -Beves & Co."
+18930610p.729_p002.txt,38,Luxor,St. Simon's,SOUTHAMPTON,"1,609 pcs. sawn fir",Pitch Pine & Export Timber Co.,31,5,1893,10,6,1893,False,"May 31 Luxor-St. Simon's-1,609 pcs. sawn fir-Pitch Pine & Export Timber Co."
+18930610p.729_p002.txt,40,Gaelus,Abo,SOUTHAMPTON,74 lds. sawn fir,Langstrom,3,6,1893,10,6,1893,False,June 3 Gaelus-Abo-74 lds. sawn fir-Langstrom
+18930610p.729_p002.txt,41,Elina,Mobile,SOUTHAMPTON,"202 pcs. hewn fir, 564 sawn fir deals, 306 pcs. sawn fir, 101 pcs. hewn oak",W. Crundall & Co.,2,6,1893,10,6,1893,False,"2 Elina-Mobile-202 pcs. hewn fir, 564 sawn fir deals, 306 pcs. sawn fir, 101 pcs. hewn oak-W. Crundall & Co."
+18930610p.729_p002.txt,42,Tempo,Soderhamn,SOUTHAMPTON,"71,508 deals, battens, and boards, 45 lds. fir firewood",Driver & Co.,5,6,1893,10,6,1893,False,"5 Tempo-Soderhamn-71,508 deals, battens, and boards, 45 lds. fir firewood-Driver & Co."
+18930610p.729_p002.txt,44,Catharina,Riga,SUNDERLAND,169 lds. firewood,Carl Senstius,30,5,1893,10,6,1893,False,May 30 Catharina-Riga-169 lds. firewood-Carl Senstius
+18930610p.729_p002.txt,46,Emilie,Riga,SUNDERLAND,"21,899 pit props",Moller,31,5,1893,10,6,1893,False,"31 Emilie-Riga-21,899 pit props-Moller"
+18930610p.729_p002.txt,47,Lindholmen,Gothenburg,SUNDERLAND,"41,902 sawn fir sleepers, 16,021 pit props",Lindsay & Hall,3,6,1893,10,6,1893,False,"June 3 Lindholmen-Gothenburg-41,902 sawn fir sleepers, 16,021 pit props-Lindsay & Hall"
+18930610p.729_p002.txt,48,Freja,Amsterdam,SUNDERLAND,13 lds. sawn fir,Senstius,5,6,1893,10,6,1893,False,5 Freja-Amsterdam-13 lds. sawn fir-Senstius
+18930610p.729_p002.txt,50,Alpha,Drammen,SWANSEA,"27,494 boards",R. Williams,30,5,1893,10,6,1893,False,"May 30 Alpha-Drammen-27,494 boards-R. Williams"
+18930610p.729_p002.txt,51,Sprint,La Rochelle,SWANSEA,130 lds. hewn fir,A. Capelle,5,6,1893,10,6,1893,False,June 5 Sprint-La Rochelle-130 lds. hewn fir-A. Capelle
+18930617p.4_p001.txt,5,State of Georgia,Quebec and Montreal,ABERDEEN,"77 lds. elm timber, 26 lds. birch timber, 16 lds. elm timber, 15 lds. ash timber, 255 lds. fir timber, 302 lds. fir deals and battens",R Millar & Sons,6,6,1893,17,6,1893,False,"June 6 State of Georgia-Quebec and Montreal-77 lds. elm timber, 26 lds. birch timber, 16 lds. elm timber, 15 lds. ash timber, 255 lds. fir timber, 302 lds. fir deals and battens-R Millar & Sons"
+18930617p.4_p001.txt,11,Elise Wilhelmine,Brevig,ALLOA,"8,031 fir props",Kirkwood & Co.,6,6,1893,17,6,1893,False,"June 6 Elise Wilhelmine - Brevig-8,031 fir props-Kirkwood & Co."
+18930617p.4_p001.txt,13,Concordia,Laurvig,ALLOA,"8,275 fir props",Love,7,6,1893,17,6,1893,False,"7 Concordia-Laurvig-8,275 fir props-Love"
+18930617p.4_p001.txt,15,Jacob,Namsos,ALLOA,"7,137 fir deals and battens",J. Johnston,9,6,1893,17,6,1893,False,"9 Jacob-Namsos-7,137 fir deals and battens-J. Johnston"
+18930617p.4_p001.txt,16,Olaus,Fredrikshald,ALLOA,350 lds. pit props,Love,10,6,1893,17,6,1893,False,10 Olaus-Fredrikshald-350 lds. pit props-Love
+18930617p.4_p001.txt,18,Amateurs,Skien,ARBROATH,"2,695 fir deals, 2,120 pcs. pitwood",Arbroath Saw-mill Co.,7,6,1893,17,6,1893,False,"June 7 Amateurs-Skien-2,695 fir deals, 2,120 pcs. pitwood-Arbroath Saw-mill Co."
+18930617p.4_p001.txt,20,Olaf,Fredrikshald,ARBROATH,"10,884 pcs. pitwood","J. S. Dymock, Smith, & Co.",9,6,1893,17,6,1893,False,"9 Olaf-Fredrikshald-10,884 pcs. pitwood-J. S. Dymock, Smith, & Co."
+18930617p.4_p001.txt,21,Gomanden,Halmstad,ARBROATH,275 lds. pitwood,Love,12,6,1893,17,6,1893,False,12 Gomanden-Halmstad-275 lds. pitwood-Love
+18930708p.46_p003.txt,7,Alice,Bordeaux,LLANELLY,132 lds. pitwood,Newport (Mon.) Pitwood Co.,28,6,1893,8,7,1893,False,June 28 Alice-Bordeaux-132 lds. pitwood-Newport (Mon.) Pitwood Co.
+18930708p.46_p003.txt,10,Vesta,Ulvik,LOWESTOFT,730 lds. firewood,W.J. Wilton,30,6,1893,8,7,1893,False,June 30 Vesta-Ulvik-730 lds. firewood-W.J. Wilton
+18930708p.46_p003.txt,14,Constantia,Bjorneborg,LYNN,"1,062 lds. fir deals, battens, and boards",Thompson,28,6,1893,8,7,1893,True,"June 28 Constantia -Bjorneborg-1,062 lds. fir deals, battens, and boards-Thompson"
+18930708p.46_p003.txt,15,John,Sandarne,LYNN,410 lds. fir boards ends,Bristow & Copley,30,6,1893,8,7,1893,False,30 John-Sandarne-410 lds. fir boards ends-Bristow & Copley
+18930708p.46_p003.txt,18,Vidfarne,Brevig,MIDDLESBROUGH,"87 lds. fir props, 5 lds. fir boards",W. J. Watson & Co.,27,6,1893,8,7,1893,False,"June 27 Vidfarne-Brevig-87 lds. fir props, 5 lds. fir boards-W. J. Watson & Co."
+18930708p.46_p003.txt,19,Skotland,Caen,MIDDLESBROUGH,5 lds. firewood,J. Watson,30,6,1893,8,7,1893,True,30 Skotland -Caen-5 lds. firewood-J. Watson
+18930708p.46_p003.txt,22,Lizzie,Gothenburg,MILFORD,"93 lds. deals, 45 lds. battens, 120 lds. planed fir, 2 lds. fir spars, 6 lds. fir mouldings, 3 lds. laths",Elford Brothers,3,7,1893,8,7,1893,False,"July 3 Lizzie-Gothenburg-93 lds. deals, 45 lds. battens, 120 lds. planed fir, 2 lds. fir spars, 6 lds. fir mouldings, 3 lds. laths-Elford Brothers"
+18930708p.46_p003.txt,25,Hardi,Soderhamn,NEWHAVEN,"14,508 deals, battens, and boards, 24 lds. firewood",Parsons Brothers,1,7,1893,8,7,1893,False,"July 1 Hardi-Soderhamn-14,508 deals, battens, and boards, 24 lds. firewood-Parsons Brothers"
+18930708p.46_p003.txt,26,Locklyn,Gefle,NEWHAVEN,"8,954 fir deals, 46 lds. firewood",Parsons Brothers,3,7,1893,8,7,1893,False,"3 Locklyn-Gefle-8,954 fir deals, 46 lds. firewood-Parsons Brothers"
+18930708p.46_p003.txt,33,Rive de Gier,Bayonne,NEWPORT,116 lds. pitwood,A. Capelle,28,6,1893,8,7,1893,False,June 28 Rive de Gier-Bayonne-116 lds. pitwood-A. Capelle
+18930708p.46_p003.txt,34,Tancred,Bordeaux,NEWPORT,"1,250 lds. pitwood","Watts, Ward, & Co.",29,6,1893,8,7,1893,False,"29 Tancred-Bordeaux-1,250 lds. pitwood-Watts, Ward, & Co."
+18930708p.46_p003.txt,35,F. L. B.,l'Orient,NEWPORT,250 lds. pitwood,"Watts, Ward, & Co.",3,7,1893,8,7,1893,False,"July 3 F. L. B.-l'Orient-250 lds. pitwood-Watts, Ward, & Co."
+18930708p.46_p003.txt,39,Georg Nicolaus,Gefle,PLYMOUTH,"13,974 pcs. sawn fir",Jewson Brothers,1,7,1893,8,7,1893,False,"July 1 Georg Nicolaus-Gefle-13,974 pcs. sawn fir-Jewson Brothers"
+18930708p.46_p003.txt,42,Gustaf,Stugsund,POOLE,Soderhamn),"12,227 deals, battens, and boards-J. J. Norton",27,6,1893,8,7,1893,True,"June 27 Gustaf-Stugsund -Soderhamn)-12,227 deals, battens, and boards-J. J. Norton"
+18930708p.46_p003.txt,43,Sjosfoken,Sundswall,POOLE,"36,981 planed battens and boards, 4,469 battens","J. J. Norton; 12 lds. firewood, 4 hewn fir spars-W. H. Baker",28,6,1893,8,7,1893,False,"28 Sjosfoken-Sundswall-36,981 planed battens and boards, 4,469 battens-J. J. Norton; 12 lds. firewood, 4 hewn fir spars-W. H. Baker"
+18930708p.46_p003.txt,44,Mandarin,Fredrikstad,POOLE,"32,261 lds. planed fir boards, 85 lds. fir battens",J. J. Norton,29,6,1893,8,7,1893,False,"29 Mandarin-Fredrikstad-32,261 lds. planed fir boards, 85 lds. fir battens-J. J. Norton"
+18930708p.46_p003.txt,46,Nifa,Hernosand,POOLE,"39,726 fir deals and battens",J. T. Sydenham,3,7,1893,8,7,1893,False,"July 3 Nifa-Hernosand-39,726 fir deals and battens-J. T. Sydenham"
+18930708p.46_p003.txt,54,Luz,Langesund,RAMSGATE,"152 fir oars, 10 spars",T. Acock,1,7,1893,8,7,1893,False,"July 1 Luz-Langesund-152 fir oars, 10 spars-T. Acock"
+18930708p.46_p003.txt,57,Diana,Norrkoping,ROCHESTER,"11,185 pcs. sawn fir",C. Bessent & Son,27,6,1893,8,7,1893,False,"June 27 Diana-Norrkoping-11,185 pcs. sawn fir-C. Bessent & Son"
+18930708p.46_p003.txt,58,Bondina,Hudikswall,ROCHESTER,"10,767 pcs. sawn fir",C. Bessent & Son,1,7,1893,8,7,1893,False,"July 1 Bondina-Hudikswall-10,767 pcs. sawn fir-C. Bessent & Son"
+18930708p.46_p003.txt,59,Rex,Laurvig,ROCHESTER,87 lds. planed fir,C. Bessent,3,7,1893,8,7,1893,False,3 Rex-Laurvig-87 lds. planed fir-C. Bessent
+18930708p.46_p003.txt,63,Enok,Sarpsborg,SCARBOROUGH,196 lds. fir firewood,T. Wilkinson,28,6,1893,8,7,1893,False,June 28 Enok-Sarpsborg-196 lds. fir firewood-T. Wilkinson
+18930708p.46_p003.txt,64,Mentor,Koja (Hernosand),SCARBOROUGH,"80 3/4 cubic fathoms firewood, 27 1/2 lds.",Waddell,1,7,1893,8,7,1893,False,"July 1 Mentor-Koja (Hernosand)-80 3/4 cubic fathoms firewood, 27 1/2 lds.-Waddell"
+18930708p.46_p003.txt,67,Hildur,Soderhamn,SHOREHAM,"498 lds. fir deals, battens, and boards",Beves & Co.,3,7,1893,8,7,1893,False,"July 3 Hildur-Soderhamn-498 lds. fir deals, battens, and boards-Beves & Co."
+18930708p.46_p003.txt,73,Artuskof,Danzig,SOUTHAMPTON,740 lds. sawn fir,Calder & Co.,28,6,1893,8,7,1893,False,June 28 Artuskof-Danzig-740 lds. sawn fir-Calder & Co.
+18930708p.46_p003.txt,74,Clyde,Bahia,SOUTHAMPTON,360 lds. rosewood logs,J. K. Linstead,1,7,1893,8,7,1893,False,July 1 Clyde-Bahia-360 lds. rosewood logs-J. K. Linstead
+18930708p.46_p003.txt,75,Express,Attu,SOUTHAMPTON,473 lds. sawn fir,Tagart,3,7,1893,8,7,1893,False,3 Express-Attu-473 lds. sawn fir-Tagart
+18930708p.46_p003.txt,80,Cherub,Sundswall,STOCKTON,314 lds. battens and boards,J. Byers & Son,29,6,1893,8,7,1893,False,June 29 Cherub-Sundswall-314 lds. battens and boards-J. Byers & Son
+18930708p.46_p003.txt,83,Guido,Abo,SUNDERLAND,"53,784 pit props",Wiener,28,6,1893,8,7,1893,False,"June 28 Guido-Abo-53,784 pit props-Wiener"
+18930708p.46_p003.txt,86,Nicolaus,Rendsberg,SUNDERLAND,175 lds. beech chocks,C. Calder & Co.,29,6,1893,8,7,1893,False,29 Nicolaus-Rendsberg-175 lds. beech chocks-C. Calder & Co.
+18930708p.46_p003.txt,89,Olga,Fredrikshald,SUNDERLAND,"25,484 sawn fir crown trees",E. Wiener & Co.,1,7,1893,8,7,1893,False,"July 1 Olga-Fredrikshald-25,484 sawn fir crown trees-E. Wiener & Co."
+18930708p.46_p003.txt,93,Spesmea,Falkenberg,SUNDERLAND,"7,136 pit props",Calder,3,7,1893,8,7,1893,False,"3 Spesmea-Falkenberg-7,136 pit props-Calder"
+18930708p.46_p003.txt,98,Chatelaine de Apremont,Blaye,SWANSEA,85 lds. pit props,L. G. Mouchel,28,6,1893,8,7,1893,False,June 28 Chatelaine de Apremont-Blaye-85 lds. pit props-L. G. Mouchel
+18930708p.46_p003.txt,99,Alice Scott,Villagarcia,SWANSEA,350 lds. pit props,Main Colliery Co.,29,6,1893,8,7,1893,False,29 Alice Scott-Villagarcia-350 lds. pit props-Main Colliery Co.
+18930708p.46_p003.txt,101,Jeanne,Bordeaux,SWANSEA,70 lds. pit props,Main Colliery Co.,1,7,1893,8,7,1893,False,July 1 Jeanne-Bordeaux-70 lds. pit props-Main Colliery Co.
+18930708p.46_p003.txt,104,Presto,Oscarshamn,TYNE,"15,443 props",Order,28,6,1893,8,7,1893,False,"June 28 Presto-Oscarshamn-15,443 props-Order"
+18930708p.46_p003.txt,114,Achilles,Drammen,TYNE,"7,349 props, 1,447 poles",Order,29,6,1893,8,7,1893,False,"29 Achilles-Drammen-7,349 props, 1,447 poles-Order"
+18930715p.68_p001.txt,5,River Ettrick,Ornskjoldsvik,BARROW,"1,722 lds. fir deals, 287 lds. firewood",Crossfield & Co.,4,7,1893,15,7,1893,True,"July 4 River Ettrick-Ornskjoldsvik-1,722 lds. fir deals, 287 lds. firewood-Crossfield & Co."
+18930715p.68_p001.txt,8,Vega,Gefle,BEAUMARIS,"132 lds. planed fir boards, 16 lds. fir laths, 115 lds. firewood, 4 lds. fir poles",P. & H. Lewis,7,7,1893,15,7,1893,False,"July 7 Vega-Gefle-132 lds. planed fir boards, 16 lds. fir laths, 115 lds. firewood, 4 lds. fir poles-P. & H. Lewis"
+18930715p.68_p001.txt,10,Ivanhoe,Archangel,BERWICK,"1,200 lds. fir deals",Allan Brothers,10,7,1893,15,7,1893,False,"July 10 Ivanhoe-Archangel-1,200 lds. fir deals -Allan Brothers"
+18930715p.68_p001.txt,12,Elisabeth,Gothenburg,BLYTH,312 lds. mining timber,Order,3,7,1893,15,7,1893,False,July 3 Elisabeth-Gothenburg-312 lds. mining timber-Order
+18930715p.68_p001.txt,13,Ogir,Hernsand,BLYTH,"147 lds. fir mining timber, 110 lds. hewn fir mining timber, 2 lds. fir props",A. Beeby & Son,4,7,1893,15,7,1893,False,"July 4 Ogir-Hernsand-147 lds. fir mining timber, 110 lds. hewn fir mining timber, 2 lds. fir props-A. Beeby & Son"
+18930715p.68_p001.txt,15,Eliezer,Harnas,BLYTH,"1,007 lds. fir blocks, 59 lds. fir props",Bruce & Co.,5,7,1893,15,7,1893,False,"July 5 Eliezer-Harnas-1,007 lds. fir blocks, 59 lds. fir props-Bruce & Co."
+18930715p.68_p001.txt,17,Skeflington,Archangel,BRISTOL,"23,679 red and whitewood deals and ends",Taylor,4,7,1893,15,7,1893,True,"July 4 Skeflington -Archangel-23,679 red and whitewood deals and ends-Taylor"
+18930715p.68_p001.txt,19,Tobique,"St. John, N.B.",BRISTOL,"37,218 deals, battens, and boards, 5,378 birch scantlings, and ends",May,10,7,1893,15,7,1893,False,"July 10 Tobique-St. John, N.B.-37,218 deals, battens, and boards, 5,378 birch scantlings, and ends-May"
+18930715p.68_p001.txt,23,Boncan,Montreal,AVONMOUTH DOCK,"9,192 spruce deals, 225 pcs. birch timber",Order,5,7,1893,15,7,1893,True,"July 5 Boncan -Montreal-9,192 spruce deals, 225 pcs. birch timber-Order"
+18930715p.68_p001.txt,26,Boncan,Bayonne,CARDIFF,"1,200 lds. pitwood",A. Capelle,5,7,1893,15,7,1893,False,"July 5 Boncan-Bayonne-1,200 lds. pitwood-A. Capelle"
+18930715p.68_p001.txt,31,Carlos,Danzig,CARDIFF,"13,934 sawn fir sleepers",Alexanders & Co.,8,7,1893,15,7,1893,False,"July 8 Carlos-Danzig-13,934 sawn fir sleepers-Alexanders & Co."
+18930715p.68_p001.txt,32,La Rochelle,Bayonne,CARDIFF,"1,400 lds. pitwood",A. Capelle,10,7,1893,15,7,1893,False,"July 10 La Rochelle-Bayonne-1,400 lds. pitwood-A. Capelle"
+18930715p.68_p001.txt,38,W. Hunter,Skelleftea,COLCHESTER,"1,019 lds. sawn fir",J. Judd & Co.,4,7,1893,15,7,1893,True,"July 4 W. Hunter -Skelleftea-1,019 lds. sawn fir-J. Judd & Co."
+18930715p.68_p001.txt,39,Carlisle,Abyn,COLCHESTER,"1,363 lds. sawn fir",Sadd & Sons,6,7,1893,15,7,1893,False,"July 6 Carlisle-Abyn-1,363 lds. sawn fir-Sadd & Sons"
+18930715p.68_p001.txt,40,Antelope,Ornskjoldsvik,COLCHESTER,"223 lds. fir deals, 65 lds. firewood",Brown & Son,10,7,1893,15,7,1893,False,"July 10 Antelope-Ornskjoldsvik-223 lds. fir deals, 65 lds. firewood-Brown & Son"
+18930715p.68_p001.txt,42,Methodist,Swartvik,DARTMOUTH,"207 lds. fir boards, 379 lds. deals, and battens, 11 lds. fir battens",J. Cull,6,7,1893,15,7,1893,False,"July 6 Methodist-Swartvik-207 lds. fir boards, 379 lds. deals, and battens, 11 lds. fir battens -J. Cull"
+18930715p.68_p001.txt,44,Mathilda,Christina,DOVER,Sundswall,"820 lds, firewood-W. Crundall & Co.",5,7,1893,15,7,1893,False,"July 5 Mathilda-Christina-Sundswall-820 lds, firewood-W. Crundall & Co."
+18930715p.68_p001.txt,45,Glenavon,Archangel,DOVER,"1,121 lds. fir deals",W. Crundall & Co.,7,7,1893,15,7,1893,False,"July 7 Glenavon-Archangel-1,121 lds. fir deals-W. Crundall & Co."
+18930715p.68_p001.txt,47,Martin,Ljusne,EXETER,"554 lds. deals, battens, and boards",Gabriel & Sons,6,7,1893,15,7,1893,False,"July 6 Martin-Ljusne-554 lds. deals, battens, and boards-Gabriel & Sons"
+18930715p.68_p001.txt,49,Sola Fide,Skien,FALMOUTH,"1,466 pcs. hewn fir, 934 lds. firewood",Gweek Co.,8,7,1893,15,7,1893,False,"July 8 Sola Fide-Skien-1,466 pcs. hewn fir, 934 lds. firewood-Gweek Co."
+18930715p.68_p001.txt,51,Loveid,Borg,FAVERSHAM,Gefle,337 lds. fir deals and battens-Nicks & Co.,8,7,1893,15,7,1893,False,July 8 Loveid-Borg-Gefle-337 lds. fir deals and battens-Nicks & Co.
+18930715p.68_p001.txt,52,Ingeborg,"Portland, O. 20 lds. fir boards and 2 lds firewood",FAVERSHAM,Whittle & Co.,,3,7,1893,15,7,1893,False,"July 3 Ingeborg-Portland, O. 20 lds. fir boards and 2 lds firewood-Whittle & Co."
+18930715p.68_p001.txt,54,Craigmore,"Portland, O. 20 lds. fir boards",FLEETWOOD,Ward & Co.,,10,7,1893,15,7,1893,False,"July 10 Craigmore-Portland, O. 20 lds. fir boards -Ward & Co."
+18930715p.68_p001.txt,56,Alf,Skienvik,FOLKESTONE,"5,938 pcs. sawn fir",Brimmell & Miller,6,7,1893,15,7,1893,False,"July 6 Alf-Skienvik-5,938 pcs. sawn fir-Brimmell & Miller"
+18930715p.68_p001.txt,57,Cragside,Cronstadt,FOLKESTONE,"340 lds. fir deals, 192 lds. lathwood",H. Tolputt & Co.,7,7,1893,15,7,1893,False,"July 7 Cragside-Cronstadt-340 lds. fir deals, 192 lds. lathwood-H. Tolputt & Co."
+18930715p.68_p001.txt,59,Ruth,Bjorneborg,FOWEY,277 lds. fir staves,D. Brown & Co.,6,7,1893,15,7,1893,False,July 6 Ruth-Bjorneborg-277 lds. fir staves-D. Brown & Co.
+18930715p.68_p001.txt,61,Sola Fide,Drammen,GLOUCESTER,661 lds. fir boards,Nicks & Co.,8,7,1893,15,7,1893,False,July 8 Sola Fide-Drammen-661 lds. fir boards-Nicks & Co.
+18930715p.68_p001.txt,65,Columbus,Darien,THE TIMBER TRADES JOURNAL,"2,571 pcs. sawn fir, 742 fir deals","Price, Walker, & Co.",10,7,1893,15,7,1893,False,"July 10 Columbus-Darien-2,571 pcs. sawn fir, 742 fir deals-Price, Walker, & Co."
+18930715p.68_p001.txt,68,Munroe,Gefle,GOOLE,"1,020 lds. hewn fir",Meek,7,7,1893,15,7,1893,False,"July 7 Munroe-Gefle-1,020 lds. hewn fir-Meek"
+18930715p.68_p001.txt,70,Cairngorm,Archangel,GRIMSBY,"1,710 lds. sawn fir",Marshall & Atkinson,4,7,1893,15,7,1893,False,"July 4 Cairngorm-Archangel-1,710 lds. sawn fir-Marshall & Atkinson"
+18930715p.68_p001.txt,72,Efemia,Rafso,GRIMSBY,"700 lds. fir deals, battens, and ends",J. Hewson & Co.,5,7,1893,15,7,1893,False,"July 5 Efemia-Rafso-700 lds. fir deals, battens, and ends-J. Hewson & Co."
+18930715p.68_p001.txt,75,Cameo,Gothenburg,GRIMSBY,"232 lds. fir props, 35 lds. fir laths","T. Wilson, Sons, & Co.",6,7,1893,15,7,1893,True,"July 6 Cameo -Gothenburg-232 lds. fir props, 35 lds. fir laths-T. Wilson, Sons, & Co."
+18930715p.68_p003.txt,2,Espoir,St. Estephe,SWANSEA,105 lds. pitwood,J.,4,7,1893,15,7,1893,False,July 4 Espoir-St. Estephe-105 lds. pitwood-J.
+18930715p.68_p003.txt,6,Theophile & Felix,La Tremblade,SWANSEA,"1,532 pcs.",,5,7,1893,15,7,1893,False,"5 Theophile & Felix-La Tremblade-1,532 pcs."
+18930715p.68_p003.txt,8,Baron Hambro,Bordeaux,SWANSEA,"9,199 props",,7,7,1893,15,7,1893,False,"7 Baron Hambro-Bordeaux-9,199 props-"
+18930715p.68_p003.txt,10,Vixen,Hennebont,SWANSEA,220 lds. pitwood,,8,7,1893,15,7,1893,False,8 Vixen-Hennebont-220 lds. pitwood
+18930715p.68_p003.txt,11,Adolph Frederick,Bordeaux,SWANSEA,295 lds. pitwood,,10,7,1893,15,7,1893,False,10 Adolph Frederick-Bordeaux-295 lds. pitwood
+18930715p.68_p003.txt,22,Angostura,Narva,WISBECH,"16,000 fir deals",,5,7,1893,15,7,1893,False,"July 5 Angostura - Narva - 16,000 fir deals"
+18930715p.68_p003.txt,24,Idlewlld,Uleaborg,WISBECH,"40,830 fir deals,batten",,7,7,1893,15,7,1893,False,"7 Idlewlld - Uleaborg - 40,830 fir deals,batten"
+18930715p.68_p003.txt,26,Chester,Kramfors,WISBECH,"57,220 fir deals, battens,",,8,7,1893,15,7,1893,False,"8 Chester - Kramfors - 57,220 fir deals, battens,"
+18930715p.68_p003.txt,30,Albert,Abo,YARMOUTH,"17,855 fir deals, battens, and",,4,7,1893,15,7,1893,False,"July 4 Albert-Abo-17,855 fir deals, battens, and"
+18930715p.68_p003.txt,32,Jernavik,Halsta,YARMOUTH,"11,055 fir deals, battens, and",,5,7,1893,15,7,1893,False,"5 Jernavik-Halsta-11,055 fir deals, battens, and"
+18930715p.68_p003.txt,35,Emil,Hodikeswall,YARMOUTH,450 lds. fir and ends,T. Saul & Son,6,7,1893,15,7,1893,False,6 Emil-Hodikeswall-450 lds. fir and ends-T. Saul & Son
+18930715p.68_p003.txt,36,Lionel,Rafso,YARMOUTH,500 lds. fir and ends,T. Saul & Son,7,7,1893,15,7,1893,False,7 Lionel-Rafso-500 lds. fir and ends-T. Saul & Son
+18930715p.68_p003.txt,39,Anthon,Drammen,YARMOUTH,258 lds. fir and ends,T.,10,7,1893,15,7,1893,False,10 Anthon-Drammen-258 lds. fir and ends-T.
+18930715p.68_p003.txt,42,Christiane,Miramichi,BELFAST,998 lds. sawn fir,,3,7,1893,15,7,1893,False,July 3 Christiane - Miramichi - 998 lds. sawn fir
+18930715p.68_p003.txt,45,City of Belfast,Rotterdam,BELFAST,168 lds. split,,4,7,1893,15,7,1893,False,4 City of Belfast - Rotterdam - 168 lds. split
+18930715p.68_p003.txt,50,Angell,Rangoon,BELFAST,"1,314 lds. teakwood",Har-,5,7,1893,15,7,1893,False,"5 Angell-Rangoon-1,314 lds. teakwood - Har-"
+18930715p.68_p003.txt,52,Teelin Head,Riga,BELFAST,"29 lds. split lathwood, 250",,8,7,1893,15,7,1893,False,"8 Teelin Head-Riga-29 lds. split lathwood, 250"
+18930715p.68_p003.txt,54,Mindet,Quebec,BELFAST,"400 lds. hewn fir, 250 lds.",,10,7,1893,15,7,1893,False,"10 Mindet-Quebec-400 lds. hewn fir, 250 lds."
+18930715p.68_p003.txt,61,Annie M. Law,"St. John, N.B.",DUBLIN,240 lds. sawn,,3,7,1893,15,7,1893,False,"July 3 Annie M. Law - St. John, N.B.-240 lds. sawn"
+18930715p.68_p003.txt,63,Alabama,Mobile,DUBLIN,"36,192 deals, 81 pcs. birch",W. Graham,8,7,1893,15,7,1893,False,"8 Alabama-Mobile-36,192 deals, 81 pcs. birch-W. Graham"
+18930715p.68_p003.txt,66,Dagny,Pont Neuf,DUBLIN,"20,976 deals",Robinsons,10,7,1893,15,7,1893,False,"10 Dagny-Pont Neuf-20,976 deals-Robinsons"
+18930715p.68_p003.txt,67,Sheffield,"Chatham, N.B.",DUBLIN,"2,093 deals",T. &,11,7,1893,15,7,1893,False,"11 Sheffield-Chatham, N.B.-2,093 deals-T. &"
+18930715p.68_p003.txt,70,Fairfield,"St. John, N.B.",LONDONDERRY,240 lds. sawn,,5,7,1893,15,7,1893,False,"July 5 Fairfield-St. John, N.B.-240 lds. sawn"
+18930715p.68_p003.txt,74,Chicago City,New York,BRISTOL,203 cedar,,5,7,1893,15,7,1893,True,July 5 Chicago City -New York-203 cedar
+18930715p.68_p003.txt,78,Saragossa,Brindisi,ALEXANDRA DOCK,"23,975 pcs. box",,6,7,1893,15,7,1893,True,"July 6 Saragossa  - Brindisi-23,975 pcs. box-"
+18930715p.68_p003.txt,83,Cephalonia,Boston,ALEXANDRA DOCK,"10,400 hhd.",,11,7,1893,15,7,1893,True,"July 11 Cephalonia  - Boston-10,400 hhd."
+18930715p.68_p003.txt,92,Harmonic,Demerara,BROCKLEBANK DOCK,294 pcs. green,,10,7,1893,15,7,1893,False,July 10 Harmonic-Demerara-294 pcs. green-
+18930715p.68_p003.txt,95,Mary Isabel,Lagos,CANADA DOCK,"3,200 qtls. log",,4,7,1893,15,7,1893,False,"July 4 Mary Isabel-Lagos-3,200 qtls. log-"
+18930715p.68_p003.txt,100,Shorten,W.C. Africa,COBURG DOCK,15 logs,,10,7,1893,15,7,1893,True,July 10 Shorten -W.C. Africa-15 logs
+18930715p.68_p003.txt,114,Lemvig,"Monte Christi, W.I.",GARSTON DOCK,400 t.,,10,7,1893,15,7,1893,False,"July 10 Lemvig-Monte Christi, W.I.-400 t."
+18930715p.68_p003.txt,120,Cheshire,Rangoon,HARRINGTON DOCK,"113 teak squares,",,10,7,1893,15,7,1893,True,"July 10 Cheshire -Rangoon-113 teak squares,"
+18930715p.68_p003.txt,125,Isla de Penang,Manila,LANGTON DOCK,qty.,,10,7,1893,15,7,1893,True,July 10 Isla de Penang  - Manila - qty.
+18930715p.68_p003.txt,128,Jenny,Uleaborg,LONDON,"6,497 deals and",,8,7,1893,15,7,1893,False,"July 8 Jenny - Uleaborg-6,497 deals and"
+18930715p.68_p003.txt,134,Basto,Umea,LONDON,28 walnut logs,J. Smith &,11,7,1893,15,7,1893,False,11 Basto-Umea-28 walnut logs-J. Smith &
+18930715p.68_p003.txt,138,Edward O'Brien,Vancouver,OTHER DOCKS AND WHARVES,806 pcs.,,7,7,1893,15,7,1893,False,July 7 Edward O'Brien-Vancouver-806 pcs.
+18930715p.68_p003.txt,140,Gemma,Hambro,OTHER DOCKS AND WHARVES,43 pcs. hardwood,Order,8,7,1893,15,7,1893,True,8 Gemma -Hambro-43 pcs. hardwood-Order
+18930715p.68_p003.txt,147,Curier,Bahia,OTHER DOCKS AND WHARVES,"61 logs rosewood,",,11,7,1893,15,7,1893,True,"July 11 Curier -Bahia-61 logs rosewood,"
+18930715p.68_p003.txt,150,Wanderer,Calcutta,OTHER DOCKS AND WHARVES,5 logs satinwood,,12,7,1893,15,7,1893,False,12 Wanderer-Calcutta-5 logs satinwood-
+18930722p.91_p001.txt,93,Servia,Pascagoula,BARROW,"1,368 lds. hewn fir, 65 lds. sawn fir, 55 lds. fir",,11,7,1893,22,7,1893,False,"July 11 Servia-Pascagoula-1,368 lds. hewn fir, 65 lds. sawn fir, 55 lds. fir"
+18930722p.91_p001.txt,94,Ophelia,Helsingfors,BARROW,"768 lds. fir deals, ends and boards",Crossfield & Co.,17,7,1893,22,7,1893,False,"17 Ophelia-Helsingfors-768 lds. fir deals, ends and boards-Crossfield & Co."
+18930722p.91_p001.txt,96,Aviemore,Cronstadt,BERWICK,"1,116 lds. fir battens, 20 lds. firewood",Allan Bros.,17,7,1893,22,7,1893,False,"July 17 Aviemore-Cronstadt-1,116 lds. fir battens, 20 lds. firewood-Allan Bros."
+18930722p.91_p001.txt,99,Anapira,Warberg,BLYTH,158 lds. mining timber,Order,12,7,1893,22,7,1893,False,July 12 Anapira-Warberg-158 lds. mining timber-Order
+18930722p.91_p001.txt,101,Gustav,Gefle,BLYTH,"258 lds. deals, battens, and boards sawn fir Order",,15,7,1893,22,7,1893,False,"15 Gustav-Gefle-258 lds. deals, battens, and boards sawn fir Order"
+18930722p.91_p001.txt,103,Minorca,Riga,BOSTON,"1,251 lds. fir sleeper blocks, 83 lds. sawn fir sleepers",A. Bruce,11,7,1893,22,7,1893,False,"July 11 Minorca-Riga-1,251 lds. fir sleeper blocks, 83 lds. sawn fir sleepers-A. Bruce"
+18930722p.91_p001.txt,104,Adelphi,Arendal,BOSTON,"253 lds. fir mining timber, 4 lds. fir props, 6 lds. fir battens",A. Beeby,14,7,1893,22,7,1893,False,"14 Adelphi-Arendal-253 lds. fir mining timber, 4 lds. fir props, 6 lds. fir battens-A. Beeby"
+18930722p.91_p001.txt,105,Ludwig Possehi,Danzig,BOSTON,"678 lds. fir crossings Burt, Boulton, & Haywood",,17,7,1893,22,7,1893,False,"17 Ludwig Possehi-Danzig-678 lds. fir crossings Burt, Boulton, & Haywood"
+18930722p.91_p001.txt,108,Snar,Helsingfors,BRIDGWATER,340 lds. fir deals and battens,J Snow & Co.,13,7,1893,22,7,1893,False,July 13 Snar-Helsingfors-340 lds. fir deals and battens-J Snow & Co.
+18930722p.91_p001.txt,109,Freja,Hudikswall,BRIDGWATER,450 lds. fir deals,Order,14,7,1893,22,7,1893,False,14 Freja-Hudikswall-450 lds. fir deals-Order
+18930722p.91_p001.txt,111,Roga,Gothenburg,BRIDGWATER,565 lds. fir deals and battens,Colthurst & Co.,17,7,1893,22,7,1893,False,17 Roga-Gothenburg-565 lds. fir deals and battens-Colthurst & Co.
+18930722p.91_p001.txt,113,Schweigaard,Fredrikshald,BRISTOL,"76,891 boards, 2,162 scantlings",May & Hassell,13,7,1893,22,7,1893,False,"July 13 Schweigaard - Fredrikshald - 76,891 boards, 2,162 scantlings-May & Hassell"
+18930722p.91_p001.txt,114,Hartville,Sundswall,BRISTOL,"21,219 deals and battens",Jones & Wainwright,15,7,1893,22,7,1893,True,"15 Hartville -Sundswall-21,219 deals and battens-Jones & Wainwright"
+18930722p.91_p001.txt,116,Royal,Archangel,BRISTOL,"14,404 deal ends, 7,863 redwood deal ends, 6,361 whitewood deal ends",Jones & Wainwright,17,7,1893,22,7,1893,True,"17 Royal -Archangel-14,404 deal ends, 7,863 redwood deal ends, 6,361 whitewood deal ends-Jones & Wainwright"
+18930722p.91_p001.txt,119,Sicilia,Montreal,AVONMOUTH DOCK,74 logs timber,Taylor & Low Bros.,17,7,1893,22,7,1893,True,July 17 Sicilia -Montreal-74 logs timber-Taylor & Low Bros.
+18930722p.91_p001.txt,121,Delphine,Freigo,CARDIFF,190 lds. hewn fir,Morel Bros. & Co.,11,7,1893,22,7,1893,False,July 11 Delphine-Freigo-190 lds. hewn fir-Morel Bros. & Co.
+18930722p.91_p001.txt,126,Usk,Bordeaux,CARDIFF,900 lds. pitwood,Hooper,12,7,1893,22,7,1893,False,12 Usk-Bordeaux-900 lds. pitwood-Hooper
+18930722p.91_p001.txt,132,Runo,Abo,CARDIFF,"1,362 lds. sawn fir",Morris & Smith,13,7,1893,22,7,1893,False,"13 Runo-Abo-1,362 lds. sawn fir-Morris & Smith"
+18930722p.91_p001.txt,135,Caerleon,Villagarcia,CARDIFF,"1,000 lds. hewn fir","Powley, Thomas, & Co.",14,7,1893,22,7,1893,False,"14 Caerleon-Villagarcia-1,000 lds. hewn fir-Powley, Thomas, & Co."
+18930722p.91_p001.txt,136,St. Julien,Vannes,CARDIFF,120 lds. fir pitwood,Watts,15,7,1893,22,7,1893,False,15 St. Julien-Vannes-120 lds. fir pitwood-Watts
+18930722p.91_p001.txt,137,Monitor,Gefle,CARDIFF,400 lds. sawn fir,J. Bland,17,7,1893,22,7,1893,False,17 Monitor-Gefle-400 lds. sawn fir-J. Bland
+18930722p.91_p001.txt,139,Venus,Kragero,COLCHESTER,"267 lds. sawn fir, 3 lds. fir rickers, 51 lds. firewood","Groom, Daniels",14,7,1893,22,7,1893,False,"July 14 Venus-Kragero-267 lds. sawn fir, 3 lds. fir rickers, 51 lds. firewood-Groom, Daniels"
+18930722p.91_p001.txt,141,Jeannette,Fredrikstad,EXETER,"180 lds. fir flooring boards, 54 lds. fir laths",Gabriel,13,7,1893,22,7,1893,False,"July 13 Jeannette-Fredrikstad-180 lds. fir flooring boards, 54 lds. fir laths-Gabriel"
+18930722p.91_p001.txt,143,Francisca,Pensacola,FLEETWOOD,"2,387 lds. fir logs, 38 lds. fir deals","Lightbound, Rigby, & Co.",17,7,1893,22,7,1893,False,"July 17 Francisca-Pensacola-2,387 lds. fir logs, 38 lds. fir deals-Lightbound, Rigby, & Co."
+18930722p.91_p001.txt,147,Clara,Skonvik,FOLKESTONE,260 lds. sawn fir,Brimmell & Miller,17,7,1893,22,7,1893,False,July 17 Clara-Skonvik-260 lds. sawn fir-Brimmell & Miller
+18930722p.91_p001.txt,149,Bellona,Kotka,FOWEY,181 lds. sawn fir,N. Inch,14,7,1893,22,7,1893,False,July 14 Bellona-Kotka-181 lds. sawn fir-N. Inch
+18930722p.91_p001.txt,150,Ceres,Kotka,FOWEY,267 lds. fir staves,N. Duus,15,7,1893,22,7,1893,False,15 Ceres-Kotka-267 lds. fir staves-N. Duus
+18930722p.91_p001.txt,152,Severine,Sundswall,GLOUCESTER,843 lds. firewood,Bourne & Groves,12,7,1893,22,7,1893,False,July 12 Severine-Sundswall-843 lds. firewood-Bourne & Groves
+18930722p.91_p001.txt,155,El Dorado,Archangel,GLOUCESTER,"2,300 lds. fir deals Nicks & Co.",,15,7,1893,22,7,1893,True,"15 El Dorado -Archangel-2,300 lds. fir deals Nicks & Co."
+18930722p.91_p001.txt,162,Newhailes,Soroka,ALEXANDRA DOCK,"67,505 deals, &c.",Tealby & Co.,11,7,1893,22,7,1893,True,"July 11 Newhailes -Soroka-67,505 deals, &c.-Tealby & Co."
+18930722p.91_p001.txt,163,Althea,Kem,ALEXANDRA DOCK,"25,760 deals, &c.",Horsley,12,7,1893,22,7,1893,True,"12 Althea -Kem-25,760 deals, &c.-Horsley"
+18930722p.91_p001.txt,175,Fido,Danzig,QUEEN'S DOCK,"584 pcs. wood, 5,722 props",Order,11,7,1893,22,7,1893,True,"July 11 Fido -Danzig-584 pcs. wood, 5,722 props-Order"
+18930722p.91_p001.txt,176,Arctic,Gefle,QUEEN'S DOCK,616 lds. firewood,T. W. Allen,13,7,1893,22,7,1893,False,13 Arctic-Gefle-616 lds. firewood-T. W. Allen
+18930722p.91_p001.txt,178,Juno,Drontheim,REGENT'S DOCK,"4,710 bdls. boards","Wilson, Sons, & Co.",13,7,1893,22,7,1893,True,"July 13 Juno -Drontheim-4,710 bdls. boards-Wilson, Sons, & Co."
+18930722p.91_p001.txt,179,Angelo,Christiania,REGENT'S DOCK,"7,570 bdls. boards",Wilson,15,7,1893,22,7,1893,True,"15 Angelo -Christiania - 7,570 bdls. boards-Wilson"
+18930722p.91_p001.txt,181,Astrea,Helsingfors,VICTORIA DOCK,"9,023 boards",Order,13,7,1893,22,7,1893,True,"July 13 Astrea -Helsingfors-9,023 boards-Order"
+18930722p.91_p001.txt,182,Fram,Drammen,VICTORIA DOCK,"59,979 boards",Order,14,7,1893,22,7,1893,False,"14 Fram-Drammen-59,979 boards-Order"
+18930729p.125_p001.txt,5,Diana,Riga,APPLEDORE,"51 lds. fir deals, 109 lds. fir boards",J. How & Co.,18,7,1893,29,7,1893,False,"July 18 Diana-Riga-51 lds. fir deals, 109 lds. fir boards-J. How & Co."
+18930729p.125_p001.txt,8,Topaz,Konigsberg,BARROW,381 lds. hewn fir,Crossfield & Co.,18,7,1893,29,7,1893,True,July 18 Topaz -Konigsberg-381 lds. hewn fir-Crossfield & Co.
+18930729p.125_p001.txt,9,Lucinde,Riga,BARROW,358 lds. hewn fir crossings,Crossfield,24,7,1893,29,7,1893,False,24 Lucinde-Riga-358 lds. hewn fir crossings-Crossfield
+18930729p.125_p001.txt,12,Burton,Danzig,BOSTON,"751 lds. fir deals and Burt, Boulton, & Haywood",,18,7,1893,29,7,1893,True,"July 18 Burton -Danzig-751 lds. fir deals and Burt, Boulton, & Haywood"
+18930729p.125_p001.txt,13,Barnholm,Cronstadt,BOSTON,"380 lds. fir deals, battens",Harrison & Lewin,20,7,1893,29,7,1893,False,"20 Barnholm-Cronstadt-380 lds. fir deals, battens-Harrison & Lewin"
+18930729p.125_p001.txt,16,Hertha,Harnas,BRIDGWATER,"548 lds. fir deals, battens, and boards",Somerset Trading Co.,21,7,1893,29,7,1893,True,"July 21 Hertha -Harnas-548 lds. fir deals, battens, and boards-Somerset Trading Co."
+18930729p.125_p001.txt,19,Edina,Wifstawarf,BRISTOL,"10,849 fir deals, 40,365 deals, battens, and ends",Jones & Wainwright,19,7,1893,29,7,1893,False,"July 19 Edina-Wifstawarf-10,849 fir deals, 40,365 deals, battens, and ends-Jones & Wainwright"
+18930729p.125_p001.txt,22,Loch Katrine,Tornea,AVONMOUTH DOCK,"57,347 deals, battens, and boards, 3,682 slating battens, 12 fms. firewood",Taylor & Low Bros.,24,7,1893,29,7,1893,False,"24 Loch Katrine-Tornea-57,347 deals, battens, and boards, 3,682 slating battens, 12 fms. firewood-Taylor & Low Bros."
+18930729p.125_p001.txt,25,Hakon Jail,Christiansand,CARDIFF,300 lds. fir pitwood,Tellefsen & Co.,18,7,1893,29,7,1893,False,July 18 Hakon Jail-Christiansand-300 lds. fir pitwood-Tellefsen & Co.
+18930729p.125_p001.txt,28,Frederick,Auray,CARDIFF,80 lds. fir pitwood,Watts,19,7,1893,29,7,1893,False,19 Frederick-Auray-80 lds. fir pitwood-Watts
+18930729p.125_p001.txt,29,Accrington,St. John,CARDIFF,"2,606 lds. fir deals",Morris & Smith,21,7,1893,29,7,1893,False,"21 Accrington-St. John-2,606 lds. fir deals-Morris & Smith"
+18930729p.125_p001.txt,32,Garrison,Bordeaux,CARDIFF,"1,000 lds. fir pitwood","Powley, Thomas, & Co,",24,7,1893,29,7,1893,True,"24 Garrison -Bordeaux-1,000 lds. fir pitwood-Powley, Thomas, & Co,"
+18930729p.125_p001.txt,37,Rosenklippen,Bjorneborg,COLCHESTER,200 lds. firewood,Brown & Sons,11,7,1893,29,7,1893,False,July 11 Rosenklippen-Bjorneborg-200 lds. firewood-Brown & Sons
+18930729p.125_p001.txt,40,Ida,Christiania,FAVERSHAM,150 lds. fir pitwood,F. Neame,18,7,1893,29,7,1893,False,July 18 Ida-Christiania-150 lds. fir pitwood-F. Neame
+18930729p.125_p001.txt,44,Edina,Wifstawarf,FOLKESTONE,"10,849 fir deals, 108 lds. firewood",H. Tolputt & Co.,19,7,1893,29,7,1893,False,"July 19 Edina-Wifstawarf-10,849 fir deals, 108 lds. firewood-H. Tolputt & Co."
+18930729p.125_p001.txt,47,Ben Wyvis,Archangel,GLOUCESTER,152 lds. fir deals,J. Chadborn & Co.,18,7,1893,29,7,1893,False,July 18 Ben Wyvis-Archangel-152 lds. fir deals-J. Chadborn & Co.
+18930729p.125_p001.txt,51,St. Anns,Archangel,GLOUCESTER,"709 lds. deals, battens, and ends",T. Adams & Sons,19,7,1893,29,7,1893,True,"19 St. Anns-Archangel-709 lds. deals, battens, and ends-T. Adams & Sons"
+18930729p.125_p001.txt,54,Johannes,Narva,GOOLE,396 lds. fir deals,A. Meek,21,7,1893,29,7,1893,False,July 21 Johannes-Narva-396 lds. fir deals-A. Meek
+18930729p.125_p001.txt,57,Junior,Sorvik,GRIMSBY,"582 lds. fir deals, battens, and ends",E. D. Northcote,18,7,1893,29,7,1893,False,"July 18 Junior-Sorvik-582 lds. fir deals, battens, and ends-E. D. Northcote"
+18930729p.125_p001.txt,58,Bothal,Rafso,GRIMSBY,"2,310 lds. fir deals",Bennetts & Co.,19,7,1893,29,7,1893,True,"19 Bothal -Rafso-2,310 lds. fir deals-Bennetts & Co."
+18930729p.125_p001.txt,60,Jacob,Stockaviken,GRIMSBY,500 lds. fir deals and boards,S. Ellis,20,7,1893,29,7,1893,False,20 Jacob-Stockaviken-500 lds. fir deals and boards-S. Ellis
+18930729p.125_p001.txt,65,Girdleness,Sund,HARWICH,"709 lds. fir deals, battens, and boards",Taylor & Burt,21,7,1893,29,7,1893,True,"July 21 Girdleness -Sund-709 lds. fir deals, battens, and boards-Taylor & Burt"
+18930729p.125_p001.txt,68,Toneheld,Bergqvara,HARTLEPOOL (WEST),240 lds. fir props,Hessler & Co.,18,7,1893,29,7,1893,False,July 18 Toneheld-Bergqvara-240 lds. fir props-Hessler & Co.
+18930729p.125_p001.txt,75,Carl Imenaes,Danzig,HARTLEPOOL (WEST),360 lds. oak logs,A. Bruce & Co.,19,7,1893,29,7,1893,False,19 Carl Imenaes-Danzig-360 lds. oak logs-A. Bruce & Co.
+18930729p.125_p001.txt,80,Gzvine,Bremen,HARTLEPOOL (WEST),75 lds. hewn fir,Forslind & Co.,20,7,1893,29,7,1893,False,20 Gzvine-Bremen-75 lds. hewn fir-Forslind & Co.
+18930729p.125_p001.txt,89,Andreas,Wyborg,THE TIMBER TRADES JOURNAL,330 lds. fir props,Pedersen,21,7,1893,29,7,1893,False,21 Andreas-Wyborg-330 lds. fir props-Pedersen
+18930729p.125_p001.txt,95,Johanna,Danzig,THE TIMBER TRADES JOURNAL,360 lds. hewn oak,Pickford & Co.,22,7,1893,29,7,1893,False,22 Johanna-Danzig-360 lds. hewn oak-Pickford & Co.
+18930729p.125_p001.txt,100,Paul Emil,Westervik,THE TIMBER TRADES JOURNAL,270 lds. fir deals and battens,A. Livingston & Co.,24,7,1893,29,7,1893,False,24 Paul Emil-Westervik-270 lds. fir deals and battens-A. Livingston & Co.
+18930729p.125_p001.txt,108,Dian,Archangel,ALEXANDRA DOCK,"55,751 deals, &c.",Order,20,7,1893,29,7,1893,True,"July 20 Dian -Archangel-55,751 deals, &c.-Order"
+18930729p.125_p001.txt,111,Silvio,Riga,ALEXANDRA DOCK,"56,480 deal ends, 1,213 bdls. birch squares, 2,000 battens",Order,21,7,1893,29,7,1893,True,"21 Silvio -Riga-56,480 deal ends, 1,213 bdls. birch squares, 2,000 battens-Order"
+18930729p.125_p001.txt,113,T. Wilson,St. Petersburg,ALEXANDRA DOCK,"6,367 pit props, 5,032 rickers",H. Smith & Co.,22,7,1893,29,7,1893,True,"22 T. Wilson -St. Petersburg-6,367 pit props, 5,032 rickers-H. Smith & Co."
+18930729p.125_p001.txt,116,Pluto,Halmstad,ALEXANDRA DOCK,"25,910 pit props",Order,24,7,1893,29,7,1893,True,"24 Pluto -Halmstad-25,910 pit props-Order"
+18930729p.125_p001.txt,120,Charles Steels,Mesane,ALEXANDRA DOCK,"25,515 deals, &c.",Order,25,7,1893,29,7,1893,True,"25 Charles Steels -Mesane-25,515 deals, &c.-Order"
+18930729p.125_p001.txt,124,Lettonia,Fredrikshamn,QUEEN'S DOCK,"30,392 birch props",Order,22,7,1893,29,7,1893,False,"July 22 Lettonia-Fredrikshamn-30,392 birch props-Order"
+18930729p.125_p001.txt,126,Bartimeus,Sundswall,QUEEN'S DOCK,"59,754 boards, 16 fms. firewood",Order,24,7,1893,29,7,1893,False,"24 Bartimeus-Sundswall-59,754 boards, 16 fms. firewood-Order"
+18930729p.125_p001.txt,129,Cato,Danzig,TOWN DOCKS,"9,753 props",Order,24,7,1893,29,7,1893,True,"July 24 Cato -Danzig-9,753 props-Order"
+18930729p.125_p001.txt,133,Jerbarden,Oregründ,VICTORIA DOCK,"48,106 pit props",H. Smith & Co.,21,7,1893,29,7,1893,True,"July 21 Jerbarden -Oregründ-48,106 pit props-H. Smith & Co."
+18930729p.125_p001.txt,134,Eastwood,Royetta,VICTORIA DOCK,"43,603 deals, battens, and boards",Order,24,7,1893,29,7,1893,True,"24 Eastwood -Royetta-43,603 deals, battens, and boards-Order"
+18930729p.125_p001.txt,139,Alsen,Nederkalix,IPSWICH,"1,150 lds. fir battens and boards",W. Brown & Co.,22,7,1893,29,7,1893,False,"July 22 Alsen-Nederkalix-1,150 lds. fir battens and boards-W. Brown & Co."
+18930729p.125_p001.txt,143,Majestic,New York,ALEXANDRA DOCK,"4,254 staves",H. Hay,20,7,1893,29,7,1893,True,"July 20 Majestic -New York-4,254 staves-H. Hay"
+18930729p.125_p001.txt,144,Cambroman,Boston,ALEXANDRA DOCK,"8,000 staves",Drysdale Bros.,21,7,1893,29,7,1893,True,"21 Cambroman -Boston-8,000 staves-Drysdale Bros."
+18930729p.125_p001.txt,145,Nomadic,New York,ALEXANDRA DOCK,"1,000 staves",H. Hay,22,7,1893,29,7,1893,True,"22 Nomadic -New York-1,000 staves-H. Hay"
+18930729p.125_p001.txt,147,Lake Huron,Montreal,ALEXANDRA DOCK,"9,559 deals, 3,909 boards",Watson & Todd,24,7,1893,29,7,1893,True,"24 Lake Huron -Montreal-9,559 deals, 3,909 boards-Watson & Todd"
+18930729p.125_p001.txt,148,Bothnia,Boston,ALEXANDRA DOCK,"10,000 hhd. staves",Drysdale Bros.,25,7,1893,29,7,1893,True,"25 Bothnia -Boston-10,000 hhd. staves-Drysdale Bros."
+18930729p.125_p001.txt,150,Michigan,Boston,ALEXANDRA DOCK,"8,800 staves",Drysdale,26,7,1893,29,7,1893,True,"26 Michigan -Boston-8,800 staves-Drysdale"
+18930729p.125_p001.txt,155,Kathadeen,"Pictou, N.S.",ALEXANDRA DOCK,"749 pcs. birch, 5,545",,21,7,1893,29,7,1893,False,"21 Kathadeen-Pictou, N.S.-749 pcs. birch, 5,545"
+18930729p.125_p001.txt,156,Adele,"Bay Verte, N.B.",ALEXANDRA DOCK,"40,648 deals, 2,962 deal scantlings, 2,290 deal ends",Order,26,7,1893,29,7,1893,False,"26 Adele-Bay Verte, N.B.-40,648 deals, 2,962 deal scantlings, 2,290 deal ends-Order"
+18930729p.125_p001.txt,157,Annie,Shediac,ALEXANDRA DOCK,"20,243 deals and battens, 378 deal ends",Order,21,7,1893,29,7,1893,False,"July 21 Annie-Shediac-20,243 deals and battens, 378 deal ends-Order"
+18930729p.125_p001.txt,160,King's County,"Baddeck, C.B.",CANADA DOCK,"1,550 pcs. birch, 1,146 pcs. birch planks",Farnworth,25,7,1893,29,7,1893,False,"25 King's County-Baddeck, C.B.-1,550 pcs. birch, 1,146 pcs. birch planks-Farnworth"
+18930729p.125_p001.txt,166,Gardepee,Archangel,CARRIERS' DOCK,"11,821 redwood deals, 12,068 redwood deals and ends",Price & Pierce,24,7,1893,29,7,1893,True,"July 24 Gardepee -Archangel-11,821 redwood deals, 12,068 redwood deals and ends-Price & Pierce"
+18930729p.125_p001.txt,170,Daniel,Montreal,CARRIERS' DOCK,"51,745 deals, 6,840 ends",Order,24,7,1893,29,7,1893,True,"24 Daniel -Montreal-51,745 deals, 6,840 ends-Order"
+18930729p.125_p001.txt,175,Delos,St. Petersburg,CARRIERS' DOCK,"1,560 deals, 3,053 battens, 518 ends, 2,773 pcs. redwood",Order,25,7,1893,29,7,1893,True,"25 Delos -St. Petersburg-1,560 deals, 3,053 battens, 518 ends, 2,773 pcs. redwood-Order"
+18930729p.125_p001.txt,178,Kommodor Svend Foyn,Metis,CARRIERS' DOCK,"57,831 spruce deals, 5,850 spruce deal ends",Meredith,26,7,1893,29,7,1893,False,"26 Kommodor Svend Foyn-Metis-57,831 spruce deals, 5,850 spruce deal ends-Meredith"
+18930729p.125_p001.txt,184,Osbeck & Co.,Hudikswall,GARSTON DOCK,"77,127 pcs. prop",,20,7,1893,29,7,1893,True,"July 20 Osbeck & Co. -Hudikswall-77,127 pcs. prop-"
+18930729p.125_p001.txt,185,"Harvey, N.B.","24,104 deals and bat",GARSTON DOCK,"tens, 3,221 deal ends, 516 scantlings",Order,21,7,1893,29,7,1893,False,"21 Harvey, N.B.-24,104 deals and bat-tens, 3,221 deal ends, 516 scantlings-Order"
+18930729p.125_p001.txt,189,William Gordon,Richibucto,HUSKISSON DOCK,"19,649 deals, 2,221 scantlings, 6,767 boards, 2,758 ends","Neale, Harrison, & Co.",25,7,1893,29,7,1893,False,"July 25 William Gordon-Richibucto-19,649 deals, 2,221 scantlings, 6,767 boards, 2,758 ends-Neale, Harrison, & Co."
+18930729p.125_p001.txt,192,St. Enoch,New York,HORNBY DOCK,"2,100 bdls. staves","J. Webster & Bros.; 1,280 bdls. staves-Order",25,7,1893,29,7,1893,True,"July 25 St. Enoch -New York-2,100 bdls. staves-J. Webster & Bros.; 1,280 bdls. staves-Order"
+18930729p.125_p001.txt,193,E. Wright,Hillsborough,HORNBY DOCK,"15,118 birch planks, 1,616 birch scantlings, 1,617 birch deals, 42,135 deals, 2,882 scantlings, 692 deals, 5,516 boards",A. F. & D. Mackay,26,7,1893,29,7,1893,False,"26 E. Wright-Hillsborough-15,118 birch planks, 1,616 birch scantlings, 1,617 birch deals, 42,135 deals, 2,882 scantlings, 692 deals, 5,516 boards-A. F. & D. Mackay"
+18930729p.125_p001.txt,197,Zurich,Quebec,SURREY COMMERCIAL DOCKS,"72,000 bdls. box boards","Innes, & Co.; 17,112 deals, 1,380 ends-Order",20,7,1893,29,7,1893,True,"July 20 Zurich -Quebec-72,000 bdls. box boards-Innes, & Co.; 17,112 deals, 1,380 ends-Order"
+18930729p.125_p001.txt,198,Archer,Archangel,SURREY COMMERCIAL DOCKS,"21,110 deals, battens, and ends, 122 fms. firewood",Order,21,7,1893,29,7,1893,True,"21 Archer -Archangel-21,110 deals, battens, and ends, 122 fms. firewood-Order"
+18930729p.125_p001.txt,200,Cameo,Archangel,SURREY COMMERCIAL DOCKS,"7,044 deals and boards, 30,923 battens, boards, and ends",Order,22,7,1893,29,7,1893,True,"22 Cameo -Archangel-7,044 deals and boards, 30,923 battens, boards, and ends-Order"
+18930729p.125_p001.txt,201,Joseph,Montreal,SURREY COMMERCIAL DOCKS,"5,422 deals, 2,216 ends",Order,24,7,1893,29,7,1893,True,"24 Joseph -Montreal-5,422 deals, 2,216 ends-Order"
+18930729p.125_p001.txt,202,Walhalla,Christiania,SURREY COMMERCIAL DOCKS,"2,629 spars, poles, and boat hooks",Order,27,7,1893,29,7,1893,False,"27 Walhalla-Christiania-2,629 spars, poles, and boat hooks-Order"
+18930729p.125_p001.txt,209,Thorsten,Gothenburg,MILLWALL DOCKS,"1,615 bdls. laths","Foy, Morgan, & Co.; 800 bdls. laths-Crow & Son; 1,000 bdls. laths-Order; 4,500 blocks-Vigers Bros.; 30 pcs. and 1,424 doors, 8,375 bdls. blocks, 76 bdls. trellis, 1,282 bdls. mouldings, 228 skirtings-",21,7,1893,29,7,1893,True,"July 21 Thorsten -Gothenburg-1,615 bdls. laths-Foy, Morgan, & Co.; 800 bdls. laths-Crow & Son; 1,000 bdls. laths-Order; 4,500 blocks-Vigers Bros.; 30 pcs. and 1,424 doors, 8,375 bdls. blocks, 76 bdls. trellis, 1,282 bdls. mouldings, 228 skirtings-Order"
+18930729p.125_p002.txt,3,Fiume,"117 logs, 81 planks",ST. KATHARINE DOCK,Parquet Flooring Co.,,25,7,1893,29,7,1893,False,"July 25 Fiume-117 logs, 81 planks-Parquet Flooring Co."
+18930729p.125_p002.txt,4,Wm. Bailey,Fiume,ST. KATHARINE DOCK,"1,222 beech planks",Order,26,7,1893,29,7,1893,True,"26 Wm. Bailey -Fiume-1,222 beech planks-Order"
+18930729p.125_p002.txt,6,Sperber,Bremen,ST. KATHARINE DOCK,63 pkgs. mouldings,Driver & Co.,26,7,1893,29,7,1893,True,26 Sperber -Bremen-63 pkgs. mouldings-Driver & Co.
+18930729p.125_p002.txt,8,Elma,Cronstadt,VICTORIA AND ALBERT DOCK,"34,778 deals, 63 fms. firewood",Order,20,7,1893,29,7,1893,True,"July 20 Elma -Cronstadt-34,778 deals, 63 fms. firewood-Order"
+18930729p.3_p002.txt,4,River Avon,Riga,KIRKCALDY,"1,350 lds. fir sleepers",Calder & Co.,18,7,1893,29,7,1893,True,"July 18 River Avon -Riga-1,350 lds. fir sleepers-Calder & Co."
+18930729p.3_p002.txt,6,Nanna,Arendal,LEITH,"2,189 lds. fir battens",C. Salvesen & Co.,18,7,1893,29,7,1893,False,"July 18 Nanna-Arendal-2,189 lds. fir battens-C. Salvesen & Co."
+18930729p.3_p002.txt,9,Moscow,Cronstadt,LEITH,"42,149 fir deals and battens",W. Thomson & Co.,19,7,1893,29,7,1893,False,"19 Moscow - Cronstadt - 42,149 fir deals and battens-W. Thomson & Co."
+18930729p.3_p002.txt,11,Breslau,Hamburg,LEITH,1/2 lds. hoops,J. Currie.,20,7,1893,29,7,1893,False,20 Breslau-Hamburg-1/2 lds. hoops-J. Currie.
+18930729p.3_p002.txt,13,Ennismore,Archangel,LEITH,"9,373 fir deals",J. Cormack.,22,7,1893,29,7,1893,False,"22 Ennismore - Archangel - 9,373 fir deals-J. Cormack."
+18930729p.3_p002.txt,14,Mascotte,Rotterdam,LEITH,2 lds. hoops,Gibson & Co.,24,7,1893,29,7,1893,False,24 Mascotte-Rotterdam-2 lds. hoops-Gibson & Co.
+18930729p.3_p002.txt,20,Isaac,Riga,METHIL,438 lds. props,Fife Coal Co.,18,7,1893,29,7,1893,False,July 18 Isaac-Riga-438 lds. props-Fife Coal Co.
+18930729p.3_p002.txt,21,Maria,Narva,METHIL,210 lds. fir deals and battens,J. Donaldson & Son.,20,7,1893,29,7,1893,False,20 Maria-Narva-210 lds. fir deals and battens-J. Donaldson & Son.
+18930729p.3_p002.txt,24,Louis,Riga,PETERHEAD,"667 lds. sawn fir logs, 2,359 fir battens",G. Gordon & Co.,21,7,1893,29,7,1893,False,"July 21 Louis-Riga-667 lds. sawn fir logs, 2,359 fir battens-G. Gordon & Co."
+18930729p.3_p002.txt,26,Gyldenlove,Fredrikshald,TROON,428 lds. fir props,Love & Stewart.,18,7,1893,29,7,1893,False,July 18 Gyldenlove-Fredrikshald-428 lds. fir props-Love & Stewart.
+18930805p.3_p001.txt,90,Lofna,Gnarp,ABERDEEN,"46,934 lds. fir deals and battens",J. Fleming & Co.; 27 lds. sawn fir firewood-J. Cook & Son,27,7,1893,5,8,1893,True,"July 27 Lofna -Gnarp-46,934 lds. fir deals and battens-J. Fleming & Co.; 27 lds. sawn fir firewood-J. Cook & Son"
+18930805p.3_p001.txt,94,Oresund,Gefle,ALLOA,"1,210 lds. pit props","Rennie, Bryson, & Co.",25,7,1893,5,8,1893,False,"July 25 Oresund-Gefle-1,210 lds. pit props-Rennie, Bryson, & Co."
+18930805p.3_p001.txt,97,Concordia,Halmstad,ALLOA,120 lds. pit props,J. Kennedy & Co.,27,7,1893,5,8,1893,False,27 Concordia-Halmstad-120 lds. pit props-J. Kennedy & Co.
+18930805p.3_p001.txt,100,Lovart,Halmstad,ALLOA,519 lds. pit props,Love,31,7,1893,5,8,1893,False,31 Lovart-Halmstad-519 lds. pit props-Love
+18930805p.3_p001.txt,102,Leif,Konigsberg,BO'NESS,214 lds. pit props,"J. S. Dymock, Smith, & Co.",27,7,1893,5,8,1893,True,"July 27 Leif -Konigsberg-214 lds. pit props-J. S. Dymock, Smith, & Co."
+18930805p.3_p001.txt,103,Kepler,Husum,BO'NESS,730 lds. hewn fir props,Love,29,7,1893,5,8,1893,False,29 Kepler-Husum-730 lds. hewn fir props-Love
+18930805p.3_p001.txt,104,Theda,Gothenburg,BO'NESS,874 lds. fir pitwood,J. Denholm & Co.,31,7,1893,5,8,1893,False,31 Theda-Gothenburg-874 lds. fir pitwood-J. Denholm & Co.
+18930805p.3_p001.txt,106,Embla,Hernosand,DUNDEE,"1,702 lds. fir deals and battens",Fleming & Barry; 9 lds. firewood-P. S. Nicoll,25,7,1893,5,8,1893,True,"July 25 Embla -Hernosand-1,702 lds. fir deals and battens-Fleming & Barry; 9 lds. firewood-P. S. Nicoll"
+18930805p.3_p001.txt,107,Reider,Sundswall,DUNDEE,227 lds. battens,Bell,27,7,1893,5,8,1893,False,27 Reider-Sundswall-227 lds. battens-Bell
+18930805p.3_p001.txt,108,Uraeid,Stromnas,DUNDEE,10 lds. firewood,J. Donald-son & Son,29,7,1893,5,8,1893,False,29 Uraeid-Stromnas-10 lds. firewood-J. Donald-son & Son
+18930805p.3_p001.txt,109,Fensale,Sandviken,DUNDEE,"14,268 fir battens",J. Donaldson & Son,31,7,1893,5,8,1893,False,"31 Fensale-Sandviken-14,268 fir battens-J. Donaldson & Son"
+18930805p.3_p001.txt,113,Indrani,Montreal,GLASGOW,"7,479 deals, 6,435 deal ends","Allison, Cousland, & Co.; 1,842 deals-F. A. Lightbody; 250 deals-Bryce, Junor, & Whyte; 503 pcs. oak lumber-Jas. Kennedy & Co.",24,7,1893,5,8,1893,False,"July 24 Indrani-Montreal-7,479 deals, 6,435 deal ends-Allison, Cousland, & Co.; 1,842 deals-F. A. Lightbody; 250 deals-Bryce, Junor, & Whyte; 503 pcs. oak lumber-Jas. Kennedy & Co."
+18930805p.3_p001.txt,114,Corean,Philadelphia,GLASGOW,"1,800 staves",Edmiston,25,7,1893,5,8,1893,False,"25 Corean-Philadelphia-1,800 staves-Edmiston"
+18930805p.3_p001.txt,117,Wm. Connal,Nantes,GLASGOW,"1,166 bdls. hoops",Order,26,7,1893,5,8,1893,False,"26 Wm. Connal-Nantes-1,166 bdls. hoops-Order"
+18930805p.3_p001.txt,118,Louise Adelaide,Portland (Me.),GLASGOW,"44,534 bdls. spoolwood",Clark & Co.,28,7,1893,5,8,1893,False,"28 Louise Adelaide-Portland (Me.)-44,534 bdls. spoolwood-Clark & Co."
+18930805p.3_p001.txt,119,Stjermen,Dalhousie,GLASGOW,"10,133 pine deals, 917 spruce ends",Order,31,7,1893,5,8,1893,False,"31 Stjermen-Dalhousie-10,133 pine deals, 917 spruce ends-Order"
+18930805p.3_p001.txt,122,Imes,Demerara,GREENOCK,133 logs greenheart,G. Booker & Co.,25,7,1893,5,8,1893,False,July 25 Imes-Demerara-133 logs greenheart-G. Booker & Co.
+18930805p.3_p001.txt,123,Elsie,Bersimis,GREENOCK,"12,972 spruce deals",Robinson,26,7,1893,5,8,1893,False,"26 Elsie-Bersimis-12,972 spruce deals-Robinson"
+18930805p.3_p001.txt,124,Delphin,Hernosand,GREENOCK,"16,081 battens",McLean,27,7,1893,5,8,1893,False,"27 Delphin-Hernosand-16,081 battens-McLean"
+18930805p.3_p001.txt,126,Asia,Quebec,GREENOCK,"84 pcs. elm, 1 pc. whitewood, 137 pcs. white pine, 296 pcs. ash timber","Order; 38 pcs. oak timber, 47 pcs. white-wood, 623 pcs. white pine, 1,718 pine deals, 3,759 spruce deals, 910 pine deal ends, 286 spruce deal ends-Edmiston",28,7,1893,5,8,1893,False,"28 Asia-Quebec-84 pcs. elm, 1 pc. whitewood, 137 pcs. white pine, 296 pcs. ash timber-Order; 38 pcs. oak timber, 47 pcs. white-wood, 623 pcs. white pine, 1,718 pine deals, 3,759 spruce deals, 910 pine deal ends, 286 spruce deal ends-Edmiston"
+18930805p.3_p001.txt,130,Erling,Hernosand,GRANGEMOUTH,"9,786 battens",J. T. Salvesen & Co.,24,7,1893,5,8,1893,False,"July 24 Erling-Hernosand-9,786 battens-J. T. Salvesen & Co."
+18930805p.3_p001.txt,146,Ceres,Drammen,GRANTON,"50 lds. fir battens, 350 lds. fir staves",A. McKelvie,25,7,1893,5,8,1893,False,"July 25 Ceres-Drammen-50 lds. fir battens, 350 lds. fir staves-A. McKelvie"
+18930805p.3_p001.txt,150,Argus,Rafso,IRVINE,"58 lds. fir deals, 323 lds. fir battens, 60 lds. fir boards",Matthew Wright & Nephew,25,7,1893,5,8,1893,False,"July 25 Argus-Rafso-58 lds. fir deals, 323 lds. fir battens, 60 lds. fir boards-Matthew Wright & Nephew"
+18930805p.3_p001.txt,152,Tiger,Porsgrund,KIRKCALDY,15 lds. fir props,J. Connel (agent),24,7,1893,5,8,1893,False,July 24 Tiger-Porsgrund-15 lds. fir props-J. Connel (agent)
+18930805p.3_p002.txt,5,Montbars,Nantes,LEITH,14 lds. hoops,J. Wishart & Sons,25,7,1893,5,8,1893,False,July 25 Montbars-Nantes-14 lds. hoops-J. Wishart & Sons
+18930805p.3_p002.txt,8,Vistula,Libau,LEITH,140 lds. hewn oak,J. Currie,27,7,1893,5,8,1893,False,27 Vistula-Libau-140 lds. hewn oak-J. Currie
+18930805p.3_p002.txt,9,Petersburg,Cronstadt,LEITH,"33,765 fir deals and battens, 72 lds. firewood",W. Thomson & Co.,29,7,1893,5,8,1893,False,"29 Petersburg-Cronstadt-33,765 fir deals and battens, 72 lds. firewood-W. Thomson & Co."
+18930805p.3_p002.txt,10,Camtoos,Helsingfors,LEITH,328 lds. fir,R. Salvesen & Co.,31,7,1893,5,8,1893,False,31 Camtoos-Helsingfors-328 lds. fir-R. Salvesen & Co.
+18930805p.3_p002.txt,12,Concordia,Windau,METHIL,"332 lds. fir sleeper blocks, 20 lds. fir sleepers",A. Bruce & Co.,24,7,1893,5,8,1893,False,"July 24 Concordia-Windau-332 lds. fir sleeper blocks, 20 lds. fir sleepers-A. Bruce & Co."
+18930805p.3_p002.txt,14,Emilie,Sandviken,METHIL,"4,826 fir deals and battens",J. Donaldson & Sons,28,7,1893,5,8,1893,False,"28 Emilie-Sandviken-4,826 fir deals and battens -J. Donaldson & Sons"
+18930805p.3_p002.txt,17,Swantewit,Riga,MONTROSE,477 lds. hewn fir,R. Millar & Sons,25,7,1893,5,8,1893,False,July 25 Swantewit-Riga-477 lds. hewn fir-R. Millar & Sons
+18930805p.3_p002.txt,18,Rocklands,Archangel,MONTROSE,"1,380 lds. fir deals and boards",R. Millar & Sons,31,7,1893,5,8,1893,False,"31 Rocklands-Archangel-1,380 lds. fir deals and boards-R. Millar & Sons"
+18930805p.3_p002.txt,20,Laura,Cronstadt,PERTH,"9,801 fir deals and battens",Cameron Bros.,29,7,1893,5,8,1893,False,"July 29 Laura-Cronstadt-9,801 fir deals and battens-Cameron Bros."
+18930805p.3_p002.txt,21,Gerda,Hernösand,PERTH,"11,858 fir deals and battens",Cameron Bros.,31,7,1893,5,8,1893,False,"31 Gerda-Hernösand-11,858 fir deals and battens-Cameron Bros."
+18930805p.3_p002.txt,25,Ansgar,Kotka,PETERHEAD,277 lds. staves,W. Macconnachie & Co.,26,7,1893,5,8,1893,False,July 26 Ansgar-Kotka-277 lds. staves-W. Macconnachie & Co.
+18930805p.3_p002.txt,27,Rajnar,Hudikswall,WICK,"150 lds. fir, 48 lds. fir spars, 60 lds. sawn fir",D. Sutherland,27,7,1893,5,8,1893,False,"July 27 Rajnar-Hudikswall-150 lds. fir, 48 lds. fir spars, 60 lds. sawn fir-D. Sutherland"
+18930819p.3_p002.txt,7,Ancient Briton,Cronstadt,GRANGEMOUTH,"30,767 battens",J. S. Dunn & Co.,3,8,1893,19,8,1893,False,"Aug. 3 Ancient Briton-Cronstadt-30,767 battens -J. S. Dunn & Co."
+18930819p.3_p002.txt,8,Camel,Helsingfors,GRANGEMOUTH,"2,210 deals and battens, 318,368 birch squares",J. T. Salvesen & Co.; (in bundles)-J. & J. Hay.,4,8,1893,19,8,1893,False,"4 Camel-Helsingfors-2,210 deals and battens, 318,368 birch squares-J. T. Salvesen & Co.; (in bundles)-J. & J. Hay."
+18930819p.3_p002.txt,9,Orient,Libau,GRANGEMOUTH,"3,445 sleeper blocks, 1,782 half",sleepers-Brownlee & Co.,5,8,1893,19,8,1893,False,"5 Orient-Libau-3,445 sleeper blocks, 1,782 half-sleepers-Brownlee & Co."
+18930819p.3_p002.txt,10,Morena,Windau,GRANGEMOUTH,"8,790 deals and battens",sleepers-Brownlee & Co.,7,8,1893,19,8,1893,False,"7 Morena-Windau-8,790 deals and battens-sleepers-Brownlee & Co."
+18930819p.3_p002.txt,12,Bertha,Riga,GRANGEMOUTH,"10,455 deals and ends",J. T. Salvesen.,8,8,1893,19,8,1893,False,"8 Bertha-Riga-10,455 deals and ends-J. T. Salvesen."
+18930819p.3_p002.txt,14,Skulda,Pernau,GRANGEMOUTH,"10,430 sleeper blocks, 913 half",sleepers-Brownlee & Co.,10,8,1893,19,8,1893,False,"10 Skulda-Pernau-10,430 sleeper blocks, 913 half-sleepers-Brownlee & Co."
+18930819p.3_p002.txt,18,Catharina,Riga,GRANGEMOUTH,"6,436 deals and battens",Brownlee & Co.,11,8,1893,19,8,1893,False,"11 Catharina-Riga-6,436 deals and battens-Brownlee & Co."
+18930819p.3_p002.txt,22,Fred,Demerara,GREENOCK,152 logs Essequibo greenheart timber,"Duncan, Ewing, & Co.",8,8,1893,19,8,1893,False,"Aug. 8 Fred-Demerara-152 logs Essequibo greenheart timber-Duncan, Ewing, & Co."
+18930819p.3_p002.txt,24,Frithiof,Gothenburg,GRANTON,"27 lds. fir battens and deals, 19 lds. fir props",C. Salvesen & Co.,8,8,1893,19,8,1893,True,"Aug. 8 Frithiof -Gothenburg-27 lds. fir battens and deals, 19 lds. fir props-C. Salvesen & Co."
+18930923p.330_p001.txt,11,Kopernikus (r),Konigsberg,BARROW,438 lds hewn fir,,19,9,1893,23,9,1893,False,19 Kopernikus (r)-Konigsberg-438 lds hewn fir
+18930923p.330_p001.txt,19,Dolphin,Gefle,BLYTH,"260 lds deals, 100 lds fir",,18,9,1893,23,9,1893,False,"Sept 18 Dolphin-Gefle-260 lds deals, 100 lds fir"
+18930923p.330_p001.txt,29,Frey,Fredrikshald 295 lds fir deals,BRIDGWATER,,,14,9,1893,23,9,1893,False,Sept 14 Frey-Fredrikshald 295 lds fir deals-
+18930923p.330_p001.txt,31,Nordlyset,Keret,BRIDGWATER,425 lds fir deals,Order,16,9,1893,23,9,1893,False,16 Nordlyset-Keret-425 lds fir deals-Order
+18930923p.330_p001.txt,36,Monton,Archangel,BRISTOL,"33,977 pcs deals, boards, and ends",May & Hassell,16,9,1893,23,9,1893,False,"16 Monton-Archangel-33,977 pcs deals, boards, and ends-May & Hassell"
+18930923p.330_p001.txt,37,Albion,Fredrikstad,BRISTOL,"51,677 pcs deals, boards,",,18,9,1893,23,9,1893,False,"18 Albion-Fredrikstad-51,677 pcs deals, boards,"
+18930923p.330_p001.txt,43,Massasoit,New York,AVONMOUTH DOCK,926 pcs lumber,,15,9,1893,23,9,1893,True,15 Massasoit -New York-926 pcs lumber-
+18930923p.330_p001.txt,47,Adour,"Bayonne 1,200 lds pitwood",CARDIFF,A.,,12,9,1893,23,9,1893,False,"Sept. 12 Adour-Bayonne 1,200 lds pitwood-A."
+18930923p.330_p001.txt,49,Loughbro',"Archangel 1,150 lds fir deals",CARDIFF,,,12,9,1893,23,9,1893,False,"12 Loughbro'-Archangel 1,150 lds fir deals-"
+18930923p.330_p001.txt,51,Amelie,Vannes 130 lds fir pitwood,CARDIFF,Order,,13,9,1893,23,9,1893,False,13 Amelie-Vannes 130 lds fir pitwood-Order
+18930923p.330_p001.txt,52,Rive de Gier  Bayonne,"1,200 lds pit",CARDIFF,,,13,9,1893,23,9,1893,True,"13 Rive de Gier  Bayonne-1,200 lds pit-"
+18930923p.330_p001.txt,54,Jaroslav,Bordeaux,CARDIFF,"1,196 lds fir pitwood",,13,9,1893,23,9,1893,False,"13 Jaroslav-Bordeaux-1,196 lds fir pitwood-"
+18930923p.330_p001.txt,56,Vestfold,Risoer 478 lds hewn fir,CARDIFF,Order,,14,9,1893,23,9,1893,False,14 Vestfold-Risoer 478 lds hewn fir-Order
+18930923p.330_p001.txt,57,Guldstringer,Drammen,CARDIFF,"1,224 lds fir deals,",,14,9,1893,23,9,1893,False,"14 Guldstringer-Drammen-1,224 lds fir deals,"
+18930923p.330_p001.txt,59,Bonheur,Drammen 1 800 lds fir deals,CARDIFF,Order,,14,9,1893,23,9,1893,False,14 Bonheur-Drammen 1 800 lds fir deals-Order
+18930923p.330_p001.txt,60,Albert,Ehrensvard,CARDIFF,Gothenburg,"1,000 lds",15,9,1893,23,9,1893,False,"15 Albert-Ehrensvard-Gothenburg-1,000 lds"
+18930923p.330_p001.txt,62,Fylgia,Drammen 970 lds fir deals,CARDIFF,Order,,15,9,1893,23,9,1893,False,15 Fylgia-Drammen 970 lds fir deals-Order
+18930923p.330_p001.txt,63,Gwendoline,Villagarcia 450 lds pit,CARDIFF,,,15,9,1893,23,9,1893,False,15 Gwendoline-Villagarcia 450 lds pit-
+18930923p.330_p001.txt,65,Julia,Danzig,CARDIFF,"1,120 lds hewn fir",Order,16,9,1893,23,9,1893,False,"16 Julia-Danzig-1,120 lds hewn fir-Order"
+18930923p.330_p001.txt,66,Brilliant,Keret,CARDIFF,700 lds sawn fir,Order,16,9,1893,23,9,1893,False,16 Brilliant-Keret-700 lds sawn fir-Order
+18930923p.330_p001.txt,69,Boucan,Bayonne,CARDIFF,"1,200 lds pitwood",A.,18,9,1893,23,9,1893,False,"18 Boucan-Bayonne-1,200 lds pitwood-A."
+18930923p.330_p001.txt,73,Excelsior,Gothenburg,CHESTER,330 lds fir,,11,9,1893,23,9,1893,False,Sept 11 Excelsior-Gothenburg-330 lds fir
+18930923p.330_p001.txt,75,Malta,Pugwash,CHESTER,"1,116 lds deals, 476 pine deals,",,13,9,1893,23,9,1893,False,"13 Malta-Pugwash-1,116 lds deals, 476 pine deals,"
+18930923p.330_p001.txt,78,[?],Quebec 20 wooden doors,CHESTER,,,16,9,1893,23,9,1893,False,16 [?]-Quebec 20 wooden doors-
+18930923p.330_p001.txt,82,Proven,Archangel,DOVER,400 lds fir deals,,15,9,1893,23,9,1893,False,Sept. 15 Proven-Archangel-400 lds fir deals
+18930923p.330_p001.txt,84,Helvetia,Skelleftea,DOVER,"2 lds sawn fir, 1 ld.",,18,9,1893,23,9,1893,False,"18 Helvetia-Skelleftea-2 lds sawn fir, 1 ld."
+18930923p.330_p001.txt,96,Najaden,Christiania,FAVERSHAM,"90 lds sawn fir, 140 lds.",,12,9,1893,23,9,1893,False,"12 Najaden-Christiania-90 lds sawn fir, 140 lds."
+18930923p.330_p001.txt,100,Jane Burrill,"St. John, N.B.",FLEETWOOD,"2,946 lds fir deals,",,12,9,1893,23,9,1893,False,"Sept. 12 Jane Burrill-St. John, N.B.-2,946 lds fir deals,"
+18930923p.330_p001.txt,105,Malta,Pugwash,FLEETWOOD,"1,116 lds fir deals",Pierce,13,9,1893,23,9,1893,False,"13 Malta-Pugwash-1,116 lds fir deals-Pierce"
+18930923p.330_p001.txt,109,Thea,Soderhamn 224 lds. fir deals,FOLKESTONE,T.,,15,9,1893,23,9,1893,False,Sept. 15 Thea-Soderhamn 224 lds. fir deals-T.
+18930923p.330_p001.txt,119,Iris,Fredrikstad,FOWEY,275 lds. fir staves,N.,12,9,1893,23,9,1893,False,Sept. 12 Iris-Fredrikstad-275 lds. fir staves-N.
+18930923p.330_p001.txt,121,Guideline,Riga,FOWEY,"17,517 pit props",Pedersen,13,9,1893,23,9,1893,False,"13 Guideline-Riga-17,517 pit props-Pedersen"
+18930923p.330_p001.txt,122,Leon,Sarpsborg,FOWEY,350 lds. hewn fir,G. Horsley,13,9,1893,23,9,1893,False,13 Leon-Sarpsborg-350 lds. hewn fir-G. Horsley
+18930923p.330_p001.txt,123,Fenix,Porsgrund,FOWEY,438 lds hewn fir,Horsley,13,9,1893,23,9,1893,False,13 Fenix-Porsgrund-438 lds hewn fir-Horsley
+18930923p.330_p001.txt,124,Marie,Sundswall,FOWEY,180 lds. fir props,Nilsson,13,9,1893,23,9,1893,False,13 Marie-Sundswall-180 lds. fir props-Nilsson
+18930923p.330_p001.txt,125,Rapid,Langesund,FOWEY,44 lds. hewn fir,Horsley,13,9,1893,23,9,1893,False,13 Rapid-Langesund-44 lds. hewn fir-Horsley
+18930923p.330_p001.txt,128,Southwood,Gefle,GLOUCESTER,"1,645 lds. fir",,12,9,1893,23,9,1893,True,"Sept. 12 Southwood -Gefle-1,645 lds. fir"
+18930923p.330_p001.txt,130,Recovery,Parrsbro',GLOUCESTER,"251 lds sawn birch, 1,178",,13,9,1893,23,9,1893,False,"13 Recovery-Parrsbro'-251 lds sawn birch, 1,178"
+18930923p.330_p001.txt,132,Innerwick,Parrsbro',GLOUCESTER,667 lds sawn birch,W.,13,9,1893,23,9,1893,False,13 Innerwick-Parrsbro'-667 lds sawn birch-W.
+18930923p.330_p001.txt,135,Craiglands,Kem,GLOUCESTER,"1,880 lds. fir deals and",,13,9,1893,23,9,1893,True,"13 Craiglands -Kem-1,880 lds. fir deals and"
+18930923p.330_p001.txt,139,Sunrise,Narva,GOOLE,"1,980 lds. pulp",,16,9,1893,23,9,1893,True,"Sept. 16 Sunrise -Narva-1,980 lds. pulp-"
+18930923p.330_p001.txt,143,Volante,Cronstadt,GRIMSBY,"1,475 lds. fir",,12,9,1893,23,9,1893,True,"Sept. 12 Volante -Cronstadt-1,475 lds. fir"
+18930923p.330_p001.txt,145,Runnberg,Archangel,GRIMSBY,589 lds. sawn fir,G. A.,12,9,1893,23,9,1893,False,12 Runnberg-Archangel-589 lds. sawn fir-G. A.
+18930923p.330_p001.txt,147,Hildur,Kubikenborg,GRIMSBY,"592 lds deals, battens,",,12,9,1893,23,9,1893,False,"12 Hildur-Kubikenborg-592 lds deals, battens,"
+18930923p.330_p001.txt,149,Ariadne,Kopmanholmen,GRIMSBY,"465 lds. deals, bat",,13,9,1893,23,9,1893,False,"13 Ariadne-Kopmanholmen-465 lds. deals, bat-"
+18930923p.330_p001.txt,151,Saga,Kopmanholmen,GRIMSBY,"495 lds. deals, battens,",,13,9,1893,23,9,1893,False,"13 Saga-Kopmanholmen-495 lds. deals, battens,"
+18930923p.330_p001.txt,153,Tytty,Kristinestad,GRIMSBY,"318 lds. hewn fir, 106 lds.",,14,9,1893,23,9,1893,False,"14 Tytty-Kristinestad-318 lds. hewn fir, 106 lds."
+18930923p.330_p001.txt,155,Glenbervie,Uleaborg,GRIMSBY,60 lds fir firewood,North,14,9,1893,23,9,1893,False,14 Glenbervie-Uleaborg-60 lds fir firewood-North
+18930923p.330_p001.txt,158,Marie Adelaide,Skutskar,GRIMSBY,700 lds. fir deals and,,14,9,1893,23,9,1893,False,14 Marie Adelaide-Skutskar-700 lds. fir deals and
+18930923p.330_p001.txt,160,Festina Lente,Skutskar,GRIMSBY,552 lds. fir timber,,14,9,1893,23,9,1893,False,14 Festina Lente-Skutskar-552 lds. fir timber-
+18930923p.330_p001.txt,162,Ino,Kubikenborg,GRIMSBY,"523 lds. fir deals, battens,",,15,9,1893,23,9,1893,False,"15 Ino-Kubikenborg-523 lds. fir deals, battens,"
+18930923p.330_p001.txt,164,Orsino,Riga,GRIMSBY,"980 lds sleeper blocks, 1,551 lds.",,16,9,1893,23,9,1893,False,"16 Orsino-Riga-980 lds sleeper blocks, 1,551 lds."
+18930923p.330_p001.txt,166,Ella,Kotka,GRIMSBY,215 lds fir deals,Seddon,16,9,1893,23,9,1893,False,16 Ella-Kotka-215 lds fir deals-Seddon
+18930923p.330_p001.txt,167,Betty,Bjorneborg,GRIMSBY,420 lds. sawn fir,Win-,16,9,1893,23,9,1893,False,16 Betty-Bjorneborg-420 lds. sawn fir-Win-
+18930923p.330_p001.txt,169,Lo,Kem,GRIMSBY,"1,225 lds fir deals, battens, and",,16,9,1893,23,9,1893,False,"16 Lo-Kem-1,225 lds fir deals, battens, and"
+18930923p.330_p001.txt,171,Witch,Norrsundet,GRIMSBY,"480 lds. fir deals, battens,",,16,9,1893,23,9,1893,False,"16 Witch-Norrsundet-480 lds. fir deals, battens,"
+18930923p.330_p001.txt,173,Anna,Alne,GRIMSBY,640 lds fir deals and ends,,16,9,1893,23,9,1893,False,16 Anna-Alne-640 lds fir deals and ends-
+18930923p.330_p001.txt,175,Fingal,Narva,GRIMSBY,429 lds sawn fir,G. A. Carr,16,9,1893,23,9,1893,False,16 Fingal-Narva-429 lds sawn fir-G. A. Carr
+18930923p.330_p001.txt,176,Wooler,Riga,GRIMSBY,"2,900 lds fir sleepers",Burt,18,9,1893,23,9,1893,True,"18 Wooler -Riga-2,900 lds fir sleepers-Burt"
+18930923p.330_p001.txt,177,Captain Dan,Archangel,GRIMSBY,28 lds firewood,F.,18,9,1893,23,9,1893,False,18 Captain Dan-Archangel-28 lds firewood-F.
+18930923p.330_p001.txt,179,Architect,Nederkalix,GRIMSBY,"550 lds. fir deals, bat",,18,9,1893,23,9,1893,False,"18 Architect-Nederkalix-550 lds. fir deals, bat-"
+18930923p.330_p001.txt,181,John,Nederkalix,GRIMSBY,"835 lds. fir deals, battens,",,18,9,1893,23,9,1893,False,"18 John-Nederkalix-835 lds. fir deals, battens,"
+18930923p.330_p001.txt,183,Wilhelmine,Ortviken,GRIMSBY,370 lds. fir deals and,,18,9,1893,23,9,1893,False,18 Wilhelmine-Ortviken-370 lds. fir deals and
+18930923p.330_p001.txt,185,Frida,Archangel,GRIMSBY,405 lds. sawn fir,G. A. Carr,18,9,1893,23,9,1893,False,18 Frida-Archangel-405 lds. sawn fir-G. A. Carr
+18930923p.330_p001.txt,188,Gipsy Queen,Gothenburg,HARTLEPOOL (WEST),102 lds. fir,,12,9,1893,23,9,1893,False,Sept 12 Gipsy Queen-Gothenburg-102 lds. fir
+18930923p.330_p001.txt,190,"lds, fir posts, 180 lds. fir laths",T. Barra,HARTLEPOOL (WEST),,,14,9,1893,23,9,1893,False,"14 lds, fir posts, 180 lds. fir laths-T. Barra-"
+18930923p.330_p001.txt,192,Anne Elizabeth,Sarpsborg,HARTLEPOOL (WEST),450 lds. hewn fir,,12,9,1893,23,9,1893,False,12 Anne Elizabeth-Sarpsborg-450 lds. hewn fir-
+18930923p.330_p001.txt,194,Carl Potter,Carlskrona,HARTLEPOOL (WEST),170 lds. props,Peder-,12,9,1893,23,9,1893,False,12 Carl Potter-Carlskrona-170 lds. props-Peder-
+18930923p.330_p001.txt,196,Pallas,Gefle,HARTLEPOOL (WEST),"792 lds. fir deals, battens, and",,12,9,1893,23,9,1893,False,"12 Pallas-Gefle-792 lds. fir deals, battens, and"
+18930923p.330_p001.txt,198,Rosland,Gefle,HARTLEPOOL (WEST),225 lds. fir props,G. Pyman,13,9,1893,23,9,1893,False,13 Rosland-Gefle-225 lds. fir props-G. Pyman
+18930923p.330_p001.txt,199,Nelly & Mathilda,Gefle,HARTLEPOOL (WEST),500 lds. fir props,G.,13,9,1893,23,9,1893,False,13 Nelly & Mathilda-Gefle-500 lds. fir props-G.
+18930923p.330_p001.txt,201,Joneheld,Carlscrona,HARTLEPOOL (WEST),240 lds. fir props,,13,9,1893,23,9,1893,False,13 Joneheld-Carlscrona-240 lds. fir props-
+18930923p.330_p001.txt,203,Gloria,Oscarshamn,HARTLEPOOL (WEST),160 lds. fir props,W. D.,14,9,1893,23,9,1893,False,14 Gloria-Oscarshamn-160 lds. fir props-W. D.
+18930923p.330_p001.txt,205,Jenny,Danzig,HARTLEPOOL (WEST),"227 lds fir crossing blocks,",,14,9,1893,23,9,1893,True,"14 Jenny -Danzig-227 lds fir crossing blocks,"
+18930923p.330_p001.txt,207,Sirena,Skien,HARTLEPOOL (WEST),"400 lds. hewn mining timber, 6",,15,9,1893,23,9,1893,False,"15 Sirena-Skien-400 lds. hewn mining timber, 6"
+18930923p.330_p001.txt,209,Ran,Hernosand,HARTLEPOOL (WEST),"80 lds. firewood, 450 lds fir",,15,9,1893,23,9,1893,False,"15 Ran-Hernosand-80 lds. firewood, 450 lds fir"
+18930923p.330_p001.txt,211,Medea,Hernosand,HARTLEPOOL (WEST),300 lds. fir props,Pedersen,15,9,1893,23,9,1893,False,15 Medea-Hernosand-300 lds. fir props-Pedersen
+18930923p.330_p001.txt,212,Hanna,Hernosand,HARTLEPOOL (WEST),340 lds. fir props,Peder-,15,9,1893,23,9,1893,False,15 Hanna-Hernosand-340 lds. fir props-Peder-
+18930923p.330_p001.txt,214,Hiram,Sundswall,HARTLEPOOL (WEST),330 lds. fir deal and batten,,16,9,1893,23,9,1893,False,16 Hiram-Sundswall-330 lds. fir deal and batten
+18930923p.330_p001.txt,216,Betty,Westervik,HARTLEPOOL (WEST),120 lds. fir props,W. Pear-,16,9,1893,23,9,1893,False,16 Betty-Westervik-120 lds. fir props-W. Pear-
+18930923p.330_p001.txt,218,Brynil,Porsgrund,HARTLEPOOL (WEST),227 lds. hewn fir,H.,16,9,1893,23,9,1893,False,16 Brynil-Porsgrund-227 lds. hewn fir-H.
+18930923p.330_p001.txt,230,Aalto,Bjorneborg,ALEXANDRA DOCK,"52,117 boards",,13,9,1893,23,9,1893,False,"Sept. 13 Aalto-Bjorneborg-52,117 boards-"
+18930923p.330_p001.txt,232,Suomi,Wyborg,ALEXANDRA DOCK,"29,270 pit props",Order,14,9,1893,23,9,1893,False,"14 Suomi-Wyborg-29,270 pit props-Order"
+18930923p.330_p001.txt,233,Ukko,Wyborg,ALEXANDRA DOCK,"37,665 pit props",Order,14,9,1893,23,9,1893,False,"14 Ukko-Wyborg-37,665 pit props-Order"
+18930923p.330_p001.txt,234,Cameo,Gothenburg,ALEXANDRA DOCK,"3,166 bdls. laths",,15,9,1893,23,9,1893,True,"15 Cameo -Gothenburg-3,166 bdls. laths-"
+18930923p.330_p001.txt,236,Cicero,Stockholm,ALEXANDRA DOCK,"5,834 bdls laths",Order;,15,9,1893,23,9,1893,True,"15 Cicero -Stockholm-5,834 bdls laths-Order;"
+18930923p.330_p001.txt,238,Romeo,Gothenburg,ALEXANDRA DOCK,"1,500 bdls laths,",,15,9,1893,23,9,1893,True,"15 Romeo -Gothenburg-1,500 bdls laths,"
+18930923p.330_p001.txt,241,Martello,New York,ALEXANDRA DOCK,"2,400 staves",Wilson,15,9,1893,23,9,1893,True,"15 Martello -New York-2,400 staves-Wilson"
+18930923p.330_p001.txt,242,Naema,Abo,ALEXANDRA DOCK,"20,887 bdls. birch squares, 44",,16,9,1893,23,9,1893,False,"16 Naema-Abo-20,887 bdls. birch squares, 44"
+18930923p.330_p001.txt,244,Rondo,Skutskar,ALEXANDRA DOCK,"20,127 deals",Order;,16,9,1893,23,9,1893,True,"16 Rondo -Skutskar-20,127 deals-Order;"
+18930923p.330_p001.txt,247,Sleipner,Fredrikshald,ALEXANDRA DOCK,"32,294 props",Order,16,9,1893,23,9,1893,False,"16 Sleipner-Fredrikshald-32,294 props-Order"
+18930923p.330_p001.txt,250,Anna,Hernosand,QUEEN'S DOCK,"24,163 deals, &c.",,14,9,1893,23,9,1893,False,"Sept. 14 Anna-Hernosand-24,163 deals, &c.-"
+18930923p.330_p001.txt,254,Silvio,Riga,VICTORIA DOCK,"6,694 deals, 71,861",,13,9,1893,23,9,1893,True,"Sept. 13 Silvio -Riga-6,694 deals, 71,861"
+18930923p.330_p001.txt,256,Spark,Archangel,VICTORIA DOCK,"40,865 deals, battens,",,14,9,1893,23,9,1893,True,"14 Spark -Archangel-40,865 deals, battens,"
+18930923p.330_p001.txt,258,Urania,Helsingfors,VICTORIA DOCK,100 bdls. boards,J.,14,9,1893,23,9,1893,True,14 Urania -Helsingfors-100 bdls. boards-J.
+18930923p.330_p001.txt,260,Usko,Cronstadt,VICTORIA DOCK,"16,578 deals, &c.",Order,14,9,1893,23,9,1893,False,"14 Usko-Cronstadt-16,578 deals, &c.-Order"
+18930923p.330_p001.txt,261,Clio,Kemi,VICTORIA DOCK,24 lds. firewood,J. Good &,14,9,1893,23,9,1893,True,14 Clio -Kemi-24 lds. firewood-J. Good &
+18930923p.330_p001.txt,263,Ele,Abo,VICTORIA DOCK,"34,078 battens and boards",Order,14,9,1893,23,9,1893,False,"14 Ele-Abo-34,078 battens and boards-Order"
+18930923p.330_p003.txt,20,Ida,Archangel,WEYMOUTH,"28,000 deals and battens, 40 lds boards",Bell & Co.,12,9,1893,23,9,1893,False,"Sept. 12 Ida-Archangel-28,000 deals and battens, 40 lds boards-Bell & Co."
+18930923p.330_p003.txt,22,Denaby,Wyborg,WISBECH,"1,546 bdlls. hoops",T. Wright,12,9,1893,23,9,1893,True,"Sept. 12 Denaby  - Wyborg-1,546 bdlls. hoops-T. Wright"
+18930923p.330_p003.txt,23,Rockland,Archangel,WISBECH,56 lds firewood,English Bros.,14,9,1893,23,9,1893,True,14 Rockland -Archangel-56 lds firewood-English Bros.
+18930923p.330_p003.txt,28,Livonia,Miramichi,ARKLOW,"19,527deals",Tyrrell,19,9,1893,23,9,1893,False,"Sept 19 Livonia-Miramichi-19,527deals-Tyrrell"
+18930923p.330_p003.txt,30,Marget,Fredrikstad,BELFAST,"491 lds planed boards, 66 lds battens",H. Hutton & Co.,11,9,1893,23,9,1893,False,"Sept. 11 Marget - Fredrikstad-491 lds planed boards, 66 lds battens - H. Hutton & Co."
+18930923p.330_p003.txt,32,Norman,Miramichi,BELFAST,"1,359 lds ends and scantlings, 15 lds piling",J. Dixon & Sons,13,9,1893,23,9,1893,False,"13 Norman-Miramichi-1,359 lds ends and scantlings, 15 lds piling-J. Dixon & Sons"
+18930923p.330_p003.txt,33,Chrysolite,Bay Verte,BELFAST,"1,063 lds deals and boards",Gregg & Co.,16,9,1893,23,9,1893,False,"16 Chrysolite-Bay Verte-1,063 lds deals and boards-Gregg & Co."
+18930923p.330_p003.txt,37,Penry,"St. John, N.B.",CORK,"1,127 deals and battens",B. Houghton & Co.,13,9,1893,23,9,1893,False,"Sept. 13 Penry-St. John, N.B.-1,127 deals and battens-B. Houghton & Co."
+18930923p.330_p003.txt,38,Glany,twyth,CORK,Riga,"8,000 square sleepers-Great Southern and Western Railway.",18,9,1893,23,9,1893,False,"Sept. 18 Glany-twyth-Riga-8,000 square sleepers-Great Southern and Western Railway."
+18930923p.330_p003.txt,40,Carola,Christiania,CORK,"20,519 flooring boards, 2,678 spars",T. & C. Martin,19,9,1893,23,9,1893,False,"19 Carola-Christiania-20,519 flooring boards, 2,678 spars-T. & C. Martin"
+18930923p.330_p003.txt,42,Anna,Matane,GALWAY,"940 lds deals, &c.",Hynes,16,9,1893,23,9,1893,False,"Sept. 16 Anna-Matane-940 lds deals, &c.-Hynes"
+18930923p.330_p003.txt,44,Sunbeam,"Sapelo, Ga.",LIMERICK,"1,066 lds sawn timber","F. Spaight & Sons, Lim.",13,9,1893,23,9,1893,False,"Sept 13 Sunbeam-Sapelo, Ga.-1,066 lds sawn timber-F. Spaight & Sons, Lim."
+18930923p.330_p003.txt,45,Ida,deals,LIMERICK,"F. Spaight & Sons, Lim.",,16,9,1893,23,9,1893,False,"16 Ida-deals-F. Spaight & Sons, Lim."
+18930923p.330_p003.txt,46,Skrheim,Quebec,LIMERICK,"1,202 lds deals and ends","F. Spaight & Sons, Lim.",14,9,1893,23,9,1893,False,"14 Skrheim-Quebec-1,202 lds deals and ends-F. Spaight & Sons, Lim."
+18930923p.330_p003.txt,48,Arvio,Quebec,NEWRY,"1,200 lds deals and ends",Carvill Bros.,15,9,1893,23,9,1893,False,"Sept. 15 Arvio-Quebec-1,200 lds deals and ends-Carvill Bros."
+18930923p.330_p003.txt,50,Skien,Quebec,SLIGO,801 lds deals,Order,13,9,1893,23,9,1893,False,Sept. 13 Skien-Quebec-801 lds deals-Order
+18931104p.3_p001.txt,122,Margrethe,Laurvig,ABERDEEN,10 lds. firewood,Master,25,10,1893,4,11,1893,False,Oct. 25 Margrethe-Laurvig-10 lds. firewood-Master
+18931104p.3_p001.txt,127,Orient,Riga,ALLOA,560 lds. pit props,Master,24,10,1893,4,11,1893,False,Oct. 24 Orient-Riga-560 lds. pit props-Master
+18931104p.3_p001.txt,129,Pette Kraeft,Riga,ALLOA,416 lds. pit props,bristle Co.,25,10,1893,4,11,1893,False,25 Pette Kraeft-Riga-416 lds. pit props-bristle Co.
+18931104p.3_p001.txt,130,Venus,Gothenburg,ALLOA,92 lds. fir props,"Rennie, Bryson, & Co.",27,10,1893,4,11,1893,False,"27 Venus-Gothenburg-92 lds. fir props-Rennie, Bryson, & Co."
+18931104p.3_p001.txt,131,Kurir,Norrkoping,ALLOA,135 lds. fir props,Alloa Coal Co.,28,10,1893,4,11,1893,False,28 Kurir - Norrkoping-135 lds. fir props-Alloa Coal Co.
+18931104p.3_p001.txt,132,Active,Porsgrund,ALLOA,120 lds.fir pit props,Love,30,10,1893,4,11,1893,False,30 Active-Porsgrund-120 lds.fir pit props-Love
+18931104p.3_p001.txt,134,Mary,Riga,ARBROATH,54 lds. lathwood and fir battens,Arbroath Saw-mill Co.,30,10,1893,4,11,1893,False,Oct. 30 Mary-Riga-54 lds. lathwood and fir battens-Arbroath Saw-mill Co.
+18931104p.3_p001.txt,136,Ardmore,Windau,ARDROSSAN,920 lds. pit sleepers,W. Christie & Co.,24,10,1893,4,11,1893,True,Oct. 24 Ardmore -Windau-920 lds. pit sleepers-W. Christie & Co.
+18931104p.3_p001.txt,138,Safir,Christiansand,BORROWSTOUNNESS,190 lds. fir props,J. Denholm & Co.,24,10,1893,4,11,1893,False,Oct 24 Safir-Christiansand-190 lds. fir props-J. Denholm & Co.
+18931104p.3_p001.txt,139,Henrik Wergeland,Christiansand,BORROWSTOUNNESS,312 lds. pitwood,J. Denholm & Co.,25,10,1893,4,11,1893,False,25 Henrik Wergeland-Christiansand-312 lds. pitwood-J. Denholm & Co.
+18931104p.3_p001.txt,140,Hilda,Sandefjord,BORROWSTOUNNESS,174 lds. fir props,Denholm,30,10,1893,4,11,1893,False,30 Hilda-Sandefjord-174 lds. fir props-Denholm
+18931104p.3_p001.txt,142,Crown,Cronstadt,DUNDEE,73 lds. firewood,W. Kinnear & Co.,24,10,1893,4,11,1893,True,Oct. 24 Crown -Cronstadt-73 lds. firewood-W. Kinnear & Co.
+18931104p.3_p001.txt,144,Odin,Wyborg,DUNDEE,40 lds. fir deals and battens,T. Harris,30,10,1893,4,11,1893,False,30 Odin-Wyborg-40 lds. fir deals and battens-T. Harris
+18931104p.3_p001.txt,146,Carl XV,Gothenburg,GRANTON,"80 lds. firewood, 96 lds. fir props",C. Salvesen & Co.,21,10,1893,4,11,1893,False,"Oct. 21 Carl XV-Gothenburg-80 lds. firewood, 96 lds. fir props-C. Salvesen & Co."
+18931104p.3_p001.txt,147,Diana,Hudikswall,GRANTON,29 lds. fir props,Madsen & Borch,25,10,1893,4,11,1893,False,25 Diana-Hudikswall-29 lds. fir props-Madsen & Borch
+18931104p.3_p001.txt,148,Newbiggin,Riga,GRANTON,"1,010 lds. fir sleeper blocks",Calder & Co.,30,10,1893,4,11,1893,False,"30 Newbiggin-Riga - 1,010 lds. fir sleeper blocks-Calder & Co."
+18931104p.3_p001.txt,150,Nestorian,Boston,GLASGOW,"300 butt staves, 7800 barrel staves",Thomas Kerr & Co.,23,10,1893,4,11,1893,False,"Oct. 23 Nestorian-Boston-300 butt staves, 7800 barrel staves-Thomas Kerr & Co."
+18931104p.3_p001.txt,152,Peruvian,New York,GLASGOW,"8,419 staves",R. Hamilton & Co.,24,10,1893,4,11,1893,False,"24 Peruvian - New York - 8,419 staves-R. Hamilton & Co."
+18931104p.3_p001.txt,153,Holyrood,Norfolk,GLASGOW,"28 poplar logs, 144 hickory logs, 36 ash logs","Wright, Graham; 40 poplar logs, 14,320 staves-Order; 4,708 staves (from Newport News)-R. Hamilton",25,10,1893,4,11,1893,False,"25 Holyrood-Norfolk-28 poplar logs, 144 hickory logs, 36 ash logs-Wright, Graham; 40 poplar logs, 14,320 staves-Order; 4,708 staves (from Newport News)-R. Hamilton"
+18931104p.3_p001.txt,154,Warwick,Montreal,GLASGOW,"5,593 deals","Singleton, Dunn, & Co.; 1,173 deals-Bryce, Junor, & Whyte; 2,910 deals-Allison, Cousland, & Co.; 5,826 deals-Order",26,10,1893,4,11,1893,False,"26 Warwick-Montreal-5,593 deals-Singleton, Dunn, & Co.; 1,173 deals-Bryce, Junor, & Whyte; 2,910 deals-Allison, Cousland, & Co.; 5,826 deals-Order"
+18931104p.3_p001.txt,155,Hestia,Montreal,GLASGOW,"1,893 deals","Allison, Cousland, & Co.; 181 deals-F. A. Lightbody; 6,751 deals-Singleton, Dunn, & Co.",28,10,1893,4,11,1893,False,"28 Hestia-Montreal-1,893 deals-Allison, Cousland, & Co.; 181 deals-F. A. Lightbody; 6,751 deals-Singleton, Dunn, & Co."
+18931104p.3_p001.txt,156,John Gill,Pictou,GLASGOW,"14,385 spruce deals, 166 spruce scantlings, 708 spruce deal ends, 928 pcs. birch timber, 2,980 birch planks, 689 spruce deals",Order,30,10,1893,4,11,1893,False,"30 John Gill-Pictou-14,385 spruce deals, 166 spruce scantlings, 708 spruce deal ends, 928 pcs. birch timber, 2,980 birch planks, 689 spruce deals-Order"
+18931104p.3_p001.txt,158,Columbus,Riga,GRANGEMOUTH,"11,159 deals",Brownlee,21,10,1893,4,11,1893,False,"Oct. 21 Columbus-Riga-11,159 deals-Brownlee"
+18931104p.3_p001.txt,159,Emma and Johanna,Memel,GRANGEMOUTH,"6,200 oak staves, 615 pcs. timber, 36 pcs. timber ends, 105 deals",Order,23,10,1893,4,11,1893,False,"23 Emma and Johanna-Memel-6,200 oak staves, 615 pcs. timber, 36 pcs. timber ends, 105 deals-Order"
+18931104p.3_p001.txt,162,Exandi,Cronstadt,GRANGEMOUTH,"12,950 deals and battens",Muirhead & Son,24,10,1893,4,11,1893,False,"24 Exandi-Cronstadt-12,950 deals and battens-Muirhead & Son"
+18931111p.520_p001.txt,4,Gowerian,Fredrikstad,ABERYSTWITH,183 lds. sawn fir,R. Roberts & Son.,30,10,1893,11,11,1893,False,Oct. 30 Gowerian-Fredrikstad-183 lds. sawn fir-R. Roberts & Son.
+18931111p.520_p001.txt,8,Agda,Trangsund,BRISTOL,"15,376 deals, battens, and boards","Taylor & Low Bros.; from Wyburg-49,006 deals, battens, and scantlings-Taylor & Low Bros.",2,11,1893,11,11,1893,False,"Nov. 2 Agda-Trangsund-15,376 deals, battens, and boards-Taylor & Low Bros.; from Wyburg-49,006 deals, battens, and scantlings-Taylor & Low Bros."
+18931111p.520_p001.txt,11,Thor,Bayonne,CARDIFF,446 lds. pit props,C. Capelle.,31,10,1893,11,11,1893,False,Oct. 31 Thor-Bayonne-446 lds. pit props-C. Capelle.
+18931111p.520_p001.txt,12,Victoria,"Liscomb, N.S.",CARDIFF,375 lds. birch planks,Watsons.,1,11,1893,11,11,1893,False,"Nov. 1 Victoria-Liscomb, N.S.-375 lds. birch planks-Watsons."
+18931111p.520_p001.txt,14,Newton,Uddevalla,CARDIFF,440 lds. sawn fir,Schroeter & Co.,3,11,1893,11,11,1893,True,3 Newton -Uddevalla-440 lds. sawn fir-Schroeter & Co.
+18931111p.520_p001.txt,21,Axel,Sundswall,CARDIFF,500 lds. sawn fir,J. Bland & Co.,4,11,1893,11,11,1893,False,4 Axel-Sundswall-500 lds. sawn fir-J. Bland & Co.
+18931111p.520_p001.txt,22,Buteshire,Bordeaux,CARDIFF,"1,000 lds. pitwood",Simkin Bros.,6,11,1893,11,11,1893,False,"6 Buteshire-Bordeaux-1,000 lds. pitwood-Simkin Bros."
+18931111p.520_p001.txt,26,Ebenezer,Fredrikstad,CARNARVON,141 lds. sawn fir,T. Parry.,3,11,1893,11,11,1893,False,Nov. 3 Ebenezer-Fredrikstad-141 lds. sawn fir-T. Parry.
+18931111p.520_p001.txt,29,Pilgrim,Gothenburg,DOUGLAS,"178 lds. sawn fir, 9 lds. hewn fir spars",H. T. Graves.,1,11,1893,11,11,1893,False,"Nov. 1 Pilgrim-Gothenburg-178 lds. sawn fir, 9 lds. hewn fir spars-H. T. Graves."
+18931111p.520_p001.txt,32,Strathern,West Bay,FLEETWOOD,136 lds. birch deals and ends,J. Smith & Co.,4,11,1893,11,11,1893,False,Nov. 4 Strathern-West Bay-136 lds. birch deals and ends-J. Smith & Co.
+18931111p.520_p001.txt,35,Ringdove,Fredrikstad,FOWEY,303 lds. fir staves,J. Knight.,31,10,1893,11,11,1893,False,Oct. 31 Ringdove - Fredrikstad-303 lds. fir staves-J. Knight.
+18931111p.520_p001.txt,38,Gloucester,Memel,GLOUCESTER,200 lds. oak staves,"Price, Walker, & Co.",2,11,1893,11,11,1893,False,"Nov. 2 Gloucester-Memel-200 lds. oak staves-Price, Walker, & Co."
+18931111p.520_p001.txt,39,Calder,Rotterdam,GLOUCESTER,38 lds. hoops,Bristol Steam Shipping Co.,4,11,1893,11,11,1893,False,4 Calder-Rotterdam-38 lds. hoops-Bristol Steam Shipping Co.
+18931111p.520_p001.txt,41,Gloucester,Christiania,GLOUCESTER,192 lds. fir spars,"Price, Walker, & Co.",6,11,1893,11,11,1893,False,"6 Gloucester-Christiania-192 lds. fir spars-Price, Walker, & Co."
+18931111p.520_p001.txt,45,Calder,Rotterdam,GOOLE,38 lds. hoops,Goole Steam Shipping Co.,6,11,1893,11,11,1893,False,Nov. 6 Calder-Rotterdam-38 lds. hoops-Goole Steam Shipping Co.
+18931111p.520_p001.txt,48,Glenderon,Abo,GRIMSBY,"2,254 lds. sawn fir",Wintringham & Son.,2,11,1893,11,11,1893,True,"Nov. 2 Glenderon -Abo-2,254 lds. sawn fir-Wintringham & Son."
+18931111p.520_p001.txt,52,Lyttende Mai,Drammen,GRIMSBY,600 lds. sawn fir,S. Ellis.,3,11,1893,11,11,1893,False,3 Lyttende Mai-Drammen-600 lds. sawn fir-S. Ellis.
+18931111p.520_p001.txt,55,Calabria,Cronstadt,GRIMSBY,"2,015 lds. deals, &c.",Bennetts & Co.,4,11,1893,11,11,1893,False,"4 Calabria-Cronstadt - 2,015 lds. deals, &c.-Bennetts & Co."
+18931111p.520_p001.txt,59,Phos,Sundswall,HARTLEPOOL (WEST),"1,267 lds. fir hewn props",W. D. Coxon.,31,10,1893,11,11,1893,False,"Oct. 31 Phos-Sundswall-1,267 lds. fir hewn props-W. D. Coxon."
+18931111p.520_p001.txt,66,Blitz,Halmstad,"NOVEMBER 11, 1893","260 lds. fir hewn, 20 lds. fir props",H. Erichsen & Co.,2,10,1893,11,11,1893,False,"2 Blitz-Halmstad-260 lds. fir hewn, 20 lds. fir props-H. Erichsen & Co."
+18931111p.520_p001.txt,68,Gozo,Riga,"NOVEMBER 11, 1893",447 lds. fir deals and battens,Harrison & Singleton; 50 lds. birch hewn-J. B. R. Langford; 158 lds. fir sawn-J. Griggs & Co.; 126 lds. lathwood-Exors. of T. Walker.,6,10,1893,11,11,1893,True,6 Gozo -Riga-447 lds. fir deals and battens-Harrison & Singleton; 50 lds. birch hewn-J. B. R. Langford; 158 lds. fir sawn-J. Griggs & Co.; 126 lds. lathwood-Exors. of T. Walker.
+18931111p.520_p001.txt,72,Moto,Soderhamn,ALEXANDRA DOCK,"53,708 deals, &c.",Order.,3,11,1893,11,11,1893,True,"Nov. 3 Moto -Soderhamn-53,708 deals, &c.-Order."
+18931111p.520_p001.txt,73,Leo,Stockholm,ALEXANDRA DOCK,"989 boards, 402 pcs. wood","Wilson, Sons, & Co.; from Oscarshamn-250 stds. wood-H. Smith & Co.",4,11,1893,11,11,1893,True,"4 Leo -Stockholm-989 boards, 402 pcs. wood-Wilson, Sons, & Co.; from Oscarshamn-250 stds. wood-H. Smith & Co."
+18931111p.520_p001.txt,76,Ariosto,Gothenburg,ALEXANDRA DOCK,"12,732 props, 5,457 bdls. laths",Order.,6,11,1893,11,11,1893,True,"6 Ariosto -Gothenburg-12,732 props, 5,457 bdls. laths-Order."
+18931111p.520_p001.txt,81,Cairo,Riga,VICTORIA DOCK,"8,877 boards, 6,367 battens, 14,654 pcs. wood",Order; a quantity of firewood-Order.,7,11,1893,11,11,1893,True,"Nov. 7 Cairo -Riga-8,877 boards, 6,367 battens, 14,654 pcs. wood-Order; a quantity of firewood-Order."
+18931111p.520_p001.txt,85,Frederik,Konigsberg,OTHER DOCKS AND WHARVES,"463 pcs. alder, 2,450 deals",Order.,6,11,1893,11,11,1893,True,"Nov. 6 Frederik -Konigsberg-463 pcs. alder, 2,450 deals-Order."
+18931111p.520_p001.txt,89,Elisa,Kemi,LANCASTER,"502 lds. fir deals and boards, 16 lds. fir laths",C. Blades.,2,11,1893,11,11,1893,False,"Nov. 2 Elisa-Kemi-502 lds. fir deals and boards, 16 lds. fir laths-C. Blades."
+18931111p.520_p001.txt,92,Anna Victoria,Narva,LITTLEHAMPTON,412 lds. fir battens,J. Eede Butt & Sons.,31,10,1893,11,11,1893,False,Oct. 31 Anna Victoria-Narva-412 lds. fir battens-J. Eede Butt & Sons.
+18931111p.520_p001.txt,96,Mexican,New Orleans,ALEXANDRA DOCK,"13,200 staves",E. Chaloner & Co.,3,11,1893,11,11,1893,True,"Nov. 3 Mexican -New Orleans-13,200 staves-E. Chaloner & Co."
+18931111p.520_p001.txt,97,Nomadic,New York,ALEXANDRA DOCK,240 bdls. cooperage,"H. Hay; 1,712 bdls. cooperage-Order.",4,11,1893,11,11,1893,True,"4 Nomadic -New York-240 bdls. cooperage-H. Hay; 1,712 bdls. cooperage-Order."
+18931111p.520_p001.txt,99,Lake Huron,Montreal,ALEXANDRA DOCK,"2,194 deals, 1,704 cs. boards",Watson & Todd; 675 deals-Curwen.,6,11,1893,11,11,1893,True,"6 Lake Huron -Montreal-2,194 deals, 1,704 cs. boards-Watson & Todd; 675 deals-Curwen."
+18931111p.520_p001.txt,105,Biela,New York,HUSKISSON DOCK,"2,400 hhd. staves",Fowler Bros.; 44 cs. spokes-J. Owen & Sons.,3,11,1893,11,11,1893,True,"Nov. 3 Biela -New York-2,400 hhd. staves-Fowler Bros.; 44 cs. spokes-J. Owen & Sons."
+18931111p.520_p001.txt,108,Glanwern,Rafso,GARSTON DOCK,"650,490 staves","Order; from Helsingfors-1,287,860 staves-Order.",3,11,1893,11,11,1893,True,"Nov. 3 Glanwern -Rafso-650,490 staves-Order; from Helsingfors-1,287,860 staves-Order."
+18931111p.520_p001.txt,109,Somerset,Hernösand,GARSTON DOCK,"1,402 planks, 570,220 staves","Order; from Kramfors-1,229 bdls. slating battens-Order.",3,11,1893,11,11,1893,True,"3 Somerset -Hernösand-1,402 planks, 570,220 staves-Order; from Kramfors-1,229 bdls. slating battens-Order."
+18931111p.520_p001.txt,110,Ant,Nederkalix,GARSTON DOCK,"1,130,893 staves",Order.,4,11,1893,11,11,1893,True,"4 Ant -Nederkalix-1,130,893 staves-Order."
+18931111p.520_p001.txt,114,Tyr,Rafso,CARRIERS' DOCK,"50 stds. deals, 100 stds. slating battens, 50 stds. staves",Order.,3,11,1893,11,11,1893,True,"Nov. 3 Tyr -Rafso-50 stds. deals, 100 stds. slating battens, 50 stds. staves-Order."
+18931111p.520_p001.txt,117,Servia,"West Bay, N.S.",CANADA DOCK,"38,144 deals and battens, 102 scantlings, 2,915 deal ends","Pierce, Watts, & Co.",3,11,1893,11,11,1893,False,"Nov. 3 Servia-West Bay, N.S.-38,144 deals and battens, 102 scantlings, 2,915 deal ends-Pierce, Watts, & Co."
+18931111p.520_p001.txt,120,Navigator,New Orleans,HARRINGTON DOCK,"1,037 staves",Drysdale Bros.,3,11,1893,11,11,1893,True,"Nov. 3 Navigator -New Orleans-1,037 staves-Drysdale Bros."
+18931111p.520_p001.txt,123,Hampshire,Miramichi,BROCKLEBANK DOCK,"44,274 deals and battens, 4,459 scantlings, 27,940 boards, 8,561 deal ends",Order.,6,11,1893,11,11,1893,True,"Nov. 6 Hampshire -Miramichi-44,274 deals and battens, 4,459 scantlings, 27,940 boards, 8,561 deal ends-Order."
+18931111p.520_p001.txt,125,Barcelona,"Halifax, N.S.",BROCKLEBANK DOCK,"13,358 deals","W. M. M'Kay; 974 woodendoors-Bryce, Junor, & White; 14,291 deals-Order.",7,11,1893,11,11,1893,True,"7 Barcelona -Halifax, N.S.-13,358 deals-W. M. M'Kay; 974 woodendoors-Bryce, Junor, & White; 14,291 deals-Order."
+18931111p.520_p001.txt,128,Carin,Sundswall,BIRKENHEAD DOCK,"3,566 pcs. timber, 27 fms. board ends, 2 fms. batten ends","Broder-son, Vaughan, & Co.",3,11,1893,11,11,1893,False,"Nov. 3 Carin-Sundswall-3,566 pcs. timber, 27 fms. board ends, 2 fms. batten ends-Broder-son, Vaughan, & Co."
+18931111p.520_p001.txt,132,Japan,Abo,SURREY COMMERCIAL DOCKS,"37,109 planks and battens",Order.,3,11,1893,11,11,1893,False,"Nov. 3 Japan-Abo-37,109 planks and battens-Order."
+18931111p.520_p001.txt,135,Balgownie,Riga,SURREY COMMERCIAL DOCKS,"1,463 deals","Foy, Morgan, & Co.; 2,436 deals, 4,962 pcs. lathwood-Order.",4,11,1893,11,11,1893,True,"4 Balgownie -Riga-1,463 deals-Foy, Morgan, & Co.; 2,436 deals, 4,962 pcs. lathwood-Order."
+18931111p.520_p001.txt,138,Privateer,Quebec,SURREY COMMERCIAL DOCKS,"22,672 deals, 2,622 deal ends",Order.,6,11,1893,11,11,1893,True,"6 Privateer -Quebec-22,672 deals, 2,622 deal ends-Order."
+18931111p.520_p001.txt,141,Stanley,Hernösand,SURREY COMMERCIAL DOCKS,220 fms. firewood,Powis.,7,11,1893,11,11,1893,False,7 Stanley-Hernösand-220 fms. firewood-Powis.
+18931111p.520_p001.txt,142,Vera,Memel,SURREY COMMERCIAL DOCKS,"88,050 staves",Order.,8,11,1893,11,11,1893,True,"8 Vera -Memel-88,050 staves-Order."
+18931111p.520_p001.txt,143,Tryg,Gothenburg,SURREY COMMERCIAL DOCKS,"2,060 deals, 23½ fms. firewood",Order.,9,11,1893,11,11,1893,True,"9 Tryg -Gothenburg-2,060 deals, 23½ fms. firewood-Order."
+18931111p.520_p001.txt,150,Dryad,Alecto,VICTORIA AND ALBERT DOCKS,New York,600 bdls. staves-Wingardh & Co.,7,11,1893,11,11,1893,True,Nov. 7 Dryad-Alecto -New York-600 bdls. staves-Wingardh & Co.
+18931111p.520_p001.txt,152,Lindholmen,Gothenburg,VICTORIA AND ALBERT DOCKS,659 lds. sawn fir,"L. Bolmar von Platen -Soderhamn-1,250 lds. fir props, 19 dozen deals, 14,700 sleepers, 10,000 mining timber, 40,460 deals, battens, and boards-J. Thompson & Co.",1,11,1893,11,11,1893,True,"Nov. 1 Lindholmen -Gothenburg-659 lds. sawn fir-L. Bolmar von Platen -Soderhamn-1,250 lds. fir props, 19 dozen deals, 14,700 sleepers, 10,000 mining timber, 40,460 deals, battens, and boards-J. Thompson & Co."
+18931111p.520_p001.txt,154,Iris,Danzig,VICTORIA AND ALBERT DOCKS,130 lds. oak plank,Order.,3,11,1893,11,11,1893,False,3 Iris-Danzig-130 lds. oak plank-Order.
+18931111p.520_p001.txt,156,Frans,Gothenburg,VICTORIA AND ALBERT DOCKS,207 lds. fir sleepers,R. Trotter and boards-255 lds. hewn fir-Order.,5,11,1893,11,11,1893,False,5 Frans-Gothenburg-207 lds. fir sleepers-R. Trotter and boards-255 lds. hewn fir-Order.
+18931111p.520_p001.txt,159,Frankfort,Riga,VICTORIA AND ALBERT DOCKS,"1,000 lds. sawn fir",Order.,6,11,1893,11,11,1893,False,"6 Frankfort-Riga-1,000 lds. sawn fir-Order."
+18931111p.520_p001.txt,164,Monte Moro,Hall,SWANSEA,"1,000 lds. pit props",Marcus Moxham.,31,10,1893,11,11,1893,False,"Oct. 31 Monte Moro-Hall-1,000 lds. pit props-Marcus Moxham."
+18931111p.520_p001.txt,166,Akerhjelm,Gothenburg,SWANSEA,284 lds. pit props,J. Glasbrook & Co.,2,11,1893,11,11,1893,True,Nov. 2 Akerhjelm -Gothenburg-284 lds. pit props-J. Glasbrook & Co.
+18931111p.520_p001.txt,167,Volunteer,Hennebont,SWANSEA,200 lds. pit props,Newport Pitwood Co.,4,11,1893,11,11,1893,False,4 Volunteer-Hennebont-200 lds. pit props-Newport Pitwood Co.
+18931111p.520_p001.txt,169,Notre Dame de Bon Secours,Bordeaux,SWANSEA,285 lds. pitwood,Newport Pitwood Co.,6,11,1893,11,11,1893,False,6 Notre Dame de Bon Secours-Bordeaux-285 lds. pitwood-Newport Pitwood Co.
+18931111p.520_p001.txt,172,Odin,Christiansand,TYNE,"21,000 pcs. mining timber, 45 cs. millboards",Order.,31,10,1893,11,11,1893,True,"Oct. 31 Odin -Christiansand-21,000 pcs. mining timber, 45 cs. millboards-Order."
+18931111p.520_p001.txt,174,Viking,Gothenburg,TYNE,"1,250 lds. fir pulp, 19 dozen deals, 14,700 sleepers, 10,000 mining timber, 40,460 deals, and battens",Order.,1,11,1893,11,11,1893,True,"Nov. 1 Viking -Gothenburg-1,250 lds. fir pulp, 19 dozen deals, 14,700 sleepers, 10,000 mining timber, 40,460 deals, and battens-Order."
+18931111p.520_p001.txt,176,Emma,Helsingfors,TYNE,"18,300 pcs. deals, battens, and boards","Palmer, Hall & Co.",2,11,1893,11,11,1893,False,"2 Emma-Helsingfors-18,300 pcs. deals, battens, and boards-Palmer, Hall & Co."
+18931111p.520_p001.txt,177,Grenadier,Antwerp,TYNE,"1,000 pcs. sleepers",T. S. S. Co.,3,11,1893,11,11,1893,True,"3 Grenadier -Antwerp-1,000 pcs. sleepers-T. S. S. Co."
+18931111p.520_p001.txt,179,F. Costa,Drammen,TYNE,"30,000 pcs. sleepers",Order.,4,11,1893,11,11,1893,False,"4 F. Costa-Drammen-30,000 pcs. sleepers-Order."
+18931111p.520_p001.txt,181,Busy Bee,Rotterdam,TYNE,"1,000 pcs. sleepers",T.S.S.Co.,6,11,1893,11,11,1893,True,"6 Busy Bee -Rotterdam-1,000 pcs. sleepers-T.S.S.Co."
+18931111p.520_p001.txt,192,Da Capo,Drammen,YARMOUTH,"204 lds. sawn fir, 19 lds. hewn fir, 13 lds. firewood",Jewson & Sons.,4,11,1893,11,11,1893,False,"Nov. 4 Da Capo-Drammen-204 lds. sawn fir, 19 lds. hewn fir, 13 lds. firewood-Jewson & Sons."
+18931111p.520_p001.txt,193,Chester,Uleaborg,YARMOUTH,"260 lds. deals, battens, and boards, 100 lds. boards",Order.,6,11,1893,11,11,1893,True,"6 Chester -Uleaborg-260 lds. deals, battens, and boards, 100 lds. boards-Order."
+18931111p.520_p001.txt,197,Cathinca,Dalhousie,BELFAST,"1,000 lds. sawn fir, lings, and ends",Robt. Corry & Co.,30,10,1893,11,11,1893,False,"Oct. 30 Cathinca-Dalhousie-1,000 lds. sawn fir, lings, and ends-Robt. Corry & Co."
+18931111p.520_p001.txt,198,City of Bristol,Bristol,BELFAST,"1,000 lds. sawn fir hoops",J. C. Pinkerton & Co.,1,11,1893,11,11,1893,False,"Nov. 1 City of Bristol-Bristol-1,000 lds. sawn fir hoops-J. C. Pinkerton & Co."
+18931111p.520_p001.txt,199,Juna,Bay Verte,BELFAST,"1,000 lds. sawn fir",Dixon & Son & Co.,4,11,1893,11,11,1893,False,"4 Juna-Bay Verte-1,000 lds. sawn fir-Dixon & Son & Co."
+18931111p.520_p001.txt,202,Vanduara,St. John,CORK,"1,000 lds. sawn fir",W. Dennes & Sons.,30,10,1893,11,11,1893,False,"Oct. 30 Vanduara-St. John-1,000 lds. sawn fir-W. Dennes & Sons."
+18931209p.638_p001.txt,4,Morning Light,Quebec,BARROW,"381 lds. hewn fir, 653 lds. fir deals and ends, 30 lds. hewn birch, 50 lds. hewn elm, 50 lds. hewn birch",Crossfield & Co.,29,11,1893,9,12,1893,False,"Nov. 29 Morning Light-Quebec-381 lds. hewn fir, 653 lds. fir deals and ends, 30 lds. hewn birch, 50 lds. hewn elm, 50 lds. hewn birch-Crossfield & Co."
+18931209p.638_p001.txt,5,Miramichi,"1,395 lds. fir boards",BARROW,Low Bros.,,4,12,1893,9,12,1893,False,"Dec. 4 Miramichi-1,395 lds. fir boards-Low Bros."
+18931209p.638_p001.txt,7,Wilhelmine,Warberg,BLYTH,276 lds. mining timber,Order,29,11,1893,9,12,1893,False,Nov. 29 Wilhelmine-Warberg-276 lds. mining timber-Order
+18931209p.638_p001.txt,9,Svea,Helsingfors,BRISTOL,"31,267 deals and battens",Jones & Wainright,28,11,1893,9,12,1893,False,"Nov. 28 Svea-Helsingfors-31,267 deals and battens-Jones & Wainright"
+18931209p.638_p001.txt,10,Marie Fanny,Sundswall,BRISTOL,"35,545 battens and boards",H. Denty,2,12,1893,9,12,1893,False,"Dec. 2 Marie Fanny-Sundswall-35,545 battens and boards-H. Denty"
+18931209p.638_p001.txt,11,Wilhelmine,Bjorneborg,BRISTOL,"331,453 staves",Order,5,12,1893,9,12,1893,False,"5 Wilhelmine-Bjorneborg-331,453 staves-Order"
+18931209p.638_p001.txt,14,Absalon,Riga,CARDIFF,"350 lds. sawn fir, 320 lds. fir lathwood",Robinson,28,11,1893,9,12,1893,False,"Nov. 28 Absalon-Riga-350 lds. sawn fir, 320 lds. fir lathwood-Robinson"
+18931209p.638_p001.txt,16,Kurlandes,Riga,CARDIFF,775 lds. sawn fir,Meggitt & Jones,29,11,1893,9,12,1893,False,Nov. 29 Kurlandes-Riga-775 lds. sawn fir-Meggitt & Jones
+18931209p.638_p001.txt,29,J. M. F.,"St. John, N.B.",CARDIFF,"2,396 lds. fir deals","Thomas, & Co.",1,12,1893,9,12,1893,False,"Dec. 1 J. M. F.-St. John, N.B.-2,396 lds. fir deals-Thomas, & Co."
+18931209p.638_p001.txt,35,Edouard,Redon,CARDIFF,200 lds. fir props,Budd & Co.,2,12,1893,9,12,1893,False,Dec. 2 Edouard-Redon-200 lds. fir props-Budd & Co.
+18931209p.638_p001.txt,36,Montalane,Bordeaux,CARDIFF,"1,100 lds. hewn fir",Simkin Bros.,4,12,1893,9,12,1893,False,"4 Montalane-Bordeaux-1,100 lds. hewn fir-Simkin Bros."
+18931209p.638_p001.txt,39,Alwina,Danzig,DOVER,"135 lds. hewn fir, 25 lds. hewn oak",G. Hammond & Co.,29,11,1893,9,12,1893,False,"Nov. 29 Alwina-Danzig-135 lds. hewn fir, 25 lds. hewn oak-G. Hammond & Co."
+18931209p.638_p001.txt,41,Kamfjord,Miramichi,FLEETWOOD,136 lds. fir deals & ends,"C. Taylor, Sons, & Co.; 1,026 lds. fir palings-Farnworth & Jardine",29,11,1893,9,12,1893,False,"Nov. 29 Kamfjord-Miramichi-136 lds. fir deals & ends-C. Taylor, Sons, & Co.; 1,026 lds. fir palings-Farnworth & Jardine"
+18931209p.638_p001.txt,42,Guldregn,Sheet Harbour,FLEETWOOD,963 lds. deals,H. & G. Curwen & Co.,4,12,1893,9,12,1893,False,Dec. 4 Guldregn-Sheet Harbour-963 lds. deals-H. & G. Curwen & Co.
+18931209p.638_p001.txt,44,Talisman,Shediac,GLOUCESTER,640 lds. fir deals,Ashbee & Sons,29,11,1893,9,12,1893,False,Nov. 29 Talisman-Shediac-640 lds. fir deals-Ashbee & Sons
+18931209p.638_p001.txt,47,Cyprian,Bathurst,GLOUCESTER,"1,190 lds. fir deals","Price, Walker, & Co.",1,12,1893,9,12,1893,False,"Dec. 1 Cyprian-Bathurst-1,190 lds. fir deals-Price, Walker, & Co."
+18931209p.638_p001.txt,48,Apollo,Shediac,GLOUCESTER,656 lds. fir deals and ends,T. Adams & Sons,4,12,1893,9,12,1893,False,4 Apollo-Shediac-656 lds. fir deals and ends-T. Adams & Sons
+18931209p.638_p001.txt,50,Libra,Cronstadt,GRIMSBY,"336 lds. fir sawn, 89 lds. fir poles",G. A. Carr & Co.,28,11,1893,9,12,1893,False,"Nov. 28 Libra-Cronstadt-336 lds. fir sawn, 89 lds. fir poles-G. A. Carr & Co."
+18931209p.638_p001.txt,53,Georg Nicolaus,Skutskar,GRIMSBY,501 lds. fir battens and deals,Bennetts & Co.,29,11,1893,9,12,1893,False,29 Georg Nicolaus-Skutskar-501 lds. fir battens and deals-Bennetts & Co.
+18931209p.638_p001.txt,55,Georg Nicolan,Skutskars,GRIMSBY,4 lds. firewood,Master,30,11,1893,9,12,1893,False,30 Georg Nicolan-Skutskars-4 lds. firewood-Master
+18931209p.638_p001.txt,56,Jupiter,Riga,GRIMSBY,140 lds. fir props,Pearson,1,12,1893,9,12,1893,False,Dec. 1 Jupiter-Riga-140 lds. fir props-Pearson
+18931209p.638_p001.txt,57,Jupiter,Riga,GRIMSBY,145 lds. fir props,Pearson,2,12,1893,9,12,1893,False,2 Jupiter-Riga-145 lds. fir props-Pearson
+18931209p.638_p001.txt,59,Saga,Wyborg,HARTLEPOOL (WEST),276 lds. fir props,Nielsen,28,11,1893,9,12,1893,False,Nov. 28 Saga-Wyborg-276 lds. fir props-Nielsen
+18931209p.638_p001.txt,62,Emmanuel,Drammen,HARTLEPOOL (WEST),196 lds. fir sawn,J. W. Baird & Co.,29,11,1893,9,12,1893,False,29 Emmanuel-Drammen-196 lds. fir sawn-J. W. Baird & Co.
+18931209p.638_p001.txt,64,Johan Irgens,Stettin,HARTLEPOOL (WEST),"50 lds. oak hewn, 98 lds. oak butts",R. Lauder & Co.,30,11,1893,9,12,1893,False,"30 Johan Irgens-Stettin-50 lds. oak hewn, 98 lds. oak butts-R. Lauder & Co."
+18931209p.638_p001.txt,66,Joneheld,Bergqvara,HARTLEPOOL (WEST),"30 lds. birch and alder, 40 lds. fir poles",Hessler & Co.,1,12,1893,9,12,1893,False,"Dec. 1 Joneheld-Bergqvara-30 lds. birch and alder, 40 lds. fir poles-Hessler & Co."
+18931209p.638_p001.txt,71,Bodvar,Fredrikstad,THE TIMBER TRADES JOURNAL,"550 lds. partly square fir timber, 15 lds. fir props",Napier & Render,2,12,1893,9,12,1893,False,"Dec. 2 Bodvar - Fredrikstad - 550 lds. partly square fir timber, 15 lds. fir props-Napier & Render"
+18931209p.638_p001.txt,72,Circassia,Norsund,THE TIMBER TRADES JOURNAL,"1,541 lds. fir deals, battens, and boards","R. Wade, Sons, & Co.",4,12,1893,9,12,1893,False,"4 Circassia-Norsund-1,541 lds. fir deals, battens, and boards-R. Wade, Sons, & Co."
+18931209p.638_p001.txt,75,Erato,Riga,ALEXANDRA DOCK,"9,622 pcs. lathwood, 100 fms. firewood, 924 deals, 8,436 battens, 8,028 boards",Order,30,11,1893,9,12,1893,True,"Nov. 30 Erato -Riga-9,622 pcs. lathwood, 100 fms. firewood, 924 deals, 8,436 battens, 8,028 boards-Order"
+18931209p.638_p001.txt,76,Leo,Stockholm,ALEXANDRA DOCK,"1,963 deals","Wilson, Sons & Co. ; 1,967 bdls. laths-Order",2,12,1893,9,12,1893,True,"Dec 2 Leo -Stockholm-1,963 deals-Wilson, Sons & Co. ; 1,967 bdls. laths-Order"
+18931209p.638_p001.txt,77,Ariosto,Gothenburg,ALEXANDRA DOCK,"1,915 bdls. boards, 2,271 deals","Wilson, Sons, & Co. ; 12,900 sleepers-H. Smith & Co. ; 2,552 props-Pyman, Bell, & Co. ; 2,000 bdls. laths-Ropkins & Co. ; 3,000 bdls. laths-Order",4,12,1893,9,12,1893,True,"4 Ariosto -Gothenburg-1,915 bdls. boards, 2,271 deals-Wilson, Sons, & Co. ; 12,900 sleepers-H. Smith & Co. ; 2,552 props-Pyman, Bell, & Co. ; 2,000 bdls. laths-Ropkins & Co. ; 3,000 bdls. laths-Order"
+18931209p.638_p001.txt,79,Kovno,Riga,VICTORIA DOCK,"4,320 pcs. lathwood, 53 fms. firewood, 12,042 deals, 15,426 ends, 13,118 bdls. squares, 12,032 boards",Order,2,12,1893,9,12,1893,True,"Dec. 2 Kovno -Riga-4,320 pcs. lathwood, 53 fms. firewood, 12,042 deals, 15,426 ends, 13,118 bdls. squares, 12,032 boards-Order"
+18931209p.638_p001.txt,80,Alfride,Kotka,VICTORIA DOCK,"29,534 boards",Order,4,12,1893,9,12,1893,False,"4 Alfride-Kotka-29,534 boards-Order"
+18931209p.638_p001.txt,93,Hero,Christiania,MILLWALL DOCKS,220 bgs. brush blocks,"J. Keen; 4,000 bdls. staves-Order",4,12,1893,9,12,1893,True,"Dec 4 Hero -Christiania-220 bgs. brush blocks-J. Keen; 4,000 bdls. staves-Order"
+18931209p.638_p001.txt,95,Sitona,Fredrikstad,MILLWALL DOCKS,8 267 bdls. boxwood,"F. Foulger; 1,531 bdls. boxwood-Price & Pierce; 92 bdls. boxwood-Sadd & Co.; 16 fms. firewood-Tegner, Price & Co.",5,12,1893,9,12,1893,True,"5 Sitona -Fredrikstad-8 267 bdls. boxwood-F. Foulger; 1,531 bdls. boxwood-Price & Pierce; 92 bdls. boxwood-Sadd & Co.; 16 fms. firewood-Tegner, Price & Co."
+18931209p.638_p002.txt,4,Heinrich Horn,Bergen,LIVERPOOL,"1,000 bdls. boards and battens and horn boards",Order,1,12,1893,9,12,1893,True,"Dec. 1 Heinrich Horn -Bergen-1,000 bdls. boards and battens and horn boards-Order"
+18931209p.638_p002.txt,5,Corry,Riga,LIVERPOOL,"4,000 pcs. fir deals",Corry & Co.,1,12,1893,9,12,1893,True,"Dec. 1 Corry -Riga-4,000 pcs. fir deals-Corry & Co."
+18931209p.638_p002.txt,6,Luis A. Martinez,Pictou,LIVERPOOL,"12,000 staves",W. Grabbey,1,12,1893,9,12,1893,False,"Dec. 1 Luis A. Martinez-Pictou-12,000 staves-W. Grabbey"
+18931209p.638_p002.txt,8,Arklow,"St. John, N.B.",CORK,"1,230 stds. spruce and fir",G. J. Eustace & Co.,27,11,1893,9,12,1893,False,"Nov. 27 Arklow-St. John, N.B.-1,230 stds. spruce and fir-G. J. Eustace & Co."
+18931209p.638_p002.txt,9,Ashlow,"St. John, N.B.",CORK,"1,100 stds. spruce",Haughton & Co.,29,11,1893,9,12,1893,False,"Nov. 29 Ashlow-St. John, N.B.-1,100 stds. spruce-Haughton & Co."
+18931209p.638_p002.txt,10,Olga,Quebec,CORK,"185 stds. pine deals, 15 stds. lds. sawn fir",J. Scott & Co.,1,12,1893,9,12,1893,False,"Dec. 1 Olga-Quebec-185 stds. pine deals, 15 stds. lds. sawn fir-J. Scott & Co."
+18931209p.638_p002.txt,12,Undine,St John,DUBLIN,"26,000 pcs. deals",Order,4,12,1893,9,12,1893,False,"Dec. 4 Undine-St John-26,000 pcs. deals-Order"
+18931209p.638_p002.txt,13,Marie,Fredrikstad,DUBLIN,"41,920 pcs. deals, 1,213 pcs. scantling",Wm. Graham,6,12,1893,9,12,1893,False,"Dec. 6 Marie-Fredrikstad-41,920 pcs. deals, 1,213 pcs. scantling-Wm. Graham"
+18931209p.638_p002.txt,15,Coronel,St. John,DUNDALK,"1,000 stds. spruce deals and battens",P. McArdle,30,11,1893,9,12,1893,False,"Nov. 30 Coronel-St. John-1,000 stds. spruce deals and battens-P. McArdle"
+18931209p.638_p002.txt,17,Ceder,Metis,GALWAY,"87,000 pcs. deals and deal ends, 4 lds. hewn birch",Order,28,11,1893,9,12,1893,False,"Nov. 28 Ceder-Metis-87,000 pcs. deals and deal ends, 4 lds. hewn birch-Order"
+18931209p.638_p002.txt,18,Fair Head,Riga,GALWAY,"1,000 stds. deals",T. McDonogh & Sons,1,12,1893,9,12,1893,True,"Dec. 1 Fair Head -Riga-1,000 stds. deals-T. McDonogh & Sons"
+18931209p.638_p002.txt,20,Fair Head,Riga,LONDONDERRY,"1,000 stds. deals",J. Heyn & Sons,1,12,1893,9,12,1893,True,"Dec. 1 Fair Head -Riga-1,000 stds. deals-J. Heyn & Sons"
+18931209p.638_p002.txt,23,Sarah,Dalhousie,WATERFORD,"1,000 stds. deals",Cox Bros. & Co.,28,11,1893,9,12,1893,False,"Nov. 28 Sarah-Dalhousie-1,000 stds. deals-Cox Bros. & Co."
+18931209p.638_p002.txt,24,Plutarch,Gefle,WATERFORD,"25,000 pcs. deals, 1,000 lds. fir deals, 33 lds. battens",Order,1,12,1893,9,12,1893,False,"Dec. 1 Plutarch-Gefle-25,000 pcs. deals, 1,000 lds. fir deals, 33 lds. battens-Order"
+18931209p.638_p002.txt,29,Plato,Honduras,HORNBY DOCK,238 logs greenheart timber,Order,2,12,1893,9,12,1893,False,Dec. 2 Plato-Honduras-238 logs greenheart timber-Order
+18931209p.638_p002.txt,30,Scotia,New York,HORNBY DOCK,385 hickory squares,J. Gardner & Son; 600 bdls. elm staves-Drysdale Bros.,4,12,1893,9,12,1893,True,Dec. 4 Scotia -New York-385 hickory squares-J. Gardner & Son; 600 bdls. elm staves-Drysdale Bros.
+18931209p.638_p002.txt,33,Atalanta,Laguna,HUSKISSON DOCK,"252 logs, 2 cut logs, 32 log ends mahogany","E. Chaloner & Co.; 6,995 teak planks-Farnworth & Jardine",4,12,1893,9,12,1893,False,"Dec. 4 Atalanta-Laguna-252 logs, 2 cut logs, 32 log ends mahogany-E. Chaloner & Co.; 6,995 teak planks-Farnworth & Jardine"
+18931209p.638_p002.txt,36,Mars,Barcelona,QUEEN'S DOCK,156½ tons Spanish oak,Order,4,12,1893,9,12,1893,False,Dec. 4 Mars-Barcelona-156½ tons Spanish oak-Order
+18931209p.638_p002.txt,39,Venetian,Boston,VICTORIA AND ALBERT DOCKS,16 walnut logs,Churchill & Sim,5,12,1893,9,12,1893,True,Dec. 5 Venetian -Boston-16 walnut logs-Churchill & Sim
+18931209p.638_p002.txt,41,Appomattox,Newport News,VICTORIA AND ALBERT DOCKS,"5,689 pcs. lumber",W. Oliver & Sons,6,12,1893,9,12,1893,True,"Dec. 6 Appomattox -Newport News-5,689 pcs. lumber-W. Oliver & Sons"
+18931209p.638_p002.txt,44,Vivax,Rangoon,PORTSMOUTH,"1,230 lds. teak",Wallace Bros.,4,12,1893,9,12,1893,False,"Dec. 4 Vivax-Rangoon-1,230 lds. teak-Wallace Bros."
+18931209p.638_p002.txt,46,Lancashire,Rangoon,TILBURY DOCKS,"3,860 pcs. teak, 39,700 teak keys",Order,2,12,1893,9,12,1893,True,"Dec. 2 Lancashire -Rangoon-3,860 pcs. teak, 39,700 teak keys-Order"
+18931209p.638_p002.txt,48,Stavanger,Rangoon,TYNE,"1,177 teak squares, 1,185 teak planks, 4,418 teak blocks",Denny,4,12,1893,9,12,1893,True,"Dec. 4 Stavanger-Rangoon-1,177 teak squares, 1,185 teak planks, 4,418 teak blocks-Denny"
+18931209p.638_p002.txt,53,Gunhilde,Moulmein,WEST INDIA DOCKS,"1,562 squares, 6,506 teak scantlings",Order,2,12,1893,9,12,1893,False,"Dec. 2 Gunhilde-Moulmein-1,562 squares, 6,506 teak scantlings-Order"
+18931209p.638_p002.txt,55,Hoab,Rangoon,WEST INDIA DOCKS,"1,084 squares, 3,797 blocks, 567 planks teak",Order,4,12,1893,9,12,1893,False,"Dec. 4 Hoab-Rangoon-1,084 squares, 3,797 blocks, 567 planks teak-Order"
+18931209p.638_p002.txt,57,Mamika,New York,HAVRE,"3,572 morceaux chene",,29,11,1893,9,12,1893,True,"Nov. 29 Mamika -New York-3,572 morceaux chene"
+18931209p.638_p002.txt,58,Amore,Porto Plata,HAVRE,454 pcs. acajou,,30,11,1893,9,12,1893,False,Nov. 30 Amore-Porto Plata-454 pcs. acajou
+18931209p.638_p002.txt,60,Lucien et Marie,Hamburg,HAVRE,252 pcs. bois ebenisterie,,2,12,1893,9,12,1893,True,Dec. 2 Lucien et Marie -Hamburg-252 pcs. bois ebenisterie
+18931209p.638_p002.txt,61,Gambia,Old Calabar,HAVRE,"2,263 buches ebene",,4,12,1893,9,12,1893,True,"Dec. 4 Gambia -Old Calabar-2,263 buches ebene"
+18931209p.638_p002.txt,62,La Champagne,New York,HAVRE,622 billes cedre,,5,12,1893,9,12,1893,True,Dec. 5 La Champagne -New York-622 billes cedre
+18931209p.638_p002.txt,87,Hereford,London,MONTREAL,"2,013 pcs. spruce plank, 215 pcs. white pine, 4,355 do. spruce deals and ends, 78 pcs. waney pine, 94 do. white pine",,20,10,1893,9,12,1893,True,"Oct. 20 Hereford -London-2,013 pcs. spruce plank, 215 pcs. white pine, 4,355 do. spruce deals and ends, 78 pcs. waney pine, 94 do. white pine"
+18931209p.638_p002.txt,88,Hereford,London,MONTREAL,"46,861 pcs. spruce deals, 10,848 do. do. ends",,26,10,1893,9,12,1893,True,"Oct. 26 Hereford -London-46,861 pcs. spruce deals, 10,848 do. do. ends"
+18931209p.638_p002.txt,89,Videan,London,MONTREAL,"4,561 deals",,7,11,1893,9,12,1893,True,"Nov. 7 Videan -London-4,561 deals"
+18931209p.638_p002.txt,90,Videan,London,MONTREAL,"886 pcs. lumber, 52 stds. do.",,11,11,1893,9,12,1893,True,"Nov. 11 Videan -London-886 pcs. lumber, 52 stds. do."
+18931209p.638_p002.txt,91,Iona,Bristol,MONTREAL,"10,000 deals",,13,11,1893,9,12,1893,True,"Nov. 13 Iona -Bristol-10,000 deals"
+18931209p.638_p002.txt,96,Lake Nepigon,Liverpool,MONTREAL,"4,572 boards, 37,515 deals",,16,11,1893,9,12,1893,True,"Nov. 16 Lake Nepigon -Liverpool-4,572 boards, 37,515 deals"
+18931209p.638_p002.txt,97,Austrian,Glasgow,MONTREAL,"2,667 boards, 10,674 deals",,17,11,1893,9,12,1893,True,"Nov. 17 Austrian  - Glasgow - 2,667 boards, 10,674 deals"
+18931209p.638_p002.txt,99,Pomeranian,Glasgow,MONTREAL,"2,667 boards, 10,674 deals",,20,11,1893,9,12,1893,True,"Nov. 20 Pomeranian -Glasgow-2,667 boards, 10,674 deals"

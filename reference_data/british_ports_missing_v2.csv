@@ -1,0 +1,639 @@
+port_name,ship_count,best_fuzzy_match,similarity,needs_research
+TYNE,10113,Tornea,60.0%,Yes
+BORROWSTOUNNESS,2591,Borrowstounness (Bo'Ness),75.0%,Maybe
+LYNN,2586,London,60.0%,Yes
+BO'NESS,2122,Odessa,61.5%,Yes
+STOCKTON,1952,Stockholm,70.6%,Yes
+LONDON (TILBURY DOCKS),1321,Tilbury Docks,74.3%,Yes
+KING'S LYNN,1195,Lynn (King's Lynn),75.9%,Maybe
+NEWPORT (MON.),625,Newport,66.7%,Yes
+GRIMSBY (QUEEN'S DOCK),616,Greenock,53.3%,Yes
+BERWICK,607,Wick,72.7%,Yes
+LONDON (TILBURY DOCK),516,Tilbury Docks,70.6%,Yes
+LONDON (LONDON DOCKS),480,Glasson Dock,48.5%,Yes
+QUEEN'S DOCK,401,Greenock,60.0%,Yes
+NEWPORT (MON),301,Newport,70.0%,Yes
+MILFORD,263,Milford Haven,70.0%,Yes
+LERWICK,252,LimerickL,75.0%,Maybe
+HARTLEPOOL (WEST),230,Hartlepool,74.1%,Yes
+LIVERPOOL (COBURG DOCK),197,Liverpool,56.2%,Yes
+QUEBEC,160,Quebec City,70.6%,Yes
+DEPTFORD,155,Bideford,75.0%,Maybe
+NELSON DOCK,153,Glasson Dock,78.3%,Maybe
+COBURG DOCK,149,Tilbury Docks,66.7%,Yes
+ALEXANDRA DOCK,141,Alexandria,75.0%,Maybe
+DEPTFORD BUOYS,138,Bideford,54.5%,Yes
+REGISTERED,134,Leicester,63.2%,Yes
+LIVERPOOL (NELSON DOCK),130,Liverpool,56.2%,Yes
+LIVERPOOL (QUEEN'S DOCK),122,Liverpool,54.5%,Yes
+LONDON DOCKS,117,London,66.7%,Yes
+CURRENT PRICES,111,Three Rivers,53.8%,Yes
+GOOLE (QUEEN'S DOCK),111,Glasson Dock,50.0%,Yes
+BORDEN,102,Aberdeen,71.4%,Yes
+PETITION PRESENTED,101,Weston Point,53.3%,Yes
+BORROWSTOUNESS,97,Borrowstounness (Bo'Ness),71.8%,Yes
+LONDON (SURREY DOCKS),96,Tilbury Docks,58.8%,Yes
+GRANTON,92,Taunton,71.4%,Yes
+LIVERPOOL (BRUNSWICK DOCK),87,Liverpool,51.4%,Yes
+MIDDLESBRO',86,Middlesbrough,83.3%,Maybe
+VICTORIA DOCK,84,Portishead dock,64.3%,Yes
+MILLWALL DOCKS,82,Tilbury Docks,59.3%,Yes
+WMW,81,Wigtown,40.0%,Yes
+LONDON (LONDON DOCK),81,Glasson Dock,50.0%,Yes
+IMPORTERS OF,80,Portsoy,63.2%,Yes
+TENDERS OPEN,79,Hennebont,47.6%,Yes
+CLIFFE CREEK,77,LimerickL,47.6%,Yes
+UNION DOCK,75,Glasson Dock,63.6%,Yes
+CORRESPONDENCE,73,Norrsundet,58.3%,Yes
+RESULTS OF TENDERS,72,Preston,48.0%,Yes
+SILVERTOWN,71,Seaton,62.5%,Yes
+LIVERPOOL (TILBURY DOCK),70,Tilbury Docks,64.9%,Yes
+LIVERPOOL (TILBURY DOCKS),69,Tilbury Docks,68.4%,Yes
+LIMITED,69,Slite,66.7%,Yes
+SDD,69,Sunderland,46.2%,Yes
+THE TIMBER TRADES JOURNAL,68,Three Rivers,43.2%,Yes
+QUEENBORO',67,Queenborough,81.8%,Maybe
+&C,66,Wick,33.3%,Yes
+JOINERY OF EVERY DESCRIPTION,63,Invergordon,41.0%,Yes
+RUNCORN DOCK,63,Runcorn,73.7%,Yes
+ON,61,Oban,66.7%,Yes
+HAVRE,58,Ware,66.7%,Yes
+UN,58,Dundee,50.0%,Yes
+TION,57,Ripon,66.7%,Yes
+BARROW,56,Arbroath,57.1%,Yes
+LONDON (QUEEN'S DOCK),56,Avonmouth Dock,51.4%,Yes
+JOINERY,55,Newry,66.7%,Yes
+CONTENTS,54,Cowes,61.5%,Yes
+...GOOLE,52,Goole,76.9%,Maybe
+PETITIONS PRESENTED,52,Weston Point,51.6%,Yes
+LIVERPOOL (WELLINGTON DOCK),52,Liverpool,50.0%,Yes
+GRIMSBY (PRINCE'S DOCK),48,Portishead dock,47.4%,Yes
+DIVIDENDS,47,Inverness,55.6%,Yes
+ION,47,Ripon,75.0%,Maybe
+FIFE,46,Fiume,66.7%,Yes
+FOR,46,Oxford,66.7%,Yes
+CANADA DOCK,46,Glasson Dock,60.9%,Yes
+SKIBBEREEN,44,Aberdeen,66.7%,Yes
+NEW BRUNSWICK LUMBER PROSPECTS,44,Berwick-upon-Tweed,37.5%,Yes
+TILBURY,44,Tilbury Docks,70.0%,Yes
+MILLWALL DOCK,44,Glasson Dock,56.0%,Yes
+N,43,Oban,40.0%,Yes
+SHOREHAM,42,Soderhamn,70.6%,Yes
+ALBERT DOCK,42,Tilbury Docks,66.7%,Yes
+DOORS,42,Storfors,61.5%,Yes
+PURFLEET,40,Fleetwood,58.8%,Yes
+VICTORIA AND ALBERT DOCKS,40,Neath and Briton Ferry Docks,56.6%,Yes
+REVIEW,39,Irvine,66.7%,Yes
+TELLURIC CEMENT,39,Bremen,47.6%,Yes
+CLYDE TRUST,39,Lyme Regis,57.1%,Yes
+CLEM WOOD,38,Fleetwood,66.7%,Yes
+GRIMSBY (PRINCES DOCK),37,Portishead dock,48.6%,Yes
+LIVERPOOL (TOWER DOCK),36,Liverpool,58.1%,Yes
+OCK,35,York,57.1%,Yes
+M. & J. BROWN,35,St. John,47.6%,Yes
+LIVERPOOL (PRINCE'S DOCK),34,Liverpool,52.9%,Yes
+FILES,34,Leeds,60.0%,Yes
+VIGERS BROS,34,Middlesbrough,50.0%,Yes
+SEPTEMBER,33,Tremblade,55.6%,Yes
+PETITION PRESENTED FOR CESSIO,33,Weston Point,39.0%,Yes
+COLLINSON & LOCK,33,Glasson Dock,57.1%,Yes
+WEST INDIA DOCKS,32,Tilbury Docks,55.2%,Yes
+SURREY DOCKS,31,Tilbury Docks,72.0%,Yes
+FOREIGN,31,Workington,58.8%,Yes
+BXBXB,31,Bombay,36.4%,Yes
+LIVERPOOL (DOCK),31,Liverpool,72.0%,Yes
+PEMBROKE,30,Pembroke Dock,76.2%,Maybe
+VICTORIA DOCKS,30,Portishead dock,62.1%,Yes
+HORNBY DOCK,30,Sharpness Docks,61.5%,Yes
+MENT,30,Bremen,60.0%,Yes
+ROBERT,30,Tarbert,76.9%,Maybe
+NEWCASTLE-ON-TYNE,29,Newcastle upon Tyne,83.3%,Maybe
+B,29,Abo,50.0%,Yes
+GARSTON DOCK,29,Glasson Dock,83.3%,Maybe
+OLE,29,Goole,75.0%,Maybe
+WEST HARTLEPOOL,28,Hartlepool,80.0%,Maybe
+FOR LONDON,28,London,75.0%,Maybe
+LONDON. DOCKS,28,Glasson Dock,64.0%,Yes
+PENICUIK,28,Pictou,57.1%,Yes
+LONDON (LONDON. DOCKS),27,Glasson Dock,47.1%,Yes
+VICTORIA AND ALBERT DOCK,27,Neath and Briton Ferry Docks,53.8%,Yes
+TICES,27,Trieste,66.7%,Yes
+TOWN DOCK,27,Glasson Dock,66.7%,Yes
+LONDON (UNION DOCK),27,Avonmouth Dock,54.5%,Yes
+JOINERY SENT FREE,27,Johnshaven,44.4%,Yes
+N BELTING,26,Bolton,53.3%,Yes
+PROCEEDINGS UNDER CESSIO,26,Barrow-in-Furness,43.9%,Yes
+BROWN & KRUSE,26,Barrow-in-Furness,46.7%,Yes
+LANGTON DOCK,26,Glasson Dock,75.0%,Maybe
+LIVERPOOL (UNION DOCK),26,Liverpool,58.1%,Yes
+S. PER DOZEN,25,St. Helens,54.5%,Yes
+WATERFORD,24,Wexford,75.0%,Maybe
+CARNARVON,24,Aberayron,66.7%,Yes
+PRINCE'S DOCK,24,Portishead dock,64.3%,Yes
+WELLINGTON DOCK,24,Glasson Dock,59.3%,Yes
+R,24,Rye,50.0%,Yes
+M. S. RENNET,23,Hennebont,47.6%,Yes
+& CO,23,Cork,50.0%,Yes
+ROYAL ALBERT DOCK,22,Pembroke Dock,53.3%,Yes
+REGENT'S CANAL DOCKS,22,Surrey Commercial Docks,55.8%,Yes
+TOWER,22,Antwerp,66.7%,Yes
+BELLYWOOD,22,Fleetwood,55.6%,Yes
+BRIDGE,22,Cambridge,80.0%,Maybe
+PRINCES DOCK,22,Portishead dock,66.7%,Yes
+M & J BROWN,21,Mo i Rana,50.0%,Yes
+ING,21,Reading,60.0%,Yes
+GREENOCK (TILBURY DOCKS),21,Tilbury Docks,70.3%,Yes
+WEST INDIA DOCK,20,West Bay,52.2%,Yes
+BOSTON DOCK,20,Boston,70.6%,Yes
+REGENT'S DOCK,20,Greenock,66.7%,Yes
+LEMENT,20,Bremen,66.7%,Yes
+Z,20,Danzig,28.6%,Yes
+DON,20,Redon,75.0%,Maybe
+LOUP,20,Falmouth,50.0%,Yes
+BUTE DOCK,20,Pembroke Dock,63.6%,Yes
+DUNDALK,19,Sundswall,62.5%,Yes
+GRIMSBY (TILBURY DOCK),19,Tilbury Docks,68.6%,Yes
+INTER TOPS,19,Antwerp,58.8%,Yes
+LONDON (NELSON DOCK),19,Glasson Dock,56.2%,Yes
+BIRKENHEAD DOCK,18,Portishead dock,66.7%,Yes
+M.J,18,Domsjo,44.4%,Yes
+ROYAL ALBERT DOCKS,17,Tilbury Docks,58.1%,Yes
+LIVERPOOL (DOCKS),17,Liverpool,69.2%,Yes
+OTTI STREET,17,Trieste,55.6%,Yes
+W.O,17,Wyborg,44.4%,Yes
+IF YOU,17,Pictou,50.0%,Yes
+TYNE DOCK,17,Tilbury Docks,63.6%,Yes
+FRASERBURGH,16,Aldeburgh,70.0%,Yes
+NORTHFLEET,16,Fleetwood,52.6%,Yes
+BANFF,16,Oban,66.7%,Yes
+JULY,16,Hull,50.0%,Yes
+PETITIONS PRESENTED FOR CESSIO,16,Portishead dock,40.0%,Yes
+KEN,16,Skien,75.0%,Maybe
+RAILWAY DOCK,16,Tilbury Docks,64.0%,Yes
+TOXTETH DOCK,16,Avonmouth Dock,61.5%,Yes
+TO BUILDERS,16,Bideford,52.6%,Yes
+WIDNES,16,Cowes,54.5%,Yes
+LONDON DOCK,16,London,70.6%,Yes
+MOI,16,Morlaix,60.0%,Yes
+MR. F. P. RYBKIN ... ... F R,16,St. Petersburg,28.6%,Yes
+DIVIDEND,15,Irvine,57.1%,Yes
+SUTTON BRIDGE,15,Woodbridge,60.9%,Yes
+PORT CLYDE,15,Portland,66.7%,Yes
+EVIE,15,Elie,75.0%,Maybe
+LUDWIG WULFERT'S BELLY WOOD,15,Fleetwood,38.9%,Yes
+E.C,15,Wisbech,40.0%,Yes
+NOTICES OF INTENDED DIVIDENDS,15,North Sunderland,40.0%,Yes
+RPOOL,15,Poole,80.0%,Maybe
+S',15,Ahus,33.3%,Yes
+WEMYSS,14,Cowes,54.5%,Yes
+RECEIVING ORDERS,14,Three Rivers,57.1%,Yes
+RROWSTOUNNESS,14,Borrowstounness (Bo'Ness),68.4%,Yes
+BRUNSWICK DOCK,14,Pembroke Dock,59.3%,Yes
+S,14,Ahus,40.0%,Yes
+SUPPLEMENT,14,Moulmein,55.6%,Yes
+LONDON (RUNCORN DOCK),14,Avonmouth Dock,51.4%,Yes
+ER,14,Derby,57.1%,Yes
+ENCE INVITED,14,Weston Point,50.0%,Yes
+N.W.R,13,Newry,60.0%,Yes
+OLE COURT,13,Rochefort,55.6%,Yes
+OF,13,Oxford,50.0%,Yes
+WOOD,13,Fleetwood,61.5%,Yes
+QUEENSTOWN,13,Preston,58.8%,Yes
+COUNTER TOP,13,Antwerp,55.6%,Yes
+EXPORTS,13,Newport,71.4%,Yes
+SIMPLE IN CONSTRUCTION,13,Sault an Cochon,54.1%,Yes
+T. L. B. RED RUBBERS,13,St. Petersburg,41.2%,Yes
+NEWPORT MON,13,Newport,77.8%,Maybe
+E. U,12,New Quay,50.0%,Yes
+ITEMS,12,Pitea,60.0%,Yes
+CLIFF'S CREEK,12,Carlisle,47.6%,Yes
+BORROWSTOWNESS,12,Borrowstounness (Bo'Ness),66.7%,Yes
+HUSKISSON DOCK,12,Glasson Dock,69.2%,Yes
+METHIL,12,Leith,54.5%,Yes
+LONDON (DOCK FIRES IN LIVERPOOL),12,Lynn (King's Lynn),44.0%,Yes
+PORTS,12,Portsoy,83.3%,Maybe
+OF EVERY DESCRIPTION,12,Tvedestrand,45.2%,Yes
+GREAT YARMOUTH,11,Yarmouth,72.7%,Yes
+CLIFFE,11,Cardiff,61.5%,Yes
+TILBURYDOWN,11,Tilbury Docks,75.0%,Maybe
+MEETING,11,Reading,57.1%,Yes
+EXPORT ORDERS,11,Port Gordon,66.7%,Yes
+SEE SPECIMENS,11,Sheerness,45.5%,Yes
+FIR,11,Findhorn,54.5%,Yes
+CARRIERS' DOCK,11,Sharpness Docks,62.1%,Yes
+LBEBT DOCKS,11,Tilbury Docks,66.7%,Yes
+SEPT,11,Seaton,60.0%,Yes
+UNIFORM,11,Runcorn,57.1%,Yes
+WILLOW,11,Wigtown,61.5%,Yes
+EXP,11,Exeter,44.4%,Yes
+PLUMBERS' CONGRESS,11,Lyme Regis,50.0%,Yes
+CLOSED,11,Looe,60.0%,Yes
+TI,10,Batvik,50.0%,Yes
+KIRKWALL,10,Kirkcaldy,70.6%,Yes
+BOWEN'S STOURBRIDGE,10,Woodbridge,55.2%,Yes
+MUI,10,Kemi,57.1%,Yes
+JUNE,10,Ljusne,80.0%,Maybe
+HARRINGTON DOCK,10,Warrington,72.0%,Yes
+P,10,Poole,33.3%,Yes
+PETITIONS FOR CESSIO,10,Neath and Briton Ferry Docks,45.8%,Yes
+LIVERPOOL (RUNCORN DOCK),10,Liverpool,54.5%,Yes
+BOXES,10,Cowes,60.0%,Yes
+L,10,Deal,40.0%,Yes
+TLEPOOL,10,Hartlepool,82.4%,Maybe
+O,9,Abo,50.0%,Yes
+"MARCH 23, 1889",9,Harwich,38.1%,Yes
+W. I. D. BUOYS,9,Doboy,42.1%,Yes
+LNUTWOOD,9,Fleetwood,70.6%,Yes
+EXPORTED FROM,9,Port Royal,60.9%,Yes
+ND,9,London,50.0%,Yes
+LIVERPOOL (PRINCES DOCK),9,Liverpool,54.5%,Yes
+BON'ESS,9,Odessa,61.5%,Yes
+DO FEET SUPER,9,Delete,52.6%,Yes
+"SEPTEMBER 22, 1883",8,Pembroke Dock,38.7%,Yes
+BURTON,8,Brighton,71.4%,Yes
+DU,8,Dundee,50.0%,Yes
+"AUGUST 29, 1891",8,Bathurst,34.8%,Yes
+SPEED,8,Leeds,60.0%,Yes
+OCEEDINGS UNDER CESSIO,8,Inverness,45.2%,Yes
+TOWN DOCKS,8,Glasson Dock,63.6%,Yes
+IRON FENCING,8,Reading,52.6%,Yes
+LONDON (SURREY DOCK),8,Londonderry,58.1%,Yes
+NOTICES OF DIVIDENDS,8,New Orleans,45.2%,Yes
+EDEN,8,Aberdeen,66.7%,Yes
+EXPORTER,8,Exeter,71.4%,Yes
+GRIMSBY (BULL DOCK),8,Grimsby,53.8%,Yes
+INGSTON,8,Wigtown,71.4%,Yes
+DUMFRIES,7,Drumore,66.7%,Yes
+"[MAY 30, 1885.]",7,Ramsay,28.6%,Yes
+BUCKIE,7,Byske,54.5%,Yes
+NE,7,Newry,57.1%,Yes
+FIRE IN LONDON,7,London,60.0%,Yes
+CORRECTION,7,Dordrecht,63.2%,Yes
+GOOLE (TILBURY DOCKS),7,Tilbury Docks,76.5%,Maybe
+BEER,7,Exeter,60.0%,Yes
+GRIMSBY (TOWN DOCK),7,Glasson Dock,58.1%,Yes
+GRIMSBY (TILBURY DOCKS),7,Tilbury Docks,72.2%,Yes
+TREES,7,Torefos,66.7%,Yes
+SKB,7,Byske,50.0%,Yes
+M.I.M.E,7,Drammen,42.9%,Yes
+"JULY 9, 1881",6,Sault an Cochon,29.6%,Yes
+BUILDERS' CLERKS' BENEVOLENT INSTITUTION,6,New Westminster,29.1%,Yes
+LONDON (GOVERNMENT DOCK BUOYS),6,Neath and Briton Ferry Docks,44.8%,Yes
+SILVERTON,6,Seaton,66.7%,Yes
+ST. KATHARINE'S DOCK,6,Sharpness Docks,68.6%,Yes
+EAST INDIA DOCKS,6,Neath and Briton Ferry Docks,59.1%,Yes
+BRISTOL (TILBURY DOCK),6,Tilbury Docks,68.6%,Yes
+GRIMSBY (SURREY DOCKS),6,Tilbury Docks,62.9%,Yes
+LIV,6,Elie,57.1%,Yes
+DOCKS,6,Tilbury Docks,55.6%,Yes
+CTURERS OF,6,Thurso,62.5%,Yes
+LONDON TILBURY DOCKS,6,Tilbury Docks,78.8%,Maybe
+BORROWSTUNESS,6,Borrowstounness (Bo'Ness),68.4%,Yes
+DRYING KILNS,6,Grindstone Island,48.3%,Yes
+P. B. WILKIE & CO,6,Port William,41.4%,Yes
+KINGSTON,6,Workington,77.8%,Maybe
+GLINGE,6,Brightlingsea,63.2%,Yes
+BEDFORD,6,Bideford,80.0%,Maybe
+GRIMSBY (COBURG DOCK),6,Tilbury Docks,52.9%,Yes
+BLOCKS,6,Calstock,57.1%,Yes
+W. B,6,West Bay,50.0%,Yes
+M. S. RENNIE & CO,6,Hennebont,38.5%,Yes
+SLEEPERS,6,Leeds,61.5%,Yes
+NELSON DOCKS,6,Glasson Dock,75.0%,Maybe
+WESTPORT,5,Lowestoft,70.6%,Yes
+PORT GLASGOW,5,Glasgow,73.7%,Yes
+DOCK DELIVERIES,5,Dover,50.0%,Yes
+"[JULY 14, 1883",5,Sault an Cochon,27.6%,Yes
+TOTNES,5,Tornea,66.7%,Yes
+ENSE BELTS,5,Hennebont,52.6%,Yes
+NESS,5,Inverness,61.5%,Yes
+MEETINGS,5,Lyme Regis,55.6%,Yes
+MOULDS,5,Douglas,61.5%,Yes
+& COFFIN STUFF,5,Cronstadt,43.5%,Yes
+GRIMSBY (TOWN DOCKS),5,Glasson Dock,56.2%,Yes
+S EXECUTED FOR COUNTRY BUYERS,5,St. Peter-Port,37.2%,Yes
+NOVEMBER,5,Dover,61.5%,Yes
+ON DOCK,5,Glasson Dock,73.7%,Yes
+TENDER OPEN,5,Hennebont,50.0%,Yes
+SKIRTING,5,Stirling,75.0%,Maybe
+LIVERPOOL (CUSTOMS DOCK),5,Liverpool,54.5%,Yes
+& TILES,5,Trieste,57.1%,Yes
+"J. H. ROWNTREE & CO.,",5,Montrose,34.5%,Yes
+NG IRONS,5,Nairn,61.5%,Yes
+LONDON (COBURG DOCK),5,Tilbury Docks,54.5%,Yes
+R.B,5,Derby,50.0%,Yes
+GEORGE MERRYLEES & CO,5,Port Royal,38.7%,Yes
+T (MON),5,St. John,53.3%,Yes
+MITREING,5,Reading,66.7%,Yes
+GILMOUR,5,Gloucester,58.8%,Yes
+VIGERS,5,Iggesund,57.1%,Yes
+QUEENSFERRY,4,Queenborough,52.2%,Yes
+AUGU,4,Laurvig,54.5%,Yes
+"[AUGUST 2, 1879",4,Bathurst,34.8%,Yes
+BARROWSTOUNNESS,4,Borrowstounness (Bo'Ness),70.0%,Yes
+TRALEE,4,Trieste,61.5%,Yes
+BORROWSTOWNNESS,4,Borrowstounness (Bo'Ness),70.0%,Yes
+"NOVEMBER 24, 1883.]",4,Dover,33.3%,Yes
+"[SEPTEMBER 22, 1883",4,Pembroke Dock,37.5%,Yes
+TION WRITE TO,4,Trieste,50.0%,Yes
+EKS WYZED,4,Buenos Ayres,47.6%,Yes
+TUNNEL PIER,4,Tyne Ports,57.1%,Yes
+SPECIMEN,4,Skien,61.5%,Yes
+ROSCOMMON,4,Troon,57.1%,Yes
+ROLLS,4,Bollsta,66.7%,Yes
+CASTLETOWN,4,Charlestown,76.2%,Maybe
+GREENHITHE,4,Greenock,55.6%,Yes
+"[OCTOBER 5, 1889.]",4,Tonsberg,38.5%,Yes
+MILL HOLE,4,Milford Haven,54.5%,Yes
+"[AUGUST 17, 1889.]",4,"Chatham, N. B.",31.2%,Yes
+RTS,4,Portsoy,60.0%,Yes
+COOPERS' PROTECTIVE SOCIETY,4,Quebec City,42.1%,Yes
+SOUTH-WEST INDIA DOCK,4,Avonmouth Dock,51.4%,Yes
+WICKLOW,4,Wick,72.7%,Yes
+POWER,4,Cowes,60.0%,Yes
+BROCKLEBANK DOCK,4,Pembroke Dock,69.0%,Yes
+FRANCE,4,Penzance,57.1%,Yes
+PORT,4,Newport,72.7%,Yes
+TENDERS,4,St. Andrews,55.6%,Yes
+EXPO,4,Newport,54.5%,Yes
+SURREY DOCK,4,Tilbury Docks,66.7%,Yes
+SALFORD DOCK,4,Portishead dock,59.3%,Yes
+LINDEN WOOD,4,Fleetwood,60.0%,Yes
+LIVERPOOL (CONVOY DOCK),4,Liverpool,56.2%,Yes
+SCO,4,Simo,57.1%,Yes
+LIVERPOOL (TILLOTSON'S DOCK),4,Liverpool,48.6%,Yes
+MILLWALL,4,Llanelli,62.5%,Yes
+RESULT OF TENDERS,4,Preston,50.0%,Yes
+T,4,Bath,40.0%,Yes
+HORNSEY DOCK,4,Portishead dock,66.7%,Yes
+GREAT GRIMSBY,4,Grimsby,70.0%,Yes
+CORRESPONDENCE SOLICITED,4,Norrsundet,47.1%,Yes
+LIVERPOOL (COBURG DOCKS),4,Liverpool,54.5%,Yes
+EXPORT,4,Newport,76.9%,Maybe
+TES GIVEN,4,St. Ives,58.8%,Yes
+ERSBURG,4,Newburgh,66.7%,Yes
+HANOVER HOLE,3,Liverpool,47.6%,Yes
+GRAYS,3,Auray,60.0%,Yes
+"OCTOBER 15, 1881",3,Tonsberg,41.7%,Yes
+COLERAINE,3,Colberg,62.5%,Yes
+"AUGUST 13, 1881.]",3,"Chatham, N. B.",32.3%,Yes
+MEMEL FIR,3,Three Rivers,47.6%,Yes
+LYTTELTON,3,Littlehampton,63.6%,Yes
+"[OCTOBER 20, 1883.]",3,Tonsberg,37.0%,Yes
+"[JULY 7, 1883.]",3,Sault an Cochon,26.7%,Yes
+18 THE TIMBER TRADES JOURNAL,3,Three Rivers,40.0%,Yes
+ERRATA,3,Arbroath,57.1%,Yes
+"[SEPTEMBER 15, 1883.]",3,Pembroke Dock,35.3%,Yes
+SEND FOR COPY,3,Svendborg,54.5%,Yes
+ENGINEERS,3,Leicester,55.6%,Yes
+WISEBECK,3,Wisbech,80.0%,Maybe
+WRITE TO,3,Warrington,55.6%,Yes
+TENBY,3,Derby,60.0%,Yes
+RAMSEY,3,Ramsay,83.3%,Maybe
+ST. KATHARINE'S DOCKS,3,Sharpness Docks,72.2%,Yes
+"FEBRUARY 9, 1889",3,Canterbury,38.5%,Yes
+"[MARCH 23, 1889",3,Harwich,36.4%,Yes
+B. & F. S. WHARF,3,Faversham,32.0%,Yes
+"MAY 25, 1889.]",3,Ramsay,30.0%,Yes
+EVERY SIZE,3,Rye,46.2%,Yes
+EVERY DESCRIPTION,3,Preston,50.0%,Yes
+PETITIONS UNDER CESSIO,3,Neath and Briton Ferry Docks,48.0%,Yes
+"JULY 18, 1891",3,Sault an Cochon,28.6%,Yes
+BURGH,3,Newburgh,76.9%,Maybe
+ST. KATHARINE DOCK,3,Sharpness Docks,66.7%,Yes
+LEFOS,3,Torefos,66.7%,Yes
+NEWBY,3,Newry,80.0%,Maybe
+GRIMSBY DOCK,3,Grimsby,73.7%,Yes
+TOWER DOCK,3,Pembroke Dock,60.9%,Yes
+BRISTOL (TOWN DOCKS),3,Bristol,51.9%,Yes
+GOW,3,Glasgow,60.0%,Yes
+ES,3,Cowes,57.1%,Yes
+DOCK,3,Baddick,54.5%,Yes
+ST. ANDREW'S DOCK,3,St. Andrews,78.6%,Maybe
+GRIMSBY (RUNCORN DOCK),3,Glasson Dock,52.9%,Yes
+MEMBERS,3,Cemaes,61.5%,Yes
+MERCE,3,LimerickL,57.1%,Yes
+LIVERPOOL (LONGTON DOCK),3,Liverpool,54.5%,Yes
+LONGTON DOCK,3,Glasson Dock,66.7%,Yes
+ROYAL ALBE,3,Port Royal,50.0%,Yes
+VICTORIA,3,Astoria,66.7%,Yes
+SIR WILLIAM WRIGHT'S DOCK,3,Fort William,48.6%,Yes
+"AUGUST 28, 1897",3,Bathurst,34.8%,Yes
+EXPORTERS OF,3,Portsoy,63.2%,Yes
+R & SURVEYOR,3,Three Rivers,50.0%,Yes
+COUNTER TOPS,3,Monsteras,57.1%,Yes
+W. C. K,3,Wick,54.5%,Yes
+CONFRG DOCK,3,Glasson Dock,60.9%,Yes
+ORING,3,Reading,66.7%,Yes
+GRIMSBY (LONDON DOCKS),3,Glasson Dock,52.9%,Yes
+GRIMSBY (QUEEN'S DOCKS),3,Greenock,51.6%,Yes
+MLS,3,Leeds,50.0%,Yes
+S. RENNIE & CO,3,San Francisco,51.9%,Yes
+BULL DOCK,3,Tilbury Docks,63.6%,Yes
+KINGS LYNN,3,Lynn (King's Lynn),71.4%,Yes
+L & CO,3,Sault an Cochon,47.6%,Yes
+ENUE,3,Odense,60.0%,Yes
+J. G. W-[?],2,St. Andrews,27.3%,Yes
+"[OCTOBER 29, 1881",2,Tonsberg,40.0%,Yes
+DROGHEDA,2,Rotterdam,58.8%,Yes
+RAMSEY (ISLE OF MAN),2,Scilly (Isles of Scilly),59.1%,Yes
+DECEMBER,2,Leicester,58.8%,Yes
+"PATENTEE AND MANUFACTURER,",2,Caledonian Canal,42.9%,Yes
+"MAY 5, 1883.]",2,Ramsay,31.6%,Yes
+"[JULY 14, 1883.]",2,Sault an Cochon,25.8%,Yes
+OWEN'S STOURBRIDGE,2,Woodbridge,57.1%,Yes
+LYME,2,Blaye,66.7%,Yes
+ILESBOURN,2,Middlesbrough,63.6%,Yes
+ST. LOW,2,St. Malo,80.0%,Maybe
+GOVERNMENT DOCK BUOYS,2,Avonmouth Dock,51.4%,Yes
+PORSTOWN,2,Preston,80.0%,Maybe
+BOW CREEK,2,Bremen,53.3%,Yes
+QUEBEC DOCKS,2,Quebec City,69.6%,Yes
+BURT'S WHARF,2,Burnham,52.6%,Yes
+"OCTOBER 26, 1889.]",2,Tonsberg,38.5%,Yes
+PRINCE REGENT'S WHARF,2,Roche Bernard,47.1%,Yes
+"MAY 11, 1889",2,Ramsay,33.3%,Yes
+DS,2,Leeds,57.1%,Yes
+DUNLOP & CO,2,Runcorn,44.4%,Yes
+TRY IT,2,Trieste,61.5%,Yes
+"WOOD, AND TIMBER MERCHANT",2,Forth and Clyde Canal,47.8%,Yes
+GRANTOWN,2,Taunton,66.7%,Yes
+UNDER,2,Dundee,72.7%,Yes
+D,2,Deal,40.0%,Yes
+"NOVEMBER 11, 1893",2,Dover,36.4%,Yes
+VICTORIA & ALBERT DOCKS,2,Tilbury Docks,55.6%,Yes
+APPLEDORE,2,Aberdovey,55.6%,Yes
+DUNN & CO,2,Runcorn,50.0%,Yes
+ST,2,Slite,57.1%,Yes
+DOCK FIRES IN LIVERPOOL,2,Liverpool,56.2%,Yes
+DULDING,2,Dublin,76.9%,Maybe
+ORMSBY DOCK,2,Portishead dock,61.5%,Yes
+(FROM LLOYD'S.),2,Burnham Wells,42.9%,Yes
+PREVENTS SLIPPING,2,Burntisland,42.9%,Yes
+OVER LIQUID,2,Dover,50.0%,Yes
+TON DOCK,2,Glasson Dock,70.0%,Yes
+... E.C,2,St. Ives,40.0%,Yes
+ENGL,2,Reading,54.5%,Yes
+OCTOBER,2,Tonsberg,66.7%,Yes
+OW,2,Cowes,57.1%,Yes
+HUSKISSON DOCKS,2,Glasson Dock,66.7%,Yes
+BRISTOL (WEST),2,Bristol,66.7%,Yes
+SIR WM. WRIGHT'S DOCK,2,Sharpness Docks,44.4%,Yes
+"DECEMBER 7, 1895",2,Leicester,40.0%,Yes
+REGENT'S CANAL DOCK,2,Surrey Commercial Docks,52.4%,Yes
+"ADELAIDE WORKS, SHEFFIELD",2,Lichfield,47.1%,Yes
+"SEPTEMBER 28, 1895",2,Pembroke Dock,38.7%,Yes
+JK,2,Djupvik,44.4%,Yes
+CONVOY DOCK,2,Avonmouth Dock,64.0%,Yes
+BO'NE,2,Boulogne,61.5%,Yes
+TOWN'S DOCK,2,Glasson Dock,60.9%,Yes
+TILLOTSON'S DOCK,2,Glasson Dock,64.3%,Yes
+AUSTRIAN WAINSCOT OAK,2,San Francisco,52.9%,Yes
+JAMES HARRISON,2,Beaumaris,52.2%,Yes
+NOTICE OF DIVIDEND,2,North Sunderland,47.1%,Yes
+DOCK BILLS,2,Douglas,47.1%,Yes
+PROCEEDINGS OF DIVIDENDS,2,Three Rivers,44.4%,Yes
+BRIDLINGTON,2,Brighton,73.7%,Yes
+E,2,Rye,50.0%,Yes
+QUEBEC DOCK,2,Quebec City,72.7%,Yes
+SONS,2,Saon,75.0%,Maybe
+CROSSBY DOCK,2,Sharpness Docks,59.3%,Yes
+"JAMES HARRISON,",2,Beaumaris,50.0%,Yes
+SOUTH-WEST INDIA DOCKS,2,Sharpness Docks,54.1%,Yes
+"NEWPORT, MON",2,Newport,73.7%,Yes
+"MAY 20, 1899",2,Ramsay,33.3%,Yes
+UNION DOCKS,2,Glasson Dock,60.9%,Yes
+BUILDERS WOOD,2,Bideford,57.1%,Yes
+COBURG DOCKS,2,Tilbury Docks,72.0%,Yes
+ES KENNEDY & CO,2,Gravesend,41.7%,Yes
+TILE DOCKS,2,Tilbury Docks,78.3%,Maybe
+GEORGE LOVE,2,Aberdovey,50.0%,Yes
+WIDNES DOCK,2,Sharpness Docks,61.5%,Yes
+SUNDQUIST & CO,2,Sault an Cochon,48.3%,Yes
+BUILDERS,2,Bideford,62.5%,Yes
+FO,2,Fowey,57.1%,Yes
+JUST OUT,2,Weston Point,50.0%,Yes
+EX PORT MELBOURNE,2,Port Gordon,57.1%,Yes
+-R. W. [?],1,St. Andrews,28.6%,Yes
+ST. DAVID'S,1,St. Ives,63.2%,Yes
+FORT GLASGOW,1,Glasgow,73.7%,Yes
+NEW ROSS,1,New Orleans,63.2%,Yes
+"AUGUST 25, 1883.]",1,"Chatham, N. B.",32.3%,Yes
+MAURICE GANDY,1,Cardigan,57.1%,Yes
+N DRIVING BELT,1,Irvine,50.0%,Yes
+F. W. REYNOLDS & CO. LONDON,1,London,36.4%,Yes
+OUTPORTS,1,Portsoy,66.7%,Yes
+LYTTLETON,1,Littlehampton,72.7%,Yes
+MORRIS'S,1,Morrison's Haven,66.7%,Yes
+SCILLY,1,Carril,50.0%,Yes
+DEEDS OF ARRANGEMENT,1,Douarnenez,46.7%,Yes
+ST. OLIVE'S WHARF,1,St. Ives,64.0%,Yes
+B. & F. WHARF,1,Ware,35.3%,Yes
+COMMERCIAL DOCKS,1,Surrey Commercial Docks,82.1%,Maybe
+CASTLETOWN (ISLE OF MAN),1,Scilly (Isles of Scilly),54.2%,Yes
+"GRANTON SAW-MILLS, GRANTON HARBOUR",1,Granton Harbour,61.2%,Yes
+GRAND CANAL DOCKS,1,Crinan Canal,62.1%,Yes
+ST. KATHERINE'S WHARF,1,St. Helens,51.6%,Yes
+LIMEHOUSE REACH,1,Wisbeach,52.2%,Yes
+ST. KATHERINE'S DOCKS,1,Sharpness Docks,66.7%,Yes
+ST. GEORGE'S WHARF,1,St. Helens,50.0%,Yes
+TEMPLE PIER WHARF,1,Three Rivers,48.3%,Yes
+REGENT'S WHARF,1,Porthleven Harbour,50.0%,Yes
+B. AND F. S. WHARF,1,St. Andrews,41.4%,Yes
+WOOLWICH BUOYS,1,Richibucto,50.0%,Yes
+"JUNE 29, 1889.]",1,Ljusne,38.1%,Yes
+BARNARD'S WHARF,1,Alfredsham,48.0%,Yes
+HERMITAGE TR,1,Kragero,52.6%,Yes
+CHINNOCK WHARF,1,Crinan Canal,46.2%,Yes
+SILVESTOWN,1,Charlestown,66.7%,Yes
+WEST INDIA DOCKS BUOYS,1,Neath and Briton Ferry Docks,48.0%,Yes
+GRAVESEND BUOYS,1,Gravesend,75.0%,Maybe
+LONG REACH,1,Montreal,55.6%,Yes
+JUSTICE,1,Ljusne,61.5%,Yes
+TRCON,1,Troon,80.0%,Maybe
+GILLESPIE,1,Lillesand,55.6%,Yes
+TRUST DEEDS,1,St. Helens,57.1%,Yes
+PEN,1,Penryn,66.7%,Yes
+LIVERPOOL (LONDON DOCKS),1,Liverpool,54.5%,Yes
+Y,1,Rye,50.0%,Yes
+BROWNLEE,1,Barnstaple,55.6%,Yes
+JOS. WILKINSON,1,Slingso,57.1%,Yes
+"OCTOBER 3, 1891",1,Tonsberg,43.5%,Yes
+"MAY 9, 1891",1,Ramsay,35.3%,Yes
+PEEL (ISLE OF MAN),1,Scilly (Isles of Scilly),57.1%,Yes
+"SEPTEMBER 19, 1891",1,Pembroke Dock,38.7%,Yes
+BS,1,Byske,57.1%,Yes
+DUN,1,Dundee,66.7%,Yes
+"TAYLOR BROS., ADELAIDE WORKS, SHEFFIELD",1,Lichfield,33.3%,Yes
+IMPORTS,1,Portsoy,71.4%,Yes
+ARKLOW,1,Charlestown,58.8%,Yes
+COUN,1,Corrunna,66.7%,Yes
+RE,1,Rye,80.0%,Maybe
+GOOLE DOCK,1,Goole,66.7%,Yes
+&,1,,0.0%,Yes
+GUERNSEY,1,Jersey,71.4%,Yes
+KIDDSON DOCK,1,Glasson Dock,66.7%,Yes
+LIVERPOOL (KIDDSON DOCK),1,Liverpool,54.5%,Yes
+KINGTON DOCK,1,Glasson Dock,66.7%,Yes
+LIVERPOOL (KINGTON DOCK),1,Liverpool,54.5%,Yes
+DUNI,1,Dunkirk,72.7%,Yes
+OCT,1,Rochester,50.0%,Yes
+CANADA DOCKS,1,Sharpness Docks,59.3%,Yes
+WINNIPEG DOCK,1,Pembroke Dock,53.8%,Yes
+WATERLOO DOCK,1,Pembroke Dock,61.5%,Yes
+BLOCK FLOORING,1,Rochford,45.5%,Yes
+KING'S CROSS,1,Slingso,52.6%,Yes
+CUSTOMS DOCK,1,Calstock,60.0%,Yes
+SCOT,1,Salcombe,50.0%,Yes
+TS OPEN,1,Hopeman,57.1%,Yes
+EN,1,Skien,57.1%,Yes
+EDMISTON &,1,Preston,58.8%,Yes
+SUCCESSFUL,1,Sheerness,42.1%,Yes
+CULLER,1,Colberg,61.5%,Yes
+TILES,1,Trieste,66.7%,Yes
+"LONDON, E.C",1,London,70.6%,Yes
+AND,1,Mandal,66.7%,Yes
+WEST INDIA,1,West Bay,66.7%,Yes
+"VEREBSTUFF, LONDON",1,London,50.0%,Yes
+AVONMOUTH,1,Avonmouth Dock,78.3%,Maybe
+BLYTHAVEN,1,Blyth,71.4%,Yes
+BLACKHEATH,1,Asbacka,58.8%,Yes
+SEAHAM,1,Soderhamn,66.7%,Yes
+"AUGUST 21, 1897",1,Bathurst,34.8%,Yes
+LOWE[?],1,Looe,54.5%,Yes
+ROYAL ALBE[?],1,Port Royal,43.5%,Yes
+VICTORIA [?],1,Astoria,52.6%,Yes
+HORNSBY DOCK,1,Sharpness Docks,66.7%,Yes
+WAPPING DOCK,1,Sharpness Docks,59.3%,Yes
+ELIZABETH DOCK,1,Pembroke Dock,59.3%,Yes
+SANDON DOCK,1,Glasson Dock,69.6%,Yes
+ROBERT KERR & SONS,1,Port Gordon,48.3%,Yes
+LONDON (WELLINGTON DOCK),1,Lynn (King's Lynn),47.6%,Yes
+LIVERPOOL (BROOKLYN DOCK),1,Liverpool,52.9%,Yes
+NDON S.E,1,London,57.1%,Yes
+W.CK,1,Wick,75.0%,Maybe
+JOINERS' WORK TO ORDER,1,Invergordon,42.4%,Yes
+Y DOCK,1,Tilbury Docks,63.2%,Yes
+DE LYON,1,Deal,54.5%,Yes
+G FEET,1,Gefle,54.5%,Yes
+WYF WMF,1,Fort William,42.1%,Yes
+DUBLIN (NELSON DOCK),1,Glasson Dock,56.2%,Yes
+QUEEN'S DOCKS,1,Greenock,57.1%,Yes
+AMERIKA,1,Fagervik,66.7%,Yes
+WILLIAM WRIGHT'S DOCK,1,Glasson Dock,48.5%,Yes
+SOUTH WEST INDIA DOCKS,1,Sharpness Docks,54.1%,Yes
+ROYAL VICTORIA DOCK,1,Portishead dock,52.9%,Yes
+LITTLETOWN,1,Littlehampton,78.3%,Maybe
+LIVERPOOL (UNION DOCKS),1,Liverpool,56.2%,Yes
+R. G. TICKLE & SON,1,Charlestown,41.4%,Yes
+KIRKWOOD & CO,1,Kirkcaldy,45.5%,Yes
+LONDON (TILE DOCKS),1,Tilbury Docks,56.2%,Yes
+BRISTOL (QUEEN'S DOCK),1,Pembroke Dock,51.4%,Yes
+CTION,1,Ripon,60.0%,Yes
+SECTION,1,Seaton,76.9%,Maybe
+LE & SON,1,Folkestone,55.6%,Yes
+OD,1,London,50.0%,Yes
+CREWE,1,Cowes,60.0%,Yes
+ROOFING FELT,1,Figeholm,50.0%,Yes
+CKS,1,Wick,57.1%,Yes
+"WEB SAWS,",1,West Bay,47.1%,Yes

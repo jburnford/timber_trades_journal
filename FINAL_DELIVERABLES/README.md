@@ -37,7 +37,7 @@ This directory contains **copies** of all production-ready files for analysis an
 ## 📈 Annual Statistics (By Year)
 
 ### export_ports_per_year.csv
-**3,871 port-year combinations (1874-1899)**
+**3,857 port-year combinations (1874-1899)**
 
 Export ports with annual shipment counts and coordinates. Shows temporal patterns in timber exports to Britain.
 
@@ -45,8 +45,10 @@ Export ports with annual shipment counts and coordinates. Shows temporal pattern
 
 **Example use:** Map changing export patterns over time, identify port growth/decline
 
+**Note:** Case-insensitive consolidation applied (e.g., "Riga" + "RIGA" in same year → consolidated)
+
 ### import_ports_per_year.csv
-**1,241 port-year combinations (1874-1899)**
+**1,169 port-year combinations (1874-1899)**
 
 British import ports with annual shipment counts and coordinates. All UK/Ireland destinations.
 
@@ -54,14 +56,55 @@ British import ports with annual shipment counts and coordinates. All UK/Ireland
 
 **Example use:** Map British port specialization, regional timber demand
 
+**Note:** Case-insensitive consolidation applied (e.g., 1885: "LONDON" 2,021 + "London" 33 → 2,054)
+
 ### export_import_pairs_per_year.csv
-**25,694 route-year combinations (1874-1899)**
+**24,486 route-year combinations (1874-1899)**
 
 Origin-destination pairs with annual counts and coordinates for both endpoints. Shows trade route evolution.
 
 **Columns:** year, origin_port, origin_latitude, origin_longitude, destination_port, destination_latitude, destination_longitude, ship_count
 
 **Example use:** Flow maps, trade route analysis, network visualization
+
+**Note:** Case-insensitive consolidation applied to both origin and destination ports
+
+---
+
+## 📊 Aggregate Statistics (Entire Period)
+
+### export_ports_total.csv
+**357 export ports (1874-1899 combined)**
+
+Total shipment counts per export port across entire period with coordinates.
+
+**Columns:** port_name, latitude, longitude, ship_count
+
+**Top exports:** Riga (7,828), Gothenburg (6,505), New York (4,816)
+
+**Note:** Case-insensitive consolidation applied (e.g., "LONDON" + "London" → "LONDON")
+
+### import_ports_total.csv
+**134 British import ports (1874-1899 combined)**
+
+Total shipment counts per import port across entire period with coordinates.
+
+**Columns:** port_name, latitude, longitude, ship_count
+
+**Top imports:** LONDON (19,050), LIVERPOOL (18,546), GRIMSBY (17,465)
+
+**Note:** Case-insensitive consolidation applied to fix OCR case variants
+
+### export_import_pairs_total.csv
+**6,811 unique trade routes (1874-1899 combined)**
+
+Total shipment counts per origin-destination pair across entire period with coordinates for both endpoints.
+
+**Columns:** origin_port, origin_latitude, origin_longitude, destination_port, destination_latitude, destination_longitude, ship_count
+
+**Top routes:** New York → LIVERPOOL (1,713), Bordeaux → BRISTOL (1,663), Gothenburg → GRIMSBY (1,210)
+
+**Note:** Case-insensitive consolidation applied to both origin and destination ports
 
 ---
 
@@ -154,9 +197,10 @@ Handles spelling variants and historical names:
 ## 🔍 Key Research Findings
 
 ### Geographic Patterns
-- **Top Export Ports:** Riga (7,806 ships), Gothenburg (6,447), New York (4,789)
-- **Top Import Ports:** London (17,657), Liverpool (16,845), Grimsby (16,670)
-- **Busiest Route:** New York → Liverpool (1,651 ships)
+- **Top Export Ports:** Riga (7,828 ships), Gothenburg (6,505), New York (4,816)
+- **Top Import Ports:** LONDON (19,050 ships), LIVERPOOL (18,546), GRIMSBY (17,465)
+- **Busiest Route:** New York → LIVERPOOL (1,713 ships)
+- **Case consolidation:** OCR case variants merged (e.g., "LONDON" + "London" → 19,050 total)
 
 ### Commodity Patterns
 - **Top Commodities:** Deals (36,784), Battens (20,763), Pit props (19,714)

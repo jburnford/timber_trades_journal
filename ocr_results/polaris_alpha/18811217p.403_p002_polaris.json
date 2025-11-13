@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "error": "Response ended prematurely",
+  "error_type": "ChunkedEncodingError",
+  "filename": "18811217p.403_p002.png"
+}

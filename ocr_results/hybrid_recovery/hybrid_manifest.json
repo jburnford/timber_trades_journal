@@ -1,0 +1,1306 @@
+{
+  "generated": "2025-11-11T13:21:52.012632",
+  "source_mapping": "/home/jic823/TTJ Forest of Numbers/analysis/polaris_ocr_mapping.json",
+  "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery",
+  "dates": {
+    "18740502": {
+      "date_str": "May 2, 1874",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740502",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740502/18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740502/18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740502/18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740502/18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18740502_1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18740530": {
+      "date_str": "May 30, 1874",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740530",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740530/18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740530/18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740530/18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740530/18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18740530_3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18740627": {
+      "date_str": "June 27, 1874",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740627",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740627/18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740627/18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740627/18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18740627/18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18740627_5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18741017": {
+      "date_str": "October 17, 1874",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741017",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741017/18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741017/18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741017/18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741017/18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18741017_13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18741212": {
+      "date_str": "December 12, 1874",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741212",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741212/18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741212/18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741212/18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18741212/18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18750529": {
+      "date_str": "May 29, 1875",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750529",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750529/18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750529/18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750529/18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750529/18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18750529_3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18750612": {
+      "date_str": "June 12, 1875",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750612",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750612/18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750612/18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750612/18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750612/18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18750612_4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18750710": {
+      "date_str": "July 10, 1875",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750710",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750710/18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750710/18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750710/18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750710/18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18750710/18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18750710_6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18751030": {
+      "date_str": "October 30, 1875",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751030",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751030/18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751030/18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751030/18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751030/18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751030/18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18751030_14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18751225": {
+      "date_str": "December 25, 1875",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751225",
+      "gemini_count": 2,
+      "polaris_count": 1,
+      "total_files": 3,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751225/18751225_18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18751225_18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751225/18751225_18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18751225_18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18751225/18751225_18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18751225_18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18770120": {
+      "date_str": "January 20, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770120",
+      "gemini_count": 2,
+      "polaris_count": 1,
+      "total_files": 3,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770120/18770120_2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18770120_2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770120/18770120_2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18770120_2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770120/18770120_2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18770120_2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18770526": {
+      "date_str": "May 26, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770526",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770526/18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770526/18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770526/18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770526/18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18770526_3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18770707": {
+      "date_str": "July 7, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770707",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770707/18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770707/18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770707/18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770707/18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770707/18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18770707_6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18770721": {
+      "date_str": "July 21, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721",
+      "gemini_count": 5,
+      "polaris_count": 1,
+      "total_files": 6,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721/18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721/18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721/18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721/18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721/18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005_gemini.txt",
+          "type": "gemini",
+          "filename": "18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770721/18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18770721_7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18770818": {
+      "date_str": "August 18, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818",
+      "gemini_count": 5,
+      "polaris_count": 1,
+      "total_files": 6,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818/18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818/18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818/18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818/18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818/18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005_gemini.txt",
+          "type": "gemini",
+          "filename": "18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770818/18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18770818_9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18770929": {
+      "date_str": "September 29, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929",
+      "gemini_count": 5,
+      "polaris_count": 1,
+      "total_files": 6,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929/18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929/18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929/18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929/18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929/18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005_gemini.txt",
+          "type": "gemini",
+          "filename": "18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p005_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18770929/18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18770929_12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18771110": {
+      "date_str": "November 10, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771110",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771110/18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771110/18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771110/18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771110/18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771110/18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18771222": {
+      "date_str": "December 22, 1877",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771222",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771222/18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771222/18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771222/18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771222/18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18771222/18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18771222_18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18810108": {
+      "date_str": "January 08, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810108",
+      "gemini_count": 2,
+      "polaris_count": 1,
+      "total_files": 3,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18810108p.21_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810108/18810108_18810108p.21_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18810108_18810108p.21_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18810108p.21_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810108/18810108_18810108p.21_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18810108_18810108p.21_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18810108p.21_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810108/18810108_18810108p.21_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18810108_18810108p.21_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18810723": {
+      "date_str": "July 23, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810723",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18810723p.64_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810723/18810723_18810723p.64_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18810723_18810723p.64_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18810723p.64_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810723/18810723_18810723p.64_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18810723_18810723p.64_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18810723p.64_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810723/18810723_18810723p.64_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18810723_18810723p.64_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18810723p.64_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810723/18810723_18810723p.64_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18810723_18810723p.64_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18810723p.64_p004_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18810723/18810723_18810723p.64_p004_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18810723_18810723p.64_p004_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18811015": {
+      "date_str": "October 15, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811015",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811015p.264_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811015/18811015_18811015p.264_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18811015_18811015p.264_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811015p.264_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811015/18811015_18811015p.264_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18811015_18811015p.264_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811015p.264_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811015/18811015_18811015p.264_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18811015_18811015p.264_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18811015p.264_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811015/18811015_18811015p.264_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18811015_18811015p.264_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18811029": {
+      "date_str": "October 29, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811029",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811029p.295_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811029/18811029_18811029p.295_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18811029_18811029p.295_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811029p.295_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811029/18811029_18811029p.295_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18811029_18811029p.295_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811029p.295_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811029/18811029_18811029p.295_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18811029_18811029p.295_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18811029p.295_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811029/18811029_18811029p.295_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18811029_18811029p.295_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18811112": {
+      "date_str": "November 12, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811112",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811112p.324_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811112/18811112_18811112p.324_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18811112_18811112p.324_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811112p.324_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811112/18811112_18811112p.324_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18811112_18811112p.324_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811112p.324_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811112/18811112_18811112p.324_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18811112_18811112p.324_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18811112p.324_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811112/18811112_18811112p.324_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18811112_18811112p.324_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18811217": {
+      "date_str": "December 17, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811217",
+      "gemini_count": 3,
+      "polaris_count": 0,
+      "total_files": 3,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811217p.403_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811217/18811217_18811217p.403_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18811217_18811217p.403_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811217p.403_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811217/18811217_18811217p.403_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18811217_18811217p.403_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811217p.403_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811217/18811217_18811217p.403_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18811217_18811217p.403_p003_gemini.txt"
+        }
+      ]
+    },
+    "18811231": {
+      "date_str": "December 31, 1881",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811231",
+      "gemini_count": 2,
+      "polaris_count": 2,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811231p.433_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811231/18811231_18811231p.433_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18811231_18811231p.433_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18811231p.433_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811231/18811231_18811231p.433_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18811231_18811231p.433_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18811231p.433_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811231/18811231_18811231p.433_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18811231_18811231p.433_p001_polaris_polaris.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18811231p.433_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18811231/18811231_18811231p.433_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18811231_18811231p.433_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18850502": {
+      "date_str": "May 2, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850502",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850502/18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850502/18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850502/18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850502/18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18850613": {
+      "date_str": "June 13, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850613",
+      "gemini_count": 3,
+      "polaris_count": 0,
+      "total_files": 3,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850613/18850613_2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18850613_2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850613/18850613_2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18850613_2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850613/18850613_2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18850613_2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        }
+      ]
+    },
+    "18850627": {
+      "date_str": "June 27, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627",
+      "gemini_count": 4,
+      "polaris_count": 2,
+      "total_files": 6,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627/18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627/18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627/18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627/18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627/18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850627/18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18850627_4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18850711": {
+      "date_str": "July 11, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850711",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850711/18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850711/18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850711/18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850711/18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850711/18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18850711_6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18850815": {
+      "date_str": "August 15, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850815",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850815/18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850815/18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850815/18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850815/18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850815/18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18850815_11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18850912": {
+      "date_str": "September 12, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850912",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850912/18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850912/18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850912/18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18850912/18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18850912_15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18851024": {
+      "date_str": "October 24, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024",
+      "gemini_count": 5,
+      "polaris_count": 1,
+      "total_files": 6,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024/18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024/18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024/18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024/18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p005.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024/18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p005_gemini.txt",
+          "type": "gemini",
+          "filename": "18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p005_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851024/18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18851024_21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18851107": {
+      "date_str": "November 7, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851107",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851107/18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851107/18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851107/18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851107/18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851107/18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18851107_23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18851212": {
+      "date_str": "December 12, 1885",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851212",
+      "gemini_count": 2,
+      "polaris_count": 1,
+      "total_files": 3,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851212/18851212_27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18851212_27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851212/18851212_27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18851212_27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18851212/18851212_27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18851212_27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18870702": {
+      "date_str": "July 2, 1887",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870702",
+      "gemini_count": 3,
+      "polaris_count": 1,
+      "total_files": 4,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870702/18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870702/18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870702/18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870702/18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18870702_1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18870827": {
+      "date_str": "August 27, 1887",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870827",
+      "gemini_count": 4,
+      "polaris_count": 1,
+      "total_files": 5,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p001.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870827/18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p001_gemini.txt",
+          "type": "gemini",
+          "filename": "18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p001_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870827/18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002_gemini.txt",
+          "type": "gemini",
+          "filename": "18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p003.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870827/18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p003_gemini.txt",
+          "type": "gemini",
+          "filename": "18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p003_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p004.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870827/18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p004_gemini.txt",
+          "type": "gemini",
+          "filename": "18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p004_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18870827/18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18870827_9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002_polaris_polaris.txt"
+        }
+      ]
+    },
+    "18871224": {
+      "date_str": "December 24, 1887",
+      "output_directory": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18871224",
+      "gemini_count": 1,
+      "polaris_count": 1,
+      "total_files": 2,
+      "files": [
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18871224/18871224_26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887_gemini.txt",
+          "type": "gemini",
+          "filename": "18871224_26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887_gemini.txt"
+        },
+        {
+          "source": "/home/jic823/TTJ Forest of Numbers/ocr_results/polaris_alpha/26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887_polaris.txt",
+          "destination": "/home/jic823/TTJ Forest of Numbers/ocr_results/hybrid_recovery/18871224/18871224_26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887_polaris_polaris.txt",
+          "type": "polaris",
+          "filename": "18871224_26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887_polaris_polaris.txt"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_dates": 37,
+    "total_files": 160,
+    "gemini_files": 123,
+    "polaris_files": 37
+  }
+}

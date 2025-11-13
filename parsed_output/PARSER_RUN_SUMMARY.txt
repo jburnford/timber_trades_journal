@@ -1,0 +1,83 @@
+================================================================================
+TTJ BATCH PARSER - FINAL RESULTS
+Fixed Memory Leak + Regex Backtracking Issues
+================================================================================
+
+RUN STATISTICS:
+--------------
+Total OCR Files:      2,041 files
+Document Groups:      927 groups
+Processing Time:      18.4 minutes
+Successfully Parsed:  1,896 files (92.9%)
+Timeout Files:        145 files (7.1%)
+
+RECORDS EXTRACTED:
+-----------------
+Total Ship Records:   143,297
+File Size:            35 MB
+Output File:          ttj_shipments_multipage.csv
+
+ISSUES FIXED:
+------------
+1. MEMORY LEAK (Critical)
+   - Problem: Unbounded list growth in all_records
+   - Impact: WSL crash after 5+ hours
+   - Fix: Added all_records.clear() after each checkpoint save
+   - Result: Peak memory ~10MB vs 1-2GB before
+
+2. CSV FIELD SIZE LIMIT
+   - Problem: Default limit 131KB too small for long cargo descriptions
+   - Impact: Merge operation failed
+   - Fix: Increased to 1MB with csv.field_size_limit(1000000)
+   - Result: All 19 checkpoint files merged successfully
+
+3. REGEX BACKTRACKING (Critical)
+   - Problem: Complex lookahead pattern with nested quantifiers
+   - Impact: Parser hung at 100% CPU for hours on certain files
+   - Fix: Added 5-second timeout protection per file
+   - Result: 145 problematic files gracefully skipped for LLM processing
+
+TIMEOUT FILES FOR LLM PROCESSING:
+---------------------------------
+145 files exceeded 5-second timeout (saved to timeout_files.txt)
+
+These files contain complex/irregular text that triggers regex backtracking.
+As planned (Option 3), these will be processed separately with LLM assistance.
+
+Examples:
+  - 1. p. 15-16 - Imports - January 1 1887 - Timber Trades Journ
+  - 12. p. 181-184 - October 2 1875 - Imports of Timber, &c. Tim
+  - 18780105p301-302_p002.txt
+  - 18800110.txt
+  - 18810129p.74.txt
+  ... (see timeout_files.txt for complete list)
+
+CHECKPOINT SYSTEM:
+-----------------
+Checkpoint Interval:  Every 50 document groups
+Total Checkpoints:    19 files
+Checkpoints Merged:   Successfully merged to ttj_shipments_multipage.csv
+
+PERFORMANCE:
+-----------
+- Avg Processing:     ~1.2 seconds per document group
+- Throughput:         ~50 groups per minute
+- Memory Efficient:   Cleared after each checkpoint
+- Stable:             No crashes, no hangs
+
+OUTPUT FILES:
+------------
+✓ ttj_shipments_multipage.csv (143,297 records, 35 MB)
+✓ timeout_files.txt (145 files needing LLM processing)
+✓ batch_final_run.log (Complete processing log)
+✓ ttj_shipments_checkpoint_*.csv (19 checkpoint files - can be deleted)
+
+NEXT STEPS:
+----------
+1. Review the 143,297 successfully parsed records
+2. Process 145 timeout files with LLM assistance
+3. Merge LLM-processed records with main dataset
+4. Optional: Delete checkpoint files to save space
+
+SUCCESS: The parser is now stable, memory-efficient, and production-ready!
+================================================================================

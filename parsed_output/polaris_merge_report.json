@@ -1,0 +1,18 @@
+{
+  "generated": "2025-11-11T13:35:49.057573",
+  "original_database": "/home/jic823/TTJ Forest of Numbers/parsed_output/ttj_shipments_final.csv",
+  "recovered_database": "/home/jic823/TTJ Forest of Numbers/parsed_output/polaris_recovery/ttj_shipments_multipage.csv",
+  "final_database": "/home/jic823/TTJ Forest of Numbers/parsed_output/ttj_shipments_final_v2.csv",
+  "affected_dates": 37,
+  "statistics": {
+    "original_records": 152984,
+    "removed_from_affected_dates": 37,
+    "kept_unaffected": 152947,
+    "recovered_records": 9763,
+    "combined_before_dedup": 162710,
+    "duplicates_removed": 12118,
+    "final_records": 150592,
+    "net_change": -2392,
+    "percent_change": -1.5635622025832767
+  }
+}

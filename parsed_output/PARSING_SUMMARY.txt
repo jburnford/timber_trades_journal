@@ -1,0 +1,131 @@
+================================================================================
+1874-1875 TIMBER TRADES JOURNAL - PARSING COMPLETE
+================================================================================
+
+Date: 2025-11-11
+Task: Parse all 1874-1875 OCR files and extract ship arrival records
+
+INPUT FILES:
+- Location: /home/jic823/TTJ Forest of Numbers/ocr_results/gemini_full/
+- Files matching pattern: *187[45]*.txt
+- Total files found: 120 files
+
+OUTPUT:
+- File: /home/jic823/TTJ Forest of Numbers/parsed_output/1874_1875_llm_parsed.csv
+- Format: CSV with 17 columns
+- Records extracted: 7,960 ship arrival records
+
+PARSING RESULTS:
+--------------------------------------------------------------------------------
+✓ Successfully processed: 120/120 files (100%)
+✓ Records extracted: 7,960
+✓ Critical multi-ship line (line 7) correctly split into 8 separate ships:
+    1. Primrose (s) @ Riga
+    2. Christiana @ Drammen
+    3. Christiana @ Christiania
+    4. Svea @ Christiania
+    5. Amelia @ Saunesund
+    6. Cecilia @ Fredrikstad
+    7. Haabets Anker @ Fredrikstad
+    8. Tonsberg @ Fredrikstad
+
+STATISTICS:
+--------------------------------------------------------------------------------
+By Vessel Type:
+  - Sailing vessels: 7,328 records (92.1%)
+  - Steamships: 632 records (7.9%)
+
+By Publication Year:
+  - 1874: 4,144 records (52.1%)
+  - 1875: 3,816 records (47.9%)
+
+By Publication Month (May-December coverage):
+  - May:       1,098 records
+  - June:        727 records
+  - July:        984 records
+  - August:    1,206 records
+  - September: 1,108 records
+  - October:   1,540 records
+  - November:    793 records
+  - December:    504 records
+
+Top Origin Ports:
+  1. Quebec:        658 shipments
+  2. Riga:          553 shipments
+  3. Cronstadt:     360 shipments
+  4. Memel:         294 shipments
+  5. Gothenburg:    261 shipments
+  6. Christiania:   216 shipments
+  7. Gefle:         215 shipments
+  8. Sundswall:     205 shipments
+  9. Danzig:        187 shipments
+ 10. Dram:          161 shipments
+
+CSV STRUCTURE:
+--------------------------------------------------------------------------------
+Columns (17 total):
+1. source_file          - Original OCR filename
+2. line_number          - Line number in source file
+3. ship_name            - Name of the vessel
+4. origin_port          - Port of departure
+5. destination_port     - Port of arrival (typically LONDON)
+6. cargo                - Cargo description
+7. merchant             - Merchant/consignee name
+8. arrival_day          - Day of arrival
+9. arrival_month        - Month of arrival (1-12)
+10. arrival_year        - Year of arrival
+11. publication_day     - Day of publication
+12. publication_month   - Month of publication (1-12)
+13. publication_year    - Year of publication
+14. is_steamship        - TRUE/FALSE
+15. format_type         - "early_at" (1874-1875 format)
+16. confidence          - "medium" (parser confidence level)
+17. raw_line            - Original line text (truncated to 200 chars)
+
+PARSING METHODOLOGY:
+--------------------------------------------------------------------------------
+Format Recognition: "early_at" format
+  Pattern: ShipName (s) @ Port,—cargo details, merchant name
+  
+Key Features:
+  ✓ Multi-ship line detection: Identifies multiple ships on single line
+  ✓ Split pattern: ". ShipName @ " delimiter
+  ✓ Steamship detection: "(s)" marker after ship name
+  ✓ Date extraction: From both filename and content
+  ✓ Cargo/merchant separation: Last comma-separated segment
+  
+Special Handling:
+  - OCR typo correction: "Augus" → "August" (4 files)
+  - Multi-ship lines: Split on ". [Capital] @ " pattern
+  - Publication dates: Extracted from standardized filename format
+
+TECHNICAL NOTES:
+--------------------------------------------------------------------------------
+Parser: /home/jic823/TTJ Forest of Numbers/parse_1874_1875.py
+Language: Python 3
+Dependencies: csv, re, pathlib, typing
+Processing time: ~30 seconds for 120 files
+Memory usage: Minimal (streaming processing)
+
+VALIDATION:
+--------------------------------------------------------------------------------
+✓ All 120 files processed successfully
+✓ No parsing errors
+✓ Critical test case (8 ships on line 7) validated
+✓ CSV format matches specification
+✓ All required columns present
+✓ Steamship markers correctly identified
+✓ Publication dates extracted from all filenames
+
+NEXT STEPS:
+--------------------------------------------------------------------------------
+This dataset can now be:
+  - Merged with existing ship arrival database
+  - Analyzed for historical trade patterns
+  - Cross-referenced with other years (1895, 1897, 1899)
+  - Used for port traffic analysis
+  - Integrated into larger historical shipping database
+
+================================================================================
+END OF REPORT
+================================================================================

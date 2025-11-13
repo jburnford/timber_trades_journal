@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "text": "[Left column, top to bottom]\nImports of Timber, &c.\n\nLONDON.—[?]",
+  "tokens": {
+    "prompt": 951,
+    "completion": 1883,
+    "total": 2834
+  },
+  "elapsed_seconds": 54.415136,
+  "model": "openai/gpt-5"
+}

@@ -1,0 +1,283 @@
+{
+  "total": 40,
+  "successful": 38,
+  "failed": 2,
+  "results": [
+    {
+      "filename": "1. p. 6 a╠Ç 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+      "success": true,
+      "tokens": 4177,
+      "chars": 12136,
+      "elapsed": 77.564331
+    },
+    {
+      "filename": "13. p. 193-195 - October 17 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+      "success": true,
+      "tokens": 4364,
+      "chars": 9333,
+      "elapsed": 67.892244
+    },
+    {
+      "filename": "17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001.png",
+      "success": true,
+      "tokens": 3830,
+      "chars": 8247,
+      "elapsed": 60.233825
+    },
+    {
+      "filename": "3. p. 35-37 - May 30 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+      "success": true,
+      "tokens": 4644,
+      "chars": 11191,
+      "elapsed": 93.428047
+    },
+    {
+      "filename": "5. p. 68-70 - June 27 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003.png",
+      "success": true,
+      "tokens": 3843,
+      "chars": 9637,
+      "elapsed": 61.296338
+    },
+    {
+      "filename": "14. p. 212-215 - October 30 1875 - Timber Trades Journal Vol. 3 1875_p001.png",
+      "success": true,
+      "tokens": 4313,
+      "chars": 7973,
+      "elapsed": 95.822622
+    },
+    {
+      "filename": "18. p. 269-270 - December 25 1875 - IMports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p001.png",
+      "success": true,
+      "tokens": 5088,
+      "chars": 11011,
+      "elapsed": 85.370875
+    },
+    {
+      "filename": "3. p. 44-46 - May 29 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p003.png",
+      "success": true,
+      "tokens": 3978,
+      "chars": 9356,
+      "elapsed": 78.245351
+    },
+    {
+      "filename": "4. p. 58-60 - June 12 1875 - Imports of Timber, &c. Timber Trades Journal Vol. 3 1875_p002.png",
+      "success": true,
+      "tokens": 7347,
+      "chars": 15049,
+      "elapsed": 130.292985
+    },
+    {
+      "filename": "6. p. 91-94 - July 10 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.png",
+      "success": true,
+      "tokens": 5720,
+      "chars": 10452,
+      "elapsed": 104.834865
+    },
+    {
+      "filename": "8. p. 121-124 - Augus 7 1875 - Imports of Timber, &c. - Timber Trades Journal Vol. 3 1875_p002.png",
+      "success": true,
+      "tokens": 4058,
+      "chars": 5772,
+      "elapsed": 55.855374
+    },
+    {
+      "filename": "2. p. 315-316 - January 20 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 4 1877_p001.png",
+      "success": true,
+      "tokens": 3306,
+      "chars": 7932,
+      "elapsed": 50.03776
+    },
+    {
+      "filename": "12. 187-191 - September 29 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.png",
+      "success": true,
+      "tokens": 6300,
+      "chars": 14691,
+      "elapsed": 99.4289
+    },
+    {
+      "filename": "15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.png",
+      "success": true,
+      "tokens": 5649,
+      "chars": 13208,
+      "elapsed": 123.167316
+    },
+    {
+      "filename": "18. 283-286 - December 22 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+      "success": true,
+      "tokens": 3852,
+      "chars": 10356,
+      "elapsed": 55.93763
+    },
+    {
+      "filename": "3. p. 43-45 - May 26 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p002.png",
+      "success": true,
+      "tokens": 7296,
+      "chars": 14964,
+      "elapsed": 133.693654
+    },
+    {
+      "filename": "6. 90-93 - July 7 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p003.png",
+      "success": true,
+      "tokens": 4106,
+      "chars": 8380,
+      "elapsed": 64.4227
+    },
+    {
+      "filename": "7. 106-110 - July 21 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+      "success": true,
+      "tokens": 4627,
+      "chars": 9144,
+      "elapsed": 89.155733
+    },
+    {
+      "filename": "9. 138-142 - August 18 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004.png",
+      "success": true,
+      "tokens": 4577,
+      "chars": 9001,
+      "elapsed": 90.578563
+    },
+    {
+      "filename": "18810108p.21_p002.png",
+      "success": true,
+      "tokens": 5717,
+      "chars": 13853,
+      "elapsed": 117.635676
+    },
+    {
+      "filename": "18810723p.64_p004.png",
+      "success": true,
+      "tokens": 3921,
+      "chars": 18149,
+      "elapsed": 72.529758
+    },
+    {
+      "filename": "18811015p.264_p001.png",
+      "success": true,
+      "tokens": 7018,
+      "chars": 14270,
+      "elapsed": 185.979728
+    },
+    {
+      "filename": "18811029p.295_p003.png",
+      "success": true,
+      "tokens": 4933,
+      "chars": 10810,
+      "elapsed": 96.371385
+    },
+    {
+      "filename": "18811112p.324_p003.png",
+      "success": true,
+      "tokens": 5040,
+      "chars": 11224,
+      "elapsed": 114.16632
+    },
+    {
+      "filename": "18811217p.403_p002.png",
+      "success": false,
+      "error": "Response ended prematurely"
+    },
+    {
+      "filename": "18811231p.433_p001.png",
+      "success": true,
+      "tokens": 6047,
+      "chars": 11874,
+      "elapsed": 109.575431
+    },
+    {
+      "filename": "18811231p.433_p002.png",
+      "success": true,
+      "tokens": 3324,
+      "chars": 6331,
+      "elapsed": 50.250025
+    },
+    {
+      "filename": "18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p002.png",
+      "success": true,
+      "tokens": 6376,
+      "chars": 13554,
+      "elapsed": 123.600963
+    },
+    {
+      "filename": "11. p. 116-119 - Imports - August 15 1885 - Timber Trades Journal 1885_p003.png",
+      "success": true,
+      "tokens": 4724,
+      "chars": 8736,
+      "elapsed": 92.066516
+    },
+    {
+      "filename": "15. p. 188-190 - Imports - September 12 1885 - Timber Trades Journal 1885_p001.png",
+      "success": true,
+      "tokens": 5081,
+      "chars": 9531,
+      "elapsed": 107.816395
+    },
+    {
+      "filename": "2. p. 428-430 - Imports - June 13 1885 - Timber Trades Journal 1885_p002.png",
+      "success": false,
+      "error": "Expecting value: line 211 column 1 (char 1155)"
+    },
+    {
+      "filename": "21. p. 296-300 - Imports - October 24 1885 - Timber Trades Journal 1885_p002.png",
+      "success": true,
+      "tokens": 4393,
+      "chars": 8090,
+      "elapsed": 74.723056
+    },
+    {
+      "filename": "23. p. 332-335 - Imports - November 7 1885 - Timber Trades Journal 1885_p001.png",
+      "success": true,
+      "tokens": 4212,
+      "chars": 7174,
+      "elapsed": 83.249419
+    },
+    {
+      "filename": "27. p. 426-427 - Imports - December 12 1885 - Timber Trades Journal 1885_p001.png",
+      "success": true,
+      "tokens": 4099,
+      "chars": 6809,
+      "elapsed": 74.409383
+    },
+    {
+      "filename": "4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p001.png",
+      "success": true,
+      "tokens": 5588,
+      "chars": 12377,
+      "elapsed": 99.460726
+    },
+    {
+      "filename": "4. p. 464-467 - Imports - June 27 1885 - Timber Trades Journal 1885_p002.png",
+      "success": true,
+      "tokens": 8597,
+      "chars": 18810,
+      "elapsed": 148.703113
+    },
+    {
+      "filename": "6. p. 32-35 - Imports - July 11 1885 - Timber Trades Journal 1885_p004.png",
+      "success": true,
+      "tokens": 7125,
+      "chars": 14909,
+      "elapsed": 177.766584
+    },
+    {
+      "filename": "1. p. 19-21- Imports - July 2 1887 - Timber Trades Journal 1887_p001.png",
+      "success": true,
+      "tokens": 4983,
+      "chars": 9909,
+      "elapsed": 105.924993
+    },
+    {
+      "filename": "26. p. 633 - Imports - December 24 1887 - Timber Trades Journal 1887.png",
+      "success": true,
+      "tokens": 4867,
+      "chars": 10835,
+      "elapsed": 85.412892
+    },
+    {
+      "filename": "9. p. 205-208 - Imports - August 27 1887 - Timber Trades Journal 1887_p002.png",
+      "success": true,
+      "tokens": 6630,
+      "chars": 12583,
+      "elapsed": 130.740024
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+================================================================================
+PORT NORMALIZATION REPORT
+================================================================================
+
+Total shipments processed: 150,592
+
+ORIGIN PORT NORMALIZATION
+--------------------------------------------------------------------------------
+Total origin ports normalized: 17,849 ships (11.9%)
+Normalization rules applied: 39
+
+Top origin port normalizations:
+  Sundswall                           → Sundswall                             3,514 ships
+  Cronstadt                           → Cronstadt                             3,443 ships
+  Gefle                               → Gefle                                 2,423 ships
+  Archangel                           → Archangel                             1,977 ships
+  St. John, N.B.                      → St. John                              1,222 ships
+  Wyborg                              → Wyborg                                  895 ships
+  Trondhjem                           → Trondheim (Drontheim)                   688 ships
+  Liepaja                             → Liepāja                                 685 ships
+  Krageroe                            → Kragero                                 546 ships
+  Fredrikstadt                        → Fredrikstad                             380 ships
+  Karlskrona                          → Karlskrona                              276 ships
+  Warberg                             → Warberg                                 264 ships
+  Richibucto                          → Richibucto                              254 ships
+  Bergqvara                           → Bergkvara                               234 ships
+  Ornskjoldsvik                       → Ornskjoldsvik                           209 ships
+  Halifax, N.S.                       → Halifax                                 187 ships
+  Chatham, N.B.                       → Chatham, N. B.                          130 ships
+  Fredrikshamn                        → Fredrikshamn                            107 ships
+  Parrsborough                        → Parrsborough                             77 ships
+  Frederikstad                        → Fredrikstad                              48 ships
+
+================================================================================
+DESTINATION PORT NORMALIZATION
+--------------------------------------------------------------------------------
+Total destination ports normalized: 0 ships (0.0%)
+Normalization rules applied: 0
+
+Top destination port normalizations:

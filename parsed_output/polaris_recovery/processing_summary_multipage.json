@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-11T13:28:55.362666",
+  "statistics": {
+    "total_files": 160,
+    "total_groups": 160,
+    "processed": 154,
+    "failed": 6,
+    "timeout_files": [
+      "18740502_1. p. 6 a\u2560\u00c7 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt",
+      "18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_polaris_polaris.txt",
+      "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+      "18810723_18810723p.64_p001_gemini.txt",
+      "18811217_18811217p.403_p003_gemini.txt",
+      "18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+    ],
+    "total_records": 9751,
+    "records_with_port": 9740,
+    "records_with_date": 9168
+  },
+  "timeout_files": [
+    "18740502_1. p. 6 a\u2560\u00c7 8 - May 2 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p003_polaris_polaris.txt",
+    "18741212_17. p. 253-255 - December 12 1874 - Imports of Timber, &c. - Timber Trades Journal Vol. 2 1875_p001_polaris_polaris.txt",
+    "18771110_15. 236-239 - November 10 1877 - Imports of Timber, &c. - Timber Trades Journal Vol. 5 1877_p004_gemini.txt",
+    "18810723_18810723p.64_p001_gemini.txt",
+    "18811217_18811217p.403_p003_gemini.txt",
+    "18850502_18. p. 318-320 - Imports - May 2 1885 - Timber Trades Journal 1885_p003_gemini.txt"
+  ],
+  "port_coverage": "99.9%",
+  "date_coverage": "94.0%"
+}

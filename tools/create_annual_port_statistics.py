@@ -50,14 +50,19 @@ export_df = export_df[
     (export_df['origin_longitude'].notna())
 ]
 
-# Group by year and origin port
-export_stats = export_df.groupby(
-    ['year', 'origin_port', 'origin_latitude', 'origin_longitude']
-).agg({
+# Normalize port names to UPPERCASE to consolidate case variants
+export_df['port_normalized'] = export_df['origin_port'].str.upper()
+
+# Group by year and normalized port
+export_stats = export_df.groupby(['year', 'port_normalized']).agg({
+    'origin_port': lambda x: x.mode()[0] if len(x.mode()) > 0 else x.iloc[0],
+    'origin_latitude': 'first',
+    'origin_longitude': 'first',
     'ship_name': 'count'
 }).reset_index()
 
-export_stats.columns = ['year', 'port_name', 'latitude', 'longitude', 'ship_count']
+export_stats.columns = ['year', 'port_normalized', 'port_name', 'latitude', 'longitude', 'ship_count']
+export_stats = export_stats.drop(columns=['port_normalized'])
 
 # Convert year to int
 export_stats['year'] = export_stats['year'].astype(int)
@@ -98,14 +103,19 @@ import_df = import_df[
     (import_df['destination_longitude'].notna())
 ]
 
-# Group by year and destination port
-import_stats = import_df.groupby(
-    ['year', 'destination_port', 'destination_latitude', 'destination_longitude']
-).agg({
+# Normalize port names to UPPERCASE to consolidate case variants
+import_df['port_normalized'] = import_df['destination_port'].str.upper()
+
+# Group by year and normalized port
+import_stats = import_df.groupby(['year', 'port_normalized']).agg({
+    'destination_port': lambda x: x.mode()[0] if len(x.mode()) > 0 else x.iloc[0],
+    'destination_latitude': 'first',
+    'destination_longitude': 'first',
     'ship_name': 'count'
 }).reset_index()
 
-import_stats.columns = ['year', 'port_name', 'latitude', 'longitude', 'ship_count']
+import_stats.columns = ['year', 'port_normalized', 'port_name', 'latitude', 'longitude', 'ship_count']
+import_stats = import_stats.drop(columns=['port_normalized'])
 
 # Convert year to int
 import_stats['year'] = import_stats['year'].astype(int)
@@ -154,21 +164,29 @@ pairs_df = pairs_df[
     (pairs_df['destination_longitude'].notna())
 ]
 
-# Group by year and port pair
+# Normalize port names to UPPERCASE to consolidate case variants
+pairs_df['origin_normalized'] = pairs_df['origin_port'].str.upper()
+pairs_df['destination_normalized'] = pairs_df['destination_port'].str.upper()
+
+# Group by year and normalized port pair
 pairs_stats = pairs_df.groupby([
     'year',
-    'origin_port',
-    'origin_latitude',
-    'origin_longitude',
-    'destination_port',
-    'destination_latitude',
-    'destination_longitude'
+    'origin_normalized',
+    'destination_normalized'
 ]).agg({
+    'origin_port': lambda x: x.mode()[0] if len(x.mode()) > 0 else x.iloc[0],
+    'origin_latitude': 'first',
+    'origin_longitude': 'first',
+    'destination_port': lambda x: x.mode()[0] if len(x.mode()) > 0 else x.iloc[0],
+    'destination_latitude': 'first',
+    'destination_longitude': 'first',
     'ship_name': 'count'
 }).reset_index()
 
 pairs_stats.columns = [
     'year',
+    'origin_normalized',
+    'destination_normalized',
     'origin_port',
     'origin_latitude',
     'origin_longitude',
@@ -177,6 +195,19 @@ pairs_stats.columns = [
     'destination_longitude',
     'ship_count'
 ]
+
+# Drop normalized columns and reorder
+pairs_stats = pairs_stats.drop(columns=['origin_normalized', 'destination_normalized'])
+pairs_stats = pairs_stats[[
+    'year',
+    'origin_port',
+    'origin_latitude',
+    'origin_longitude',
+    'destination_port',
+    'destination_latitude',
+    'destination_longitude',
+    'ship_count'
+]]
 
 # Convert year to int
 pairs_stats['year'] = pairs_stats['year'].astype(int)

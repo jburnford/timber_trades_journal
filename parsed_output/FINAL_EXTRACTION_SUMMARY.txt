@@ -1,0 +1,82 @@
+================================================================================
+TTJ COMPLETE EXTRACTION RESULTS
+Fixed Parser + Simple LLM Parser
+================================================================================
+
+FINAL STATISTICS:
+----------------
+Total OCR Files:         2,041 files
+Files Parsed:            1,867 files (91.5%)
+Files Still Missing:     174 files (8.5%)
+
+Total Ship Records:      145,057
+Final Dataset:           ttj_shipments_complete.csv (36 MB)
+
+BREAKDOWN BY PARSER:
+-------------------
+1. Main Context Parser (ttj_parser_v3.py with timeout):
+   - Files processed:    1,750 files
+   - Records extracted:  143,297 records
+   - Avg records/file:   82 records/file
+   - Issues:             Used timeout protection (5s max)
+
+2. Simple LLM Parser (simple_llm_parser.py):
+   - Files attempted:    291 missing files
+   - Files with records: 117 files (40.2%)
+   - Records extracted:  1,760 records
+   - Avg records/file:   15 records/file
+   - Success rate:       40.2% of timeout files
+
+REMAINING UNPARSED FILES:
+------------------------
+174 files (8.5%) still have no extracted records
+
+These files likely contain:
+- Extremely complex/irregular formatting
+- Heavy OCR errors
+- Non-standard table layouts
+- Multi-column formats that confuse line-based parsing
+
+Recommendation: Manual review or more sophisticated OCR post-processing
+
+COVERAGE ANALYSIS:
+-----------------
+Files successfully parsed:  91.5%
+Records from 91.5% of data: 145,057 ship records
+
+Estimated missing records (based on avg):
+  - If remaining 174 files have avg 82 records: ~14,268 potential records
+  - If remaining 174 files have avg 15 records: ~2,610 potential records
+  - Realistic estimate: 3,000-5,000 records still in unparsed files
+
+OUTPUT FILES:
+------------
+✓ ttj_shipments_complete.csv (145,057 records) - RECOMMENDED
+✓ ttj_shipments_multipage.csv (143,297 records) - Main parser only
+✓ llm_extracted_records.csv (1,760 records) - Simple parser only
+✓ missing_files_to_parse.txt - List of 291 files that timed out
+✓ simple_parser_run.log - Log of LLM extraction attempt
+
+PERFORMANCE:
+-----------
+Main Parser:
+  - Processing time: 18.4 minutes
+  - Throughput: ~50 groups/min
+  - Memory: Stable (checkpointed every 50 groups)
+  
+Simple Parser:
+  - Processing time: ~5 minutes
+  - Throughput: ~58 files/min
+  - Success rate: 40.2% on difficult files
+
+NEXT STEPS (Optional):
+---------------------
+1. Use ttj_shipments_complete.csv for analysis (145,057 records)
+2. For 100% coverage, consider:
+   - Manual review of 174 remaining files
+   - Advanced OCR correction (e.g., using Claude to clean OCR errors)
+   - Table detection algorithms for complex layouts
+   - Estimate: 3,000-5,000 additional records possible
+
+SUCCESS: 91.5% file coverage with 145,057 ship records extracted!
+================================================================================

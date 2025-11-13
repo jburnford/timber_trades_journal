@@ -1,0 +1,134 @@
+================================================================================
+LONDON'S TIMBER SUPPLY NETWORK - SUMMARY STATISTICS
+================================================================================
+
+1870-1874
+----------------------------------------
+Total ships: 3,042
+Origin ports: 124
+
+Top 10 Origins:
+   1. Quebec                           370 ships ( 12.2%)
+   2. Riga                             326 ships ( 10.7%)
+   3. Kronstadt                        210 ships (  6.9%)
+   4. Drammen                          117 ships (  3.8%)
+   5. Christiania                      117 ships (  3.8%)
+   6. Danzig                           116 ships (  3.8%)
+   7. GÃ¤vle                           109 ships (  3.6%)
+   8. Sundswall                        109 ships (  3.6%)
+   9. Gothenburg                        96 ships (  3.2%)
+  10. St. John                          76 ships (  2.5%)
+
+1875-1879
+----------------------------------------
+Total ships: 4,026
+Origin ports: 138
+
+Top 10 Origins:
+   1. Quebec                           383 ships (  9.5%)
+   2. Riga                             310 ships (  7.7%)
+   3. Kronstadt                        263 ships (  6.5%)
+   4. Gothenburg                       227 ships (  5.6%)
+   5. GÃ¤vle                           189 ships (  4.7%)
+   6. Danzig                           156 ships (  3.9%)
+   7. Drammen                          148 ships (  3.7%)
+   8. Sundswall                        138 ships (  3.4%)
+   9. Soderhamn                        122 ships (  3.0%)
+  10. Christiania                      112 ships (  2.8%)
+
+1880-1884
+----------------------------------------
+Total ships: 3,003
+Origin ports: 146
+
+Top 10 Origins:
+   1. New York                         265 ships (  8.8%)
+   2. Kronstadt                        206 ships (  6.9%)
+   3. Riga                             199 ships (  6.6%)
+   4. Gothenburg                       190 ships (  6.3%)
+   5. Danzig                           142 ships (  4.7%)
+   6. Quebec                           119 ships (  4.0%)
+   7. Fredrikstad                      113 ships (  3.8%)
+   8. Christiania                       97 ships (  3.2%)
+   9. Sundswall                         92 ships (  3.1%)
+  10. Drammen                           92 ships (  3.1%)
+
+1885-1889
+----------------------------------------
+Total ships: 5,025
+Origin ports: 167
+
+Top 10 Origins:
+   1. New York                         356 ships (  7.1%)
+   2. Riga                             340 ships (  6.8%)
+   3. Gothenburg                       326 ships (  6.5%)
+   4. Sundswall                        203 ships (  4.0%)
+   5. St. Petersburg                   200 ships (  4.0%)
+   6. Kronstadt                        200 ships (  4.0%)
+   7. Danzig                           198 ships (  3.9%)
+   8. Christiania                      175 ships (  3.5%)
+   9. Fredrikstad                      153 ships (  3.0%)
+  10. Quebec                           139 ships (  2.8%)
+
+1890-1894
+----------------------------------------
+Total ships: 2,488
+Origin ports: 147
+
+Top 10 Origins:
+   1. New York                         166 ships (  6.7%)
+   2. Riga                             165 ships (  6.6%)
+   3. Gothenburg                       133 ships (  5.3%)
+   4. Baltimore                        100 ships (  4.0%)
+   5. Fredrikstad                       90 ships (  3.6%)
+   6. Christiania                       83 ships (  3.3%)
+   7. Hamburg                           77 ships (  3.1%)
+   8. St. Petersburg                    77 ships (  3.1%)
+   9. Sundswall                         73 ships (  2.9%)
+  10. Danzig                            71 ships (  2.9%)
+
+1895-1899
+----------------------------------------
+Total ships: 3,879
+Origin ports: 168
+
+Top 10 Origins:
+   1. Gothenburg                       259 ships (  6.7%)
+   2. Riga                             195 ships (  5.0%)
+   3. New York                         192 ships (  4.9%)
+   4. Fredrikstad                      188 ships (  4.8%)
+   5. Montreal                         177 ships (  4.6%)
+   6. Boston                           137 ships (  3.5%)
+   7. Danzig                           124 ships (  3.2%)
+   8. St. Petersburg                   106 ships (  2.7%)
+   9. Christiania                      105 ships (  2.7%)
+  10. Hamburg                          101 ships (  2.6%)
+
+================================================================================
+OVERALL STATISTICS (1874-1899)
+================================================================================
+
+Total ships to London: 21,463
+Unique origin ports: 213
+
+Top 20 Origins (All Years):
+   1. Riga                           1,535 ships (  7.2%)
+   2. Gothenburg                     1,231 ships (  5.7%)
+   3. New York                       1,089 ships (  5.1%)
+   4. Quebec                         1,086 ships (  5.1%)
+   5. Kronstadt                        973 ships (  4.5%)
+   6. Danzig                           807 ships (  3.8%)
+   7. Sundswall                        692 ships (  3.2%)
+   8. Christiania                      689 ships (  3.2%)
+   9. Fredrikstad                      673 ships (  3.1%)
+  10. GÃ¤vle                           601 ships (  2.8%)
+  11. Drammen                          550 ships (  2.6%)
+  12. St. Petersburg                   471 ships (  2.2%)
+  13. Soderhamn                        441 ships (  2.1%)
+  14. Montreal                         419 ships (  2.0%)
+  15. Arkhangelsk                      364 ships (  1.7%)
+  16. Kotka                            358 ships (  1.7%)
+  17. St. John                         334 ships (  1.6%)
+  18. Boston                           332 ships (  1.5%)
+  19. Baltimore                        322 ships (  1.5%)
+  20. Stettin                          283 ships (  1.3%)

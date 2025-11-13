@@ -1,0 +1,69 @@
+TTJ FOREST OF NUMBERS - FINAL DELIVERABLES MANIFEST
+====================================================
+Generated: November 12, 2025
+Total Size: ~117 MB
+
+CORE DATABASES (2 files, 105 MB)
+---------------------------------
+✓ ttj_shipments.csv (34 MB)
+  150,592 shipments with coordinates (1874-1899)
+  84.7% origin coverage, 93.1% destination coverage
+
+✓ ttj_cargo_details_cleaned.csv (71 MB)
+  306,202 cargo records with ship names, ports, coordinates
+  Props consolidated, parsing errors cleaned
+
+ANNUAL STATISTICS (3 files, 2.5 MB)
+------------------------------------
+✓ export_ports_per_year.csv (178 KB)
+  3,871 port-year combinations, export origins
+
+✓ import_ports_per_year.csv (61 KB)
+  1,241 port-year combinations, British destinations
+
+✓ export_import_pairs_per_year.csv (2.3 MB)
+  25,694 route-year combinations with coordinates
+
+LONDON CASE STUDY (4 files, 9.6 MB)
+------------------------------------
+✓ london_commodities.csv (9.3 MB)
+  39,831 cargo records for London imports
+
+✓ london_commodity_trends.csv (879 bytes)
+  Annual trends for top 10 commodities
+
+✓ london_commodity_origins.csv (262 KB)
+  Commodity-origin pairs for London
+
+✓ london_commodity_growth.csv (438 bytes)
+  Growth analysis (1874-1880 vs 1893-1899)
+
+REFERENCE DATA (2 files, 388 KB)
+---------------------------------
+✓ Ports_Master.geojson (383 KB)
+  558 ports with coordinates and metadata
+
+✓ manual_port_matches.json (4.5 KB)
+  109 port normalization rules
+
+DOCUMENTATION (2 files, 13 KB)
+-------------------------------
+✓ README.md (7.8 KB)
+  Comprehensive guide to all files
+
+✓ DATABASE_VERSIONS.md (5.2 KB)
+  Version history and file lineage
+
+====================================================
+TOTAL: 13 data files + 2 documentation files
+READY FOR: GIS mapping, statistical analysis, publication
+====================================================
+
+QUICK START:
+1. Read README.md for detailed descriptions
+2. Use ttj_shipments.csv for mapping
+3. Use ttj_cargo_details_cleaned.csv for commodity analysis
+4. See DATABASE_VERSIONS.md for file provenance
+
+ORIGINAL FILES: All originals preserved in working directories
+CODE COMPATIBILITY: All analysis scripts still work with originals
